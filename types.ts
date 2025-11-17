@@ -86,6 +86,13 @@ export type ImageBlock = {
   caption?: string;
 };
 
+export type CitationBlock = {
+  type: "citation";
+  text: string;
+  author?: string;
+  url: string;
+};
+
 export type ContentBlock =
   | ParagraphBlock
   | HeadingBlock
@@ -99,4 +106,5 @@ export type ContentBlock =
   | TableBlock
   | StatBlock
   | ListBlock
-  | ImageBlock;
+  | ImageBlock
+  | CitationBlock;

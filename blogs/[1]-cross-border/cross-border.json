@@ -431,12 +431,6 @@
           "bold": false
         }
       ]
-    },
-    {
-      "type": "button",
-      "text": "Learn More About Our Road Freight Services",
-      "url": "/contact",
-      "variant": "primary"
     }
   ],
   "tags": [

@@ -91,6 +91,7 @@ const ContentBlockSchema = new Schema(
         "stat",
         "list",
         "image",
+        "citation",
       ],
     },
     children: { type: [TextSpanSchema] },
