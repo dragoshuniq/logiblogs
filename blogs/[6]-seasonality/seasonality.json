@@ -1,0 +1,244 @@
+{
+  "id": "seasonality-in-european-logistics-planning-for-peaks-and-disruptions",
+  "shortId": "seasonality-logistics",
+  "language": "en",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Seasonality in European Logistics: Planning for Peaks and Disruptions",
+  "description": "From Chinese New Year to the end-of-year holiday rush, Europe's logistics calendar is punctuated by peaks that strain capacity, drive up rates and test supply chain resilience. Shippers who understand these seasonal...",
+  "publishedAt": "2024-12-22T00:00:00Z",
+  "category": "Planning",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistics Technology Experts",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "seasonality-hero.png",
+  "imageAlt": "Isometric illustration of a calendar highlighting peak logistics seasons such as Chinese New Year, summer holidays, Golden Week, Black Friday and Christmas, with icons for ships, trucks and warehouses",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "From Chinese New Year to the end-of-year holiday rush, Europe's logistics calendar is punctuated by peaks that strain capacity, drive up rates and test supply chain resilience. Shippers who understand these seasonal patterns can prepare by securing capacity early, adjusting inventory levels and building flexibility into their supply chains.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "seasonality-visual.png",
+      "alt": "Realistic photo of a congested European warehouse during peak season, with pallets stacked high and workers preparing shipments",
+      "caption": "Realistic photo of a congested European warehouse during peak season, with pallets stacked high and workers preparing shipments"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Key Peak Seasons"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Chinese New Year (January-February)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Factories in China shut down for up to two weeks during the Lunar New Year, leading to a surge in shipments in the weeks before and after the holiday. European importers should book capacity early and expect delays as carriers manage imbalanced equipment flows (A.P. Moller - Maersk, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Summer Holiday & Back-to-School (July-August)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Demand rises for consumer goods such as fashion, electronics and school supplies. At the same time, many European drivers and dock workers take vacations, reducing capacity. In 2024, NTG reported that road freight traffic operates with reduced capacity from week 29, and certain routes (Spain, France, Italy and Switzerland) require special arrangements during weeks 32-34 (NTG Nordic Transport Group, 2024). Capacity normalises around week 35, but backlogs may persist.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Golden Week (October 1-7)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "China's Golden Week national holiday pauses manufacturing and port operations, causing another spike in shipments before and after the holiday (A.P. Moller - Maersk, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Black Friday & Cyber Monday (late November)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "E-commerce promotions trigger a surge in parcel and pallet volumes. Last-mile networks and sortation hubs face bottlenecks, and carriers prioritise high-yield shipments.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "End-of-Year Holidays (December)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Retailers rush to replenish shelves for Christmas and New Year. Space shortages, port congestion and last-mile capacity constraints intensify.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Impacts of Peak Seasons"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Capacity shortages and rate spikes. Increased demand strains trucking, warehousing and port capacity, pushing spot rates up.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Longer transit times and delays. Drivers' hours rules, limited staff availability and congested networks slow down deliveries.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Inventory challenges. Stockouts or over-inventorying can occur if demand forecasts are inaccurate.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Operational stress. Warehouse labour shortages and last-mile bottlenecks increase errors and claims.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Planning Strategies"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Book capacity early. Secure transport and warehouse slots several weeks before expected peaks.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Diversify modes and routes. Use rail, short-sea shipping or air freight to bypass congested corridors.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Forecast demand accurately. Collaborate with suppliers and customers to refine forecasts and adjust inventory levels.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Stagger shipments. Spread orders across multiple weeks to avoid overloading carriers.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Negotiate flexible contracts. Work with forwarders to secure guaranteed space with variable rates; consider peak season surcharges.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Use cross-docking and consolidation. Group small shipments to improve truck utilisation and reduce delays.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Leverage technology. Real-time visibility platforms help reroute shipments and manage exceptions.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Communicate transparently. Inform customers about potential delays and set realistic delivery expectations.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusion: Prepare for Peaks to Stay Competitive"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Seasonality is a fact of life in European logistics. Companies that plan ahead, build resilience and partner with agile logistics providers can turn peak periods into opportunities. By understanding when and why peaks occur and implementing strategies such as early booking, multimodal solutions and accurate forecasting, shippers can navigate disruptions and delight customers.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sources"
+    },
+    {
+      "type": "citation",
+      "text": "Peak logistics periods: Chinese New Year, Golden Week and holiday seasons (A.P. Moller - Maersk, 2025) - Identifies five peak periods for global logistics - Chinese New Year, summer/back-to-school, Golden Week, Black Friday/Cyber Monday and end-of-year holidays - and explains how these peaks affect capacity, transit times and costs.",
+      "author": "Maersk",
+      "url": "https://www.maersk.com/news/articles/2025/peak-logistics-periods"
+    },
+    {
+      "type": "citation",
+      "text": "Impact of the summer season on road freight (NTG Nordic Transport Group, 2024) - Reports that road freight traffic operates with reduced capacity from week 29 in continental Europe and that certain routes (Spain, France, Italy and Switzerland) require special arrangements during weeks 32-34, with capacity normalising around week 35.",
+      "author": "NTG Nordic Transport Group",
+      "url": "https://ntg.com/news/summer-season-road-freight-impact/"
+    }
+  ],
+  "tags": [
+    "seasonality in logistics",
+    "peak season european road freight",
+    "christmas peak logistics europe",
+    "holiday season transport planning",
+    "logistics capacity planning",
+    "seasonal demand in freight",
+    "managing logistics disruptions europe"
+  ]
+}

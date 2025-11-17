@@ -1,0 +1,228 @@
+{
+  "id": "how-to-reduce-damage-and-claims-in-road-freight",
+  "shortId": "reduce-damage-claims",
+  "language": "en",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "How to Reduce Damage and Claims in Road Freight",
+  "description": "Cargo damage and resulting claims not only erode profits but also tarnish reputations. Preventing damage is more effective than dealing with claims after the fact. This article outlines the common causes of freight...",
+  "publishedAt": "2025-01-12T00:00:00Z",
+  "category": "Operations",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistics Technology Experts",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "damage-claims-hero.png",
+  "imageAlt": "Illustration showing a checklist for pre-trip inspections, proper loading and sealing of a truck to prevent damage and theft, flat design",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Cargo damage and resulting claims not only erode profits but also tarnish reputations. Preventing damage is more effective than dealing with claims after the fact. This article outlines the common causes of freight damage, clarifies responsibilities under international conventions and presents best practices to minimise risk in road transport.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "damage-claims-visual.png",
+      "alt": "Realistic photo of a driver inspecting straps and cargo securement inside a trailer, demonstrating damage prevention procedures",
+      "caption": "Realistic photo of a driver inspecting straps and cargo securement inside a trailer, demonstrating damage prevention procedures"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Causes of Cargo Damage and Liability"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Cargo can be damaged by rough handling, uneven stacking, moisture, contamination, temperature deviations, infestations, fire or theft. Liability depends on the cause and the terms of the shipment:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Carrier responsibility: The carrier is generally liable for damage resulting from improper handling, inadequate securement or failing to maintain temperature during transit (Reload Logistics, 2025).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Shipper responsibility: The shipper must package, label and document the cargo properly. If poor packaging or undeclared hazardous materials cause damage, the shipper may be held liable (Reload Logistics, 2025).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Consignee responsibility: The consignee must inspect cargo upon delivery and document any visible damage immediately to support valid claims (Reload Logistics, 2025).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Incoterms and insurance: Incoterms determine when risk transfers from seller to buyer. Insurance covers many risks but does not replace proper handling (Reload Logistics, 2025).",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Best Practices to Prevent Damage"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Pre-trip inspections. Check trailers for leaks, broken boards and protruding objects. Inspect cargo securing devices and tarps (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Supervise loading and unloading. Verify that cargo is loaded correctly, evenly distributed and secured. Document any discrepancies before leaving the dock (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Document discrepancies. Note unresolved issues on shipping papers and notify your company immediately; take photos of any damage (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Use shipper load and count (SLC) when appropriate. If you cannot oversee loading, sign shipping papers \"shipper load and count\" to limit liability (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Seal trailers and lock equipment. Use trailer seals and quality locks to deter theft (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Secure the load. Block, brace and use proper securement devices to prevent shifting. Replace worn straps (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Inspect en route. Drivers should check the load and securement devices periodically and adjust as needed (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Drive carefully. Avoid sudden braking and sharp turns that could cause cargo to shift or topple (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Control temperature. Pre-cool reefer units and cargo, calibrate temperature settings and maintain refrigeration equipment (IAT Insurance Group, 2023).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Prevent moisture and contamination. Inspect containers for leaks, use moisture-absorbing liners and request clean-container certificates (Reload Logistics, 2025).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Address security risks. Park in secure locations, stay alert to cargo theft schemes and use GPS tracking.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Handling Claims Under the CMR Convention"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Convention on the Contract for the International Carriage of Goods by Road (CMR) governs liability for cross-border road shipments. It generally limits the carrier's liability per kilogram of gross weight unless the damage was caused intentionally or recklessly. To claim compensation, the consignee must note damage on the CMR consignment note upon delivery, notify the carrier in writing within seven days for visible damage and within 21 days for concealed damage.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusion: Prevention Beats Claims"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Most road freight damage can be prevented with good preparation, careful handling and robust documentation. By conducting pre-trip inspections, supervising loading, securing loads and training drivers on safe driving and temperature control, shippers and carriers can reduce the frequency and severity of claims. Understanding liability rules under the CMR Convention and documenting issues promptly makes the claims process smoother when problems do occur.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sources"
+    },
+    {
+      "type": "citation",
+      "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Explains responsibilities for cargo damage, noting that carriers are responsible for safe handling and transportation once they accept the cargo, shippers must ensure proper packaging and labelling, consignees must inspect and document damage upon delivery, and insurance does not replace proper handling.",
+      "author": "Hannah Squire",
+      "url": "https://www.reloadlogistics.com/news/how-to-prevent-cargo-damage-causes-types-and-best-practices"
+    },
+    {
+      "type": "citation",
+      "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Provides tips for preventing cargo claims, including pre-trip inspections, supervising loading and unloading, documenting discrepancies, using shipper load and count, sealing trailers, securing loads, inspecting during trips, and careful driving.",
+      "author": "Northland Insurance",
+      "url": "https://www.northlandins.com/resources/vehicle-cargo-management/preventing-cargo-claims"
+    },
+    {
+      "type": "citation",
+      "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Highlights the importance of proper securement devices and careful driving to prevent cargo shifting and accidents.",
+      "author": "Northland Insurance",
+      "url": "https://www.northlandins.com/resources/vehicle-cargo-management/preventing-cargo-claims"
+    },
+    {
+      "type": "citation",
+      "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Emphasises driver training, pre-cooling and regular maintenance to avoid temperature-related claims for refrigerated cargo.",
+      "author": "IAT Insurance Group",
+      "url": "https://www.iatinsurancegroup.com/media/0sodtctn/230830_cargo_ebook_final.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Provides advice on preventing moisture and contamination damage, such as inspecting containers, sealing openings and using moisture-absorbing liners.",
+      "author": "Hannah Squire",
+      "url": "https://www.reloadlogistics.com/news/how-to-prevent-cargo-damage-causes-types-and-best-practices"
+    }
+  ],
+  "tags": [
+    "reduce freight damage",
+    "road freight damage prevention",
+    "CMR insurance claims",
+    "logistics claims handling",
+    "preventing transport damage",
+    "loading and unloading procedures",
+    "freight damage best practices"
+  ]
+}

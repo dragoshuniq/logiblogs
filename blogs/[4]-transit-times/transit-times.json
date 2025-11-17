@@ -1,0 +1,212 @@
+{
+  "id": "understanding-transit-times-in-european-road-freight",
+  "shortId": "transit-times-road-freight",
+  "language": "en",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Understanding Transit Times in European Road Freight",
+  "description": "Delivering on time is fundamental to customer satisfaction, but predicting transit times across Europe's diverse road network is complicated. Distances, driving regulations, congestion and border formalities all...",
+  "publishedAt": "2024-12-08T00:00:00Z",
+  "category": "Transportation",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistics Technology Experts",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "transit-times-hero.png",
+  "imageAlt": "Illustration of a European map with colour-coded routes showing transit times for different distance ranges and icons for trucks, clocks and rest periods, flat design",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Delivering on time is fundamental to customer satisfaction, but predicting transit times across Europe's diverse road network is complicated. Distances, driving regulations, congestion and border formalities all influence how long a shipment takes to reach its destination. This article breaks down the factors that affect transit times, provides typical delivery windows and offers tips for managing expectations in European road freight.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "transit-times-visual.png",
+      "alt": "Realistic photo of a truck driving through a mountain pass in winter weather, highlighting the challenges of transit time variability",
+      "caption": "Realistic photo of a truck driving through a mountain pass in winter weather, highlighting the challenges of transit time variability"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Factors Affecting Transit Time"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Distance and geography. Obvious yet crucial: a shipment from Warsaw to Berlin (600 km) will arrive faster than one from Warsaw to Lisbon (3,100 km). Mountainous regions, ferry crossings and toll roads can slow transit.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Driver hours and rest regulations. EU rules limit drivers to 9 hours per day (10 hours twice a week) and 56 hours per week, with a 45-minute break required after 4.5 hours and daily/weekly rest periods (European Union, 2024). These limits mean a truck cannot simply drive non-stop across the continent.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Type of service (FTL vs groupage). Dedicated FTL services move directly from origin to destination. Vans up to 3.5 tonnes can cover up to 700 km in a day, delivering next day, 700-1,500 km within two days, and more than 1,500 km in 3-4 days (Visline Sp. z o.o., 2024). FTL trucks (up to 24 tonnes) can cover 550 km next day, 550-1,300 km in two days and 1,500 km in 3-4 days (Visline Sp. z o.o., 2024). Partial loads and groupage services often take 3-6 days regardless of distance (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Border controls and customs. Even within the EU, crossing into non-Schengen countries (e.g., between Poland and Ukraine or Spain and Morocco) may involve customs checks, adding hours or days.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Traffic and infrastructure. Congestion around urban centres, roadworks, seasonal closures (e.g., Alpine passes in winter) and ferry schedules influence timing.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Weather and disruptions. Snowstorms, floods, strikes or geopolitical events can cause significant delays. Building contingency plans for unexpected events is key.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Typical Transit Time Examples"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Intra-EU dedicated van: Up to 700 km - next day; 700-1,500 km - two days; over 1,500 km - 3-4 days (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Intra-EU FTL truck: Up to 550 km - next day; 550-1,300 km - two days; over 1,500 km - 3-4 days (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Groupage/partial loads: Typically 3-6 days regardless of distance (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "These are guidelines; actual times vary based on the factors above.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Managing Expectations and Improving Reliability"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Communicate realistic lead times. Use published transit tables as a baseline but factor in driver rest, border delays and peak seasons.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Plan around peaks and holidays. Summer holidays, Golden Week and year-end sales spikes can clog networks. Work with carriers to book capacity early.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Monitor shipments in real time. Tracking tools and GPS provide visibility into progress and allow proactive intervention if delays occur.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Consolidate loads wisely. For smaller shipments, groupage may be cost-effective but adds days. Combine urgent loads into FTL where possible.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Use multimodal solutions. Rail or ferry combinations may offer faster or more reliable transit on certain routes (e.g., across the Alps or English Channel).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Partner with experienced forwarders. Logifie's knowledge of European road networks and regulatory requirements helps plan realistic transit schedules and handle exceptions.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusion: Plan for Predictability"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transit times in European road freight depend on far more than kilometres. Driving hours, consolidation models, infrastructure and external factors all shape delivery schedules. By understanding the variables and working closely with logistics partners, shippers can set realistic expectations, avoid penalties and keep supply chains running smoothly.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sources"
+    },
+    {
+      "type": "citation",
+      "text": "Road transport workers: driving and rest time rules (European Union, 2024) - Explains EU driving hours and rest period regulations, including maximum driving times per day and week and mandatory breaks.",
+      "author": "European Commission",
+      "url": "https://europa.eu/youreurope/business/dealing-with-customers/transport/road-transport-workers/index_en.htm"
+    },
+    {
+      "type": "citation",
+      "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Provides transit time guidelines for dedicated vans and FTL trucks: up to 700 km next day, 700-1,500 km within two days, over 1,500 km within 3-4 days for vans; up to 550 km next day and 550-1,300 km within two days for FTL trucks.",
+      "author": "Visline Sp. z o.o.",
+      "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"
+    },
+    {
+      "type": "citation",
+      "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Notes that partial or groupage loads typically take 3-6 days regardless of distance due to consolidation and deconsolidation points.",
+      "author": "Visline Sp. z o.o.",
+      "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"
+    }
+  ],
+  "tags": [
+    "transit times european road freight",
+    "road freight transit time europe",
+    "delivery times road transport",
+    "factors affecting transit time in logistics",
+    "european road transport lead times",
+    "realistic delivery promises logistics"
+  ]
+}

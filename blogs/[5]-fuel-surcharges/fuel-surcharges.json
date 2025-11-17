@@ -1,0 +1,194 @@
+{
+  "id": "how-fuel-surcharges-and-tolls-impact-your-freight-costs-in-europe",
+  "shortId": "fuel-surcharges-tolls",
+  "language": "en",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "How Fuel Surcharges and Tolls Impact Your Freight Costs in Europe",
+  "description": "Rising diesel prices, carbon taxes and expanding toll systems mean transport costs can fluctuate dramatically from one month to the next. Fuel surcharges and road tolls are two major cost drivers in European road...",
+  "publishedAt": "2024-12-15T00:00:00Z",
+  "category": "Finance",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistics Technology Experts",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "fuel-surcharges-hero.png",
+  "imageAlt": "Minimalist infographic showing how fuel surcharges are calculated, with a base fuel price, index and surcharge percentage, flat design",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Rising diesel prices, carbon taxes and expanding toll systems mean transport costs can fluctuate dramatically from one month to the next. Fuel surcharges and road tolls are two major cost drivers in European road freight. Understanding how they are calculated and how to manage them helps shippers control budgets and negotiate fair rates.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "fuel-surcharges-visual.png",
+      "alt": "Realistic illustration of a truck approaching a European toll gate with signage displaying toll rates and CO2 pricing, modern style",
+      "caption": "Realistic illustration of a truck approaching a European toll gate with signage displaying toll rates and CO2 pricing, modern style"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What Is a Fuel Surcharge?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A fuel surcharge is a variable fee added to freight invoices to offset changes in diesel prices. Carriers calculate surcharges based on the difference between the current diesel price and a base fuel price, often using publicly available indexes. When diesel costs rise, surcharges increase; when prices fall, surcharges decrease.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "For LTL carriers in the United States, fuel surcharges can account for up to 30 % of the freight cost (Zero Down Supply Chain Solutions, 2025). European fuel surcharges vary by country. For example, Blue Water Shipping reported fuel surcharges in November 2025 of 27.40 % on domestic transport in Denmark, 25 % in Sweden and 60.30 % for transport to/from Denmark and the rest of Europe (Blue Water Shipping A/S, 2025). These figures highlight how volatile and region-specific surcharges can be.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "How Surcharges Are Calculated"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Fuel surcharges are typically based on: (1) a base fuel price (e.g., EUR 1.00 per litre); (2) a fuel price index (e.g., the European Commission's Weekly Oil Bulletin); and (3) a formula that converts fuel price deviations into a per-kilometre or percentage surcharge. For example, a carrier might apply a 0.5 % surcharge for every EUR 0.01 increase above the base price. Some carriers publish fuel surcharge tables; others negotiate surcharges as a separate line item.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Road Tolls and Environmental Charges"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In addition to fuel surcharges, shippers must contend with road tolls and environmental fees. Research by Transport Intelligence, Upply and the International Road Transport Union found that tolls account for around 14 % of European freight costs, reaching up to 23 % on certain routes (Logistics Business, 2025). Under the revised Eurovignette Directive, EU member states are phasing out time-based vignettes in favour of distance-based tolls linked to CO2 emissions (Logistics Business, 2025). Germany introduced a CO2 component of EUR 200 per tonne of CO2 in December 2023, nearly doubling toll costs (NOSTA Group, 2023).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Low-emission zones in cities like Paris, Berlin and Milan impose additional charges for older vehicles. Failure to pay tolls or meet emissions standards can result in fines and trip disruptions.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mitigating Fuel and Toll Costs"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Optimise routes and loads. AI-powered routing and consolidation reduce empty miles and save fuel. For instance, UPS's ORION system has eliminated 100 million miles and saved 10 million gallons of fuel annually, cutting emissions and costs.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Monitor fuel indexes. Track fuel price indices and negotiate surcharge formulas with carriers. Some shippers hedge fuel costs with futures contracts.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Use energy-efficient vehicles. Investing in Euro 6 or electric trucks reduces fuel consumption and avoids penalties in low-emission zones.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Plan for toll changes. Stay informed about new toll systems and CO2 surcharges; factor them into budgets and route planning.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Consolidate shipments. Groupage or intermodal solutions can reduce per-unit costs by spreading fuel and toll expenses across multiple consignments.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Consider multimodal alternatives. Rail or short-sea shipping may offer more predictable costs for long hauls.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusion: Visibility and Planning Are Key"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Fuel surcharges and tolls can make or break the profitability of a road freight shipment. By understanding how surcharges are calculated, tracking fuel price trends and anticipating changes in toll systems, shippers can manage costs proactively. Modern logistics providers like Logifie use analytics to optimise routes and loads, helping customers mitigate surcharges and environmental fees.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sources"
+    },
+    {
+      "type": "citation",
+      "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Explains that fuel surcharges allow carriers to offset diesel price fluctuations; notes that LTL carriers apply surcharges that can reach 30% of the freight cost and describes how surcharges are calculated.",
+      "author": "Zero Down Supply Chain Solutions",
+      "url": "https://zerodownsc.com/2025/09/fuel-surcharges/"
+    },
+    {
+      "type": "citation",
+      "text": "Road transport surcharges and fees (November 2025) (Blue Water Shipping A/S, 2025) - Lists fuel surcharges for November 2025, including 27.40% on domestic transport in Denmark, 25% in Sweden and 60.30% for transport to/from Denmark and Europe.",
+      "author": "Blue Water Shipping",
+      "url": "https://www.bws.dk/surcharges-and-fees/"
+    },
+    {
+      "type": "citation",
+      "text": "Tolls drive up European road transport prices (Logistics Business, 2025) - Reports that toll-related expenses account for around 14% of freight costs and up to 23% on certain routes; notes that EU states are replacing time-based vignettes with distance-based tolls linked to CO2 emissions under the Eurovignette Directive.",
+      "author": "Logistics Business Magazine",
+      "url": "https://logisticsbusiness.com/transport-management/tolls-drive-up-european-road-transport-prices/"
+    },
+    {
+      "type": "citation",
+      "text": "Germany introduces CO2 component to truck toll (NOSTA Group, 2023) - Announces that Germany's Federal Highway Toll Act reform added a CO2 component of about EUR 200 per tonne of CO2 from 1 December 2023, nearly doubling truck tolls.",
+      "author": "NOSTA Group",
+      "url": "https://www.nosta-group.com/en/news/truck-toll-co2/"
+    }
+  ],
+  "tags": [
+    "fuel surcharge road freight",
+    "european road tolls",
+    "truck tolls germany",
+    "freight cost breakdown",
+    "how fuel surcharge is calculated",
+    "road freight pricing europe",
+    "logistics cost structure"
+  ]
+}

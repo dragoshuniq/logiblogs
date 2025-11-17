@@ -1,0 +1,269 @@
+{
+  "id": "working-with-a-freight-forwarder-what-shippers-should-expect-day-to-day",
+  "shortId": "working-with-forwarder",
+  "language": "en",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Working with a Freight Forwarder: What Shippers Should Expect Day to Day",
+  "description": "Freight forwarders act as architects of transport, orchestrating multimodal journeys and handling the paperwork, compliance and coordination required to move goods from origin to destination. For shippers, understanding...",
+  "publishedAt": "2025-01-05T00:00:00Z",
+  "category": "Business",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistics Technology Experts",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "freight-forwarder-hero.png",
+  "imageAlt": "Isometric illustration of a freight forwarder's control tower with digital dashboards, maps and documents being processed, modern flat design",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Freight forwarders act as architects of transport, orchestrating multimodal journeys and handling the paperwork, compliance and coordination required to move goods from origin to destination. For shippers, understanding what forwarders do and how to work with them can improve efficiency and reduce stress. This article explains the day-to-day activities of freight forwarders, the value they provide and how to choose the right partner.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "freight-forwarder-visual.png",
+      "alt": "Realistic photo of a logistics manager discussing shipment details with a freight forwarder in an office, documents spread on a table",
+      "caption": "Realistic photo of a logistics manager discussing shipment details with a freight forwarder in an office, documents spread on a table"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What Is a Freight Forwarder?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The International Federation of Freight Forwarders Associations (FIATA) defines freight forwarding and logistics services as services of any kind relating to the carriage, consolidation, storage, handling, packing or distribution of goods, as well as ancillary and advisory services such as customs and fiscal matters, insurance procurement and payment collection (FIATA, 2004). A forwarder ensures that goods arrive at the right place, at the right time, in good condition and at a reasonable cost (FIATA, 2004).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Forwarders provide expertise in several areas:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Logistics planning: Forwarders design routes and select transport modes, negotiating rates with carriers to balance cost, speed and reliability (FIATA, 2004).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Regulatory compliance: They handle export and import documentation, customs declarations and ensure goods meet regulatory requirements (FIATA, 2004).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Risk management: Forwarders advise on insurance, manage risks of loss or damage and help resolve claims (FIATA, 2004).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Finance and payment: They facilitate payments between buyer and seller and arrange credit or insurance instruments (FIATA, 2004).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Cross-functional integration: Leveraging information technology, forwarders integrate data across shippers, carriers and customs authorities to enhance supply chain visibility (FIATA, 2004).",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Day-to-Day Interactions with a Freight Forwarder"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Quotations and bookings. Shippers request quotes specifying commodity, weight, dimensions, pick-up and delivery points and desired transit time. The forwarder checks carrier capacity and provides a rate, including base freight, fuel surcharges, tolls and ancillary charges. Digital forwarders offer instant quotes via online portals; traditional forwarders may take longer due to manual coordination.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Documentation. Once booked, the forwarder collects commercial invoices, packing lists and any licences or certificates. They prepare the CMR consignment note, customs declarations and transit documents (e.g., T1/T2). For dangerous goods, they verify ADR certificates and provide Material Safety Data Sheets.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Transport coordination. The forwarder schedules pick-up with carriers, coordinates with warehouses and monitors the shipment through transhipment hubs. They manage cross-border formalities, ensuring drivers carry posting declarations and tachograph records.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tracking and exception management. Forwarders provide updates on shipment status via email, phone or digital dashboards. When delays or issues arise (e.g., customs holds, weather disruptions), they communicate with carriers and shippers to re-route cargo or adjust delivery expectations.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Delivery and documentation closure. Upon delivery, the forwarder obtains proof of delivery and updates the CMR note. They reconcile invoices and pay carriers. For DDP shipments, forwarders may handle import duty payment on behalf of the seller.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Benefits of Working with a Freight Forwarder"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Expertise and scale. Forwarders negotiate better rates and have knowledge of complex regulations.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Reduced administrative burden. They handle documentation, customs and compliance, freeing shippers to focus on core business.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Visibility and control. Digital forwarders provide real-time tracking and analytics, giving shippers insight into shipment status and costs.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Risk mitigation. Forwarders advise on insurance and handle claims if cargo is lost or damaged.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Flexibility. They can switch carriers, modes or routes as needed during disruptions.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choosing the Right Freight Forwarder"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Credentials and expertise. Look for FIATA membership or national forwarding associations. Ask about experience with your commodities and trade lanes.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Digital capabilities. Modern forwarders offer online booking, tracking, automated documentation and integration with your transport management system.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Network strength. A forwarder's relationships with carriers and agents in origin and destination countries affect capacity and service levels.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Customer service. Evaluate communication responsiveness and problem-solving skills.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Compliance record. Check that the forwarder adheres to antitrust policies and regulatory standards.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusion: Partnership Is Key"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Freight forwarders are more than intermediaries; they are partners who design and manage complex logistics operations. By understanding their roles and expectations, shippers can build productive relationships, streamline processes and ensure that goods move smoothly across borders. Choosing a forwarder like Logifie that combines industry expertise with digital tools gives businesses a competitive edge in today's dynamic logistics environment.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sources"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Defines freight forwarding and logistics services, noting that they include carriage, consolidation, storage, handling, packing, distribution and ancillary services such as customs, insurance and payment collection.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Explains that freight forwarders provide logistics planning by negotiating with carriers to design service chains balancing cost, speed and reliability.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Describes forwarders' roles in regulatory compliance, risk management and advising on insurance and currency risks.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Notes that forwarders handle financial matters and facilitate cross-functional integration using information technology.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    }
+  ],
+  "tags": [
+    "what does a freight forwarder do",
+    "working with a freight forwarder",
+    "benefits of using a freight forwarder",
+    "european freight forwarder services",
+    "logistics partner for SMEs",
+    "role of freight forwarder in supply chain",
+    "how to choose a freight forwarder"
+  ]
+}

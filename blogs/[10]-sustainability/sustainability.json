@@ -1,0 +1,177 @@
+{
+  "id": "sustainability-in-european-road-freight-practical-steps-without-high-tech-solutions",
+  "shortId": "sustainability-road-freight",
+  "language": "en",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Sustainability in European Road Freight: Practical Steps Without High-Tech Solutions",
+  "description": "Logistics stakeholders recognise the need to decarbonise road freight, but not every company can invest in electric trucks, telematics and AI. Fortunately, there are many low-tech and behavioural changes that can...",
+  "publishedAt": "2025-01-19T00:00:00Z",
+  "category": "Sustainability",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistics Technology Experts",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "sustainability-hero.png",
+  "imageAlt": "Illustration of a truck driver practicing eco-driving techniques on a scenic European road, with icons showing smooth acceleration and fuel efficiency, minimalist flat style",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Logistics stakeholders recognise the need to decarbonise road freight, but not every company can invest in electric trucks, telematics and AI. Fortunately, there are many low-tech and behavioural changes that can significantly reduce emissions and operating costs. This article outlines practical sustainability measures that fleets and shippers can adopt immediately, without large capital expenditures.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "sustainability-visual.png",
+      "alt": "Realistic photo of a biodiesel pump filling a modern truck, highlighting alternative fuels, with greenery in the background",
+      "caption": "Realistic photo of a biodiesel pump filling a modern truck, highlighting alternative fuels, with greenery in the background"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Why Sustainability Matters"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transport and logistics account for about 25 % of global carbon emissions (Ct Global Freight Audit, 2023). Road freight is the largest contributor, and its emissions are projected to rise if no action is taken. Reducing emissions improves air quality, lowers fuel costs and enhances corporate reputation.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Practical Steps for Greener Road Freight"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Eco-driving practices. Training drivers to accelerate smoothly, maintain steady speeds, anticipate traffic and avoid unnecessary idling can yield significant fuel savings. Maintaining optimal tyre pressure and reducing air conditioning use also improve efficiency.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Regular vehicle maintenance. Keeping engines tuned, replacing air filters, checking tyre alignment and using low-viscosity lubricants reduces fuel consumption. Preventive maintenance also minimises breakdowns and extends vehicle life.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Load optimisation and consolidation. Filling trucks to capacity and combining shipments reduces empty runs. Collaborative shipping and backhaul agreements help match loads with capacity.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Route planning. Even without sophisticated AI, drivers can choose routes that avoid congestion and steep gradients. Night driving can reduce fuel consumption by avoiding traffic.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Alternative fuels and fuel blends. Biofuels, such as biodiesel or hydrotreated vegetable oil (HVO), can reduce CO2 emissions by 50-90 % compared with standard diesel. Although they may be more expensive, they require no modifications to diesel engines and are a stepping stone to electrification.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Intermodal transport. Combining road with rail or short-sea shipping reduces the distance driven and therefore emissions. Rail emits less CO2 per tonne-kilometre than trucks, making it suitable for long-distance legs.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Lightweight packaging and equipment. Reducing the weight of pallets and packaging materials lowers fuel consumption. Using reusable pallets and returnable packaging can cut waste.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Driver engagement and incentives. Incentive programmes that reward fuel-efficient driving encourage behavioural change. Providing feedback via fuel receipts and simple dashboards helps drivers track their performance.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Collaborate across the supply chain. Sharing data on volumes and schedules enables carriers to plan efficient routes and reduce empty runs.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Case Studies and Supporting Evidence"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Eco-driving benefits. Training programmes have shown fuel consumption reductions of 5-15 %. The International Council on Clean Transportation notes that eco-driving can save up to 0.15 litres of fuel per kilometre (Ct Global Freight Audit, 2023).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Fuel-efficient vehicles. Upgrading to Euro 6 trucks and fitting aerodynamic devices can reduce fuel consumption by 5-10 %, while low-rolling-resistance tyres contribute additional savings (Ct Global Freight Audit, 2023).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Alternative fuels. Biofuels such as HVO offer significant CO2 reductions without engine modifications. The European Commission encourages the use of sustainable fuels and intermodal transport to achieve emissions targets (Ct Global Freight Audit, 2023).",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusion: Small Changes, Big Impact"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sustainability in road freight does not always require high-tech solutions. Simple operational measures - eco-driving, maintenance, load consolidation and route planning - can reduce emissions and cut costs. Exploring biofuels and intermodal transport further amplifies the benefits. By engaging drivers and collaborating across the supply chain, logistics companies can make meaningful progress toward decarbonisation while preparing for future technologies.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sources"
+    },
+    {
+      "type": "citation",
+      "text": "Why is Reducing Carbon Emissions in Transportation and Logistics Important? (Ct Global Freight Audit, 2023) - Highlights that 90% of an organisation's greenhouse gas emissions can originate from the supply chain and that transport and logistics account for nearly 25% of global carbon emissions. Outlines steps to reduce emissions, including eco-driving, route planning, intermodal transport, alternative fuels and fleet efficiency improvements.",
+      "author": "Ct Global Freight Audit",
+      "url": "https://ctglobal-freightaudit.com/why-is-reducing-carbon-emissions-in-transportation-and-logistics-important/"
+    }
+  ],
+  "tags": [
+    "sustainable road freight",
+    "green logistics europe",
+    "reduce CO2 in road transport",
+    "eco friendly logistics practices",
+    "low carbon freight solutions",
+    "sustainable transport operations",
+    "greener road freight without technology"
+  ]
+}
