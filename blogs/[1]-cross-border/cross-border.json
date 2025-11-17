@@ -20,7 +20,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "International road freight inside the European Union (EU) is deceptively simple at first glance: once goods enter the single market, they can move freely between member states. But regulatory complexity, paperwork and varying national requirements can trip up even experienced shippers. Understanding the rules and preparing the right documents prevents delays, fines and lost business. This article explains the essential requirements for cross‑border road transport in Europe, highlights common pitfalls and offers practical advice for staying compliant.",
+          "text": "International road freight inside the European Union (EU) is deceptively simple at first glance: once goods enter the single market, they can move freely between member states. But regulatory complexity, paperwork and varying national requirements can trip up even experienced shippers. Understanding the rules and preparing the right documents prevents delays, fines and lost business. This article explains the essential requirements for cross\u2011border road transport in Europe, highlights common pitfalls and offers practical advice for staying compliant.",
           "bold": false
         }
       ]
@@ -34,55 +34,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The EU's internal market removes tariffs between member states, yet road freight still falls under a web of regulations. Carriers must comply with the EU Mobility Package, which harmonises rules on driver posting, cabotage and vehicle returns. Fleet managers need to track driving hours, ensure vehicles return to their home country every eight weeks and pay drivers operating abroad the same wages as local drivers",
-          "bold": false
-        }
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "info",
-      "children": [
-        {
-          "text": "Source: What fleet managers need to know about EU transport regulations (SNAP ACC, 2025)",
-          "bold": false
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ". Digital tachographs must be fitted in vehicles to monitor compliance",
-          "bold": false
-        }
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "info",
-      "children": [
-        {
-          "text": "Source: What fleet managers need to know about EU transport regulations (SNAP ACC, 2025)",
-          "bold": false
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ". Low-emission zones, Euro 7 standards and smart tachograph requirements add further obligations",
-          "bold": false
-        }
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "info",
-      "children": [
-        {
-          "text": "Source: What fleet managers need to know about EU transport regulations (SNAP ACC, 2025)",
+          "text": "The EU's internal market removes tariffs between member states, yet road freight still falls under a web of regulations. Carriers must comply with the EU Mobility Package, which harmonises rules on driver posting, cabotage and vehicle returns. Fleet managers need to track driving hours, ensure vehicles return to their home country every eight weeks and pay drivers operating abroad the same wages as local drivers (SNAP ACC, 2025). Digital tachographs must be fitted in vehicles to monitor compliance, and fleets should capture tachograph data to prove adherence (SNAP ACC, 2025). Low-emission zones, Euro 7 standards and smart tachograph requirements add further obligations for cross-border operations (SNAP ACC, 2025).",
           "bold": false
         }
       ]
@@ -96,45 +48,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Cabotage rules limit the number of domestic trips a foreign truck may perform in another EU state. Under the Mobility Package, a truck can undertake up to three cabotage operations within seven days after completing an international delivery and then must leave the country for a cooling-off period",
-          "bold": false
-        }
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "info",
-      "children": [
-        {
-          "text": "Source: What fleet managers need to know about EU transport regulations (SNAP ACC, 2025)",
-          "bold": false
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ". Employers posting drivers to other member states must file a posting declaration and ensure drivers carry proof of the posting, consignment notes and tachograph records",
-          "bold": false
-        }
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "info",
-      "children": [
-        {
-          "text": "Source: Carrying out international road haulage (UK Department for Transport, 2023)",
-          "bold": false
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ". Failure to meet posting obligations can result in fines and vehicle impoundment.",
+          "text": "Cabotage rules limit the number of domestic trips a foreign truck may perform in another EU state. Under the Mobility Package, a truck can undertake up to three cabotage operations within seven days after completing an international delivery and then must leave the country for a cooling-off period (SNAP ACC, 2025). Employers posting drivers to other member states must file a posting declaration and ensure drivers carry proof of the posting, consignment notes and tachograph records (UK Department for Transport, 2023). Failure to meet posting obligations can result in fines and vehicle impoundment (UK Department for Transport, 2023).",
           "bold": false
         }
       ]
@@ -148,26 +62,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Even within the single market, cross-border shipments require specific paperwork. The CMR consignment note – mandated by the Convention on the Contract for the International Carriage of Goods by Road – is the core document for any road shipment across national borders. It records the sender, consignee, carrier, description of goods and places of dispatch and delivery",
-          "bold": false
-        }
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "info",
-      "children": [
-        {
-          "text": "Source: Documents in international transport – a guide (ADAR International Forwarding, 2025)",
-          "bold": false
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ". Both the shipper and carrier must sign it, and it serves as proof of a contract of carriage.",
+          "text": "Even within the single market, cross-border shipments require specific paperwork. The CMR consignment note \u2013 mandated by the Convention on the Contract for the International Carriage of Goods by Road \u2013 is the core document for any road shipment across national borders. It records the sender, consignee, carrier, description of goods and places of dispatch and delivery (ADAR International Forwarding, 2025). Both the shipper and carrier must sign it, and it serves as proof of a contract of carriage (ADAR International Forwarding, 2025).",
           "bold": false
         }
       ]
@@ -236,16 +131,6 @@
       ]
     },
     {
-      "type": "callout",
-      "variant": "info",
-      "children": [
-        {
-          "text": "Source: Documents in international transport – a guide (ADAR International Forwarding, 2025)",
-          "bold": false
-        }
-      ]
-    },
-    {
       "type": "image",
       "src": "cmr-consignment-note.png",
       "alt": "Driver presenting CMR consignment note at European customs gate",
@@ -296,15 +181,9 @@
         {
           "text": "90 hours over two weeks",
           "bold": true
-        }
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "info",
-      "children": [
+        },
         {
-          "text": "Source: What fleet managers need to know about EU transport regulations (SNAP ACC, 2025)",
+          "text": " (SNAP ACC, 2025). After 4.5 hours of driving, a driver must take a 45-minute break, and daily rest periods of 11 hours are mandatory (European Commission, 2024). Weekly rest of 45 hours must be taken and cannot be spent in the cab. These rules apply across the EU and are monitored via tachographs and roadside inspections (European Commission, 2024).",
           "bold": false
         }
       ]
@@ -313,54 +192,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ". After 4.5 hours of driving, a driver must take a 45-minute break, and daily rest periods of 11 hours are mandatory",
-          "bold": false
-        }
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "info",
-      "children": [
-        {
-          "text": "Source: Road transport workers: driving and rest time rules (European Commission, 2024)",
-          "bold": false
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ". Weekly rest of 45 hours must be taken and cannot be spent in the cab. These rules apply across the EU and are monitored via tachographs and roadside inspections.",
-          "bold": false
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Vehicles must meet emissions and safety standards. Many cities have low-emission zones requiring Euro 6 or better engines",
-          "bold": false
-        }
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "info",
-      "children": [
-        {
-          "text": "Source: What fleet managers need to know about EU transport regulations (SNAP ACC, 2025)",
-          "bold": false
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ", while Germany introduced a CO₂ component to its truck toll in December 2023, almost doubling toll costs. Carriers should also register their trailers and ensure that vehicles are equipped with proper safety equipment such as fire extinguishers, warning triangles and winter tyres where required.",
+          "text": "Vehicles must meet emissions and safety standards. Many cities have low-emission zones requiring Euro 6 or better engines, while Germany introduced a CO\u2082 component to its truck toll in December 2023, almost doubling toll costs (SNAP ACC, 2025). Carriers should also register their trailers and ensure that vehicles are equipped with proper safety equipment such as fire extinguishers, warning triangles and winter tyres where required (SNAP ACC, 2025).",
           "bold": false
         }
       ]
@@ -431,6 +263,41 @@
           "bold": false
         }
       ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sources"
+    },
+    {
+      "type": "citation",
+      "text": "Documents in international transport \u2013 a guide (ADAR International Forwarding, 2025) \u2013 overview of the paperwork required for international road freight, from CMR notes to TIR carnets, Community licences, CEMT permits and ADR/ATP certificates.",
+      "author": "ADAR International Forwarding",
+      "url": "https://adar.pl/en/blog/documents-international-transport/"
+    },
+    {
+      "type": "citation",
+      "text": "Carrying out international road haulage (UK Department for Transport, 2023) \u2013 explains posting declarations, supporting evidence and tachograph records required when UK and EU drivers work abroad.",
+      "author": "UK Department for Transport",
+      "url": "https://www.gov.uk/guidance/carrying-out-international-road-haulage/"
+    },
+    {
+      "type": "citation",
+      "text": "Road transport workers: driving and rest time rules (European Commission, 2024) \u2013 details EU limits on driving hours, breaks, weekly rest requirements and tachograph enforcement.",
+      "author": "European Commission",
+      "url": "https://europa.eu/youreurope/business/dealing-with-customers/transport/road-transport-workers/index_en.htm"
+    },
+    {
+      "type": "citation",
+      "text": "What fleet managers need to know about EU transport regulations (SNAP ACC Newsroom, 2025) \u2013 summarises Mobility Package cabotage limits, driver posting rules and the requirement for vehicles to return home every eight weeks.",
+      "author": "Josh Cousens",
+      "url": "https://snapacc.com/newsroom/what-fleet-managers-need-to-know-about-eu-transport-regulations/"
+    },
+    {
+      "type": "citation",
+      "text": "What fleet managers need to know about EU transport regulations (SNAP ACC Newsroom, 2025) \u2013 highlights Euro 7 emissions standards, low-emission zones, smart tachographs and digital compliance expectations for European fleets.",
+      "author": "Josh Cousens",
+      "url": "https://snapacc.com/newsroom/what-fleet-managers-need-to-know-about-eu-transport-regulations/"
     }
   ],
   "tags": [

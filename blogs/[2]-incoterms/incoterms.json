@@ -1,0 +1,293 @@
+{
+  "id": "choose-right-incoterms-european-shipments",
+  "shortId": "incoterms-road-freight",
+  "language": "en",
+  "isVisible": true,
+  "readTime": 420,
+  "title": "How to Choose the Right Incoterms for Your European Shipments",
+  "description": "Understand when to use EXW, FCA, DAP or DDP for European road freight, and learn how Incoterms 2020 affect risk, cost and customs responsibilities.",
+  "publishedAt": "2024-11-24T00:00:00Z",
+  "category": "Logistics",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistics Technology Experts",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "managers-incoterms-orig.png",
+  "imageAlt": "Logistics manager reviewing Incoterms responsibilities on a digital dashboard",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Incoterms (International Commercial Terms) define the responsibilities of buyers and sellers in cross-border trade. They spell out who arranges transport, who pays for freight and insurance, and when risk transfers from exporter to importer.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Choosing the right rule is essential for controlling costs, customs clearance and liabilities\u2014especially when road freight crosses multiple European jurisdictions. This guide compares the most commonly paired Incoterms and shows how to pick the option that matches your logistics strategy.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Incoterms 2020: A Quick Overview"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The latest Incoterms rules published by the International Chamber of Commerce in 2020 list seven rules applicable to any mode of transport\u2014EXW, FCA, CPT, CIP, DAP, DPU and DDP\u2014plus four sea freight rules. Each clarifies who is responsible for export licences, main carriage, insurance and import duties, and exactly when risk passes from seller to buyer (International Trade Administration, 2024).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Why Incoterms Matter in Europe"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "European shipments often traverse multiple borders within the single market. While there are no customs duties between EU members, Incoterms still determine who arranges transport, who handles transit declarations when crossing non-EU territories and who is responsible for insurance. Selecting EXW for a shipment from Poland to Germany, for example, pushes loading, export clearance and risk onto the buyer\u2014potentially impractical if they lack local expertise (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comparing EXW and FCA"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "EXW (Ex Works) places minimal obligations on the seller: goods are made available at the seller\u2019s premises and the buyer assumes all costs and responsibilities from loading onward. The buyer handles export customs clearance and must provide proof of export for VAT purposes (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "FCA (Free Carrier) requires the seller to deliver the goods to a named place\u2014often a forwarder\u2019s terminal\u2014and clear the goods for export. The seller bears the costs and risks until the goods are handed over, after which the buyer controls onward carriage. FCA is more practical for European road freight because the seller manages loading and export paperwork while the buyer arranges the main haulage (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "exw-fca-orig.png",
+      "alt": "Comparison chart showing EXW versus FCA responsibilities for a European shipment",
+      "caption": "Use EXW when the buyer wants full control; choose FCA when the seller should handle export steps."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comparing DAP and DDP"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "DAP (Delivered At Place) means the seller transports the goods to a named destination and assumes costs and risks until arrival, excluding import customs duties and taxes. The buyer is responsible for import clearance and pays any duties or VAT (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "DDP (Delivered Duty Paid) places maximum responsibility on the seller, who bears all costs, risks, import duties and taxes to deliver the goods to the buyer\u2019s premises. Sellers must be registered for VAT and customs in the importing country and should budget for unknown duties (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Choosing Between EXW and FCA"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Use EXW when the buyer has a strong logistics network in the seller\u2019s country and wants full control over transport, consolidation and export procedures.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Use FCA for most international road shipments because the seller handles export clearance and loading, reducing the risk of customs delays while the buyer manages the main carriage.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Choosing Between DAP and DDP"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Use DAP when the buyer wants to manage import customs clearance, reclaim VAT and control last-mile delivery.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Use DDP for consumer deliveries or when the buyer demands a landed, duty-paid price\u2014provided the seller has the registrations and partners to handle import formalities.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Other Incoterms to Consider"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "While EXW, FCA, DAP and DDP dominate European road freight discussions, other rules can be a better fit depending on cargo and control requirements.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "CPT (Carriage Paid To): the seller pays freight to the named destination but risk passes to the buyer when goods are handed to the first carrier\u2014useful for parcels and consolidated cargo.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "CIP (Carriage and Insurance Paid To): similar to CPT but the seller must also provide insurance that meets the buyer\u2019s coverage requirements.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "DPU (Delivered at Place Unloaded): the seller delivers and unloads the goods at an agreed place, which can simplify handover at European cross-dock facilities.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Factors for Selecting the Right Incoterm"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Control over logistics: buyers with sophisticated transport networks may prefer EXW or FCA to direct routing and consolidation.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Customs expertise: sellers experienced in export documentation might choose FCA or DAP to ensure clearance is handled correctly.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Risk tolerance: define which party is best placed to manage insurance, damage and delay risks.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tax implications: VAT reclaim rules and duties vary by country, so select terms that align with your tax strategy.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Nature of goods: high-value or fragile cargo may require higher levels of seller responsibility and insurance (e.g., CIP or DDP).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Buyer\u2013seller relationship: longer partnerships support seller-friendly terms, while new relationships may favour buyer protection.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusion: Align Terms with Your Logistics Strategy"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Choosing the right Incoterms for European road freight is about balancing control, cost and risk. EXW gives buyers maximum responsibility, but FCA is often a better fit for cross-border road shipments because the seller manages export formalities. DAP and DDP offer delivered solutions\u2014DAP leaves import duties to the buyer while DDP provides door-to-door service at the seller\u2019s risk. Evaluate your logistics capabilities, customs expertise and commercial objectives before agreeing on terms, and lean on a trusted freight forwarder to keep documentation and execution tight.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sources"
+    },
+    {
+      "type": "citation",
+      "text": "Know Your Incoterms (International Trade Administration, 2024) \u2013 outlines the 2020 Incoterm rules and responsibilities for buyers and sellers across all transport modes.",
+      "author": "International Trade Administration",
+      "url": "https://www.trade.gov/know-your-incoterms"
+    },
+    {
+      "type": "citation",
+      "text": "Incoterms: meaning, rules and responsibilities (Atradius Collections, 2025) \u2013 explains how EXW and FCA allocate costs, loading and export customs duties.",
+      "author": "Atradius Collections",
+      "url": "https://atradiuscollections.com/knowledge/incoterms-explained.html"
+    },
+    {
+      "type": "citation",
+      "text": "Incoterms: meaning, rules and responsibilities (Atradius Collections, 2025) \u2013 details the obligations under DAP and DDP, including who pays import duties and taxes.",
+      "author": "Atradius Collections",
+      "url": "https://atradiuscollections.com/knowledge/incoterms-explained.html"
+    }
+  ],
+  "tags": [
+    "incoterms",
+    "european road freight",
+    "trade compliance",
+    "freight forwarding",
+    "export logistics"
+  ]
+}
