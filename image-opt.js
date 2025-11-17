@@ -57,7 +57,14 @@ async function processFolder(folderPath) {
   for (const file of imageFiles) {
     const inputPath = path.join(folderPath, file);
     const ext = path.extname(file);
-    const nameWithoutExt = file.slice(0, -ext.length);
+    let nameWithoutExt = file.slice(0, -ext.length);
+
+    // Handle double extensions like .png.png
+    const secondExt = path.extname(nameWithoutExt);
+    if (secondExt.toLowerCase() === ext.toLowerCase()) {
+      nameWithoutExt = nameWithoutExt.slice(0, -secondExt.length);
+    }
+
     const outputFileName = `${nameWithoutExt}-min${ext}`;
     const outputPath = path.join(folderPath, outputFileName);
 
