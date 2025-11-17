@@ -47,25 +47,25 @@ async function processFolder(folderPath) {
   const files = await fs.readdir(folderPath);
   const imageExtensions = [".png", ".jpg", ".jpeg", ".webp", ".gif"];
 
+  // Only process files ending with -orig before the extension
   const imageFiles = files.filter((file) => {
     const ext = path.extname(file).toLowerCase();
-    return imageExtensions.includes(ext);
+    if (!imageExtensions.includes(ext)) return false;
+    
+    const nameWithoutExt = file.slice(0, -ext.length);
+    return nameWithoutExt.endsWith("-orig");
   });
 
-  console.log(`Found ${imageFiles.length} image(s)`);
+  console.log(`Found ${imageFiles.length} -orig image(s) to optimize`);
 
   for (const file of imageFiles) {
     const inputPath = path.join(folderPath, file);
     const ext = path.extname(file);
-    let nameWithoutExt = file.slice(0, -ext.length);
-
-    // Handle double extensions like .png.png
-    const secondExt = path.extname(nameWithoutExt);
-    if (secondExt.toLowerCase() === ext.toLowerCase()) {
-      nameWithoutExt = nameWithoutExt.slice(0, -secondExt.length);
-    }
-
-    const outputFileName = `${nameWithoutExt}-min${ext}`;
+    const nameWithoutExt = file.slice(0, -ext.length);
+    
+    // Remove -orig suffix
+    const finalName = nameWithoutExt.slice(0, -5); // Remove "-orig"
+    const outputFileName = `${finalName}${ext}`;
     const outputPath = path.join(folderPath, outputFileName);
 
     try {
