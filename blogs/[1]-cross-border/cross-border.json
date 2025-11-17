@@ -62,7 +62,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Even within the single market, cross-border shipments require specific paperwork. The CMR consignment note \u2013 mandated by the Convention on the Contract for the International Carriage of Goods by Road \u2013 is the core document for any road shipment across national borders. It records the sender, consignee, carrier, description of goods and places of dispatch and delivery (ADAR International Forwarding, 2025). Both the shipper and carrier must sign it, and it serves as proof of a contract of carriage (ADAR International Forwarding, 2025).",
+          "text": "Even within the single market, cross-border shipments require specific paperwork. The CMR consignment note \u2013 mandated by the Convention on the Contract for the International Carriage of Goods by Road \u2013 is the core document for any road shipment across national borders. It records the sender, consignee, carrier, description of goods and places of dispatch and delivery. Both the shipper and carrier must sign it, and it serves as proof of a contract of carriage.",
           "bold": false
         }
       ]
@@ -268,12 +268,6 @@
       "type": "heading",
       "level": 3,
       "text": "Sources"
-    },
-    {
-      "type": "citation",
-      "text": "Documents in international transport \u2013 a guide (ADAR International Forwarding, 2025) \u2013 overview of the paperwork required for international road freight, from CMR notes to TIR carnets, Community licences, CEMT permits and ADR/ATP certificates.",
-      "author": "ADAR International Forwarding",
-      "url": "https://adar.pl/en/blog/documents-international-transport/"
     },
     {
       "type": "citation",
