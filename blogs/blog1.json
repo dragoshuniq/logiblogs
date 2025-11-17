@@ -41,7 +41,7 @@
       "type": "image",
       "src": "/assets/home1.jpg",
       "alt": "AI transforming European freight forwarding operations",
-      "caption": "AI transforming European freight forwarding operations"
+      "caption": "Control tower staff rely on AI dashboards to orchestrate European freight flows."
     },
     {
       "type": "heading",
@@ -117,7 +117,7 @@
       "type": "image",
       "src": "/assets/home2.jpg",
       "alt": "AI-powered route optimisation for freight transport",
-      "caption": "AI-powered route optimisation for freight transport"
+      "caption": "Dispatch planners review AI-generated routes that balance driver hours, cost and emissions."
     },
     {
       "type": "heading",
@@ -142,7 +142,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "DHL, for example, uses AI to cut mileage by up to 15% across European networks. These systems also integrate with Transport Management Systems (TMS) to ensure compliance with EU regulations and CO₂ monitoring requirements.",
+          "text": "DHL, for example, uses AI to cut mileage by up to 15% across European networks. These systems also integrate with Transport Management Systems (TMS) to ensure compliance with EU regulations and CO\u2082 monitoring requirements.",
           "bold": false
         }
       ]
@@ -253,7 +253,7 @@
       "type": "image",
       "src": "/assets/home3.jpg",
       "alt": "Smart warehouse robots in European logistics hub",
-      "caption": "Smart warehouse robots in European logistics hub"
+      "caption": "Autonomous robots reposition totes inside a European warehouse to speed up fulfillment."
     },
     {
       "type": "heading",
@@ -356,7 +356,7 @@
       "type": "image",
       "src": "/assets/home4.jpg",
       "alt": "Logistics manager using AI for transport planning",
-      "caption": "Logistics manager using AI for transport planning"
+      "caption": "Planner uses predictive analytics to align transport decisions with sustainability targets."
     },
     {
       "type": "heading",
@@ -459,7 +459,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Firms using AI for customs decisions or transport routing must prove their systems are safe, unbiased, and auditable-or face penalties of up to €30 million.",
+          "text": "Firms using AI for customs decisions or transport routing must prove their systems are safe, unbiased, and auditable-or face penalties of up to \u20ac30 million.",
           "bold": false
         }
       ]
@@ -468,7 +468,7 @@
       "type": "image",
       "src": "/assets/home5.jpg",
       "alt": "EU AI Act compliance in logistics data management",
-      "caption": "EU AI Act compliance in logistics data management"
+      "caption": "Compliance specialists audit AI decision logs to document EU AI Act controls."
     },
     {
       "type": "heading",
@@ -571,7 +571,7 @@
       "type": "image",
       "src": "/assets/home6.jpg",
       "alt": "AI-powered digital twin of European logistics network",
-      "caption": "AI-powered digital twin of European logistics network"
+      "caption": "Digital twin of a pan-European network lets teams test new capacity and carbon scenarios."
     },
     {
       "type": "heading",
