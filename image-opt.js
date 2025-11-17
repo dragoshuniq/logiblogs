@@ -3,7 +3,7 @@ import fs from "fs/promises";
 import path from "path";
 
 // Specify folders to process (relative to blogs directory)
-const FOLDERS_TO_PROCESS = ["blogs/[1] cross border"];
+const FOLDERS_TO_PROCESS = ["blogs/[1]-cross-border"];
 
 async function optimizeImage(inputPath, outputPath) {
   const ext = path.extname(inputPath).toLowerCase();
