@@ -1,0 +1,63 @@
+{
+  "id": "packaging-and-palletization-best-practices-for-european-road-transport",
+  "shortId": "packaging-best-practices",
+  "language": "no",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Emballering og pallestabling: beste praksis for europeisk vegtransport",
+  "description": "Riktig emballering og pallestabling beskytter lasten og effektiviteten. Selv den beste ruten feiler hvis lasten flytter seg, går i stykker eller kollapser på grunn av feil stabling eller utilstrekkelig sikring...",
+  "publishedAt": "2024-12-29T00:00:00Z",
+  "category": "Drift",
+  "author": {"name": "Logifie Team", "role": "Eksperter på logistikkteknologi", "avatar": "/logos/slogo.png"},
+  "image": "packaging-palletization-hero.png",
+  "imageAlt": "Snitttégning av en europall med anbefalte stablingsmønstre og vektfordeling",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Her oppsummeres beste praksis for å forberede paller, velge materialer og sikre last, for å minimere skader og følge europeiske standarder.", "bold": false}]},
+    {"type": "image", "src": "packaging-palletization-visual.png", "alt": "Lagerpersonell plastpakker og surrer en pall med blandet last", "caption": "Stretchfilm og bånd låser en blandet europall før linehaul-lasting."},
+    {"type": "heading", "level": 2, "text": "Spesifikasjoner for europall"},
+    {"type": "paragraph", "children": [{"text": "Europallen (EPAL) er mest brukt i Europa. Standardmål 1 200 mm x 800 mm x 144 mm og 0,96 m2 nytteareal (Across Logistics, 2025). Egenvekt 22-25 kg; opptil 1 500 kg dynamisk, 4 000 kg i stabel og 1 000 kg i reol (Across Logistics, 2025). Kompatibel med europeiske lastebiler og containere; to på tvers eller tre på langs i standardtrailer (Across Logistics, 2025).", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Teknikker for pallestabling"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Bruk paller av god kvalitet. Hele, tørre og i henhold til ISPM-15 (varmebehandling mot skadedyr).", "bold": false}],
+      [{"text": "Fordel vekt jevnt. Tungt nederst, esker kant i kant, ingen overheng.", "bold": false}],
+      [{"text": "Stable i kolonner eller forskjøvet. Kolonner maksimerer bæreevne, men er mindre stabile; forskjøvet binder lag og stabiliserer. Ved blandet last, bruk forskjøvet mønster (Jungheinrich AG, 2024).", "bold": false}],
+      [{"text": "Hold lavt tyngdepunkt. Plasser tungt nær pallbasen.", "bold": false}],
+      [{"text": "Sikre lasten. Stretch-/krympefilm, omsnøring eller surring; hjørnebeskyttere fordeler strekk.", "bold": false}],
+      [{"text": "Tydelig merking. Håndtering ('fragile', 'this side up'), strekkoder og etiketter på flere sider.", "bold": false}],
+      [{"text": "Unngå hulrom. Fyll innvendig og mellom lag for å hindre bevegelse.", "bold": false}],
+      [{"text": "Pallhetter. For følsomt gods mot fukt og støv.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Lastsikring og kjøretøy"},
+    {"type": "paragraph", "children": [{"text": "Mangelfull sikring bidrar til opptil 25 % av ulykker med tunge kjøretøy (European Union, 2014). Følg EU-retningslinjer for å beskytte sjåfører og medtrafikanter. Nøkkelpunkter:", "bold": false}]},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Riktig utstyr. Surringsbånd, antisklimatter, airbags og sperrebjelker immobiliserer lasten.", "bold": false}],
+      [{"text": "Sjekk tilstand. Bytt slitte/skadde bånd.", "bold": false}],
+      [{"text": "Balanser lasten. Fordel vekt over kjøretøyet for å unngå akseloverlast og bedre kjøreegenskaper.", "bold": false}],
+      [{"text": "Inspeksjoner jevnlig. Sjåfør sjekker last og sikring ved stopp og etter brå manøvre.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Beste praksis per godstype"},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Skjør: demp i esker (skum, luftputer); dobbeltstabling kun med godkjente esker.", "bold": false}],
+      [{"text": "Væsker: fat stående; skott eller IBC mot skvulp.", "bold": false}],
+      [{"text": "Ferskvarer: isolert emballasje og kjøling etter ATP. Forhåndskjøl last og trailer (IAT Insurance Group, 2023).", "bold": false}],
+      [{"text": "Farlig (ADR): godkjent emballasje og merking med fareklasser; sjåfører med ADR-bevis.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Konklusjon: pakk riktig for sikker levering"},
+    {"type": "paragraph", "children": [{"text": "Riktig emballert og pallestablert last reiser sikkert, reduserer skader og øker effektiviteten. Med europall-standarder, solid stabling og korrekt sikring minimerer du skader og leverer intakt. Med Logifie implementeres beste praksis konsekvent i hele Europa.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Kilder"},
+    {"type": "citation", "text": "European pallet: dimensions, types and logistic uses (Across Logistics, 2025) - Standardmål (1 200 x 800 x 144 mm), bæreevne (1 500 kg dynamisk, 4 000 kg statisk) og EPAL-bakgrunn.", "author": "Across Logistics", "url": "https://acrosslogistics.com/blog/en/palet-europeo"},
+    {"type": "citation", "text": "Palletizing and load securing tips (Jungheinrich AG, 2024) - Tips: vektdistribusjon, ingen overheng, forskjøvet stabling, sikring med film/bånd.", "author": "Jungheinrich ProfiGuide", "url": "https://profi-guide.jungheinrich.com/palletizing-best-practices"},
+    {"type": "citation", "text": "European best practice guidelines on cargo securing (European Union, 2014) - Inntil 25 % ulykker knyttet til dårlig sikring; veiledning i utstyrsvalg.", "author": "European Commission", "url": "https://ec.europa.eu/transport/road_safety/topics/cargo-securing-guidelines_en"},
+    {"type": "citation", "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Kjølekjede: forhåndskjøl last/trailer; regelmessig kontroll/vedlikehold.", "author": "IAT Insurance Group", "url": "https://www.iatinsurancegroup.com/media/0sodtctn/230830_cargo_ebook_final.pdf"}
+  ],
+  "tags": [
+    "pallestabling beste praksis",
+    "europall mål",
+    "emballering vegtransport",
+    "sikre paller i lastebil",
+    "lastsikring europa",
+    "hindre transportskader emballering",
+    "retningslinjer lasting paller"
+  ]
+}
+

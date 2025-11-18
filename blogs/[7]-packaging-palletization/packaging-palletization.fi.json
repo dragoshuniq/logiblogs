@@ -1,0 +1,62 @@
+{
+  "id": "packaging-and-palletization-best-practices-for-european-road-transport",
+  "shortId": "packaging-best-practices",
+  "language": "fi",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Pakkaus ja lavalle lastaus: parhaat käytännöt Euroopan maantiekuljetuksiin",
+  "description": "Oikea pakkaus ja lavalle lastaus suojaavat lastia ja tehokkuutta. Jopa paras reitti epäonnistuu, jos lasti siirtyy, rikkoutuu tai romahtaa virheellisen pinoamisen tai puutteellisen kiinnityksen vuoksi...",
+  "publishedAt": "2024-12-29T00:00:00Z",
+  "category": "Toiminnot",
+  "author": {"name": "Logifie Team", "role": "Logistiikkateknologian asiantuntijat", "avatar": "/logos/slogo.png"},
+  "image": "packaging-palletization-hero.png",
+  "imageAlt": "Eurolavan leikkauskuva, jossa suositellut pinoamiskuviot ja painonjako",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Tässä kootaan parhaat käytännöt lavojen valmisteluun, materiaalivalintoihin ja lastin kiinnittämiseen vaurioiden minimoimiseksi ja EU-standardien täyttämiseksi.", "bold": false}]},
+    {"type": "image", "src": "packaging-palletization-visual.png", "alt": "Varastotyöntekijät kietovat ja sitovat sekalastin lavalle", "caption": "Stretch-kalvo ja sidonta lukitsevat seka-eurolavan ennen linehaul-kuormausta."},
+    {"type": "heading", "level": 2, "text": "Eurolavan mitat"},
+    {"type": "paragraph", "children": [{"text": "Eurolava (EPAL) on yleisin Euroopassa. Vakiomitat 1 200 mm x 800 mm x 144 mm, hyötyala 0,96 m2 (Across Logistics, 2025). Tyhjänä 22-25 kg; kantavuus jopa 1 500 kg dynaamisesti, 4 000 kg pinossa ja 1 000 kg hyllyssä (Across Logistics, 2025). Yhteensopiva eurooppalaisten kuorma-autojen ja konttien kanssa; standardiperävaunuun mahtuu kaksi poikittain tai kolme pitkittäin (Across Logistics, 2025).", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Lavalle lastauksen tekniikat"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Käytä laadukkaita lavoja. Ehjät, kuivat ja ISPM-15-mukaiset (lämpökäsittely tuholaisten ehkäisyyn).", "bold": false}],
+      [{"text": "Jaa paino tasaisesti. Painavat alas, laatikot reunoihin tasan, ei ylityksiä.", "bold": false}],
+      [{"text": "Pinoaminen pylväinä tai limittäin. Pylväät maksimoivat kantavuuden mutta ovat vähemmän stabiileja; limitys sitoo kerrokset. Sekalastille suosi limitystä (Jungheinrich AG, 2024).", "bold": false}],
+      [{"text": "Pidä painopiste matalalla. Painavat lähelle lavan pohjaa kaatumisen estämiseksi.", "bold": false}],
+      [{"text": "Kiinnitä lasti. Stretch/kutistekalvo, sidonta tai surrit; kulmasuojat jakavat vetoa.", "bold": false}],
+      [{"text": "Selkeä merkintä. Käsittely ('fragile', 'this side up'), viivakoodit ja etiketit usealle sivulle.", "bold": false}],
+      [{"text": "Vältä tyhjiä tiloja. Täytä sisä- ja kerrosten väliset kolot liikkeen estämiseksi.", "bold": false}],
+      [{"text": "Lavasuojat. Herkille tuotteille kosteutta ja pölyä vastaan.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Lastin kiinnitys ja ajoneuvo"},
+    {"type": "paragraph", "children": [{"text": "Puuttellinen kiinnitys aiheuttaa jopa 25 % raskaiden ajoneuvojen onnettomuuksista (European Union, 2014). Noudata EU-ohjeita kuljettajien ja muiden turvaamiseksi. Avainkohdat:", "bold": false}]},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Sopivat välineet. Surrit, liukuesteet, ilmatyynyt ja estopalkit immobilisoivat lastin.", "bold": false}],
+      [{"text": "Kunnon tarkastus. Vaihda kuluneet/vioittuneet sidonnat.", "bold": false}],
+      [{"text": "Tasapainota lasti. Jaa paino ajoneuvoon akseleiden ylikuormituksen välttämiseksi ja ajettavuuden parantamiseksi.", "bold": false}],
+      [{"text": "Tarkasta säännöllisesti. Kuljettaja tarkistaa lastin ja kiinnitykset pysähdyksillä ja äkkiliikkeiden jälkeen.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Parhaat käytännöt eri lastityypeille"},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Herkät: pehmuste laatikkoon (vaahto, ilmatyynyt); kaksoispino vain hyväksytyillä laatikoilla.", "bold": false}],
+      [{"text": "Nesteet: tynnyrit pystyyn; väliseinät tai IBC estämään loiskuntaa.", "bold": false}],
+      [{"text": "Tuoretuotteet: eristetyt pakkaukset ja kylmä ATP:n mukaan. Esijäähdytä lasti ja perävaunu (IAT Insurance Group, 2023).", "bold": false}],
+      [{"text": "Vaaralliset (ADR): hyväksytty pakkaus ja vaaraluokkien merkinnät; kuljettajalla ADR-pätevyys.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Johtopäätös: hyvin pakattu, hyvin toimitettu"},
+    {"type": "paragraph", "children": [{"text": "Oikein pakattu ja lavalle lastattu lasti kulkee turvallisemmin, vähentää vaurioita ja tehostaa toimintaa. Eurolavastandardit, vankka pinoaminen ja oikea kiinnitys minimoivat vahingot ja varmistavat eheyden. Logifien avulla käytännöt toteutuvat yhdenmukaisesti koko Euroopassa.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Lähteet"},
+    {"type": "citation", "text": "European pallet: dimensions, types and logistic uses (Across Logistics, 2025) - Mitat (1 200 x 800 x 144 mm), kantavuudet (1 500 kg dynaaminen, 4 000 kg staattinen) ja EPAL-tausta.", "author": "Across Logistics", "url": "https://acrosslogistics.com/blog/en/palet-europeo"},
+    {"type": "citation", "text": "Palletizing and load securing tips (Jungheinrich AG, 2024) - Vinkit: painonjako, ei ylityksiä, limitys, kiinnitys kalvolla tai sidonnalla.", "author": "Jungheinrich ProfiGuide", "url": "https://profi-guide.jungheinrich.com/palletizing-best-practices"},
+    {"type": "citation", "text": "European best practice guidelines on cargo securing (European Union, 2014) - Jopa 25 % onnettomuuksista liittyy kiinnitykseen; ohje välineiden valintaan.", "author": "European Commission", "url": "https://ec.europa.eu/transport/road_safety/topics/cargo-securing-guidelines_en"},
+    {"type": "citation", "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Kylmäketju: esijäähdytys ja jäähdytyksen huolto.", "author": "IAT Insurance Group", "url": "https://www.iatinsurancegroup.com/media/0sodtctn/230830_cargo_ebook_final.pdf"}
+  ],
+  "tags": [
+    "palletointi parhaat käytännöt",
+    "eurolava mitat",
+    "pakkaus maantiekuljetus",
+    "kuinka kiinnittää lavat kuorma-autossa",
+    "lastin kiinnitys eurooppa",
+    "kuljetusvaurioiden ehkäisy pakkaus",
+    "pallettien lastausohjeet"
+  ]
+}

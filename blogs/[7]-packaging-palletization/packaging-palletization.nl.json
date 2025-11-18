@@ -1,0 +1,63 @@
+{
+  "id": "packaging-and-palletization-best-practices-for-european-road-transport",
+  "shortId": "packaging-best-practices",
+  "language": "nl",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Verpakken en palletiseren: best practices voor Europees wegvervoer",
+  "description": "Goed verpakken en palletiseren is cruciaal. Zelfs de beste route faalt als lading schuift, breekt of instort door verkeerd stapelen of onvoldoende zekeren...",
+  "publishedAt": "2024-12-29T00:00:00Z",
+  "category": "Operaties",
+  "author": {"name": "Logifie Team", "role": "Experts in logistieke technologie", "avatar": "/logos/slogo.png"},
+  "image": "packaging-palletization-hero.png",
+  "imageAlt": "Doorsnede van een europallet met aanbevolen stapelpatronen en gewichtsverdeling",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Dit artikel vat best practices samen voor palletvoorbereiding, materiaalkeuze en ladingzekering om schade te beperken en aan Europese normen te voldoen.", "bold": false}]},
+    {"type": "image", "src": "packaging-palletization-visual.png", "alt": "Magazijnmedewerkers wikkelen en binden een pallet met gemengde lading vast", "caption": "Stretchfolie en banderolling vergrendelen een gemengde europallet voor linehaul-belading."},
+    {"type": "heading", "level": 2, "text": "Specificaties van de europallet"},
+    {"type": "paragraph", "children": [{"text": "De europallet (EPAL) is het meest gebruikt. Standaardmaat 1.200 mm x 800 mm x 144 mm met 0,96 m2 bruikbare oppervlakte (Across Logistics, 2025). Leeggewicht 22-25 kg; draagvermogen tot 1.500 kg dynamisch, 4.000 kg gestapeld, 1.000 kg in stellingen (Across Logistics, 2025). Compatibel met Europese trucks en containers; in een standaardtrailer passen er twee dwars of drie in de lengte (Across Logistics, 2025).", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Technieken voor palletiseren"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Gebruik kwaliteitspallets. Onbeschadigd, droog en conform ISPM-15 (hittebehandeling tegen plagen).", "bold": false}],
+      [{"text": "Verdeel gewicht gelijkmatig. Zware items onderop, dozen vlak met de randen en geen overhang.", "bold": false}],
+      [{"text": "Stapelen in kolommen of verspringend. Kolommen maximaliseren draagkracht maar zijn minder stabiel; verspringend bindt lagen en stabiliseert. Bij gemengde lading verspringend stapelen (Jungheinrich AG, 2024).", "bold": false}],
+      [{"text": "Houd het zwaartepunt laag. Zware items bij de palletbasis om kantelen te voorkomen.", "bold": false}],
+      [{"text": "Zeker de lading. Stretchfolie, krimpfolie, omsnoeren of sjorbanden; hoekprofielen verdelen de spanning.", "bold": false}],
+      [{"text": "Duidelijk labelen. Handling ('breekbaar', 'boven'), barcodes en verzendetiketten op meerdere zijden.", "bold": false}],
+      [{"text": "Voorkom holtes. Vul binnenruimte en lagen met opvulmateriaal tegen bewegen.", "bold": false}],
+      [{"text": "Overkappen. Bescherm gevoelige goederen tegen vocht en stof.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Ladingzekering en voertuig"},
+    {"type": "paragraph", "children": [{"text": "Onvoldoende zekering draagt bij aan tot 25 % van ongevallen met vrachtwagens (European Union, 2014). EU-richtlijnen beschermen chauffeur en medeweggebruikers. Kernpunten:", "bold": false}]},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Gebruik geschikte middelen. Sjorbanden, antislipmatten, airbags en sperbalken fixeren lading.", "bold": false}],
+      [{"text": "Controleer staat. Versleten/beschadigde banden vervangen.", "bold": false}],
+      [{"text": "Balanceer de lading. Gewicht over het voertuig verdelen om as-overbelasting te voorkomen en handling te verbeteren.", "bold": false}],
+      [{"text": "Regelmatig inspecteren. Chauffeur checkt lading en zekering bij iedere stop en na scherpe manoeuvres.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Best practices per goederentype"},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Breekbaar: dempen in de doos (schuim, luchtkussens); dubbel stapelen alleen bij geschikte dozen.", "bold": false}],
+      [{"text": "Vloeistoffen: vaten rechtop; schotten of IBC's tegen klotsen.", "bold": false}],
+      [{"text": "Bederfelijk: geïsoleerde verpakkingen en koeling volgens ATP. Pre-koel lading en trailer (IAT Insurance Group, 2023).", "bold": false}],
+      [{"text": "Gevaarlijk (ADR): goedgekeurde verpakking, etikettering met gevarenklasse; chauffeur met ADR-certificaat.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Conclusie: goed verpakken is goed leveren"},
+    {"type": "paragraph", "children": [{"text": "Een correct verpakte en gepalletiseerde lading reist veilig, vermindert schades en verhoogt efficiency. Met europallet-standaarden, solide stapeltechniek en juiste zekering minimaliseer je schade en lever je intact. Met Logifie pas je best practices consistent toe in heel Europa.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Bronnen"},
+    {"type": "citation", "text": "European pallet: dimensions, types and logistic uses (Across Logistics, 2025) - Standaardmaten (1.200 x 800 x 144 mm), draagvermogens (1.500 kg dynamisch, 4.000 kg statisch) en EPAL-achtergrond.", "author": "Across Logistics", "url": "https://acrosslogistics.com/blog/en/palet-europeo"},
+    {"type": "citation", "text": "Palletizing and load securing tips (Jungheinrich AG, 2024) - Tips: gewichtsverdeling, geen overhang, verspringend stapelen, zekeren met folie of banden.", "author": "Jungheinrich ProfiGuide", "url": "https://profi-guide.jungheinrich.com/palletizing-best-practices"},
+    {"type": "citation", "text": "European best practice guidelines on cargo securing (European Union, 2014) - Tot 25 % ongevallen door slechte zekering; gids voor keuze en gebruik van middelen.", "author": "European Commission", "url": "https://ec.europa.eu/transport/road_safety/topics/cargo-securing-guidelines_en"},
+    {"type": "citation", "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Cold-chain: pre-koelen van lading en trailer; periodieke controle/onderhoud van koeling.", "author": "IAT Insurance Group", "url": "https://www.iatinsurancegroup.com/media/0sodtctn/230830_cargo_ebook_final.pdf"}
+  ],
+  "tags": [
+    "palletiseren best practices",
+    "europallet afmetingen",
+    "verpakken wegvervoer",
+    "pallets zekeren in vrachtwagen",
+    "ladingzekering europa",
+    "transportschade voorkomen verpakking",
+    "richtlijnen pallet belading"
+  ]
+}
+

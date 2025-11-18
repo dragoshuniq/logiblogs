@@ -1,0 +1,63 @@
+{
+  "id": "packaging-and-palletization-best-practices-for-european-road-transport",
+  "shortId": "packaging-best-practices",
+  "language": "de",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Verpackung und Palettierung: Best Practices für den europäischen Straßentransport",
+  "description": "Saubere Verpackung und Palettierung sind entscheidend für erfolgreiche Straßentransporte. Selbst die beste Route scheitert, wenn Ware durch falsches Stapeln oder unzureichende Sicherung verrutscht, bricht oder kollabiert...",
+  "publishedAt": "2024-12-29T00:00:00Z",
+  "category": "Betrieb",
+  "author": {"name": "Logifie Team", "role": "Experten für Logistiktechnologie", "avatar": "/logos/slogo.png"},
+  "image": "packaging-palletization-hero.png",
+  "imageAlt": "Schnittdarstellung einer Euro-Palette mit empfohlenen Stapelmusters und Gewichtsverteilung",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Richtige Verpackung und Palettierung sind die stillen Helden des Straßengüterverkehrs. Selbst eine perfekt geplante Tour scheitert, wenn Ladung wegen falscher Stapelung oder mangelnder Sicherung verrutscht, bricht oder zusammenfällt. Dieser Leitfaden fasst Best Practices zum Vorbereiten von Paletten, zur Materialwahl und zur Ladungssicherung zusammen, um Schäden zu minimieren und europäische Standards einzuhalten.", "bold": false}]} ,
+    {"type": "image", "src": "packaging-palletization-visual.png", "alt": "Mitarbeitende im Lager wickeln und verzurren eine Palette mit Mischladung vor dem Versand", "caption": "Stretchfolie und Umreifung fixieren eine gemischte Euro-Palette vor dem Linehaul-Verladen."},
+    {"type": "heading", "level": 2, "text": "Standardmaße der Euro-Palette"},
+    {"type": "paragraph", "children": [{"text": "Die Euro-Palette (EPAL) ist die am häufigsten genutzte Palette in Europa. Ihre Standardmaße sind 1.200 mm x 800 mm x 144 mm bei 0,96 m2 Nutzfläche (Across Logistics, 2025). Leere Paletten wiegen je nach Feuchte 22-25 kg und tragen bis zu 1.500 kg dynamisch, 4.000 kg im Stapel und 1.000 kg im Regal (Across Logistics, 2025). Die Spezifikationen sichern die Kompatibilität mit europäischen Lkw und Containern; in Standardtrailern passen zwei Paletten quer oder drei längs (Across Logistics, 2025).", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Techniken der Palettierung"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Qualitativ gute Paletten nutzen. Paletten müssen unbeschädigt, trocken und gemäß ISPM-15 wärmebehandelt sein, um Schädlingsübertragung zu verhindern.", "bold": false}],
+      [{"text": "Gewicht gleichmäßig verteilen. Schwere Teile nach unten, Kartons bündig an die Kanten und Überstand vermeiden. Überstände bleiben an Türen/Trailern hängen und sind stoßanfälliger.", "bold": false}],
+      [{"text": "Säulen- oder Verzahnstapelung. Säulenstapelung maximiert die Stapelfestigkeit, ist aber weniger stabil. Verzahnung (versetzte Kartons) stabilisiert, da Schichten sich verbinden. Bei Mischladung ein Verzahnungsmuster nutzen (Jungheinrich AG, 2024).", "bold": false}],
+      [{"text": "Schwerpunkt tief halten. Schwere Güter nahe der Palettenbasis platzieren, um Kippen zu vermeiden.", "bold": false}],
+      [{"text": "Ladung sichern. Stretchfolie, Schrumpfhaube, Umreifung oder Zurrgurte verwenden; Kantenschutz verteilt Zugkräfte bei schweren/unregelmäßigen Ladungen.", "bold": false}],
+      [{"text": "Klar kennzeichnen. Handhabungshinweise (z. B. 'fragile', 'oben') sowie Barcodes und Versandlabels auf mehreren Seiten anbringen.", "bold": false}],
+      [{"text": "Hohlräume vermeiden. Zwischenräume in Kartons und Lagen mit Füllmaterial ausstopfen, um Bewegung zu verhindern.", "bold": false}],
+      [{"text": "Palettenhauben erwägen. Empfindliche Güter mit Hauben gegen Feuchte und Staub schützen.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Ladungssicherung und Fahrzeugaspekte"},
+    {"type": "paragraph", "children": [{"text": "Unzureichende Sicherung trägt zu bis zu 25 % der Lkw-Unfälle bei (European Union, 2014). Die EU-Leitlinien zur Ladungssicherung schützen Fahrer und Verkehrsteilnehmer. Wichtige Punkte:", "bold": false}]},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Passende Sicherungsmittel nutzen. Zurrgurte, Antirutschmatten, Luftkissen und Sperrbalken fixieren die Ladung.", "bold": false}],
+      [{"text": "Ausrüstung prüfen. Abgenutzte oder beschädigte Gurte austauschen.", "bold": false}],
+      [{"text": "Last ausbalancieren. Gewicht über die Achsen verteilen, Achsüberladung vermeiden und Fahrsicherheit erhöhen.", "bold": false}],
+      [{"text": "Regelmäßig kontrollieren. Fahrer sollten bei Stopps und nach Ausweichmanövern Ladung und Sicherung prüfen.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Best Practices je Warengruppe"},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Empfindliche Güter: Polsterung im Karton (Schaum, Luftkissen) nutzen; Doppelstapel nur bei dafür ausgelegten Kartons.", "bold": false}],
+      [{"text": "Flüssigkeiten: Fässer aufrecht sichern; Schwallwände oder IBCs gegen Schwappen verwenden.", "bold": false}],
+      [{"text": "Verderbliches: Isolierte Gebinde nutzen und gemäß ATP kühlen. Ware und Trailer vorladen auf Solltemperatur vorkühlen (IAT Insurance Group, 2023).", "bold": false}],
+      [{"text": "Gefahrgut: ADR befolgen; zugelassene Verpackung nutzen und Palette mit Gefahrnummern kennzeichnen. Fahrer müssen ADR-Bescheinigungen mitführen.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Fazit: Gut verpackt ist halb geliefert"},
+    {"type": "paragraph", "children": [{"text": "Richtig verpackte und palettierte Ware reist sicher, reduziert Schäden und erhöht die Effizienz. Wer Euro-Palettenstandards befolgt, solide Stapeltechniken nutzt und mit geeignetem Gerät sichert, minimiert Schäden und liefert intakt an. Mit einem Partner wie Logifie lassen sich Best Practices europaweit konsistent umsetzen.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Quellen"},
+    {"type": "citation", "text": "European pallet: dimensions, types and logistic uses (Across Logistics, 2025) - N nennt Standardmaße (1.200 x 800 x 144 mm), Lastgrenzen (bis 1.500 kg dynamisch, 4.000 kg statisch) und EPAL-Hintergrund.", "author": "Across Logistics", "url": "https://acrosslogistics.com/blog/en/palet-europeo"},
+    {"type": "citation", "text": "Palletizing and load securing tips (Jungheinrich AG, 2024) - Tipps: gleichmäßige Gewichtsverteilung, kein Überstand, Verzahnung, Sicherung mit Stretchfolie oder Umreifung.", "author": "Jungheinrich ProfiGuide", "url": "https://profi-guide.jungheinrich.com/palletizing-best-practices"},
+    {"type": "citation", "text": "European best practice guidelines on cargo securing (European Union, 2014) - Bis zu 25 % der Lkw-Unfälle hängen mit unzureichender Sicherung zusammen; Leitfaden zur Wahl der Mittel.", "author": "European Commission", "url": "https://ec.europa.eu/transport/road_safety/topics/cargo-securing-guidelines_en"},
+    {"type": "citation", "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Kühlkette: Vorkühlen der Ware und des Aufliegers; regelmäßige Checks der Kühlung.", "author": "IAT Insurance Group", "url": "https://www.iatinsurancegroup.com/media/0sodtctn/230830_cargo_ebook_final.pdf"}
+  ],
+  "tags": [
+    "palettierung best practices",
+    "euro palette maße",
+    "verpackung straßengüterverkehr",
+    "paletten sichern im lkw",
+    "ladungssicherung europa",
+    "transportschäden vermeiden verpackung",
+    "paletten beladen richtlinien"
+  ]
+}
+

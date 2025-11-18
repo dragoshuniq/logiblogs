@@ -1,0 +1,63 @@
+{
+  "id": "packaging-and-palletization-best-practices-for-european-road-transport",
+  "shortId": "packaging-best-practices",
+  "language": "fr",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Emballage et palettisation : bonnes pratiques pour le transport routier européen",
+  "description": "Un emballage et une palettisation soignés sont essentiels au succès d'un transport routier. Même une tournée parfaite peut échouer si la marchandise bouge, casse ou s'affaisse à cause d'un empilage mal fait ou d'une sécurisation insuffisante...",
+  "publishedAt": "2024-12-29T00:00:00Z",
+  "category": "Opérations",
+  "author": {"name": "Logifie Team", "role": "Experts en technologies logistiques", "avatar": "/logos/slogo.png"},
+  "image": "packaging-palletization-hero.png",
+  "imageAlt": "Schéma en coupe d'une euro-palette avec motifs d'empilage recommandés et répartition des charges",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Un emballage et une palettisation adaptés protègent la marchandise et la chaîne logistique. Cet article présente les bonnes pratiques pour préparer les palettes, choisir les matériaux et sécuriser les charges afin de réduire les dommages et respecter les normes européennes.", "bold": false}]},
+    {"type": "image", "src": "packaging-palletization-visual.png", "alt": "Opérateurs d'entrepôt filmant et sanglant une palette mixte avant transport", "caption": "Film étirable et sangles verrouillent une euro-palette mixte avant le chargement linehaul."},
+    {"type": "heading", "level": 2, "text": "Spécifications de l'euro-palette"},
+    {"type": "paragraph", "children": [{"text": "L'euro-palette (EPAL) est la plus utilisée en Europe. Dimensions standard 1 200 mm x 800 mm x 144 mm, surface utile 0,96 m2 (Across Logistics, 2025). À vide, 22-25 kg selon l'humidité; capacité jusqu'à 1 500 kg en charge dynamique, 4 000 kg en empilement, 1 000 kg en rack (Across Logistics, 2025). Compatibilité assurée avec camions et conteneurs européens - deux palettes en travers ou trois dans la longueur en semi standard (Across Logistics, 2025).", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Techniques de palettisation"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Utiliser des palettes de qualité. Palettes intactes, sèches et conformes à l'ISPM-15 (traitement thermique contre les nuisibles).", "bold": false}],
+      [{"text": "Répartir le poids uniformément. Produits lourds en bas, cartons alignés aux bords, pas de débord. Un débord risque d'accrocher portes/remorques et d'encaisser les chocs.", "bold": false}],
+      [{"text": "Empiler en colonnes ou en quinconce. Les colonnes maximisent la portance mais sont moins stables; la quinconce lie les couches et stabilise. Pour charge mixte, préférer la quinconce (Jungheinrich AG, 2024).", "bold": false}],
+      [{"text": "Garder un centre de gravité bas. Produits lourds près de la base pour éviter le basculement.", "bold": false}],
+      [{"text": "Sécuriser la charge. Film étirable/thermo, sangles ou arrimages; cornières et protections d'arêtes répartissent la tension.", "bold": false}],
+      [{"text": "Étiqueter clairement. Indiquer consignes de manutention ('fragile', 'haut'), codes-barres et étiquettes sur plusieurs faces.", "bold": false}],
+      [{"text": "Éviter les vides. Caler les espaces internes et intercalaires avec du calage pour empêcher les mouvements.", "bold": false}],
+      [{"text": "Couvrir si besoin. Housses plastiques ou bâches contre l'humidité et la poussière.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Arrimage et aspects véhicule"},
+    {"type": "paragraph", "children": [{"text": "Jusqu'à 25 % des accidents impliquant des poids lourds sont liés à un arrimage insuffisant (European Union, 2014). Suivre les lignes directrices européennes protège conducteurs et usagers. Points clés :", "bold": false}]},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Employer des dispositifs adaptés. Sangles à cliquet, tapis antidérapants, coussins d'air et butées bloquent la charge.", "bold": false}],
+      [{"text": "Vérifier l'état du matériel. Remplacer les sangles usées ou abîmées.", "bold": false}],
+      [{"text": "Équilibrer la charge. Répartir le poids sur le véhicule pour éviter la surcharge d'essieux et améliorer la tenue de route.", "bold": false}],
+      [{"text": "Contrôler régulièrement. Le conducteur inspecte charge et arrimage à chaque arrêt et après manoeuvres brusques.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Bonnes pratiques par type de marchandise"},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Fragile : caler dans les cartons (mousse, coussins d'air); empiler en double seulement si cartons prévus pour.", "bold": false}],
+      [{"text": "Liquides : positionner fûts à la verticale; utiliser cloisons ou IBC pour éviter le ballottement.", "bold": false}],
+      [{"text": "Périssable : emballages isolés et froid selon ATP. Prérefrigerer la marchandise et la remorque à la température requise (IAT Insurance Group, 2023).", "bold": false}],
+      [{"text": "Dangereux (ADR) : emballages homologués, étiquetage avec classes de danger; conducteurs détenteurs du certificat ADR.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Conclusion : bien emballer pour bien livrer"},
+    {"type": "paragraph", "children": [{"text": "Une charge correctement emballée et palettisée voyage en sécurité, réduit les sinistres et améliore l'efficacité. En respectant les standards euro-palette, des techniques d'empilage robustes et un arrimage adéquat, les chargeurs minimisent les dommages et livrent intègre. Avec un partenaire comme Logifie, ces bonnes pratiques se mettent en oeuvre de manière homogène en Europe.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Sources"},
+    {"type": "citation", "text": "European pallet: dimensions, types and logistic uses (Across Logistics, 2025) - Dimensions standard (1 200 x 800 x 144 mm), capacités (1 500 kg dynamique, 4 000 kg statique) et historique EPAL.", "author": "Across Logistics", "url": "https://acrosslogistics.com/blog/en/palet-europeo"},
+    {"type": "citation", "text": "Palletizing and load securing tips (Jungheinrich AG, 2024) - Conseils : répartition du poids, pas de débord, empilage en quinconce, arrimage par film ou sangles.", "author": "Jungheinrich ProfiGuide", "url": "https://profi-guide.jungheinrich.com/palletizing-best-practices"},
+    {"type": "citation", "text": "European best practice guidelines on cargo securing (European Union, 2014) - Jusqu'à 25 % des accidents imputés à un arrimage insuffisant; guide de choix et d'emploi des dispositifs.", "author": "European Commission", "url": "https://ec.europa.eu/transport/road_safety/topics/cargo-securing-guidelines_en"},
+    {"type": "citation", "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Conseille de prérefroidir la marchandise réfrigérée et d'entretenir l'équipement de froid.", "author": "IAT Insurance Group", "url": "https://www.iatinsurancegroup.com/media/0sodtctn/230830_cargo_ebook_final.pdf"}
+  ],
+  "tags": [
+    "palettisation bonnes pratiques",
+    "dimensions euro-palette",
+    "emballage fret routier",
+    "arrimage palettes camion",
+    "arrimage charge europe",
+    "prévenir dégâts transport emballage",
+    "règles chargement palettes"
+  ]
+}
+

@@ -1,0 +1,63 @@
+{
+  "id": "packaging-and-palletization-best-practices-for-european-road-transport",
+  "shortId": "packaging-best-practices",
+  "language": "pt",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Embalagem e paletização: boas práticas para o transporte rodoviário europeu",
+  "description": "Uma boa embalagem e uma paletização correta são cruciais para o sucesso no transporte rodoviário. Mesmo a melhor rota falha se a carga se desloca, parte ou colapsa por empilhamento deficiente ou fixação inadequada...",
+  "publishedAt": "2024-12-29T00:00:00Z",
+  "category": "Operações",
+  "author": {"name": "Logifie Team", "role": "Especialistas em tecnologia logística", "avatar": "/logos/slogo.png"},
+  "image": "packaging-palletization-hero.png",
+  "imageAlt": "Esquema de uma euro-palete com padrões de empilhamento recomendados e distribuição de peso",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Embalagem e paletização adequadas protegem a carga e a eficiência. Este artigo compila boas práticas para preparar paletes, selecionar materiais e fixar cargas, reduzindo danos e cumprindo normas europeias.", "bold": false}]},
+    {"type": "image", "src": "packaging-palletization-visual.png", "alt": "Equipa de armazém envolve e cinta uma palete de carga mista antes do transporte", "caption": "Filme estirável e cintas travam uma euro-palete mista antes do linehaul."},
+    {"type": "heading", "level": 2, "text": "Especificações da euro-palete"},
+    {"type": "paragraph", "children": [{"text": "A euro-palete (EPAL) é a mais comum na Europa. Dimensões padrão 1.200 mm x 800 mm x 144 mm e 0,96 m2 úteis (Across Logistics, 2025). Peso em vazio 22-25 kg conforme humidade; capacidade até 1.500 kg dinâmica, 4.000 kg em pilha e 1.000 kg em estantes (Across Logistics, 2025). Compatível com camiões e contentores europeus; em semi padrão cabem duas de atravessado ou três no sentido do comprimento (Across Logistics, 2025).", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Técnicas de paletização"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Usar paletes de qualidade. Íntegras, secas e conformes ao ISPM-15 (tratamento térmico contra pragas).", "bold": false}],
+      [{"text": "Distribuir o peso uniformemente. Itens pesados em baixo, caixas alinhadas às bordas e sem saliências.", "bold": false}],
+      [{"text": "Empilhar em colunas ou intercalado. Colunas maximizam resistência mas são menos estáveis; o intercalado liga camadas e estabiliza. Em carga mista, preferir padrão intercalado (Jungheinrich AG, 2024).", "bold": false}],
+      [{"text": "Centro de gravidade baixo. Pesados junto à base da palete para evitar tombos.", "bold": false}],
+      [{"text": "Fixar a carga. Filme estirável/retrátil, cintas ou amarração; cantoneiras e protetores de aresta distribuem a tensão.", "bold": false}],
+      [{"text": "Etiquetar claramente. Instruções de manuseio ('frágil', 'este lado para cima'), códigos e etiquetas em várias faces.", "bold": false}],
+      [{"text": "Evitar folgas. Preencher vazios internos e entre camadas com enchimento para impedir movimentos.", "bold": false}],
+      [{"text": "Coberturas. Para sensíveis, usar capas plásticas/lonas contra humidade e pó.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Fixação da carga e veículo"},
+    {"type": "paragraph", "children": [{"text": "Fixação inadequada contribui até 25 % dos acidentes com pesados (European Union, 2014). Seguir diretrizes da UE protege condutores e terceiros. Pontos-chave:", "bold": false}]},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Usar dispositivos adequados. Cintas de catraca, tapetes antiderrapantes, airbags e travessas imobilizam a carga.", "bold": false}],
+      [{"text": "Verificar o estado. Substituir cintas gastas/danificadas.", "bold": false}],
+      [{"text": "Balancear a carga. Distribuir o peso pelo veículo para evitar sobrecarga de eixos e melhorar condução.", "bold": false}],
+      [{"text": "Inspecionar regularmente. O condutor revê carga e fixação em cada paragem e após manobras bruscas.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Boas práticas por tipo de carga"},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Frágeis: acolchoar dentro das caixas (espuma, almofadas de ar); empilhar em dobro só se as caixas o permitirem.", "bold": false}],
+      [{"text": "Líquidos: tambores na vertical; anteparas ou IBC para evitar balanços.", "bold": false}],
+      [{"text": "Perecíveis: contentores isolados e frio conforme ATP. Pré-arrefecer mercadoria e atrelado à temperatura requerida (IAT Insurance Group, 2023).", "bold": false}],
+      [{"text": "Perigosas (ADR): embalagem homologada e rótulos com classes de perigo; condutores com certificado ADR.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Conclusão: embalar bem para entregar bem"},
+    {"type": "paragraph", "children": [{"text": "Uma carga bem embalada e paletizada viaja segura, reduz sinistros e melhora a eficiência. Seguindo os padrões de euro-palete, técnicas sólidas de empilhamento e fixação adequada, os embarcadores minimizam danos e asseguram integridade na entrega. Com a Logifie, estas práticas aplicam-se de forma consistente em toda a Europa.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Fontes"},
+    {"type": "citation", "text": "European pallet: dimensions, types and logistic uses (Across Logistics, 2025) - Dimensões padrão (1.200 x 800 x 144 mm), capacidades (1.500 kg dinâmica, 4.000 kg estática) e histórico EPAL.", "author": "Across Logistics", "url": "https://acrosslogistics.com/blog/en/palet-europeo"},
+    {"type": "citation", "text": "Palletizing and load securing tips (Jungheinrich AG, 2024) - Dicas: distribuição de peso, evitar saliências, empilhamento intercalado, fixação com filme ou cintas.", "author": "Jungheinrich ProfiGuide", "url": "https://profi-guide.jungheinrich.com/palletizing-best-practices"},
+    {"type": "citation", "text": "European best practice guidelines on cargo securing (European Union, 2014) - Até 25 % dos acidentes associados a fixação deficiente; guia de equipamentos adequados.", "author": "European Commission", "url": "https://ec.europa.eu/transport/road_safety/topics/cargo-securing-guidelines_en"},
+    {"type": "citation", "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Frio: pré-arrefecer carga e atrelado; rever e manter o equipamento de frio.", "author": "IAT Insurance Group", "url": "https://www.iatinsurancegroup.com/media/0sodtctn/230830_cargo_ebook_final.pdf"}
+  ],
+  "tags": [
+    "paletização boas práticas",
+    "dimensões euro-palete",
+    "embalagem transporte rodoviário",
+    "como fixar paletes no camião",
+    "fixação de carga europa",
+    "evitar danos transporte embalagem",
+    "diretrizes de carregamento de paletes"
+  ]
+}
+
