@@ -1,22 +1,7 @@
 import sharp from "sharp";
 import fs from "fs/promises";
 import path from "path";
-
-// Specify folders to process (relative to blogs directory)
-const FOLDERS_TO_PROCESS = [
-  "blogs/[1]-cross-border",
-  "blogs/[2]-incoterms",
-  "blogs/[3]-ftl-groupage",
-  "blogs/[4]-transit-times",
-  "blogs/[5]-fuel-surcharges",
-  "blogs/[6]-seasonality",
-  "blogs/[7]-packaging-palletization",
-  "blogs/[8]-freight-forwarder",
-  "blogs/[9]-damage-claims",
-  "blogs/[10]-sustainability",
-  "blogs/[11]-ai-route-optimization",
-  "blogs/[12]-digital-forwarding",
-];
+import { FOLDERS_TO_PROCESS } from "./constants.js";
 
 async function optimizeImage(inputPath, outputPath) {
   const ext = path.extname(inputPath).toLowerCase();
