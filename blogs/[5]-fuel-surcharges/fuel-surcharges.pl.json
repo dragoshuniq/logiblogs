@@ -1,0 +1,52 @@
+{
+  "id": "how-fuel-surcharges-and-tolls-impact-your-freight-costs-in-europe",
+  "shortId": "fuel-surcharges-tolls",
+  "language": "pl",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Jak dopłaty paliwowe i opłaty drogowe wpływają na koszty frachtu w Europie",
+  "description": "Rosnące ceny diesla, podatki węglowe i rozszerzające się systemy opłat drogowych powodują duże wahania kosztów transportu z miesiąca na miesiąc. Dopłaty paliwowe i opłaty drogowe to dwa kluczowe czynniki kosztowe w europejskim transporcie drogowym...",
+  "publishedAt": "2024-12-15T00:00:00Z",
+  "category": "Finanse",
+  "author": {"name": "Logifie Team", "role": "Eksperci technologii logistycznych", "avatar": "/logos/slogo.png"},
+  "image": "fuel-surcharges-hero.png",
+  "imageAlt": "Schemat wyjaśniający, jak cena bazowa paliwa, wartości indeksów i procenty dopłat łączą się na fakturze przewozowej",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Rosnące ceny diesla, podatki od emisji CO2 i rozwój systemów opłat drogowych sprawiają, że koszty transportu są bardzo zmienne. Dopłaty paliwowe i myto to dwa ważne czynniki kosztowe w europejskim transporcie drogowym. Zrozumienie ich kalkulacji i sposobów zarządzania pomaga nadawcom kontrolować budżety i negocjować uczciwe stawki.", "bold": false}]},
+    {"type": "image", "src": "fuel-surcharges-visual.png", "alt": "Ciężarówka podjeżdża do europejskiej bramki poboru opłat; tablice elektroniczne pokazują stawki i opłaty CO2", "caption": "Bramki myta i sygnały cen CO2 pokazują, jak opłaty infrastrukturalne trafiają do pozycji dopłaty paliwowej."},
+    {"type": "heading", "level": 2, "text": "Czym jest dopłata paliwowa?"},
+    {"type": "paragraph", "children": [{"text": "To zmienna opłata doliczana do faktur za przewóz w celu kompensacji zmian cen diesla. Przewoźnicy liczą ją na podstawie różnicy między bieżącą ceną a ceną bazową, często używając indeksów publicznych. Gdy diesel drożeje – dopłata rośnie; gdy tanieje – spada.", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "W USA, w LTL, dopłata może stanowić do 30 % kosztu frachtu (Zero Down Supply Chain Solutions, 2025). W Europie poziomy różnią się między krajami. Blue Water Shipping podał w listopadzie 2025: 27,40 % w transporcie krajowym w Danii, 25 % w Szwecji i 60,30 % dla relacji z/ do Danii i reszty Europy (Blue Water Shipping A/S, 2025).", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Jak liczone są dopłaty"},
+    {"type": "paragraph", "children": [{"text": "Zwykle opierają się na: (1) cenie bazowej (np. EUR 1.00 za litr); (2) indeksie cen (np. Weekly Oil Bulletin KE); (3) formule zamieniającej odchylenie na dopłatę za km lub procent. Przykład: 0,5 % za każde EUR 0.01 powyżej ceny bazowej. Część przewoźników publikuje tabele dopłat; inni negocjują oddzielną pozycję.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Myto i opłaty środowiskowe"},
+    {"type": "paragraph", "children": [{"text": "Poza dopłatami paliwowymi nadawcy mierzą się z mytem i opłatami środowiskowymi. Badania Transport Intelligence, Upply i IRU wskazują, że myto stanowi ok. 14 % kosztów frachtu w Europie i do 23 % na niektórych trasach (Logistics Business, 2025). W zrewidowanej dyrektywie Eurovignette państwa UE zastępują winiety czasowe opłatami dystansowymi powiązanymi z emisją CO2 (Logistics Business, 2025). Niemcy wprowadziły w grudniu 2023 składnik CO2 na poziomie EUR 200/tonę CO2, niemal podwajając koszty (NOSTA Group, 2023).", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "Strefy niskiej emisji w miastach (Paryż, Berlin, Mediolan) nakładają dodatkowe opłaty na starsze pojazdy. Brak opłat lub niespełnienie norm emisyjnych skutkuje mandatami i zakłóceniami.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Jak ograniczać koszty paliwa i myta"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Optymalizować trasy i ładunki. Trasowanie i konsolidacja z wykorzystaniem AI zmniejszają puste przebiegi i zużycie paliwa. ORION (UPS) wyeliminował 100 mln mil i oszczędził 10 mln galonów rocznie.", "bold": false}],
+      [{"text": "Monitorować indeksy paliwowe. Śledzić indeksy i negocjować formuły dopłat z przewoźnikami. Część nadawców zabezpiecza paliwo kontraktami futures.", "bold": false}],
+      [{"text": "Stosować energooszczędne pojazdy. Inwestycje w Euro 6 lub elektryczne redukują zużycie i kary w strefach niskiej emisji.", "bold": false}],
+      [{"text": "Planuować zmiany w mycie. Być na bieżąco z nowymi systemami i dopłatami CO2; uwzględniać je w budżecie i planowaniu tras.", "bold": false}],
+      [{"text": "Konsolidować wysyłki. Groupage lub intermodal obniżają koszt jednostkowy przez podział paliwa i myta na wiele przesyłek.", "bold": false}],
+      [{"text": "Rozważać opcje multimodalne. Kolej lub short‑sea mogą dawać bardziej przewidywalne koszty na długich dystansach.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Wniosek: liczą się widoczność i planowanie"},
+    {"type": "paragraph", "children": [{"text": "Dopłaty paliwowe i myto mogą przesądzić o rentowności transportu drogowego. Rozumiejąc kalkulację, śledząc trendy cen i przewidując zmiany systemów, nadawcy proaktywnie zarządzają kosztami. Logifie wykorzystuje analitykę do optymalizacji tras i załadunku, pomagając ograniczać dopłaty i opłaty środowiskowe.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Źródła"},
+    {"type": "citation", "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Wyjaśnia, że dopłaty kompensują zmienność diesla; w LTL do 30 % i opisuje kalkulację.", "author": "Zero Down Supply Chain Solutions", "url": "https://zerodownsc.com/2025/09/fuel-surcharges/"},
+    {"type": "citation", "text": "Road transport surcharges and fees (November 2025) (Blue Water Shipping A/S, 2025) - Wymienia dopłaty w XI 2025: 27,40 % w DK, 25 % w SE i 60,30 % dla relacji z Europą.", "author": "Blue Water Shipping", "url": "https://www.bws.dk/surcharges-and-fees/"},
+    {"type": "citation", "text": "Tolls drive up European road transport prices (Logistics Business, 2025) - Wskazuje, że myto to ok. 14 % kosztów, do 23 %; państwa UE zastępują winiety czasowe opłatami dystansowymi związanymi z CO2 (Eurovignette).", "author": "Logistics Business Magazine", "url": "https://logisticsbusiness.com/transport-management/tolls-drive-up-european-road-transport-prices/"},
+    {"type": "citation", "text": "Germany introduces CO2 component to truck toll (NOSTA Group, 2023) - Informuje, że DE od 1.12.2023 dodały ~EUR 200/tonę CO2, niemal podwajając myto.", "author": "NOSTA Group", "url": "https://www.nosta-group.com/en/news/truck-toll-co2/"}
+  ],
+  "tags": [
+    "dopłata paliwowa transport drogowy",
+    "opłaty drogowe europa",
+    "myto ciężarówek niemcy",
+    "struktura kosztów frachtu",
+    "kalkulacja dopłaty paliwowej",
+    "ceny transportu drogowego europa",
+    "struktura kosztów logistyki"
+  ]
+}
+

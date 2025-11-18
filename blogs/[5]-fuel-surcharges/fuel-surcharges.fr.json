@@ -1,0 +1,56 @@
+{
+  "id": "how-fuel-surcharges-and-tolls-impact-your-freight-costs-in-europe",
+  "shortId": "fuel-surcharges-tolls",
+  "language": "fr",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Comment les surcharges carburant et les péages impactent vos coûts de fret en Europe",
+  "description": "La hausse du diesel, les taxes carbone et l'extension des systèmes de péage font fluctuer fortement les coûts de transport d'un mois à l'autre. Les surcharges carburant et les péages routiers sont deux moteurs majeurs de coûts en fret routier européen...",
+  "publishedAt": "2024-12-15T00:00:00Z",
+  "category": "Finance",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experts en technologies logistiques",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "fuel-surcharges-hero.png",
+  "imageAlt": "Schéma montrant comment prix de base du carburant, indices et pourcentages de surcharge se combinent sur une facture de fret",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "La hausse du diesel, les taxes carbone et l'extension des péages font varier fortement les coûts de transport. Les surcharges carburant et les péages routiers sont deux grands moteurs de coûts en fret routier européen. Comprendre leur calcul et leur pilotage aide les chargeurs à maîtriser les budgets et à négocier des tarifs équitables.", "bold": false}]},
+    {"type": "image", "src": "fuel-surcharges-visual.png", "alt": "Un camion approche une barrière de péage européenne; des panneaux digitaux affichent tarifs et surcharges CO2", "caption": "Les péages et signaux de tarification CO2 illustrent comment les frais d'infrastructure alimentent la ligne de surcharge carburant."},
+    {"type": "heading", "level": 2, "text": "Qu'est-ce qu'une surcharge carburant ?"},
+    {"type": "paragraph", "children": [{"text": "La surcharge carburant est une ligne variable ajoutée aux factures de fret pour compenser les variations du diesel. Les transporteurs la calculent selon l'écart entre le prix courant et un prix de base, souvent via des indices publics. Quand le diesel monte, la surcharge augmente; quand il baisse, elle diminue.", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "Aux États‑Unis, chez les transporteurs LTL, la surcharge peut représenter jusqu'à 30 % du coût de fret (Zero Down Supply Chain Solutions, 2025). En Europe, les niveaux varient selon le pays. En novembre 2025, Blue Water Shipping indiquait 27,40 % en domestique au Danemark, 25 % en Suède et 60,30 % pour des flux vers/depuis le Danemark et le reste de l'Europe (Blue Water Shipping A/S, 2025). Ces chiffres illustrent la volatilité et la spécificité locale.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Comment la surcharge est calculée"},
+    {"type": "paragraph", "children": [{"text": "Généralement, elle repose sur : (1) un prix de base (p. ex. EUR 1.00 par litre); (2) un indice de prix (p. ex. le Weekly Oil Bulletin de la Commission européenne); et (3) une formule convertissant l'écart en surcharge au km ou en pourcentage. Par exemple, appliquer 0,5 % par EUR 0.01 au‑dessus du prix de base. Certains publient des barèmes; d'autres négocient une ligne dédiée.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Péages et redevances environnementales"},
+    {"type": "paragraph", "children": [{"text": "Outre la surcharge carburant, les chargeurs doivent composer avec les péages routiers et des redevances environnementales. Des travaux de Transport Intelligence, Upply et l'IRU estiment que les péages pèsent env. 14 % des coûts de fret en Europe, jusqu'à 23 % sur certains axes (Logistics Business, 2025). Révisée, la directive Eurovignette remplace les vignettes temporelles par des péages au kilomètre liés aux émissions de CO2 (Logistics Business, 2025). L'Allemagne a introduit en décembre 2023 une composante CO2 de EUR 200 par tonne de CO2, quasi doublant la facture de péage (NOSTA Group, 2023).", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "Les zones à faibles émissions (Paris, Berlin, Milan) ajoutent des coûts pour les véhicules anciens. Le non‑paiement des péages ou le non‑respect des normes d'émissions entraîne des amendes et des perturbations.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Réduire les coûts de carburant et de péage"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Optimiser routes et chargements. Le routage et la consolidation pilotés par l'IA réduisent les kilomètres à vide et économisent du carburant. ORION (UPS) a supprimé 100 M de miles et économisé 10 M de gallons/an, réduisant émissions et coûts.", "bold": false}],
+      [{"text": "Suivre les indices carburant. Surveiller les indices et négocier les formules de surcharge avec les transporteurs. Certains chargeurs se couvrent via des contrats à terme.", "bold": false}],
+      [{"text": "Utiliser des véhicules sobres. Investir dans des camions Euro 6 ou électriques réduit la consommation et évite des pénalités en zones à faibles émissions.", "bold": false}],
+      [{"text": "Anticiper l'évolution des péages. Rester informé des systèmes et surcharges CO2; les intégrer aux budgets et à la planification.", "bold": false}],
+      [{"text": "Consolider les envois. Le groupage ou l'intermodal répartit les coûts carburant/péages entre plusieurs expéditions et baisse le coût unitaire.", "bold": false}],
+      [{"text": "Considérer le multimodal. Le rail ou le short‑sea peuvent offrir des coûts plus prévisibles sur longue distance.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Conclusion : visibilité et planification"},
+    {"type": "paragraph", "children": [{"text": "Les surcharges carburant et les péages peuvent décider de la rentabilité d'un envoi routier. En comprenant leur calcul, en suivant les tendances de prix et en anticipant les changements de péage, les chargeurs gèrent les coûts de manière proactive. Des prestataires modernes comme Logifie utilisent l'analytique pour optimiser routes et chargements et atténuer surcharges et redevances environnementales.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Sources"},
+    {"type": "citation", "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Explique que la surcharge carburant compense la volatilité du diesel; note jusqu'à 30 % en LTL et détaille le calcul.", "author": "Zero Down Supply Chain Solutions", "url": "https://zerodownsc.com/2025/09/fuel-surcharges/"},
+    {"type": "citation", "text": "Road transport surcharges and fees (November 2025) (Blue Water Shipping A/S, 2025) - Liste les surcharges de novembre 2025, dont 27,40 % domestique au Danemark, 25 % en Suède et 60,30 % pour des liaisons avec l'Europe.", "author": "Blue Water Shipping", "url": "https://www.bws.dk/surcharges-and-fees/"},
+    {"type": "citation", "text": "Tolls drive up European road transport prices (Logistics Business, 2025) - Indique que les péages pèsent ~14 % des coûts, jusqu'à 23 % sur certains axes; les États de l'UE remplacent les vignettes temporelles par des péages liés au CO2 (directive Eurovignette).", "author": "Logistics Business Magazine", "url": "https://logisticsbusiness.com/transport-management/tolls-drive-up-european-road-transport-prices/"},
+    {"type": "citation", "text": "Germany introduces CO2 component to truck toll (NOSTA Group, 2023) - Annonce l'ajout d'une composante CO2 d'env. EUR 200/tonne de CO2 au 1er décembre 2023, quasiment un doublement du péage.", "author": "NOSTA Group", "url": "https://www.nosta-group.com/en/news/truck-toll-co2/"}
+  ],
+  "tags": [
+    "surcharge carburant fret routier",
+    "péages routiers europe",
+    "péage poids lourds allemagne",
+    "décomposition des coûts de fret",
+    "calcul surcharge carburant",
+    "tarification fret routier europe",
+    "structure des coûts logistiques"
+  ]
+}
+

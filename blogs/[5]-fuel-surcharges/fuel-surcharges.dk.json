@@ -1,0 +1,52 @@
+{
+  "id": "how-fuel-surcharges-and-tolls-impact-your-freight-costs-in-europe",
+  "shortId": "fuel-surcharges-tolls",
+  "language": "dk",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Hvordan brændstoftillæg og vejafgifter påvirker dine transportomkostninger i Europa",
+  "description": "Stigende dieselpriser, CO2‑afgifter og udbyggede vejafgiftssystemer får transportomkostninger til at svinge kraftigt fra måned til måned. Brændstoftillæg og vejafgifter er to store kostdrivere i europæisk vejtransport...",
+  "publishedAt": "2024-12-15T00:00:00Z",
+  "category": "Økonomi",
+  "author": {"name": "Logifie Team", "role": "Eksperter i logistikteknologi", "avatar": "/logos/slogo.png"},
+  "image": "fuel-surcharges-hero.png",
+  "imageAlt": "Diagram der viser, hvordan basis brændstofpris, indeks og tillægsprocenter slår igennem på en fragtfaktura",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Stigende dieselpriser, klimaafgifter og vejafgifter gør omkostningsbilledet volatilt. Brændstoftillæg og vejafgifter er to centrale kostdrivere i europæisk vejtransport. Forståelse af beregningen og styringen hjælper afsendere med at holde budgetter og forhandle fair priser.", "bold": false}]},
+    {"type": "image", "src": "fuel-surcharges-visual.png", "alt": "Lastbil nærmer sig en europæisk betalingsanlæg; digitale skilte viser takster og CO2‑tillæg", "caption": "Betalingsanlæg og CO2‑prisning illustrerer, hvordan infrastrukturafgifter ender på linjen brændstoftillæg."},
+    {"type": "heading", "level": 2, "text": "Hvad er et brændstoftillæg?"},
+    {"type": "paragraph", "children": [{"text": "En variabel afgift tilføjet fragtfakturaer for at udligne udsving i dieselprisen. Transportører beregner tillægget ud fra forskellen mellem aktuel pris og en basispris, ofte via offentlige indeks. Stiger prisen, stiger tillægget; falder den, falder tillægget.", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "I USA kan tillægget i LTL udgøre op til 30 % af fragtomkostningen (Zero Down Supply Chain Solutions, 2025). I Europa varierer niveauerne pr. land. Blue Water Shipping oplyste i november 2025: 27,40 % på indenrigs DK, 25 % i SE og 60,30 % for trafik til/fra DK og resten af Europa (Blue Water Shipping A/S, 2025).", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Sådan beregnes tillægget"},
+    {"type": "paragraph", "children": [{"text": "Typisk baseret på: (1) en basispris (f.eks. EUR 1.00/liter); (2) et prisindeks (f.eks. EU‑Kommissionens Weekly Oil Bulletin); (3) en formel, der omsætter afvigelsen til et km‑ eller procenttillæg. Eksempel: 0,5 % pr. EUR 0.01 over basispris. Nogle publicerer skemaer; andre forhandler en særskilt linje.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Vejafgifter og miljøafgifter"},
+    {"type": "paragraph", "children": [{"text": "Ud over brændstoftillæg skal afsendere håndtere vejafgifter og miljøafgifter. Transport Intelligence, Upply og IRU vurderer, at vejafgifter udgør ca. 14 % af fragtomkostningerne i Europa, op til 23 % på visse ruter (Logistics Business, 2025). Med det reviderede Eurovignette‑direktiv erstattes tidsbaserede vignetter af distancebaserede afgifter knyttet til CO2‑udledning (Logistics Business, 2025). Tyskland indførte i december 2023 en CO2‑komponent på EUR 200 pr. ton CO2 og næsten fordoblede omkostningen (NOSTA Group, 2023).", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "Lavemissionszoner i byer som Paris, Berlin og Milano medfører ekstra afgifter for ældre køretøjer. Manglende betaling eller efterlevelse giver bøder og driftsforstyrrelser.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Sådan dæmper du brændstof- og vejafgifter"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Optimér ruter og belægning. AI‑drevet ruteplanlægning og konsolidering reducerer tomkilometer og brændstofforbrug. ORION (UPS) har fjernet 100 mio. miles og sparet 10 mio. gallons årligt.", "bold": false}],
+      [{"text": "Overvåg brændstofindeks. Følg indeks og forhandl tillægsformler med transportører. Nogle afdækker brændstof via futures.", "bold": false}],
+      [{"text": "Brug energieffektive køretøjer. Investering i Euro 6 eller el reducerer forbrug og undgår afgifter i lavemissionszoner.", "bold": false}],
+      [{"text": "Planlæg for afgiftsændringer. Hold dig orienteret om nye systemer og CO2‑tillæg; indregn dem i budget og planlægning.", "bold": false}],
+      [{"text": "Konsolidér forsendelser. Groupage eller intermodal fordeler brændstof‑ og vejafgifter og sænker enhedsomkostning.", "bold": false}],
+      [{"text": "Overvej multimodalt. Bane eller short‑sea kan være mere forudsigeligt på lange stræk.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Konklusion: synlighed og planlægning"},
+    {"type": "paragraph", "children": [{"text": "Brændstoftillæg og vejafgifter kan afgøre lønsomheden i vejtransport. Ved at forstå beregning, følge prisudvikling og forudse ændringer kan afsendere styre omkostninger proaktivt. Logifie bruger analytics til at optimere ruter og belægning og dæmpe tillæg og miljøafgifter.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Kilder"},
+    {"type": "citation", "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Forklarer, at tillæg kompenserer dieselvolatilitet; i LTL op til 30 %; beskriver beregning.", "author": "Zero Down Supply Chain Solutions", "url": "https://zerodownsc.com/2025/09/fuel-surcharges/"},
+    {"type": "citation", "text": "Road transport surcharges and fees (November 2025) (Blue Water Shipping A/S, 2025) - Oplistning for nov. 2025: 27,40 % DK indenrigs, 25 % SE og 60,30 % for Europa‑trafik.", "author": "Blue Water Shipping", "url": "https://www.bws.dk/surcharges-and-fees/"},
+    {"type": "citation", "text": "Tolls drive up European road transport prices (Logistics Business, 2025) - Angiver, at vejafgifter ~14 %, op til 23 %; EU går til distancebaseret CO2‑knyttet afgift (Eurovignette).", "author": "Logistics Business Magazine", "url": "https://logisticsbusiness.com/transport-management/tolls-drive-up-european-road-transport-prices/"},
+    {"type": "citation", "text": "Germany introduces CO2 component to truck toll (NOSTA Group, 2023) - Oplyser, at DE fra 1/12/2023 tilføjede ~EUR 200/ton CO2, næsten en fordobling.", "author": "NOSTA Group", "url": "https://www.nosta-group.com/en/news/truck-toll-co2/"}
+  ],
+  "tags": [
+    "brændstoftillæg vejtransport europa",
+    "vejafgifter europa",
+    "lastbilsafgift tyskland",
+    "omkostningsstruktur fragt",
+    "beregning brændstoftillæg",
+    "prissætning vejtransport europa",
+    "logistik omkostningsstruktur"
+  ]
+}
+

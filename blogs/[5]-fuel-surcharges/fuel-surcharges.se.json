@@ -1,0 +1,51 @@
+{
+  "id": "how-fuel-surcharges-and-tolls-impact-your-freight-costs-in-europe",
+  "shortId": "fuel-surcharges-tolls",
+  "language": "se",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Hur bränsletillägg och vägtullar påverkar dina transportkostnader i Europa",
+  "description": "Stigande dieselpriser, koldioxidskatter och utbyggda vägtullsystem gör att transportkostnaderna kan variera kraftigt från månad till månad. Bränsletillägg och vägtullar är två stora kostnadsdrivare i europeisk vägtransport...",
+  "publishedAt": "2024-12-15T00:00:00Z",
+  "category": "Ekonomi",
+  "author": {"name": "Logifie Team", "role": "Experter på logistikteknik", "avatar": "/logos/slogo.png"},
+  "image": "fuel-surcharges-hero.png",
+  "imageAlt": "Schema som visar hur baspris för bränsle, index och tilläggsprocent samverkar på en fraktfaktura",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Stigande dieselpriser, koldioxidskatter och vägtullar gör kostnadsbilden volatil. Bränsletillägg och vägtullar är två centrala kostnadsdrivare i europeisk vägtransport. Genom att förstå hur de beräknas och styrs kan avsändare hålla budget och förhandla rättvisa priser.", "bold": false}]},
+    {"type": "image", "src": "fuel-surcharges-visual.png", "alt": "Lastbil närmar sig en europeisk tullstation; digitala skyltar visar tulltaxor och CO2-tillägg", "caption": "Tullstationer och CO2-prissignaler visar hur infrastrukturavgifter hamnar på raden bränsletillägg."},
+    {"type": "heading", "level": 2, "text": "Vad är ett bränsletillägg?"},
+    {"type": "paragraph", "children": [{"text": "En rörlig avgift som läggs på fraktfakturor för att kompensera dieselprisets svängningar. Transportörer beräknar den utifrån skillnaden mellan aktuellt pris och ett baspris, ofta med offentliga index. När dieselpriset stiger ökar tillägget; när det sjunker minskar det.", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "I USA kan tillägget inom LTL uppgå till 30 % av fraktkostnaden (Zero Down Supply Chain Solutions, 2025). I Europa varierar nivåerna per land. Blue Water Shipping rapporterade i november 2025: 27,40 % inrikes i Danmark, 25 % i Sverige och 60,30 % för flöden till/från Danmark och övriga Europa (Blue Water Shipping A/S, 2025).", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Hur tillägget beräknas"},
+    {"type": "paragraph", "children": [{"text": "Vanligtvis baserat på: (1) ett baspris (t.ex. EUR 1.00 per liter); (2) ett prisindex (t.ex. EU‑kommissionens Weekly Oil Bulletin); (3) en formel som omvandlar avvikelsen till km‑ eller procentsats. Exempel: 0,5 % för varje EUR 0.01 över baspris. Vissa publicerar tabeller; andra förhandlar en separat rad.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Vägtullar och miljöavgifter"},
+    {"type": "paragraph", "children": [{"text": "Utöver bränsletillägg tillkommer vägtullar och miljöavgifter. Studier av Transport Intelligence, Upply och IRU visar att tullar står för cirka 14 % av fraktkostnaderna i Europa, upp till 23 % på vissa sträckor (Logistics Business, 2025). Med reviderade Eurovignette‑direktivet ersätts tidsvinjetter av avståndsbaserade tullar kopplade till CO2 (Logistics Business, 2025). Tyskland införde i december 2023 en CO2‑komponent på EUR 200 per ton CO2, vilket nästan fördubblade kostnaden (NOSTA Group, 2023).", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "Lågemissionszoner i städer som Paris, Berlin och Milano innebär extra avgifter för äldre fordon. Obetalda tullar eller brott mot emissionskrav ger böter och störningar.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Minska bränsle- och tullkostnader"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Optimera rutter och fyllnadsgrad. AI‑styrd ruttplanering och konsolidering minskar tomkilometer och spar bränsle. ORION (UPS) har eliminerat 100 M mil och sparat 10 M gallon/år.", "bold": false}],
+      [{"text": "Följ bränsleindex. Spåra index och förhandla tilläggsformler med transportörer. Vissa säkrar bränsle via terminer.", "bold": false}],
+      [{"text": "Använd energieffektiva fordon. Investeringar i Euro 6 eller el minskar förbrukning och undviker avgifter i LEZ.", "bold": false}],
+      [{"text": "Planera för tulländringar. Håll koll på nya system och CO2‑tillägg; ta höjd i budget och planering.", "bold": false}],
+      [{"text": "Konsolidera försändelser. Groupage eller intermodalt sprider bränsle‑ och tullkostnader och sänker styckkostnad.", "bold": false}],
+      [{"text": "Överväg multimodalt. Järnväg eller short‑sea kan vara mer förutsägbart på långa sträckor.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Slutsats: transparens och planering"},
+    {"type": "paragraph", "children": [{"text": "Bränsletillägg och vägtullar kan avgöra lönsamheten i en vägtransport. Genom att förstå beräkningen, följa bränsletrender och förutse tullförändringar kan avsändare styra kostnader proaktivt. Logifie använder analys för att optimera rutter och fyllnadsgrad och dämpa tillägg och miljöavgifter.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Källor"},
+    {"type": "citation", "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Förklarar att tillägg kompenserar dieselvolatilitet; inom LTL upp till 30 % och beskriver beräkningen.", "author": "Zero Down Supply Chain Solutions", "url": "https://zerodownsc.com/2025/09/fuel-surcharges/"},
+    {"type": "citation", "text": "Road transport surcharges and fees (November 2025) (Blue Water Shipping A/S, 2025) - Listar tillägg i nov 2025: 27,40 % DK inrikes, 25 % SE och 60,30 % för Europa‑flöden.", "author": "Blue Water Shipping", "url": "https://www.bws.dk/surcharges-and-fees/"},
+    {"type": "citation", "text": "Tolls drive up European road transport prices (Logistics Business, 2025) - Anger att tullar står för ~14 %, upp till 23 %; EU ersätter tidsvinjetter med avståndstullar kopplade till CO2 (Eurovignette).", "author": "Logistics Business Magazine", "url": "https://logisticsbusiness.com/transport-management/tolls-drive-up-european-road-transport-prices/"},
+    {"type": "citation", "text": "Germany introduces CO2 component to truck toll (NOSTA Group, 2023) - Meddelar att DE från 1 dec 2023 lade till ~EUR 200/ton CO2, nästan en fördubbling.", "author": "NOSTA Group", "url": "https://www.nosta-group.com/en/news/truck-toll-co2/"}
+  ],
+  "tags": [
+    "bränsletillägg vägtransport europa",
+    "vägtullar europa",
+    "lastbilstull tyskland",
+    "kostnadsstruktur frakt",
+    "beräkning bränsletillägg",
+    "prissättning vägtransport europa",
+    "logistikkostnadsstruktur"
+  ]
+}

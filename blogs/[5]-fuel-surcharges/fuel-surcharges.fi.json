@@ -1,0 +1,51 @@
+{
+  "id": "how-fuel-surcharges-and-tolls-impact-your-freight-costs-in-europe",
+  "shortId": "fuel-surcharges-tolls",
+  "language": "fi",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Miten polttoainelisät ja tietullit vaikuttavat kuljetuskustannuksiisi Euroopassa",
+  "description": "Nousevat dieselhinnat, hiiliverot ja laajenevat tietullijärjestelmät saavat kuljetuskustannukset heilahtelemaan voimakkaasti kuukaudesta toiseen. Polttoainelisät ja tietullit ovat kaksi merkittävää kustannustekijää eurooppalaisessa maantiekuljetuksessa...",
+  "publishedAt": "2024-12-15T00:00:00Z",
+  "category": "Talous",
+  "author": {"name": "Logifie Team", "role": "Logistiikkateknologian asiantuntijat", "avatar": "/logos/slogo.png"},
+  "image": "fuel-surcharges-hero.png",
+  "imageAlt": "Kaavio, jossa peruspolttoainehinta, indeksit ja lisäysprosentit yhdistyvät rahtilaskulla",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Dieselin hinnan nousu, hiiliverot ja tietullit tekevät kustannuksista volatiileja. Polttoainelisät ja tietullit ovat kaksi keskeistä kustannustekijää Euroopan maantiekuljetuksissa. Ymmärtämällä, miten ne lasketaan ja miten niitä hallitaan, lähettäjät pitävät budjetit kurissa ja neuvottelevat reilut hinnat.", "bold": false}]},
+    {"type": "image", "src": "fuel-surcharges-visual.png", "alt": "Kuorma-auto lähestyy eurooppalaista tietullia; digitaaliset taulut näyttävät tullihinnat ja CO2-lisät", "caption": "Tietullit ja CO2-hinnoittelu näyttävät, miten infrastruktuurimaksut näkyvät polttoainelisärivillä."},
+    {"type": "heading", "level": 2, "text": "Mikä on polttoainelisä?"},
+    {"type": "paragraph", "children": [{"text": "Se on muuttuva maksu, joka lisätään rahtilaskuille dieselin hintavaihtelun kompensoimiseksi. Kuljetusliikkeet laskevat sen nykyhinnan ja perushinnan erotuksen perusteella, usein julkisia indeksejä käyttäen. Kun diesel kallistuu, lisä nousee; kun halpenee, laskee.", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "Yhdysvalloissa LTL-toimijoilla lisä voi olla jopa 30 % rahtikustannuksesta (Zero Down Supply Chain Solutions, 2025). Euroopassa tasot vaihtelevat maittain. Marraskuussa 2025 Blue Water Shipping raportoi: 27,40 % kotimaan kuljetuksissa Tanskassa, 25 % Ruotsissa ja 60,30 % Tanskan ja muun Euroopan välillä (Blue Water Shipping A/S, 2025).", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Miten lisä lasketaan"},
+    {"type": "paragraph", "children": [{"text": "Tyypillisesti perustuu: (1) perushintaan (esim. EUR 1.00/l); (2) hintaindeksiin (esim. EU-komission Weekly Oil Bulletin); (3) kaavaan, joka muuntaa poikkeaman km-kohtaiseksi tai prosentuaaliseksi lisäksi. Esim. 0,5 % jokaista EUR 0.01 perushinnan ylitystä kohti. Osa julkaisee taulukot; osa neuvottelee erillisen rivin.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Tietullit ja ympäristömaksut"},
+    {"type": "paragraph", "children": [{"text": "Polttoainelisän lisäksi on huomioitava tietullit ja ympäristöperusteiset maksut. Transport Intelligence, Upply ja IRU arvioivat, että tietullit ovat noin 14 % Euroopan rahtikustannuksista, jopa 23 % joillakin reiteillä (Logistics Business, 2025). Uudistetun Eurovignette-direktiivin myötä EU-maat siirtyvät aikaan perustuvista vinjeteistä matkaan perustuviin, CO2-sidonnaisiin tietulleihin (Logistics Business, 2025). Saksa otti joulukuussa 2023 käyttöön EUR 200/tonni CO2-komponentin, lähes tuplaten kustannukset (NOSTA Group, 2023).", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "Päästövyöhykkeet kaupungeissa (Pariisi, Berliini, Milano) aiheuttavat lisämaksuja vanhemmille ajoneuvoille. Tullien laiminlyönti tai päästövaatimusten rikkominen johtaa sakkoihin ja häiriöihin.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Miten pienennät polttoaine- ja tietullikuluja"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Optimoi reitit ja täyttöaste. AI-ohjattu reititys ja konsolidointi vähentävät tyhjiä kilometrejä ja säästävät polttoainetta. ORION (UPS) on poistanut 100 M mailia ja säästänyt 10 M gallonaa/vuosi.", "bold": false}],
+      [{"text": "Seuraa hintaindeksejä. Seuraa indeksejä ja neuvottele lisäkaavoista kuljetusliikkeiden kanssa. Osa suojaa polttoaineen futuureilla.", "bold": false}],
+      [{"text": "Käytä energiatehokkaita ajoneuvoja. Euro 6 tai sähkö vähentävät kulutusta ja välttävät maksut vähäpäästövyöhykkeillä.", "bold": false}],
+      [{"text": "Varaudu muutoksiin. Pysy ajan tasalla uusista järjestelmistä ja CO2-lisistä; huomioi ne budjetissa ja reitityksessä.", "bold": false}],
+      [{"text": "Konsolidoi lähetykset. Groupage tai intermodaali jakavat polttoaine- ja tietullikulut ja laskevat yksikkökustannusta.", "bold": false}],
+      [{"text": "Hyödynnä multimodaalia. Rautatie tai short-sea voi tarjota ennustettavammat kustannukset pitkillä matkoilla.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Johtopäätös: näkyvyys ja suunnittelu"},
+    {"type": "paragraph", "children": [{"text": "Polttoainelisät ja tietullit voivat ratkaista maantiekuljetuksen kannattavuuden. Ymmärtämällä laskennan, seuraamalla hintatrendejä ja ennakoimalla muutoksia lähettäjät hallitsevat kuluja proaktiivisesti. Logifie käyttää analytiikkaa reittien ja täyttöasteen optimointiin ja lisien pienentämiseen.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Lähteet"},
+    {"type": "citation", "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Selittää, että lisä kompensoi dieselin volatiliteettia; LTL:ssä jopa 30 % ja kuvaa laskentaa.", "author": "Zero Down Supply Chain Solutions", "url": "https://zerodownsc.com/2025/09/fuel-surcharges/"},
+    {"type": "citation", "text": "Road transport surcharges and fees (November 2025) (Blue Water Shipping A/S, 2025) - Luettelee marraskuu 2025 lisät: 27,40 % DK kotimaa, 25 % SE ja 60,30 % Eurooppa-virroille.", "author": "Blue Water Shipping", "url": "https://www.bws.dk/surcharges-and-fees/"},
+    {"type": "citation", "text": "Tolls drive up European road transport prices (Logistics Business, 2025) - Toteaa, että tietullit ~14 %, jopa 23 %; EU siirtyy CO2‑sidonnaisiin matkapohjaisiin maksuihin (Eurovignette).", "author": "Logistics Business Magazine", "url": "https://logisticsbusiness.com/transport-management/tolls-drive-up-european-road-transport-prices/"},
+    {"type": "citation", "text": "Germany introduces CO2 component to truck toll (NOSTA Group, 2023) - Ilmoittaa, että DE lisäsi 1.12.2023 ~EUR 200/tonni CO2, lähes tuplaus.", "author": "NOSTA Group", "url": "https://www.nosta-group.com/en/news/truck-toll-co2/"}
+  ],
+  "tags": [
+    "polttoainelisä maantiekuljetus eurooppa",
+    "tietullit eurooppa",
+    "kuorma-auton tullit saksa",
+    "rahtikustannusten rakenne",
+    "polttoainelisän laskenta",
+    "maantiekuljetuksen hinnoittelu eurooppa",
+    "logistiikan kustannusrakenne"
+  ]
+}
