@@ -1,0 +1,213 @@
+{
+  "id": "understanding-transit-times-in-european-road-freight",
+  "shortId": "transit-times-road-freight",
+  "language": "de",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Transitzeiten im europäischen Straßengüterverkehr verstehen",
+  "description": "Pünktliche Lieferung ist entscheidend für die Kundenzufriedenheit, doch die Prognose von Transitzeiten im vielfältigen europäischen Straßennetz ist komplex. Distanzen, Lenk- und Ruhezeiten, Staus und Grenzformalitäten beeinflussen...",
+  "publishedAt": "2024-12-08T00:00:00Z",
+  "category": "Transport",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experten für Logistiktechnologie",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "transit-times-hero.png",
+  "imageAlt": "Karte Europas mit wichtigen Straßenkorridoren und typischen Transitzeiten, dazu Uhren- und Rastplatzsymbole",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Pünktliche Lieferung ist fundamental für die Kundenzufriedenheit, doch die Vorhersage von Transitzeiten im europäischen Straßennetz ist anspruchsvoll. Entfernung, Fahrerregelungen, Staus und Grenzformalitäten bestimmen, wie lange eine Sendung bis zum Ziel braucht. Dieser Artikel erklärt die Einflussfaktoren, nennt typische Lieferfenster und gibt Tipps, wie sich Erwartungen im europäischen Straßengüterverkehr managen lassen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "transit-times-visual.png",
+      "alt": "Lkw fährt über verschneiten Gebirgspass und zeigt, wie Wetter und Gelände die Transitzeit verlängern",
+      "caption": "Verschneiter Gebirgskorridor verdeutlicht, wie Geografie und Wetter Zeitpläne strecken."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Faktoren, die die Transitzeit beeinflussen"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Distanz und Geografie. Offensichtlich, aber entscheidend: Eine Sendung von Warschau nach Berlin (600 km) kommt schneller an als von Warschau nach Lissabon (3.100 km). Gebirge, Fährverbindungen und Mautstraßen können die Laufzeit verlängern.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Lenk- und Ruhezeiten. EU-Regeln begrenzen Fahrer auf 9 Stunden pro Tag (10 Stunden zweimal pro Woche) und 56 Stunden pro Woche, mit 45 Minuten Pause nach 4,5 Stunden sowie täglichen/wöchentlichen Ruhezeiten (European Union, 2024). Diese Grenzen bedeuten, dass ein Lkw nicht nonstop durch Europa fahren kann.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Servicemodell (FTL vs. Groupage). Dedizierte FTL-Verkehre fahren direkt von A nach B. Transporter bis 3,5 Tonnen schaffen bis zu 700 km pro Tag (Lieferung am nächsten Tag), 700-1.500 km in zwei Tagen und über 1.500 km in 3-4 Tagen (Visline Sp. z o.o., 2024). FTL-Lkw (bis 24 Tonnen) schaffen 550 km am nächsten Tag, 550-1.300 km in zwei Tagen und 1.500 km in 3-4 Tagen (Visline Sp. z o.o., 2024). Teilladungen und Groupage benötigen oft 3-6 Tage, unabhängig von der Distanz (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Grenzkontrollen und Zoll. Auch innerhalb der EU kann das Überqueren von Nicht-Schengen-Grenzen (z.B. Polen-Ukraine oder Spanien-Marokko) Zollkontrollen bedeuten und Stunden oder Tage hinzufügen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Verkehr und Infrastruktur. Staus in Ballungsräumen, Baustellen, saisonale Sperrungen (z.B. Alpenpässe im Winter) und Fährfahrpläne beeinflussen die Terminierung.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Wetter und Störungen. Schneestürme, Überschwemmungen, Streiks oder geopolitische Ereignisse können erhebliche Verzögerungen verursachen. Puffer und Notfallpläne sind entscheidend.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Typische Beispiele für Transitzeiten"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Innerhalb der EU, dedizierter Transporter: Bis 700 km - nächster Tag; 700-1.500 km - zwei Tage; über 1.500 km - 3-4 Tage (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Innerhalb der EU, FTL-Lkw: Bis 550 km - nächster Tag; 550-1.300 km - zwei Tage; über 1.500 km - 3-4 Tage (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Groupage/Teilladungen: Typischerweise 3-6 Tage, unabhängig von der Entfernung (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Dies sind Richtwerte; die tatsächlichen Zeiten variieren je nach den oben genannten Faktoren.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Erwartungen steuern und Zuverlässigkeit erhöhen"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Realistische Laufzeiten kommunizieren. Veröffentlichte Transit-Tabellen als Basis nutzen, aber Lenkzeiten, Grenzwartezeiten und Peaks einrechnen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Um Spitzenzeiten und Feiertage herum planen. Sommerferien, Golden Week und Jahresendspitzen belasten Netze; Kapazitäten frühzeitig sichern.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sendungen in Echtzeit überwachen. Tracking und GPS schaffen Transparenz und ermöglichen proaktives Eingreifen bei Verzögerungen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sinnvoll konsolidieren. Für kleine Sendungen ist Groupage kosteneffizient, addiert aber Tage. Dringende Mengen nach Möglichkeit als FTL bündeln.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Multimodal nutzen. Bahn- oder Fährkombinationen können auf bestimmten Relationen schneller oder verlässlicher sein (z.B. über die Alpen oder den Ärmelkanal).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Mit erfahrenen Spediteuren zusammenarbeiten. Logifies Wissen über Straßennetze und Regulatorik hilft, realistische Zeitpläne zu planen und Ausnahmen zu managen.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fazit: Auf Planbarkeit hin planen"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transitzeiten im europäischen Straßengüterverkehr hängen von weit mehr als Kilometern ab. Lenkzeiten, Konsolidierungsmodelle, Infrastruktur und externe Einflüsse prägen Lieferpläne. Wer die Variablen versteht und eng mit Logistikpartnern zusammenarbeitet, kann realistische Erwartungen setzen, Sanktionen vermeiden und Lieferketten stabil halten.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Quellen"
+    },
+    {
+      "type": "citation",
+      "text": "Road transport workers: driving and rest time rules (European Union, 2024) - Erläutert EU-Vorgaben zu Lenk- und Ruhezeiten, inklusive maximaler Tages- und Wochenlenkzeiten sowie Pflichtpausen.",
+      "author": "European Commission",
+      "url": "https://europa.eu/youreurope/business/dealing-with-customers/transport/road-transport-workers/index_en.htm"
+    },
+    {
+      "type": "citation",
+      "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Liefert Richtwerte für dedizierte Transporter und FTL-Lkw: bis 700 km am nächsten Tag, 700-1.500 km in zwei Tagen, über 1.500 km in 3-4 Tagen für Transporter; bis 550 km am nächsten Tag und 550-1.300 km in zwei Tagen für FTL-Lkw.",
+      "author": "Visline Sp. z o.o.",
+      "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"
+    },
+    {
+      "type": "citation",
+      "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Vermerkt, dass Teil- und Groupage-Ladungen typischerweise 3-6 Tage benötigen, unabhängig von der Distanz, bedingt durch Konsolidierungs- und Dekonsolidierungspunkte.",
+      "author": "Visline Sp. z o.o.",
+      "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"
+    }
+  ],
+  "tags": [
+    "Transitzeiten Straßengüterverkehr Europa",
+    "Transitzeit Straßengüterverkehr Europa",
+    "Lieferzeiten Straßentransport",
+    "Faktoren Transitzeit Logistik",
+    "Durchlaufzeiten europäischer Straßentransport",
+    "realistische Lieferzusagen Logistik"
+  ]
+}
+

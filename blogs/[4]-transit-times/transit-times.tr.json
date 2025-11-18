@@ -1,0 +1,62 @@
+{
+  "id": "understanding-transit-times-in-european-road-freight",
+  "shortId": "transit-times-road-freight",
+  "language": "tr",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Avrupa karayolu taşımacılığında transit sürelerini anlamak",
+  "description": "Zamanında teslimat müşteri memnuniyeti için kritiktir, ancak Avrupa'nın çeşitli yol ağında transit sürelerini öngörmek zordur. Mesafeler, sürüş kuralları, trafik sıkışıklığı ve sınır formaliteleri etkiler...",
+  "publishedAt": "2024-12-08T00:00:00Z",
+  "category": "Taşımacılık",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Lojistik teknolojileri uzmanları",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "transit-times-hero.png",
+  "imageAlt": "Avrupa'nın ana yol koridorları ve tipik transit sürelerini gösteren harita, saat ve mola alanı simgeleriyle",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Zamanında teslimat esastır, ancak Avrupa'da transit sürelerini tahmin etmek zordur. Mesafe, sürücülerin sürüş ve dinlenme kuralları, trafik ve sınır formaliteleri bir sevkiyatın varış süresini belirler. Bu makale transit sürelerini etkileyen faktörleri açıklar, tipik teslimat aralıklarını verir ve Avrupa karayolu taşımacılığında beklenti yönetimi için ipuçları sunar.", "bold": false}]},
+    {"type": "image", "src": "transit-times-visual.png", "alt": "Bir kamyon karlı bir dağ geçidinden geçiyor; hava ve arazi koşullarının transit süresini uzattığını gösteriyor", "caption": "Karlı dağ koridoru, coğrafya ve havanın zamanlamaları nasıl uzattığını vurgular."},
+    {"type": "heading", "level": 2, "text": "Transit süresini etkileyen faktörler"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Mesafe ve coğrafya. Açık ama kritik: Varşova-Berlin (600 km) sevkiyatı, Varşova-Lizbon (3.100 km) sevkiyatından daha hızlı varır. Dağlık bölgeler, feribot geçişleri ve ücretli yollar transit süresini uzatabilir.", "bold": false}],
+      [{"text": "Sürüş ve dinlenme süreleri. AB kuralları sürüşü günde 9 saatle (haftada iki kez 10 saat) ve haftada 56 saatle sınırlar; 4,5 saatin ardından 45 dakikalık mola ve günlük/haftalık dinlenme zorunludur (European Union, 2024). Bu kısıtlar Avrupa'yı durmaksızın kat etmeyi engeller.", "bold": false}],
+      [{"text": "Hizmet türü (FTL vs grupaj). Adanmış FTL hizmetleri doğrudan çıkıştan varışa gider. 3,5 tona kadar vanlar günde 700 km'ye kadar (ertesi gün teslim), 700-1.500 km'yi iki günde ve 1.500 km üzerini 3-4 günde tamamlar (Visline Sp. z o.o., 2024). FTL kamyonları (24 tona kadar) 550 km'yi ertesi gün, 550-1.300 km'yi iki günde ve 1.500 km'yi 3-4 günde tamamlar (Visline Sp. z o.o., 2024). Parsiyel yükler ve grupaj genellikle mesafeden bağımsız olarak 3-6 gün sürer (Visline Sp. z o.o., 2024).", "bold": false}],
+      [{"text": "Sınır kontrolleri ve gümrük. AB içinde bile Schengen dışı ülkelere geçiş (ör. Polonya-Ukrayna veya İspanya-Fas) gümrük kontrolleri gerektirip saatler veya günler ekleyebilir.", "bold": false}],
+      [{"text": "Trafik ve altyapı. Kentsel merkezlerde sıkışıklık, yol çalışmaları, mevsimsel kapanışlar (ör. kışın Alpler geçitleri) ve feribot seferleri zamanlamayı etkiler.", "bold": false}],
+      [{"text": "Hava ve aksamalar. Kar fırtınaları, seller, grevler veya jeopolitik olaylar ciddi gecikmelere yol açabilir. Beklenmedik olaylar için yedek planlar şarttır.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Tipik transit süreleri örnekleri"},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "AB içi adanmış van: 700 km'ye kadar - ertesi gün; 700-1.500 km - iki gün; 1.500 km üzeri - 3-4 gün (Visline Sp. z o.o., 2024).", "bold": false}],
+      [{"text": "AB içi FTL kamyon: 550 km'ye kadar - ertesi gün; 550-1.300 km - iki gün; 1.500 km üzeri - 3-4 gün (Visline Sp. z o.o., 2024).", "bold": false}],
+      [{"text": "Grupaj/parsiyel yükler: genellikle mesafeden bağımsız olarak 3-6 gün (Visline Sp. z o.o., 2024).", "bold": false}]
+    ]},
+    {"type": "paragraph", "children": [{"text": "Bunlar kılavuz değerlerdir; gerçek süreler yukarıdaki faktörlere göre değişir.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Beklentileri yönetmek ve güvenilirliği artırmak"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Gerçekçi terminleri iletin. Yayınlanan transit tablolarını temel alın ancak dinlenme, sınır gecikmeleri ve yoğun sezonları ekleyin.", "bold": false}],
+      [{"text": "Yoğun dönemler ve tatiller etrafında plan yapın. Yaz, Golden Week ve yıl sonu zirveleri ağları tıkar; kapasiteyi erken rezerve edin.", "bold": false}],
+      [{"text": "Sevkiyatları gerçek zamanlı izleyin. Takip ve GPS görünürlük sağlar, gecikmelerde proaktif müdahaleyi mümkün kılar.", "bold": false}],
+      [{"text": "Akıllıca konsolide edin. Küçük gönderiler için grupaj maliyet etkindir ancak gün ekler; acilleri mümkün olduğunda FTL'ye birleştirin.", "bold": false}],
+      [{"text": "Multimodal çözümler kullanın. Demiryolu veya feribot kombinasyonları bazı hatlarda daha hızlı/daha güvenilir olabilir (ör. Alpler veya Manş geçişleri).", "bold": false}],
+      [{"text": "Deneyimli forwarderlarla çalışın. Logifie'nin Avrupa yol ağları ve mevzuatı bilgisi gerçekçi planlar yapmanıza ve istisnaları yönetmenize yardımcı olur.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Sonuç: öngörülebilirlik için planlayın"},
+    {"type": "paragraph", "children": [{"text": "Avrupa karayolu taşımacılığındaki transit süreleri yalnızca kilometreye bağlı değildir. Sürüş saatleri, konsolidasyon modelleri, altyapı ve dış faktörler teslimat planlarını şekillendirir. Değişkenleri anlayıp lojistik ortaklarıyla yakın çalışarak gerçekçi beklentiler belirlersiniz, cezaları önler ve tedarik zincirini dengede tutarsınız.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Kaynaklar"},
+    {"type": "citation", "text": "Road transport workers: driving and rest time rules (European Union, 2024) - AB'de sürüş ve dinlenme sürelerine ilişkin kuralları açıklar; günlük/haftalık azami süreler ve zorunlu molalar dahil.", "author": "European Commission", "url": "https://europa.eu/youreurope/business/dealing-with-customers/transport/road-transport-workers/index_en.htm"},
+    {"type": "citation", "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Adanmış van ve FTL kamyonlar için transit kılavuzları verir: vanlarda 700 km ertesi gün, 700-1.500 km iki günde, 1.500 km üzeri 3-4 günde; FTL kamyonlarda 550 km ertesi gün ve 550-1.300 km iki günde.", "author": "Visline Sp. z o.o.", "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"},
+    {"type": "citation", "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - (De)konsolidasyon noktaları nedeniyle parsiyel/grupaj yüklerin genellikle mesafeden bağımsız 3-6 gün sürdüğünü belirtir.", "author": "Visline Sp. z o.o.", "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"}
+  ],
+  "tags": [
+    "transit süreleri karayolu taşımacılığı avrupa",
+    "transit süresi karayolu avrupa",
+    "teslimat süreleri karayolu",
+    "transit süresini etkileyen faktörler lojistik",
+    "avrupa karayolu taşımacılığı lead time",
+    "gerçekçi teslimat vaatleri lojistik"
+  ]
+}
+

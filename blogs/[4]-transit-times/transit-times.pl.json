@@ -1,0 +1,62 @@
+{
+  "id": "understanding-transit-times-in-european-road-freight",
+  "shortId": "transit-times-road-freight",
+  "language": "pl",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Zrozumieć czasy tranzytu w europejskim transporcie drogowym",
+  "description": "Terminowość jest kluczowa dla satysfakcji klienta, ale prognozowanie czasów tranzytu w zróżnicowanej sieci drogowej Europy jest złożone. Odległość, przepisy o czasie pracy kierowców, korki i formalności graniczne wpływają...",
+  "publishedAt": "2024-12-08T00:00:00Z",
+  "category": "Transport",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperci technologii logistycznych",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "transit-times-hero.png",
+  "imageAlt": "Mapa Europy z kluczowymi korytarzami drogowymi i typowymi czasami tranzytu, z ikonami zegarów i miejsc odpoczynku",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Dostawa na czas jest fundamentem satysfakcji klienta, lecz szacowanie czasów tranzytu w Europie jest trudne. Odległości, przepisy dotyczące czasu jazdy i odpoczynku, natężenie ruchu oraz procedury graniczne determinują, jak długo trwa dostawa. Ten artykuł omawia czynniki wpływające na czasy tranzytu, podaje typowe okna dostaw i wskazówki, jak zarządzać oczekiwaniami w europejskim transporcie drogowym.", "bold": false}]},
+    {"type": "image", "src": "transit-times-visual.png", "alt": "Ciężarówka pokonuje ośnieżoną przełęcz górską, pokazując jak pogoda i teren wydłużają czas tranzytu", "caption": "Ośnieżony korytarz górski podkreśla, jak geografia i pogoda wydłużają harmonogramy."},
+    {"type": "heading", "level": 2, "text": "Czynniki wpływające na czas tranzytu"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Odległość i geografia. Oczywiste, lecz kluczowe: przesyłka z Warszawy do Berlina (600 km) dotrze szybciej niż z Warszawy do Lizbony (3.100 km). Regiony górskie, przeprawy promowe i drogi płatne mogą spowolnić tranzyt.", "bold": false}],
+      [{"text": "Godziny jazdy i odpoczynku. Przepisy UE ograniczają kierowców do 9 godzin dziennie (10 godzin dwa razy w tygodniu) i 56 godzin tygodniowo, z 45-minutową przerwą po 4,5 godzinach oraz odpoczynkiem dobowym/tygodniowym (European Union, 2024). Ciągła jazda przez kontynent nie jest możliwa.", "bold": false}],
+      [{"text": "Rodzaj usługi (FTL vs groupage). Dedykowane FTL jadą bezpośrednio z punktu A do B. Busy do 3,5 t pokonują do 700 km dziennie (dostawa następnego dnia), 700-1.500 km w dwa dni i powyżej 1.500 km w 3-4 dni (Visline Sp. z o.o., 2024). Ciężarówki FTL (do 24 t) pokonują 550 km następnego dnia, 550-1.300 km w dwa dni i 1.500 km w 3-4 dni (Visline Sp. z o.o., 2024). Ładunki częściowe i groupage zwykle zajmują 3-6 dni niezależnie od dystansu (Visline Sp. z o.o., 2024).", "bold": false}],
+      [{"text": "Kontrole graniczne i odprawa celna. Nawet w UE przekraczanie granic poza Schengen (np. Polska-Ukraina lub Hiszpania-Maroko) może oznaczać kontrole, które dodają godzin lub dni.", "bold": false}],
+      [{"text": "Ruch i infrastruktura. Korki wokół miast, roboty drogowe, sezonowe zamknięcia (np. alpejskie przełęcze zimą) oraz rozkłady promów wpływają na terminy.", "bold": false}],
+      [{"text": "Pogoda i zakłócenia. Zamiecie śnieżne, powodzie, strajki czy wydarzenia geopolityczne mogą powodować znaczne opóźnienia. Plany awaryjne są kluczowe.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Typowe przykłady czasów tranzytu"},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Bus dedykowany w UE: do 700 km - następny dzień; 700-1.500 km - dwa dni; powyżej 1.500 km - 3-4 dni (Visline Sp. z o.o., 2024).", "bold": false}],
+      [{"text": "Ciężarówka FTL w UE: do 550 km - następny dzień; 550-1.300 km - dwa dni; powyżej 1.500 km - 3-4 dni (Visline Sp. z o.o., 2024).", "bold": false}],
+      [{"text": "Groupage/ładunki częściowe: zazwyczaj 3-6 dni niezależnie od dystansu (Visline Sp. z o.o., 2024).", "bold": false}]
+    ]},
+    {"type": "paragraph", "children": [{"text": "To wartości orientacyjne; rzeczywiste czasy zależą od powyższych czynników.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Zarządzanie oczekiwaniami i poprawa niezawodności"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Komunikuj realistyczne terminy. Traktuj opublikowane tabele jako bazę i uwzględniaj odpoczynek, opóźnienia graniczne oraz szczyty sezonowe.", "bold": false}],
+      [{"text": "Planuj wokół szczytów i świąt. Wakacje, Golden Week i końcówka roku obciążają sieci; rezerwuj zdolności z wyprzedzeniem.", "bold": false}],
+      [{"text": "Monitoruj przesyłki w czasie rzeczywistym. Śledzenie i GPS dają widoczność i pozwalają działać proaktywnie.", "bold": false}],
+      [{"text": "Konsoliduj rozsądnie. Dla małych wolumenów groupage jest tańszy, ale dodaje dni; ładunki pilne łącz w FTL, gdy to możliwe.", "bold": false}],
+      [{"text": "Stosuj rozwiązania multimodalne. Kolej lub prom mogą być szybsze/pewniejsze na wybranych trasach (np. przez Alpy czy Kanał La Manche).", "bold": false}],
+      [{"text": "Współpracuj z doświadczonym spedytorem. Wiedza Logifie o europejskich sieciach i regulacjach pomaga planować realistyczne harmonogramy i obsłużyć wyjątki.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Wniosek: planuj pod kątem przewidywalności"},
+    {"type": "paragraph", "children": [{"text": "Czasy tranzytu w europejskim transporcie drogowym zależą od czegoś więcej niż kilometry. Godziny pracy kierowców, modele konsolidacji, infrastruktura i czynniki zewnętrzne kształtują harmonogramy. Rozumiejąc te zmienne i współpracując z partnerami logistycznymi, nadawcy ustalają realistyczne oczekiwania, unikają kar i stabilizują łańcuch dostaw.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Źródła"},
+    {"type": "citation", "text": "Road transport workers: driving and rest time rules (European Union, 2024) - Wyjaśnia przepisy UE dotyczące czasu jazdy i odpoczynku, w tym limity dzienne/tygodniowe oraz przerwy obowiązkowe.", "author": "European Commission", "url": "https://europa.eu/youreurope/business/dealing-with-customers/transport/road-transport-workers/index_en.htm"},
+    {"type": "citation", "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Podaje wytyczne czasu tranzytu dla busów i ciężarówek FTL: do 700 km następnego dnia, 700-1.500 km w 2 dni, powyżej 1.500 km w 3-4 dni; do 550 km następnego dnia i 550-1.300 km w 2 dni dla FTL.", "author": "Visline Sp. z o.o.", "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"},
+    {"type": "citation", "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Zaznacza, że ładunki częściowe/groupage zwykle trwają 3-6 dni niezależnie od dystansu z powodu punktów (de)konsolidacji.", "author": "Visline Sp. z o.o.", "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"}
+  ],
+  "tags": [
+    "czasy tranzytu transport drogowy europa",
+    "czas tranzytu transport drogowy europa",
+    "czasy dostaw transport drogowy",
+    "czynniki wpływające na czas tranzytu logistyka",
+    "czasy realizacji europejski transport drogowy",
+    "realistyczne obietnice dostawy logistyka"
+  ]
+}
+

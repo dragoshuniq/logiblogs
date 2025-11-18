@@ -1,0 +1,62 @@
+{
+  "id": "understanding-transit-times-in-european-road-freight",
+  "shortId": "transit-times-road-freight",
+  "language": "nl",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Transittijden in het Europese wegvervoer begrijpen",
+  "description": "Op tijd leveren is cruciaal voor klanttevredenheid, maar transittijden voorspellen in Europa is complex. Afstanden, rij- en rusttijden, congestie en grensformaliteiten beïnvloeden...",
+  "publishedAt": "2024-12-08T00:00:00Z",
+  "category": "Transport",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experts in logistieke technologie",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "transit-times-hero.png",
+  "imageAlt": "Kaart van Europa met belangrijke wegcorridors en typische transittijden, met klok- en rustplaatsiconen",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Op tijd leveren is essentieel, maar het inschatten van transittijden op het Europese wegennet is lastig. Afstand, regelgeving rond rij- en rusttijden, congestie en grensformaliteiten bepalen hoe lang een zending erover doet. Dit artikel behandelt de belangrijkste factoren, typische levertijden en tips om verwachtingen te managen in het Europese wegvervoer.", "bold": false}]},
+    {"type": "image", "src": "transit-times-visual.png", "alt": "Vrachtwagen rijdt over een besneeuwde bergpas, wat toont hoe weer en terrein de transittijd verlengen", "caption": "Besneeuwde bergcorridor illustreert hoe geografie en weer planningen oprekken."},
+    {"type": "heading", "level": 2, "text": "Factoren die de transittijd beïnvloeden"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Afstand en geografie. Voor de hand liggend maar cruciaal: een zending Warschau-Berlijn (600 km) is sneller dan Warschau-Lissabon (3.100 km). Berggebieden, veerboten en tolwegen kunnen vertragen.", "bold": false}],
+      [{"text": "Rij- en rusttijden. EU-regels begrenzen tot 9 uur per dag (10 uur twee keer per week) en 56 uur per week, met 45 minuten pauze na 4,5 uur en dagelijkse/wekelijkse rust (European Union, 2024). Non-stop doorrijden is dus niet mogelijk.", "bold": false}],
+      [{"text": "Servicetype (FTL vs groupage). Dedicate FTL rijdt rechtstreeks van herkomst naar bestemming. Bestelbussen tot 3,5 ton halen tot 700 km per dag (levering volgende dag), 700-1.500 km in twee dagen en meer dan 1.500 km in 3-4 dagen (Visline Sp. z o.o., 2024). FTL-trucks (tot 24 ton) halen 550 km volgende dag, 550-1.300 km in twee dagen en 1.500 km in 3-4 dagen (Visline Sp. z o.o., 2024). Deelladingen en groupage duren vaak 3-6 dagen, ongeacht de afstand (Visline Sp. z o.o., 2024).", "bold": false}],
+      [{"text": "Grenscontroles en douane. Ook binnen de EU kan oversteken naar niet-Schengenlanden (bijv. Polen-Oekraïne of Spanje-Marokko) controles vereisen die uren of dagen toevoegen.", "bold": false}],
+      [{"text": "Verkeer en infrastructuur. Congestie in stedelijke gebieden, wegwerkzaamheden, seizoenssluitingen (bijv. Alpenpassen in de winter) en veerdiensten beïnvloeden de timing.", "bold": false}],
+      [{"text": "Weer en verstoringen. Sneeuwstormen, overstromingen, stakingen of geopolitieke gebeurtenissen kunnen forse vertragingen veroorzaken. Contingentieplannen zijn belangrijk.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Typische voorbeelden van transittijd"},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Intra-EU dedicated bestelbus: tot 700 km - volgende dag; 700-1.500 km - twee dagen; boven 1.500 km - 3-4 dagen (Visline Sp. z o.o., 2024).", "bold": false}],
+      [{"text": "Intra-EU FTL-truck: tot 550 km - volgende dag; 550-1.300 km - twee dagen; boven 1.500 km - 3-4 dagen (Visline Sp. z o.o., 2024).", "bold": false}],
+      [{"text": "Groupage/deellading: doorgaans 3-6 dagen ongeacht de afstand (Visline Sp. z o.o., 2024).", "bold": false}]
+    ]},
+    {"type": "paragraph", "children": [{"text": "Dit zijn richtlijnen; werkelijke tijden variëren afhankelijk van bovengenoemde factoren.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Verwachtingen managen en betrouwbaarheid verhogen"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Communiceer realistische doorlooptijden. Gebruik gepubliceerde tabellen als basis en reken met rusttijden, grensvertragingen en piekperiodes.", "bold": false}],
+      [{"text": "Plan rond pieken en feestdagen. Zomervakantie, Golden Week en eindejaarsdrukte belasten netwerken; boek tijdig capaciteit.", "bold": false}],
+      [{"text": "Monitor zendingen realtime. Tracking en GPS geven zicht en maken proactief handelen mogelijk.", "bold": false}],
+      [{"text": "Consolideer doordacht. Voor kleine zendingen is groupage voordelig maar voegt dagen toe; bundel urgente volumes naar FTL waar mogelijk.", "bold": false}],
+      [{"text": "Gebruik multimodale oplossingen. Spoor of veerboot kan op sommige trajecten sneller/betrouwbaarder zijn (bijv. Alpen of Het Kanaal).", "bold": false}],
+      [{"text": "Werk met ervaren expediteurs. Logifies kennis van Europese wegen en regelgeving helpt realistische planningen en de afhandeling van uitzonderingen.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Conclusie: plan voor voorspelbaarheid"},
+    {"type": "paragraph", "children": [{"text": "Transittijden in het Europese wegvervoer worden door meer dan kilometers bepaald. Rij- en rusttijden, consolidatiemodellen, infrastructuur en externe factoren vormen de planning. Met begrip van deze variabelen en nauwe samenwerking met logistieke partners stel je realistische verwachtingen, voorkom je boetes en houd je de keten stabiel.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Bronnen"},
+    {"type": "citation", "text": "Road transport workers: driving and rest time rules (European Union, 2024) - Licht EU-regels toe over rij- en rusttijden, inclusief maxima per dag/week en verplichte pauzes.", "author": "European Commission", "url": "https://europa.eu/youreurope/business/dealing-with-customers/transport/road-transport-workers/index_en.htm"},
+    {"type": "citation", "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Geeft richtlijnen voor bestelbus en FTL: tot 700 km volgende dag, 700-1.500 km binnen twee dagen, boven 1.500 km in 3-4 dagen; tot 550 km volgende dag en 550-1.300 km in twee dagen voor FTL-trucks.", "author": "Visline Sp. z o.o.", "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"},
+    {"type": "citation", "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Merkt op dat deelladingen/groupage doorgaans 3-6 dagen duren ongeacht de afstand door (de)consolidatiepunten.", "author": "Visline Sp. z o.o.", "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"}
+  ],
+  "tags": [
+    "transittijden wegvervoer europa",
+    "transittijd wegvervoer europa",
+    "levertijden wegtransport",
+    "factoren transittijd logistiek",
+    "doorlooptijden europees wegtransport",
+    "realistische leverbelofte logistiek"
+  ]
+}
+
