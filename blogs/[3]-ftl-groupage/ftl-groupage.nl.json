@@ -1,0 +1,75 @@
+{
+  "id": "groupage-vs-full-truck-load-what-s-best-for-your-european-freight",
+  "shortId": "groupage-vs-ftl",
+  "language": "nl",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Groupage (LTL) vs. Full Truck Load (FTL): wat is het beste voor uw Europese zending?",
+  "description": "Bij het plannen van wegvervoer in Europa kiest u tussen een volledige truck of gedeelde capaciteit. FTL en groupage/LTL hebben verschillende kosten, doorlooptijden en risico's.",
+  "publishedAt": "2024-12-01T00:00:00Z",
+  "category": "Transport",
+  "author": { "name": "Logifie Team", "role": "Experts in logistieke technologie", "avatar": "/logos/slogo.png" },
+  "image": "ftv-groupage.png",
+  "imageAlt": "Zij-aan-zij vergelijking van een toegewijde FTL-truck en een groupage-oplegger met meerdere pallets",
+  "content": [
+    { "type": "paragraph", "children": [ { "text": "Bij Europese wegtransportplanning beslist u of u een volledige truck boekt of capaciteit deelt. Full Truck Load (FTL) en groupage/less‑than‑truckload (LTL) zijn twee modellen met uiteenlopende kostenstructuren, transittijden en risicoprofielen. Door de trade-offs te begrijpen kiest u per zending de juiste oplossing.", "bold": false } ] },
+    { "type": "image", "src": "warehouse.png", "alt": "Magazijnteam wikkelt en sjorrt pallets voor het laden voor een groupagezending", "caption": "Het operatieteam consolideert pallets van meerdere klanten aan één dockdeur voorafgaand aan een groupagerit." },
+    { "type": "heading", "level": 2, "text": "Wat is Full Truck Load (FTL)?" },
+    { "type": "paragraph", "children": [ { "text": "Een FTL-zending vult de hele trailer of truck. Het voertuig vervoert goederen van één klant zonder te consolideren. FTL is ideaal voor grote volumes, waardevolle goederen of tijdkritische leveringen omdat:", "bold": false } ] },
+    { "type": "list", "ordered": false, "items": [
+      [ { "text": "Snellere doorlooptijd: de truck rijdt rechtstreeks naar de bestemming zonder (de)consolidatiestops. Bestelwagens tot 7,5 ton leveren tot 550 km de volgende dag, 550–1.300 km binnen 2 dagen en >1.500 km binnen 3–4 dagen (Visline Sp. z o.o., 2024).", "bold": false } ],
+      [ { "text": "Minder handling: één keer laden en lossen vermindert schaderisico.", "bold": false } ],
+      [ { "text": "Veiligheid: één verlader aan boord verlaagt risico op verlies of vervuiling.", "bold": false } ]
+    ] },
+    { "type": "paragraph", "children": [ { "text": "FTL is per kilometer duurder, omdat u de hele truck betaalt ongeacht de belading. Voor kleine partijen die de trailer niet vullen, is FTL vaak inefficiënt.", "bold": false } ] },
+    { "type": "heading", "level": 2, "text": "Wat is groupage (LTL)?" },
+    { "type": "paragraph", "children": [ { "text": "Groupage/LTL bundelt meerdere kleine zendingen van verschillende verladers in één truck. Elke klant betaalt voor de ingenomen ruimte. Vaak gebruikt voor zendingen < 2.500 kg (FERCAM S.p.A., 2024). Voordelen:", "bold": false } ] },
+    { "type": "list", "ordered": false, "items": [
+      [ { "text": "Lagere kosten: gedeelde capaciteit verlaagt de kosten per pallet/kg doordat de totale kosten over meerdere verladers verdeeld worden.", "bold": false } ],
+      [ { "text": "Duurzaamheid: consolideren vermindert leeg volume en verhoogt voertuigbenutting, wat emissies verlaagt.", "bold": false } ]
+    ] },
+    { "type": "paragraph", "children": [ { "text": "Keerzijde: langere doorlooptijden en meer handling. Groupagetrucks stoppen bij hubs om te laden en lossen. Volgens Visline duren deelladingen vaak 3–6 dagen ongeacht de afstand (Visline Sp. z o.o., 2024). Extra handling vergroot het schaderisico – correcte verpakking en palletisering zijn cruciaal.", "bold": false } ] },
+    { "type": "heading", "level": 2, "text": "Wanneer groupage en wanneer FTL" },
+    { "type": "heading", "level": 3, "text": "Kies FTL wanneer:" },
+    { "type": "list", "ordered": false, "items": [
+      [ { "text": "Het volume ~10–13 pallets benadert/overschrijdt of gewicht > ~2,5 ton is.", "bold": false } ],
+      [ { "text": "Goederen zijn hoogwaardig, breekbaar of tijdkritisch.", "bold": false } ],
+      [ { "text": "Directe levering met minimale handling essentieel is.", "bold": false } ],
+      [ { "text": "Veiligheid of vertrouwelijkheid prioriteit heeft.", "bold": false } ]
+    ] },
+    { "type": "heading", "level": 3, "text": "Kies groupage wanneer:" },
+    { "type": "list", "ordered": false, "items": [
+      [ { "text": "U weinig pallets/pakketten verstuurt – een volle truck is niet rendabel.", "bold": false } ],
+      [ { "text": "Kostbesparing zwaarder weegt dan snelheid.", "bold": false } ],
+      [ { "text": "Tijdflexibiliteit acceptabel is.", "bold": false } ],
+      [ { "text": "Duurzaamheid en CO2‑reductie prioriteit zijn.", "bold": false } ]
+    ] },
+    { "type": "heading", "level": 2, "text": "Hybride opties" },
+    { "type": "paragraph", "children": [ { "text": "Sommige logistieke dienstverleners bieden deellading of LTL–FTL‑hybrides: de truck kan twee à drie deelladingen meenemen en zo kosten en snelheid balanceren. Geschikt wanneer te groot voor pakket, te klein voor een dedicated voertuig.", "bold": false } ] },
+    { "type": "heading", "level": 2, "text": "Factoren om te wegen" },
+    { "type": "list", "ordered": true, "items": [
+      [ { "text": "Gewicht en volume: vergelijk FTL‑ vs groupage‑kosten voor uw lading.", "bold": false } ],
+      [ { "text": "Urgentie: als snelheid cruciaal is, kan FTL de meerprijs waard zijn.", "bold": false } ],
+      [ { "text": "Waarde en breekbaarheid: gevoelige goederen rechtvaardigen extra FTL‑zekerheid.", "bold": false } ],
+      [ { "text": "Budget: kleine bedrijven spreiden kosten via groupage.", "bold": false } ],
+      [ { "text": "Milieudoelen: consolidatie vermindert lege kilometers en emissies.", "bold": false } ],
+      [ { "text": "Seizoen/capaciteit: in piek is FTL schaars/duur; groupage kan flexibeler zijn.", "bold": false } ]
+    ] },
+    { "type": "heading", "level": 2, "text": "Conclusie: stem modus af op de missie" },
+    { "type": "paragraph", "children": [ { "text": "De keuze FTL vs groupage draait om meer dan prijs. FTL biedt snelheid, veiligheid en eenvoud tegen hogere kosten; groupage maximaliseert efficiëntie en verlaagt emissies met langere doorlooptijden. Beoordeel grootte, waarde, timing en duurzaamheidsdoelen per zending. Een expediteur zoals Logifie adviseert de beste optie en regelt hybride oplossingen waar passend.", "bold": false } ] },
+    { "type": "heading", "level": 3, "text": "Bronnen" },
+    { "type": "citation", "text": "European road freight options explained (Uniserve Group, 2025) - Definieert FTL en LTL/groupage: FTL gebruikt het volledige voertuig (sneller, minder handling); groupage consolideert kleinere ladingen voor lagere kosten met langere looptijd.", "author": "Uniserve Group", "url": "https://uniserve.co.uk/european-road-freight-options" },
+    { "type": "citation", "text": "FTL, LTL and groupage: definitions and differences (FERCAM S.p.A., 2024) - Zegt dat groupage‑zendingen meestal tot 2.500 kg wegen en op hubs worden geconsolideerd — langere levering, lagere kosten.", "author": "FERCAM S.p.A.", "url": "https://www.fercam.com/en/ftl-ltl-groupage/" },
+    { "type": "citation", "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Geeft FTL‑doorlooptijden (≤ 550 km 1 dag, 550–1.300 km 2 dagen, >1.500 km 3–4 dagen) en 3–6 dagen voor deelladingen.", "author": "Visline Sp. z o.o.", "url": "https://visline.com/en/how-to-calculate-transit-time-europe/" }
+  ],
+  "tags": [
+    "groupage vs volle truck",
+    "LTL vs FTL",
+    "groupage europa",
+    "groupage diensten europa",
+    "consolidatie wegvervoer",
+    "ftl transport europa",
+    "wanneer groupage gebruiken"
+  ]
+}
+

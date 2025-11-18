@@ -1,0 +1,79 @@
+{
+  "id": "groupage-vs-full-truck-load-what-s-best-for-your-european-freight",
+  "shortId": "groupage-vs-ftl",
+  "language": "es",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Groupage (LTL) vs. Full Truck Load (FTL): ¿qué es mejor para tu transporte europeo?",
+  "description": "Al planificar transporte por carretera en Europa, hay que decidir entre reservar un camión completo o compartir capacidad. FTL y groupage/LTL son modelos distintos con costes, tiempos de tránsito y riesgos diferentes.",
+  "publishedAt": "2024-12-01T00:00:00Z",
+  "category": "Transporte",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Expertos en tecnología logística",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "ftv-groupage.png",
+  "imageAlt": "Comparación lado a lado de un camión FTL dedicado y un remolque de groupage con varias paletas",
+  "content": [
+    { "type": "paragraph", "children": [ { "text": "Al planificar el transporte por carretera en Europa, los cargadores deben decidir si reservar un camión completo o compartir espacio con otros. Full Truck Load (FTL) y groupage o Less-than-Truckload (LTL) son dos modelos con estructuras de costo, tiempos de tránsito y perfiles de riesgo distintos. Comprender los trade-offs ayuda a elegir la solución adecuada en cada envío.", "bold": false } ] },
+    { "type": "image", "src": "warehouse.png", "alt": "Equipo de almacén envuelve y cincha paletas antes de cargarlas para un envío en groupage", "caption": "El equipo de operaciones consolida paletas de varios clientes en un mismo muelle antes de la salida en groupage." },
+    { "type": "heading", "level": 2, "text": "¿Qué es Full Truck Load (FTL)?" },
+    { "type": "paragraph", "children": [ { "text": "Un envío FTL ocupa todo el remolque o camión. El vehículo transporta la mercancía de un solo cliente de origen a destino sin consolidarse con otros lotes. FTL es ideal para cargas grandes, mercancía de alto valor o entregas urgentes porque:", "bold": false } ] },
+    { "type": "list", "ordered": false, "items": [
+      [ { "text": "Tiempos más rápidos: el camión va directo al destino sin paradas intermedias para (des)consolidar. Furgones de hasta 7,5 t entregan al día siguiente hasta 550 km, en 2 días entre 550–1.300 km y en 3–4 días para distancias mayores (Visline Sp. z o.o., 2024).", "bold": false } ],
+      [ { "text": "Menos manipulaciones: se carga y descarga una sola vez, reduciendo riesgo de daños.", "bold": false } ],
+      [ { "text": "Seguridad: al llevar carga de un único cargador, disminuye el riesgo de pérdida o contaminación.", "bold": false } ]
+    ] },
+    { "type": "paragraph", "children": [ { "text": "Sin embargo, FTL es más caro por kilómetro porque el cargador paga el vehículo entero independientemente del nivel de llenado. También puede ser ineficiente para lotes pequeños que no llenan un remolque.", "bold": false } ] },
+    { "type": "heading", "level": 2, "text": "¿Qué es el groupage (LTL)?" },
+    { "type": "paragraph", "children": [ { "text": "El groupage (LTL) combina varios envíos pequeños de distintos cargadores en un único camión. Cada cliente paga por el espacio que ocupa su carga. Se usa a menudo para envíos inferiores a 2.500 kg (FERCAM S.p.A., 2024). Sus ventajas:", "bold": false } ] },
+    { "type": "list", "ordered": false, "items": [
+      [ { "text": "Menor coste: al compartir capacidad, baja el coste por paleta o kilogramo al repartirse entre varios cargadores.", "bold": false } ],
+      [ { "text": "Sostenibilidad: consolidar reduce huecos y mejora la utilización del vehículo, recortando emisiones.", "bold": false } ]
+    ] },
+    { "type": "paragraph", "children": [ { "text": "A cambio, los tiempos de tránsito son más largos y hay más manipulaciones. Los camiones de groupage paran en hubs para cargar y descargar. Según Visline, las cargas parciales suelen tardar 3–6 días independientemente de la distancia (Visline Sp. z o.o., 2024). Más manipulaciones aumentan el riesgo de daños: el embalaje y la paletización correctos son críticos.", "bold": false } ] },
+    { "type": "heading", "level": 2, "text": "Cuándo usar groupage y cuándo FTL" },
+    { "type": "heading", "level": 3, "text": "Elige FTL cuando:" },
+    { "type": "list", "ordered": false, "items": [
+      [ { "text": "El volumen se aproxima o supera 10–13 paletas o pesa más de ~2,5 toneladas.", "bold": false } ],
+      [ { "text": "La mercancía es de alto valor, frágil o sensible al tiempo.", "bold": false } ],
+      [ { "text": "La entrega directa con mínima manipulación es clave.", "bold": false } ],
+      [ { "text": "La seguridad o confidencialidad es prioritaria.", "bold": false } ]
+    ] },
+    { "type": "heading", "level": 3, "text": "Elige groupage cuando:" },
+    { "type": "list", "ordered": false, "items": [
+      [ { "text": "Envías pocas paletas/paquetes que no justifican un camión completo.", "bold": false } ],
+      [ { "text": "El ahorro pesa más que la velocidad.", "bold": false } ],
+      [ { "text": "La flexibilidad de tiempo es aceptable.", "bold": false } ],
+      [ { "text": "La sostenibilidad y la reducción de huella de carbono son prioridad.", "bold": false } ]
+    ] },
+    { "type": "heading", "level": 2, "text": "Opciones híbridas" },
+    { "type": "paragraph", "children": [ { "text": "Algunos operadores ofrecen parte de carga o híbridos LTL–FTL: el camión puede llevar dos o tres cargas parciales equilibrando coste y rapidez. Es un buen compromiso cuando el envío es demasiado grande para paquetería pero demasiado pequeño para un vehículo dedicado.", "bold": false } ] },
+    { "type": "heading", "level": 2, "text": "Factores a considerar" },
+    { "type": "list", "ordered": true, "items": [
+      [ { "text": "Peso y volumen: compara coste FTL vs groupage para tu tamaño de carga.", "bold": false } ],
+      [ { "text": "Urgencia: si la velocidad es crítica, FTL puede compensar el sobrecoste.", "bold": false } ],
+      [ { "text": "Valor y fragilidad: mercancía valiosa/delicada puede justificar la seguridad extra del FTL.", "bold": false } ],
+      [ { "text": "Presupuesto: pymes con presupuestos ajustados suelen optar por groupage para repartir coste.", "bold": false } ],
+      [ { "text": "Objetivos ambientales: la consolidación reduce kilómetros en vacío y emisiones.", "bold": false } ],
+      [ { "text": "Estacionalidad/capacidad: en picos, el FTL escasea y encarece; el groupage puede ser más flexible.", "bold": false } ]
+    ] },
+    { "type": "heading", "level": 2, "text": "Conclusión: ajusta el modo a la misión" },
+    { "type": "paragraph", "children": [ { "text": "Elegir entre FTL y groupage va más allá del precio. FTL aporta rapidez, seguridad y sencillez a mayor coste; el groupage maximiza eficiencia y reduce emisiones a costa de plazos más largos. Evalúa tamaño, valor, timing y objetivos de sostenibilidad de cada envío. Un transitario como Logifie puede aconsejar la mejor opción y organizar híbridos cuando proceda.", "bold": false } ] },
+    { "type": "heading", "level": 3, "text": "Fuentes" },
+    { "type": "citation", "text": "European road freight options explained (Uniserve Group, 2025) - Define FTL y LTL/groupage: FTL usa todo el vehículo para un envío (plazos más cortos, menos manipulación); el groupage consolida envíos para reducir coste con más tiempo de tránsito.", "author": "Uniserve Group", "url": "https://uniserve.co.uk/european-road-freight-options" },
+    { "type": "citation", "text": "FTL, LTL and groupage: definitions and differences (FERCAM S.p.A., 2024) - Explica que los envíos en groupage suelen pesar hasta 2.500 kg y se consolidan en hubs, con plazos más largos pero menor coste.", "author": "FERCAM S.p.A.", "url": "https://www.fercam.com/en/ftl-ltl-groupage/" },
+    { "type": "citation", "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Estima tiempos FTL (hasta 550 km en 1 día, 550–1.300 km en 2 días, >1.500 km en 3–4 días) y señala 3–6 días para cargas parciales.", "author": "Visline Sp. z o.o.", "url": "https://visline.com/en/how-to-calculate-transit-time-europe/" }
+  ],
+  "tags": [
+    "groupage vs carga completa",
+    "LTL vs FTL",
+    "groupage europa",
+    "servicios de groupage europa",
+    "consolidación de carga por carretera",
+    "transporte FTL europa",
+    "cuándo usar groupage"
+  ]
+}
+

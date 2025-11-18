@@ -1,0 +1,306 @@
+{
+  "id": "groupage-vs-full-truck-load-what-s-best-for-your-european-freight",
+  "shortId": "groupage-vs-ftl",
+  "language": "tr",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Grupaj mı Tam Kamyon Yükü (FTL) mi: Avrupa Yükünüz için Hangisi Daha Uygun?",
+  "description": "Avrupa'da karayolu taşımacılığı planlarken yük verenler, tam bir kamyon mu ayırtacak yoksa alanı başkalarıyla mı paylaşacaklarına karar vermelidir. Tam kamyon yükü (FTL) ve grupaj (veya kamyondan az yük, LTL), farklı maliyet yapıları, transit süreleri ve risk profilleri olan iki ayrı hizmet modelidir...",
+  "publishedAt": "2024-12-01T00:00:00Z",
+  "category": "Taşımacılık",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Lojistik Teknolojileri Uzmanları",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "ftv-groupage.png",
+  "imageAlt": "Yalnızca tek yüke ayrılmış bir FTL kamyonu ile çok sayıda palet taşıyan bir grupaj römorkunun yan yana karşılaştırmalı görünümü",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Avrupa'da karayolu taşımacılığı planlanırken yük verenlerin, tam bir kamyon mu ayırtacakları yoksa alanı başkalarıyla mı paylaşacakları konusunda karar vermesi gerekir. Tam kamyon yükü (FTL) ve grupaj (veya kamyondan az yük, LTL) farklı maliyet yapıları, transit süreleri ve risk profilleri sunar. Bu değiş tokuşları anlamak, her sevkiyat için doğru çözümü seçmeye yardımcı olur.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "warehouse.png",
+      "alt": "Depo ekibi grupaj sevkiyatı için yüklemeden önce paletleri streçleyip kayışla sabitliyor",
+      "caption": "Operasyon ekibi grupaj çıkışı öncesinde aynı rıhtım kapısında birden fazla müşterinin paletlerini konsolide ediyor."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tam Kamyon Yükü (FTL) Nedir?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "FTL sevkiyatı bir treylerin ya da kamyonun tamamını kaplar. Araç, diğer gönderilerle konsolidasyon yapmadan tek bir müşterinin yükünü çıkış noktasından varışa taşır. Aşağıdaki nedenlerle FTL, büyük yükler, yüksek değerli mallar veya zaman kritik teslimatlar için idealdir:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Daha kısa transit süreleri: Kamyon, konsolidasyon veya dekonsolidasyon için ara duraklar olmadan doğrudan varış noktasına gider. 7,5 tona kadar vanlar 550 km'ye kadar ertesi gün, 550-1.300 km için 2 gün içinde ve daha uzun mesafelerde 3-4 gün içinde teslim edebilir (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Daha az elleçleme: Yük bir kez yüklenir ve bir kez boşaltılır, hasar riski azalır.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Güvenlik: Kamyon yalnızca bir yük verene ait kargoyu taşıdığından, kayıp veya kontaminasyon riski daha düşüktür.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Bununla birlikte FTL, kilometre bazında daha pahalıdır; çünkü treyler tam dolu olmasa bile yük veren aracın tamamının ücretini öder. Treyleri doldurmayan küçük gönderiler için verimsiz olabilir.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Grupaj (LTL) Nedir?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Grupaj, kamyondan az yük (LTL) olarak da adlandırılır ve farklı yük verenlerden gelen birden fazla küçük gönderiyi tek bir kamyonda birleştirir. Her müşteri, kargosunun kapladığı alan için ödeme yapar. Grupaj genellikle 2.500 kg altındaki sevkiyatlarda kullanılır (FERCAM S.p.A., 2024). Avantajları şunlardır:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Daha düşük maliyet: Paylaşılan kapasite, toplam taşıma maliyetini birden fazla yük veren arasında böldüğü için palet veya kilogram başına maliyeti düşürür.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sürdürülebilirlik: Yükleri konsolide etmek boş alanı azaltır ve araç kullanımını iyileştirir, emisyonları düşürür.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Buna karşılık transit süreleri uzar ve elleçleme artar. Grupaj araçları, gönderileri yüklemek ve boşaltmak için konsolidasyon merkezlerinde durur. Visline'ın yönergelerine göre, parsiyel yükler mesafeden bağımsız olarak 3-6 gün sürebilir (Visline Sp. z o.o., 2024). Ek elleçleme hasar riskini artırır; bu nedenle doğru ambalajlama ve paletleme kritiktir.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Grupaj Ne Zaman, FTL Ne Zaman Kullanılmalı"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Şu durumlarda FTL'yi seçin:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Sevkiyat hacmi 10-13 palete yaklaşıyor ya da aşıyor veya ağırlık yaklaşık 2,5 tonun üzerindeyse.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Yük yüksek değerli, kırılgan veya zaman açısından hassassa.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Minimum elleçleme ile doğrudan teslimat kritikse.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Güvenlik veya gizlilik öncelikse.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Şu durumlarda grupajı seçin:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Tam kamyonu gerektirmeyen az sayıda palet veya koli gönderiyorsanız.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Hız ihtiyacına kıyasla maliyet tasarrufu daha önemliyse.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Transit süresinde esneklik kabul edilebilirse.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sürdürülebilirlik ve karbon ayak izini azaltma öncelikse.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hibrit Seçenekler"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Bazı lojistik sağlayıcıları parsiyel veya LTL-FTL hibrit hizmetler sunar: kamyon iki ya da üç parsiyel yük taşıyarak maliyet ve hızı dengeler. Sevkiyat paket hizmetleri için büyük, ancak adanmış bir araç için küçük kaldığında iyi bir uzlaşma olabilir.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dikkate Alınacak Faktörler"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Ağırlık ve hacim: Spesifik yük büyüklüğü için FTL ile grupaj maliyetini karşılaştırın.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Aciliyet: Teslimat hızı kritikse FTL ilave maliyete değebilir.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Değer ve kırılganlık: Yüksek değerli veya hassas mallar FTL'nin sunduğu ek güvenliği gerektirebilir.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Bütçe: Sınırlı bütçeli küçük işletmeler maliyeti yaymak için sıklıkla grupajı tercih eder.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Çevresel hedefler: Konsolidasyon boş kilometreleri ve emisyonları azaltır.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Mevsimsellik ve kapasite: Yoğun sezonlarda FTL kapasitesi kıt ve pahalı olabilir; grupaj daha fazla esneklik sunabilir.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sonuç: Modu İhtiyaca Uydurun"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Tam kamyon yükü ile grupaj arasında karar vermek sadece fiyata bağlı değildir. FTL daha yüksek bir maliyet karşılığında hız, güvenlik ve sadelik sunar; grupaj ise daha uzun teslim süreleri pahasına verimliliği maksimize eder ve emisyonları düşürür. Her sevkiyatın büyüklüğünü, değerini, zamanlamasını ve sürdürülebilirlik hedeflerini değerlendirin. Logifie gibi bir forwarder en uygun seçenek konusunda danışmanlık verebilir ve uygun olduğunda hibrit çözümler ayarlayabilir.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kaynaklar"
+    },
+    {
+      "type": "citation",
+      "text": "Avrupa karayolu taşımacılığı seçenekleri açıklanıyor (Uniserve Group, 2025) - Tam kamyon yükü (FTL) ile kamyondan az yük/grupaj kavramlarını tanımlar; FTL'nin tek bir sevkiyat için aracın tamamını kullandığını, daha hızlı transit ve daha az elleçleme sağladığını, grupajın ise daha küçük gönderileri maliyeti düşürmek için konsolide ettiğini ancak transit süresini artırdığını açıklar.",
+      "author": "Uniserve Group",
+      "url": "https://uniserve.co.uk/european-road-freight-options"
+    },
+    {
+      "type": "citation",
+      "text": "FTL, LTL ve grupaj: tanımlar ve farklar (FERCAM S.p.A., 2024) - Grupaj sevkiyatlarının genellikle 2.500 kg'a kadar olduğunu ve merkezlerde konsolide edildiğini, bunun daha uzun teslim süreleri fakat daha düşük maliyetler getirdiğini açıklar.",
+      "author": "FERCAM S.p.A.",
+      "url": "https://www.fercam.com/en/ftl-ltl-groupage/"
+    },
+    {
+      "type": "citation",
+      "text": "Avrupa genelinde kargo için transit süresi nasıl hesaplanır (Visline Sp. z o.o., 2024) - Adanmış FTL taşımalara ilişkin transit süre tahminleri sunar (vanlarla 550 km ertesi gün, 550-1.300 km iki gün içinde, 1.500 km üzeri 3-4 gün içinde) ve parsiyel yüklerin 3-6 gün sürebileceğini belirtir.",
+      "author": "Visline Sp. z o.o.",
+      "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"
+    }
+  ],
+  "tags": [
+    "grupaj vs tam kamyon yükü",
+    "LTL vs FTL",
+    "avrupa grupaj taşımacılığı",
+    "avrupa grupaj hizmetleri",
+    "karayolu yük konsolidasyonu",
+    "avrupa tam kamyon taşımacılığı",
+    "grupaj ne zaman kullanılır"
+  ]
+}
+
