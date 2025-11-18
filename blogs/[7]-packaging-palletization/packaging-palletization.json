@@ -177,7 +177,7 @@
         ],
         [
           {
-            "text": "Hazardous materials: Follow ADR regulations; use approved packaging and label the pallet with hazard class numbers. Drivers must carry ADR certificates (ADAR Sp. z o.o., 2025).",
+            "text": "Hazardous materials: Follow ADR regulations; use approved packaging and label the pallet with hazard class numbers. Drivers must carry ADR certificates.",
             "bold": false
           }
         ]
@@ -225,12 +225,6 @@
       "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Advises that refrigerated cargo should be pre-cooled and that drivers should inspect and maintain cooling equipment regularly to prevent temperature-related claims.",
       "author": "IAT Insurance Group",
       "url": "https://www.iatinsurancegroup.com/media/0sodtctn/230830_cargo_ebook_final.pdf"
-    },
-    {
-      "type": "citation",
-      "text": "Documents in international transport - a guide (ADAR Sp. z o.o., 2025) - Lists the driver's certificate and ATP certificate as required documents for transporting dangerous and perishable goods respectively.",
-      "author": "ADAR International Forwarding",
-      "url": "https://adar.pl/en/blog/documents-international-transport/"
     }
   ],
   "tags": [
