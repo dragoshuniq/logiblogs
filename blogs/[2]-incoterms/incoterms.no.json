@@ -1,0 +1,72 @@
+{
+  "id": "choose-right-incoterms-european-shipments",
+  "shortId": "incoterms-road-freight",
+  "language": "no",
+  "isVisible": true,
+  "readTime": 420,
+  "title": "Slik velger du riktige Incoterms for europeiske forsendelser",
+  "description": "Forstå når du bør bruke EXW, FCA, DAP eller DDP for europeisk vegtransport, og hvordan Incoterms 2020 påvirker risiko, kostnad og tollansvar.",
+  "publishedAt": "2024-11-24T00:00:00Z",
+  "category": "Logistikk",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperter på logistikkteknologi",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "managers-incoterms-orig.png",
+  "imageAlt": "Logistikkleder ser på en skjerm som viser Incoterms-ansvar for kjøpere og selgere",
+  "content": [
+    { "type": "paragraph", "children": [ { "text": "Incoterms (International Commercial Terms) definerer kjøpers og selgers ansvar i grensekryssende handel. De angir hvem som ordner transport, hvem som betaler frakt og forsikring, og når risiko går fra eksportør til importør.", "bold": false } ] },
+    { "type": "paragraph", "children": [ { "text": "Å velge riktig regel er avgjørende for kostnadskontroll, tollklarering og ansvar - særlig når vegtransport krysser flere europeiske jurisdiksjoner. Denne veiledningen sammenligner de vanligste Incoterms-parene og viser hvordan du velger alternativet som passer logistikkstrategien din.", "bold": false } ] },
+    { "type": "heading", "level": 2, "text": "Incoterms 2020: kort oversikt" },
+    { "type": "paragraph", "children": [ { "text": "Reglene fra 2020 publisert av Det internasjonale handelskammeret lister syv regler for alle transportformer - EXW, FCA, CPT, CIP, DAP, DPU og DDP - pluss fire for sjøfrakt. Hver regel klargjør hvem som er ansvarlig for eksportlisenser, hovedtransport, forsikring og importavgifter, og nøyaktig når risiko går fra selger til kjøper (International Trade Administration, 2024).", "bold": false } ] },
+    { "type": "heading", "level": 3, "text": "Hvorfor Incoterms er viktige i Europa" },
+    { "type": "paragraph", "children": [ { "text": "Europeiske forsendelser passerer ofte flere grenser i det indre markedet. Selv om det ikke er toll mellom EU-medlemmer, avgjør Incoterms fortsatt hvem som ordner transporten, hvem som håndterer transitdeklarasjoner ved passering av ikke-EU-områder, og hvem som er ansvarlig for forsikring. Å velge EXW for en sending fra Polen til Tyskland flytter lasting, eksportklarering og risiko til kjøper - upraktisk om lokal kompetanse mangler (Atradius Collections, 2025).", "bold": false } ] },
+    { "type": "heading", "level": 2, "text": "Sammenligning av EXW og FCA" },
+    { "type": "paragraph", "children": [ { "text": "EXW (Ex Works) gir selger minimale forpliktelser: varen stilles til rådighet hos selger, og kjøper overtar alle kostnader og ansvar fra lasting. Kjøper håndterer eksportfortolling og må gi eksportbevis for mva-formål (Atradius Collections, 2025).", "bold": false } ] },
+    { "type": "paragraph", "children": [ { "text": "FCA (Free Carrier) krever at selger leverer varen til et avtalt sted - ofte en speditørterminal - og klarerer den for eksport. Selger bærer kostnader og risiko til overlevering; deretter styrer kjøper hovedtransporten. FCA er oftere praktisk i europeisk vegtransport siden selger håndterer lasting og eksportpapirer, mens kjøper organiserer hovedtransporten (Atradius Collections, 2025).", "bold": false } ] },
+    { "type": "image", "src": "exw-fca-orig.png", "alt": "Diagram som sammenligner EXW og FCA-ansvar for en europeisk eksempelforsendelse", "caption": "Diagrammet viser hvilken part som håndterer lasting, eksportklarering og hovedtransport under EXW kontra FCA." },
+    { "type": "heading", "level": 2, "text": "Sammenligning av DAP og DDP" },
+    { "type": "paragraph", "children": [ { "text": "DAP (Delivered At Place) betyr at selger transporterer varene til en angitt destinasjon og bærer kostnader og risiko frem til ankomst, unntatt importavgifter og skatter. Kjøper er ansvarlig for importklarering og betaler eventuelle avgifter eller mva (Atradius Collections, 2025).", "bold": false } ] },
+    { "type": "paragraph", "children": [ { "text": "DDP (Delivered Duty Paid) legger maksimal forpliktelse på selger, som bærer alle kostnader, risiko, importavgifter og skatter til levering hos kjøper. Selgere må være registrert for mva og toll i importlandet og budsjettere for ukjente avgifter (Atradius Collections, 2025).", "bold": false } ] },
+    { "type": "heading", "level": 3, "text": "Valg mellom EXW og FCA" },
+    { "type": "list", "ordered": false, "items": [
+      [ { "text": "Bruk EXW når kjøper har et sterkt logistikknettverk i selgers land og ønsker full kontroll over transport, konsolidering og eksportprosedyrer.", "bold": false } ],
+      [ { "text": "Bruk FCA for de fleste internasjonale vegforsendelser fordi selger håndterer eksportklarering og lasting, reduserer tollrisiko, mens kjøper styrer hovedtransporten.", "bold": false } ]
+    ] },
+    { "type": "heading", "level": 3, "text": "Valg mellom DAP og DDP" },
+    { "type": "list", "ordered": false, "items": [
+      [ { "text": "Bruk DAP når kjøper vil håndtere importklarering, kreve mva-refusjon og styre siste mil.", "bold": false } ],
+      [ { "text": "Bruk DDP for forbrukerleveranser eller når kjøper krever pris levert med avgifter betalt - forutsatt at selger har registreringer og partnere for importformaliteter.", "bold": false } ]
+    ] },
+    { "type": "heading", "level": 2, "text": "Andre Incoterms å vurdere" },
+    { "type": "paragraph", "children": [ { "text": "Selv om EXW, FCA, DAP og DDP dominerer europeisk vegtransport, kan andre regler passe bedre avhengig av last og ønsket kontrollnivå.", "bold": false } ] },
+    { "type": "list", "ordered": false, "items": [
+      [ { "text": "CPT (Carriage Paid To): selger betaler frakt til avtalt sted, men risiko går over til kjøper ved overlevering til første transportør - nyttig for pakker og samlast.", "bold": false } ],
+      [ { "text": "CIP (Carriage and Insurance Paid To): likner CPT, men selger må også stille forsikring som oppfyller kjøpers krav.", "bold": false } ],
+      [ { "text": "DPU (Delivered at Place Unloaded): selger leverer og losser på avtalt sted, noe som kan forenkle overlevering ved europeiske cross-dock-knutepunkt.", "bold": false } ]
+    ] },
+    { "type": "heading", "level": 2, "text": "Faktorer for riktig valg" },
+    { "type": "list", "ordered": true, "items": [
+      [ { "text": "Kontroll over logistikk: kjøpere med avanserte nettverk kan foretrekke EXW eller FCA for å styre rute og konsolidering.", "bold": false } ],
+      [ { "text": "Tolkompetanse: erfarne selgere velger FCA eller DAP for å sikre korrekt klarering.", "bold": false } ],
+      [ { "text": "Risikotoleranse: bestem hvilken part som best håndterer forsikring, skader og forsinkelser.", "bold": false } ],
+      [ { "text": "Skattemessige forhold: mva-refusjon og avgifter varierer; velg vilkår som passer skattestrategien.", "bold": false } ],
+      [ { "text": "Varens art: høy verdi eller skjør last kan kreve større selgeransvar og forsikring (f.eks. CIP eller DDP).", "bold": false } ],
+      [ { "text": "Forhold kjøper-selger: langvarige partnerskap støtter selgervennlige vilkår, nye forhold støtter kjøperbeskyttelse.", "bold": false } ]
+    ] },
+    { "type": "heading", "level": 2, "text": "Konklusjon: tilpass vilkår til logistikkstrategien" },
+    { "type": "paragraph", "children": [ { "text": "Å velge riktige Incoterms for europeisk vegtransport handler om å balansere kontroll, kostnad og risiko. EXW gir kjøper maksimal forpliktelse, men FCA passer ofte bedre for grensekryssende sendinger siden selger håndterer eksportformaliteter. DAP og DDP gir leveringsløsninger - DAP lar importavgifter ligge hos kjøper, mens DDP gir dør-til-dør på selgers risiko. Vurder logistiske evner, tollkompetanse og forretningsmål før du avtaler vilkår, og bruk en pålitelig speditør for god dokumentasjon og gjennomføring.", "bold": false } ] },
+    { "type": "heading", "level": 3, "text": "Kilder" },
+    { "type": "citation", "text": "Know Your Incoterms (International Trade Administration, 2024) - skisserer Incoterms 2020 og ansvar for kjøpere og selgere på tvers av transportformer.", "author": "International Trade Administration", "url": "https://www.trade.gov/know-your-incoterms" },
+    { "type": "citation", "text": "Incoterms: meaning, rules and responsibilities (Atradius Collections, 2025) - forklarer hvordan EXW og FCA fordeler kostnader, lasting og eksportformaliteter.", "author": "Atradius Collections", "url": "https://atradiuscollections.com/knowledge/incoterms-explained.html" },
+    { "type": "citation", "text": "Incoterms: meaning, rules and responsibilities (Atradius Collections, 2025) - beskriver forpliktelser under DAP og DDP, inkludert hvem som betaler importavgifter og skatter.", "author": "Atradius Collections", "url": "https://atradiuscollections.com/knowledge/incoterms-explained.html" }
+  ],
+  "tags": [
+    "incoterms",
+    "europeisk vegtransport",
+    "handelscompliance",
+    "spedisjon",
+    "eksportlogistikk"
+  ]
+}

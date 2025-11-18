@@ -1,0 +1,243 @@
+{
+  "id": "choose-right-incoterms-european-shipments",
+  "shortId": "incoterms-road-freight",
+  "language": "de",
+  "isVisible": true,
+  "readTime": 420,
+  "title": "Wie Sie die passenden Incoterms für Ihre europäischen Sendungen wählen",
+  "description": "Verstehen Sie, wann EXW, FCA, DAP oder DDP im europäischen Straßengüterverkehr sinnvoll sind und wie Incoterms 2020 Risiko, Kosten und Zollverantwortung beeinflussen.",
+  "publishedAt": "2024-11-24T00:00:00Z",
+  "category": "Logistik",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experten für Logistiktechnologie",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "managers-incoterms-orig.png",
+  "imageAlt": "Logistikmanager bewertet einen Bildschirm, der Incoterms-Verantwortlichkeiten von Käufer und Verkäufer aufschlüsselt",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Incoterms (International Commercial Terms) definieren die Pflichten von Käufern und Verkäufern im grenzüberschreitenden Handel. Sie legen fest, wer den Transport organisiert, wer Fracht und Versicherung bezahlt und wann das Risiko vom Exporteur auf den Importeur übergeht.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Die richtige Klausel ist entscheidend für Kostenkontrolle, Zollabfertigung und Haftungsfragen - insbesondere wenn Straßentransporte mehrere europäische Rechtsräume berühren. Dieser Leitfaden vergleicht die am häufigsten kombinierten Incoterms und zeigt, wie Sie die Option wählen, die zu Ihrer Logistikstrategie passt.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Incoterms 2020: ein kurzer Überblick"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Die 2020 von der Internationalen Handelskammer veröffentlichten Regeln listen sieben Klauseln für alle Verkehrsträger auf - EXW, FCA, CPT, CIP, DAP, DPU und DDP - plus vier für die Seefracht. Jede regelt, wer Exportlizenzen, Hauptbeförderung, Versicherung und Einfuhrabgaben übernimmt und exakt, wann das Risiko vom Verkäufer auf den Käufer übergeht (International Trade Administration, 2024).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Warum Incoterms in Europa wichtig sind"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Europäische Sendungen passieren häufig mehrere Grenzen innerhalb des Binnenmarkts. Zwar fallen zwischen EU-Mitgliedern keine Zölle an, dennoch legen Incoterms fest, wer den Transport organisiert, wer Transitdokumente beim Durchfahren von Nicht-EU-Gebieten erstellt und wer für die Versicherung zuständig ist. EXW für eine Sendung von Polen nach Deutschland etwa verlagert Verladung, Ausfuhrabfertigung und Risiko auf den Käufer - unpraktisch, wenn lokale Expertise fehlt (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "EXW und FCA im Vergleich"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "EXW (Ex Works) auferlegt dem Verkäufer minimale Pflichten: Die Ware wird am Werk des Verkäufers bereitgestellt, der Käufer übernimmt ab Verladung alle Kosten und Verantwortlichkeiten. Der Käufer erledigt die Ausfuhrzollabfertigung und muss für die Umsatzsteuer den Ausfuhrnachweis erbringen (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "FCA (Free Carrier) verpflichtet den Verkäufer, die Ware an einen benannten Ort - oft das Terminal eines Spediteurs - zu liefern und zur Ausfuhr zu verzollen. Kosten und Risiko trägt der Verkäufer bis zur Übergabe; danach steuert der Käufer die Hauptbeförderung. FCA ist im europäischen Straßengüterverkehr meist praktikabler, da der Verkäufer Verladung und Ausfuhrpapiere übernimmt, während der Käufer die Hauptfracht organisiert (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "exw-fca-orig.png",
+      "alt": "Grafik vergleicht EXW und FCA Verantwortlichkeiten für eine Beispielsendung in Europa",
+      "caption": "Diagramm zeigt, welche Partei Verladung, Ausfuhrabfertigung und Hauptbeförderung bei EXW versus FCA übernimmt."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "DAP und DDP im Vergleich"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "DAP (Delivered At Place) bedeutet, dass der Verkäufer die Ware bis zum benannten Bestimmungsort transportiert und bis zur Ankunft Kosten und Risiken trägt, jedoch ohne Einfuhrzölle und -steuern. Der Käufer erledigt die Einfuhrabfertigung und zahlt etwaige Zölle oder Umsatzsteuer (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "DDP (Delivered Duty Paid) weist dem Verkäufer die maximale Verantwortung zu: Er trägt alle Kosten, Risiken sowie Einfuhrabgaben und -steuern bis zur Lieferung an den Standort des Käufers. Verkäufer müssen im Einfuhrland für Umsatzsteuer und Zoll registriert sein und mit unbekannten Abgaben kalkulieren (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Entscheidung zwischen EXW und FCA"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          { "text": "EXW nutzen, wenn der Käufer im Land des Verkäufers ein starkes Logistiknetz hat und Transport, Konsolidierung und Ausfuhrprozesse voll steuern will.", "bold": false }
+        ],
+        [
+          { "text": "FCA für die meisten internationalen Straßensendungen, weil der Verkäufer Ausfuhrabfertigung und Verladung übernimmt und so Zollrisiken senkt, während der Käufer die Hauptbeförderung steuert.", "bold": false }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Entscheidung zwischen DAP und DDP"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          { "text": "DAP wählen, wenn der Käufer die Einfuhrzollabfertigung steuern, Vorsteuer erstattungsfähig machen und die letzte Meile organisieren möchte.", "bold": false }
+        ],
+        [
+          { "text": "DDP für Endkundenzustellungen oder wenn der Käufer einen verzollten Endpreis verlangt - vorausgesetzt, der Verkäufer ist registriert und hat Partner für die Einfuhrabfertigung.", "bold": false }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Weitere in Frage kommende Incoterms"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Auch wenn EXW, FCA, DAP und DDP die Diskussion im europäischen Straßengüterverkehr dominieren, können andere Regeln je nach Fracht und Steuerungsbedarf besser passen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          { "text": "CPT (Carriage Paid To): Der Verkäufer zahlt die Fracht bis zum benannten Bestimmungsort, das Risiko geht jedoch bei Übergabe an den ersten Frachtführer auf den Käufer über - nützlich für Pakete und Sammelladung.", "bold": false }
+        ],
+        [
+          { "text": "CIP (Carriage and Insurance Paid To): ähnlich wie CPT, aber der Verkäufer muss zusätzlich eine Versicherung stellen, die die Anforderungen des Käufers erfüllt.", "bold": false }
+        ],
+        [
+          { "text": "DPU (Delivered at Place Unloaded): Der Verkäufer liefert und entlädt die Ware am vereinbarten Ort, was die Übergabe an europäischen Cross-Dock-Standorten vereinfachen kann.", "bold": false }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Kriterien für die richtige Wahl"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [ { "text": "Steuerung der Logistik: Käufer mit ausgereiften Netzen bevorzugen EXW oder FCA, um Routing und Konsolidierung direkt zu steuern.", "bold": false } ],
+        [ { "text": "Zollkompetenz: Verkäufer mit Erfahrung in Exportdokumenten wählen eher FCA oder DAP, um eine korrekte Abfertigung sicherzustellen.", "bold": false } ],
+        [ { "text": "Risikotoleranz: Legen Sie fest, welche Partei Versicherung, Schaden- und Verzögerungsrisiken am besten tragen kann.", "bold": false } ],
+        [ { "text": "Steuerliche Auswirkungen: Vorsteuererstattung und Zollsätze variieren; wählen Sie Klauseln, die zu Ihrer Steuerstrategie passen.", "bold": false } ],
+        [ { "text": "Art der Güter: Hochwertige oder empfindliche Waren erfordern oft mehr Verkäuferverantwortung und Versicherung (z. B. CIP oder DDP).", "bold": false } ],
+        [ { "text": "Beziehung Käufer-Verkäufer: Langjährige Partnerschaften stützen verkäuferfreundliche Klauseln, neue Beziehungen eher Käuferschutz.", "bold": false } ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fazit: Klauseln an die Logistikstrategie anpassen"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Die richtigen Incoterms für den europäischen Straßengüterverkehr auszuwählen bedeutet, Steuerung, Kosten und Risiko auszubalancieren. EXW überträgt maximale Verantwortung auf den Käufer, doch FCA passt oft besser, da der Verkäufer die Ausfuhrformalitäten übernimmt. DAP und DDP bieten Lieferlösungen - DAP belässt Einfuhrabgaben beim Käufer, DDP liefert verzollt bis zur Tür auf Risiko des Verkäufers. Bewerten Sie Logistikfähigkeiten, Zollkompetenz und Ziele, bevor Sie sich festlegen, und stützen Sie sich auf einen verlässlichen Spediteur für saubere Dokumente und Ausführung.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Quellen"
+    },
+    {
+      "type": "citation",
+      "text": "Know Your Incoterms (International Trade Administration, 2024) - skizziert die Incoterms 2020 und die Pflichten von Käufern und Verkäufern über alle Verkehrsträger hinweg.",
+      "author": "International Trade Administration",
+      "url": "https://www.trade.gov/know-your-incoterms"
+    },
+    {
+      "type": "citation",
+      "text": "Incoterms: meaning, rules and responsibilities (Atradius Collections, 2025) - erklärt, wie EXW und FCA Kosten, Verladung und Ausfuhrzölle verteilen.",
+      "author": "Atradius Collections",
+      "url": "https://atradiuscollections.com/knowledge/incoterms-explained.html"
+    },
+    {
+      "type": "citation",
+      "text": "Incoterms: meaning, rules and responsibilities (Atradius Collections, 2025) - beschreibt Pflichten unter DAP und DDP, einschließlich der Tragung von Einfuhrabgaben und Steuern.",
+      "author": "Atradius Collections",
+      "url": "https://atradiuscollections.com/knowledge/incoterms-explained.html"
+    }
+  ],
+  "tags": [
+    "incoterms",
+    "europäischer straßengüterverkehr",
+    "handelskonformität",
+    "spedition",
+    "exportlogistik"
+  ]
+}
+

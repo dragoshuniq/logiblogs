@@ -1,0 +1,73 @@
+{
+  "id": "choose-right-incoterms-european-shipments",
+  "shortId": "incoterms-road-freight",
+  "language": "tr",
+  "isVisible": true,
+  "readTime": 420,
+  "title": "Avrupa gönderileriniz için doğru Incoterms nasıl seçilir",
+  "description": "Avrupa kara taşımacılığında EXW, FCA, DAP veya DDP ne zaman kullanılır ve Incoterms 2020 risk, maliyet ve gümrük sorumluluklarını nasıl etkiler anlayın.",
+  "publishedAt": "2024-11-24T00:00:00Z",
+  "category": "Lojistik",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Lojistik teknolojisi uzmanları",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "managers-incoterms-orig.png",
+  "imageAlt": "Bir lojistik yöneticisi, alıcı ve satıcı için Incoterms sorumluluklarını gösteren ekranı inceliyor",
+  "content": [
+    { "type": "paragraph", "children": [ { "text": "Incoterms (International Commercial Terms), sınır ötesi ticarette alıcı ve satıcının sorumluluklarını tanımlar. Taşımayı kimin organize edeceğini, navlun ve sigortayı kimin ödeyeceğini ve riskin ihracatçıdan ithalatçıya ne zaman geçtiğini belirtir.", "bold": false } ] },
+    { "type": "paragraph", "children": [ { "text": "Doğru kuralı seçmek maliyet, gümrükleme ve sorumlulukları kontrol etmek için kritiktir - özellikle kara taşımacılığı birden fazla Avrupa yargı alanını geçtiğinde. Bu kılavuz, en yaygın Incoterms eşleşmelerini karşılaştırır ve lojistik stratejinize uyan seçeneği nasıl belirleyeceğinizi gösterir.", "bold": false } ] },
+    { "type": "heading", "level": 2, "text": "Incoterms 2020: hızlı genel bakış" },
+    { "type": "paragraph", "children": [ { "text": "Uluslararası Ticaret Odası'nın 2020'de yayımladığı son kurallar, tüm taşıma şekilleri için yedi kural - EXW, FCA, CPT, CIP, DAP, DPU ve DDP - ve ayrıca deniz taşımacılığı için dört kural listeler. Her biri, ihracat lisansları, ana taşıma, sigorta ve ithalat vergilerinden kimin sorumlu olduğunu ve riskin satıcıdan alıcıya tam olarak ne zaman geçtiğini açıklar (International Trade Administration, 2024).", "bold": false } ] },
+    { "type": "heading", "level": 3, "text": "Incoterms Avrupa'da neden önemli" },
+    { "type": "paragraph", "children": [ { "text": "Avrupa gönderileri, tek pazar içinde sıklıkla birden fazla sınırı aşar. AB üyeleri arasında gümrük vergileri olmasa da Incoterms, taşımayı kimin düzenlediğini, AB dışı bölgelerden geçişte transit beyanlarını kimin yönettiğini ve sigortadan kimin sorumlu olduğunu belirler. Örneğin Polonya'dan Almanya'ya bir gönderi için EXW seçmek, yükleme, ihracat gümrüklemesi ve riski alıcıya yükler - yerel uzmanlık yoksa pratik olmayabilir (Atradius Collections, 2025).", "bold": false } ] },
+    { "type": "heading", "level": 2, "text": "EXW ve FCA karşılaştırması" },
+    { "type": "paragraph", "children": [ { "text": "EXW (Ex Works), satıcıya asgari yükümlülük yükler: mal, satıcının tesisinde hazır edilir ve alıcı, yüklemeden itibaren tüm maliyet ve sorumlulukları üstlenir. Alıcı ihracat gümrük işlemlerini yürütür ve KDV için ihracat kanıtı sağlamalıdır (Atradius Collections, 2025).", "bold": false } ] },
+    { "type": "paragraph", "children": [ { "text": "FCA (Free Carrier), satıcının malı belirlenen bir yere - genellikle bir forwarder terminaline - teslim etmesini ve ihracat için gümrüklemesini gerektirir. Satıcı, teslimata kadar maliyet ve riski üstlenir; sonrasında alıcı ana taşımayı yönetir. FCA, satıcı yükleme ve ihracat evraklarını yürüttüğü için, alıcının ana taşımayı organize ettiği Avrupa kara taşımacılığında daha pratiktir (Atradius Collections, 2025).", "bold": false } ] },
+    { "type": "image", "src": "exw-fca-orig.png", "alt": "Örnek bir Avrupa gönderisi için EXW ve FCA sorumluluklarını karşılaştıran grafik", "caption": "Diyagram, EXW ve FCA kapsamında hangi tarafın yükleme, ihracat gümrüklemesi ve ana taşımayı yönettiğini gösterir." },
+    { "type": "heading", "level": 2, "text": "DAP ve DDP karşılaştırması" },
+    { "type": "paragraph", "children": [ { "text": "DAP (Delivered At Place), satıcının malı belirlenen varış noktasına kadar taşıdığı ve ithalat vergileri ile vergiler hariç olmak üzere varışa kadar maliyet ve risk üstlendiği anlamına gelir. Alıcı, ithalat gümrüklemesinden sorumludur ve varsa vergi veya KDV öder (Atradius Collections, 2025).", "bold": false } ] },
+    { "type": "paragraph", "children": [ { "text": "DDP (Delivered Duty Paid), satıcıya azami sorumluluğu yükler; satıcı, alıcının tesisine teslimata kadar tüm maliyet, risk, ithalat vergileri ve vergileri üstlenir. Satıcıların ithalat ülkesinde KDV ve gümrük için kayıtlı olması ve bilinmeyen vergiler için pay ayırması gerekir (Atradius Collections, 2025).", "bold": false } ] },
+    { "type": "heading", "level": 3, "text": "EXW ile FCA arasında seçim" },
+    { "type": "list", "ordered": false, "items": [
+      [ { "text": "Satıcının ülkesinde güçlü bir lojistik ağı olan ve taşıma, konsolidasyon ve ihracat süreçlerini tamamen kontrol etmek isteyen alıcılar için EXW kullanın.", "bold": false } ],
+      [ { "text": "Çoğu uluslararası kara gönderisi için FCA kullanın; satıcı ihracat gümrüklemesi ve yüklemeyi üstlenerek gümrük gecikmesi riskini azaltır, alıcı ana taşımayı yönetir.", "bold": false } ]
+    ] },
+    { "type": "heading", "level": 3, "text": "DAP ile DDP arasında seçim" },
+    { "type": "list", "ordered": false, "items": [
+      [ { "text": "Alıcı ithalat gümrüklemesini yönetmek, KDV iadesi almak ve son kilometreyi kontrol etmek istediğinde DAP kullanın.", "bold": false } ],
+      [ { "text": "DDP'yi tüketici teslimatlarında veya alıcı, vergiler dahil varış fiyatı istediğinde kullanın - satıcının ithalat formalitelerini yönetmek için kayıt ve iş ortaklarına sahip olması şartıyla.", "bold": false } ]
+    ] },
+    { "type": "heading", "level": 2, "text": "Düşünülmesi gereken diğer Incoterms" },
+    { "type": "paragraph", "children": [ { "text": "EXW, FCA, DAP ve DDP Avrupa kara taşımacılığı tartışmalarına hakim olsa da, diğer kurallar yük ve kontrol ihtiyacına bağlı olarak daha uygun olabilir.", "bold": false } ] },
+    { "type": "list", "ordered": false, "items": [
+      [ { "text": "CPT (Carriage Paid To): satıcı navlunu varış yerine kadar öder, ancak risk, ilk taşıyıcıya teslimde alıcıya geçer - paketler ve konsolide yükler için faydalı.", "bold": false } ],
+      [ { "text": "CIP (Carriage and Insurance Paid To): CPT'ye benzer, ancak satıcı, alıcının kapsam gereksinimlerini karşılayan sigorta da sağlar.", "bold": false } ],
+      [ { "text": "DPU (Delivered at Place Unloaded): satıcı, üzerinde anlaşılan yerde teslim eder ve boşaltır; bu, Avrupa cross-dock tesislerinde devri kolaylaştırabilir.", "bold": false } ]
+    ] },
+    { "type": "heading", "level": 2, "text": "Doğru Incoterm seçimi için faktörler" },
+    { "type": "list", "ordered": true, "items": [
+      [ { "text": "Lojistik kontrolü: gelişmiş ağlara sahip alıcılar, yönlendirme ve konsolidasyonu yönetmek için EXW veya FCA'yı tercih edebilir.", "bold": false } ],
+      [ { "text": "Gümrük uzmanlığı: ihracat belgelerinde deneyimli satıcılar, doğru gümrüklemeyi sağlamak için FCA veya DAP'ı seçebilir.", "bold": false } ],
+      [ { "text": "Risk toleransı: sigorta, hasar ve gecikme riskini hangi tarafın daha iyi yönettiğini belirleyin.", "bold": false } ],
+      [ { "text": "Vergisel etkiler: KDV iadesi kuralları ve vergiler ülkeye göre değişir; vergi stratejinize uygun terimleri seçin.", "bold": false } ],
+      [ { "text": "Eşyanın niteliği: yüksek değerli veya kırılgan yük, satıcıdan daha fazla sorumluluk ve sigorta gerektirebilir (ör. CIP veya DDP).", "bold": false } ],
+      [ { "text": "Alıcı-satıcı ilişkisi: uzun süreli ortaklıklar satıcı lehine terimleri desteklerken, yeni ilişkiler alıcı korumasını destekler.", "bold": false } ]
+    ] },
+    { "type": "heading", "level": 2, "text": "Sonuç: terimleri lojistik stratejinizle hizalayın" },
+    { "type": "paragraph", "children": [ { "text": "Avrupa kara taşımacılığı için doğru Incoterms seçimi, kontrol, maliyet ve risk dengesini kurmaktır. EXW alıcıya azami sorumluluk verir, ancak FCA, satıcının ihracat formalitelerini yönetmesi sayesinde sınır ötesi gönderiler için genellikle daha uygundur. DAP ve DDP, teslim çözümleri sunar - DAP ithalat vergilerini alıcıya bırakır, DDP ise satıcının riskiyle kapıdan kapıya sağlar. Terimleri kararlaştırmadan önce lojistik kabiliyetlerinizi, gümrük uzmanlığınızı ve ticari hedeflerinizi değerlendirin ve belgeler ile icraatta sıkılık için güvenilir bir forwarder ile çalışın.", "bold": false } ] },
+    { "type": "heading", "level": 3, "text": "Kaynaklar" },
+    { "type": "citation", "text": "Know Your Incoterms (International Trade Administration, 2024) - 2020 Incoterms kurallarını ve tüm taşıma modlarında alıcı ve satıcının sorumluluklarını özetler.", "author": "International Trade Administration", "url": "https://www.trade.gov/know-your-incoterms" },
+    { "type": "citation", "text": "Incoterms: meaning, rules and responsibilities (Atradius Collections, 2025) - EXW ve FCA'nın maliyet, yükleme ve ihracat gümrükleme sorumluluklarını nasıl paylaştığını açıklar.", "author": "Atradius Collections", "url": "https://atradiuscollections.com/knowledge/incoterms-explained.html" },
+    { "type": "citation", "text": "Incoterms: meaning, rules and responsibilities (Atradius Collections, 2025) - DAP ve DDP kapsamındaki yükümlülükleri, ithalat vergileri ve vergileri kimin ödediği dahil olmak üzere açıklar.", "author": "Atradius Collections", "url": "https://atradiuscollections.com/knowledge/incoterms-explained.html" }
+  ],
+  "tags": [
+    "incoterms",
+    "avrupa kara taşımacılığı",
+    "ticari uygunluk",
+    "forwarder",
+    "ihracat lojistiği"
+  ]
+}
+

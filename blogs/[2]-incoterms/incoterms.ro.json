@@ -1,0 +1,73 @@
+{
+  "id": "choose-right-incoterms-european-shipments",
+  "shortId": "incoterms-road-freight",
+  "language": "ro",
+  "isVisible": true,
+  "readTime": 420,
+  "title": "Cum alegi Incoterms potrivite pentru expedițiile tale europene",
+  "description": "Înțelege când să folosești EXW, FCA, DAP sau DDP pentru transportul rutier european și cum Incoterms 2020 influențează riscul, costul și responsabilitățile vamale.",
+  "publishedAt": "2024-11-24T00:00:00Z",
+  "category": "Logistică",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experți în tehnologii pentru logistică",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "managers-incoterms-orig.png",
+  "imageAlt": "Manager de logistică analizează un ecran care detaliază responsabilitățile Incoterms pentru cumpărători și vânzători",
+  "content": [
+    { "type": "paragraph", "children": [ { "text": "Incoterms (International Commercial Terms) definesc responsabilitățile cumpărătorilor și vânzătorilor în comerțul transfrontalier. Ele stabilesc cine organizează transportul, cine plătește pentru transport și asigurare și când riscul se transferă de la exportator la importator.", "bold": false } ] },
+    { "type": "paragraph", "children": [ { "text": "Alegerea regulii potrivite este esențială pentru controlul costurilor, vămuire și responsabilități - mai ales când transportul rutier traversează multiple jurisdicții europene. Acest ghid compară cele mai frecvente perechi Incoterms și arată cum să alegi opțiunea care se aliniază strategiei tale logistice.", "bold": false } ] },
+    { "type": "heading", "level": 2, "text": "Incoterms 2020: prezentare rapidă" },
+    { "type": "paragraph", "children": [ { "text": "Ultimele reguli Incoterms publicate de Camera Internațională de Comerț în 2020 includ șapte reguli aplicabile oricărui mod de transport - EXW, FCA, CPT, CIP, DAP, DPU și DDP - plus patru pentru transport maritim. Fiecare clarifică cine este responsabil pentru licențe de export, transport principal, asigurare și taxe de import și când exact riscul trece de la vânzător la cumpărător (International Trade Administration, 2024).", "bold": false } ] },
+    { "type": "heading", "level": 3, "text": "De ce contează Incoterms în Europa" },
+    { "type": "paragraph", "children": [ { "text": "Expedițiile europene traversează adesea mai multe frontiere în cadrul pieței unice. Deși nu există taxe vamale între statele membre, Incoterms stabilesc totuși cine organizează transportul, cine gestionează declarațiile de tranzit la traversarea teritoriilor non-UE și cine este responsabil pentru asigurare. Alegerea EXW pentru o expediție din Polonia în Germania, de exemplu, transferă încărcarea, vămuirea la export și riscul către cumpărător - potențial nepractic dacă îi lipsește expertiza locală (Atradius Collections, 2025).", "bold": false } ] },
+    { "type": "heading", "level": 2, "text": "Comparând EXW și FCA" },
+    { "type": "paragraph", "children": [ { "text": "EXW (Ex Works) impune obligații minime vânzătorului: marfa este pusă la dispoziție la sediul acestuia, iar cumpărătorul își asumă toate costurile și responsabilitățile din momentul încărcării. Cumpărătorul gestionează vămuirea la export și trebuie să furnizeze dovada exportului pentru TVA (Atradius Collections, 2025).", "bold": false } ] },
+    { "type": "paragraph", "children": [ { "text": "FCA (Free Carrier) cere vânzătorului să livreze marfa într-un loc agreat - adesea terminalul unui transitar - și să o declare la export. Vânzătorul suportă costurile și riscurile până la predare, după care cumpărătorul controlează transportul principal. FCA este mai practic pentru transportul rutier european deoarece vânzătorul gestionează încărcarea și actele de export, iar cumpărătorul organizează transportul principal (Atradius Collections, 2025).", "bold": false } ] },
+    { "type": "image", "src": "exw-fca-orig.png", "alt": "Grafic ce compară responsabilitățile EXW și FCA pentru o expediție europeană exemplu", "caption": "Diagrama indică ce parte gestionează încărcarea, vămuirea la export și transportul principal în EXW versus FCA." },
+    { "type": "heading", "level": 2, "text": "Comparând DAP și DDP" },
+    { "type": "paragraph", "children": [ { "text": "DAP (Delivered At Place) înseamnă că vânzătorul transportă marfa până la destinația agreată și își asumă costurile și riscurile până la sosire, excluzând taxele și impozitele de import. Cumpărătorul este responsabil pentru vămuirea la import și plătește taxele sau TVA-ul (Atradius Collections, 2025).", "bold": false } ] },
+    { "type": "paragraph", "children": [ { "text": "DDP (Delivered Duty Paid) pune responsabilitatea maximă pe vânzător, care suportă toate costurile, riscurile, taxele și impozitele de import până la livrarea la sediul cumpărătorului. Vânzătorii trebuie să fie înregistrați pentru TVA și vamă în țara importatoare și să bugeteze taxe necunoscute (Atradius Collections, 2025).", "bold": false } ] },
+    { "type": "heading", "level": 3, "text": "Alegerea între EXW și FCA" },
+    { "type": "list", "ordered": false, "items": [
+      [ { "text": "Folosește EXW când cumpărătorul are o rețea logistică solidă în țara vânzătorului și dorește control deplin asupra transportului, consolidării și procedurilor de export.", "bold": false } ],
+      [ { "text": "Folosește FCA pentru majoritatea transporturilor rutiere internaționale, deoarece vânzătorul gestionează exportul și încărcarea, reducând riscul întârzierilor la vamă, iar cumpărătorul gestionează transportul principal.", "bold": false } ]
+    ] },
+    { "type": "heading", "level": 3, "text": "Alegerea între DAP și DDP" },
+    { "type": "list", "ordered": false, "items": [
+      [ { "text": "Folosește DAP când cumpărătorul dorește să gestioneze vămuirea la import, să recupereze TVA și să controleze livrarea last mile.", "bold": false } ],
+      [ { "text": "Folosește DDP pentru livrări către consumatori sau când cumpărătorul solicită un preț livrat cu taxe plătite - cu condiția ca vânzătorul să aibă înregistrări și parteneri pentru formalitățile de import.", "bold": false } ]
+    ] },
+    { "type": "heading", "level": 2, "text": "Alte Incoterms de luat în calcul" },
+    { "type": "paragraph", "children": [ { "text": "Deși EXW, FCA, DAP și DDP domină discuțiile despre transportul rutier european, alte reguli pot fi mai potrivite în funcție de marfă și nivelul de control necesar.", "bold": false } ] },
+    { "type": "list", "ordered": false, "items": [
+      [ { "text": "CPT (Carriage Paid To): vânzătorul plătește transportul până la destinația agreată, dar riscul trece la cumpărător la predarea către primul transportator - util pentru colete și mărfuri consolidate.", "bold": false } ],
+      [ { "text": "CIP (Carriage and Insurance Paid To): similar cu CPT, dar vânzătorul trebuie să asigure și o poliță de asigurare care să respecte cerințele cumpărătorului.", "bold": false } ],
+      [ { "text": "DPU (Delivered at Place Unloaded): vânzătorul livrează și descarcă marfa la locul convenit, ceea ce poate simplifica predarea în hub-uri cross-dock europene.", "bold": false } ]
+    ] },
+    { "type": "heading", "level": 2, "text": "Factori pentru alegerea Incotermului corect" },
+    { "type": "list", "ordered": true, "items": [
+      [ { "text": "Controlul logisticii: cumpărătorii cu rețele dezvoltate pot prefera EXW sau FCA pentru a direcționa rutarea și consolidarea.", "bold": false } ],
+      [ { "text": "Expertiza vamală: vânzătorii cu experiență în documentația de export pot alege FCA sau DAP pentru a asigura o vămuire corectă.", "bold": false } ],
+      [ { "text": "Toleranța la risc: stabilește care parte este mai bine poziționată să gestioneze asigurarea, daunele și întârzierile.", "bold": false } ],
+      [ { "text": "Implicații fiscale: regulile de recuperare a TVA și taxele diferă între țări; alege termeni aliniați strategiei fiscale.", "bold": false } ],
+      [ { "text": "Natura mărfurilor: mărfurile de mare valoare sau fragile pot necesita mai multă responsabilitate din partea vânzătorului și asigurare (de ex., CIP sau DDP).", "bold": false } ],
+      [ { "text": "Relația cumpărător-vânzător: parteneriatele de durată susțin termeni favorabili vânzătorului, relațiile noi favorizează protecția cumpărătorului.", "bold": false } ]
+    ] },
+    { "type": "heading", "level": 2, "text": "Concluzie: aliniază termenii cu strategia logistică" },
+    { "type": "paragraph", "children": [ { "text": "Alegerea Incoterms potrivite pentru transportul rutier european înseamnă echilibrarea controlului, costului și riscului. EXW oferă cumpărătorului responsabilitate maximă, dar FCA se potrivește adesea mai bine transporturilor transfrontaliere, deoarece vânzătorul gestionează formalitățile de export. DAP și DDP oferă soluții livrate - DAP lasă taxele de import în sarcina cumpărătorului, în timp ce DDP asigură livrare door-to-door pe riscul vânzătorului. Evaluează capacitățile logistice, expertiza vamală și obiectivele comerciale înainte de a conveni termenii și lucrează cu un forwarder de încredere pentru documentație și execuție impecabile.", "bold": false } ] },
+    { "type": "heading", "level": 3, "text": "Surse" },
+    { "type": "citation", "text": "Know Your Incoterms (International Trade Administration, 2024) - prezintă regulile Incoterms 2020 și responsabilitățile cumpărătorilor și vânzătorilor pentru toate modurile de transport.", "author": "International Trade Administration", "url": "https://www.trade.gov/know-your-incoterms" },
+    { "type": "citation", "text": "Incoterms: meaning, rules and responsibilities (Atradius Collections, 2025) - explică modul în care EXW și FCA distribuie costurile, încărcarea și formalitățile de export.", "author": "Atradius Collections", "url": "https://atradiuscollections.com/knowledge/incoterms-explained.html" },
+    { "type": "citation", "text": "Incoterms: meaning, rules and responsibilities (Atradius Collections, 2025) - detaliază obligațiile sub DAP și DDP, inclusiv cine plătește taxele și impozitele de import.", "author": "Atradius Collections", "url": "https://atradiuscollections.com/knowledge/incoterms-explained.html" }
+  ],
+  "tags": [
+    "incoterms",
+    "transport rutier european",
+    "conformitate comercială",
+    "expediere",
+    "logistică de export"
+  ]
+}
+

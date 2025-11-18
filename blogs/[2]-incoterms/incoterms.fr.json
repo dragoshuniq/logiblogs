@@ -1,0 +1,223 @@
+{
+  "id": "choose-right-incoterms-european-shipments",
+  "shortId": "incoterms-road-freight",
+  "language": "fr",
+  "isVisible": true,
+  "readTime": 420,
+  "title": "Comment choisir les Incoterms adaptés à vos expéditions européennes",
+  "description": "Comprenez quand utiliser EXW, FCA, DAP ou DDP pour le fret routier européen et comment les Incoterms 2020 affectent le risque, le coût et les responsabilités douanières.",
+  "publishedAt": "2024-11-24T00:00:00Z",
+  "category": "Logistique",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experts en technologies logistiques",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "managers-incoterms-orig.png",
+  "imageAlt": "Un responsable logistique consulte un écran détaillant les responsabilités Incoterms des acheteurs et des vendeurs",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Les Incoterms (International Commercial Terms) définissent les responsabilités des acheteurs et des vendeurs dans le commerce transfrontalier. Ils précisent qui organise le transport, qui paie le fret et l'assurance, et à quel moment le risque est transféré de l'exportateur à l'importateur.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Choisir la règle adéquate est essentiel pour maîtriser les coûts, le dédouanement et les responsabilités - en particulier lorsque le fret routier traverse plusieurs juridictions européennes. Ce guide compare les Incoterms les plus fréquemment associés et montre comment sélectionner l'option qui correspond à votre stratégie logistique.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Incoterms 2020 : aperçu rapide"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Les dernières règles publiées par la Chambre de commerce internationale en 2020 répertorient sept règles applicables à tous les modes de transport - EXW, FCA, CPT, CIP, DAP, DPU et DDP - plus quatre règles maritimes. Chacune précise qui est responsable des licences d'exportation, du transport principal, de l'assurance et des droits d'importation, ainsi que le moment exact où le risque passe du vendeur à l'acheteur (International Trade Administration, 2024).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pourquoi les Incoterms comptent en Europe"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Les expéditions européennes franchissent souvent plusieurs frontières au sein du marché unique. S'il n'y a pas de droits de douane entre membres de l'UE, les Incoterms déterminent néanmoins qui organise le transport, qui établit les déclarations de transit lors du passage par des territoires non membres et qui assume l'assurance. Choisir EXW pour une expédition de la Pologne vers l'Allemagne transfère la manutention, l'exportation et le risque à l'acheteur - potentiellement peu pratique si celui-ci manque d'expertise locale (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comparer EXW et FCA"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "EXW (Ex Works) impose des obligations minimales au vendeur : les marchandises sont mises à disposition dans ses locaux et l'acheteur assume tous les coûts et responsabilités à partir du chargement. L'acheteur gère le dédouanement à l'export et doit fournir la preuve d'exportation à des fins de TVA (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "FCA (Free Carrier) exige du vendeur qu'il livre les marchandises à un lieu convenu - souvent le terminal d'un transitaire - et les dédouane à l'export. Le vendeur supporte les coûts et les risques jusqu'à la remise; ensuite, l'acheteur contrôle le transport principal. FCA est plus pratique pour le fret routier européen car le vendeur gère le chargement et les formalités d'exportation tandis que l'acheteur organise la principale traction (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "exw-fca-orig.png",
+      "alt": "Schéma comparant les responsabilités EXW et FCA pour une expédition européenne type",
+      "caption": "Le diagramme montre quelle partie gère le chargement, le dédouanement export et le transport principal sous EXW vs FCA."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comparer DAP et DDP"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "DAP (Delivered At Place) signifie que le vendeur transporte les marchandises jusqu'au lieu convenu et assume coûts et risques jusqu'à l'arrivée, à l'exclusion des droits et taxes d'importation. L'acheteur est responsable du dédouanement à l'import et paie droits et TVA le cas échéant (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "DDP (Delivered Duty Paid) place la responsabilité maximale sur le vendeur, qui supporte tous les coûts, risques, droits et taxes d'importation jusqu'à la livraison chez l'acheteur. Les vendeurs doivent être immatriculés à la TVA et aux douanes dans le pays importateur et budgéter d'éventuels droits inconnus (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Choisir entre EXW et FCA"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [ { "text": "Utiliser EXW lorsque l'acheteur dispose d'un réseau logistique solide dans le pays du vendeur et souhaite contrôler le transport, la consolidation et les procédures d'export.", "bold": false } ],
+        [ { "text": "Utiliser FCA pour la plupart des envois routiers internationaux, car le vendeur gère le dédouanement export et le chargement, réduisant les risques douaniers tandis que l'acheteur gère le transport principal.", "bold": false } ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Choisir entre DAP et DDP"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [ { "text": "Utiliser DAP lorsque l'acheteur souhaite gérer le dédouanement import, récupérer la TVA et contrôler le dernier kilomètre.", "bold": false } ],
+        [ { "text": "Utiliser DDP pour des livraisons B2C ou lorsque l'acheteur exige un prix rendu droits acquittés - sous réserve que le vendeur dispose des immatriculations et partenaires pour les formalités d'importation.", "bold": false } ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Autres Incoterms à considérer"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        { "text": "Si EXW, FCA, DAP et DDP dominent les discussions en fret routier européen, d'autres règles peuvent mieux convenir selon la marchandise et le besoin de contrôle.", "bold": false }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [ { "text": "CPT (Carriage Paid To) : le vendeur paie le fret jusqu'au lieu convenu mais le risque passe à l'acheteur lors de la remise au premier transporteur - utile pour colis et groupage.", "bold": false } ],
+        [ { "text": "CIP (Carriage and Insurance Paid To) : similaire à CPT mais le vendeur doit aussi fournir une assurance conforme aux exigences de l'acheteur.", "bold": false } ],
+        [ { "text": "DPU (Delivered at Place Unloaded) : le vendeur livre et décharge au lieu convenu, ce qui peut simplifier le transfert dans des hubs cross-dock européens.", "bold": false } ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Critères de sélection de la bonne règle"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [ { "text": "Contrôle logistique : des acheteurs avec un réseau performant préfèrent EXW ou FCA pour piloter le routage et la consolidation.", "bold": false } ],
+        [ { "text": "Compétence douanière : des vendeurs expérimentés en export choisiront FCA ou DAP pour sécuriser le dédouanement.", "bold": false } ],
+        [ { "text": "Tolérance au risque : définir la partie la mieux placée pour gérer assurance, avaries et retards.", "bold": false } ],
+        [ { "text": "Impacts fiscaux : récupération de TVA et droits varient selon le pays; choisir des termes cohérents avec la stratégie fiscale.", "bold": false } ],
+        [ { "text": "Nature des marchandises : des cargaisons de valeur ou fragiles exigent souvent plus de responsabilité du vendeur et une assurance plus élevée (p. ex. CIP ou DDP).", "bold": false } ],
+        [ { "text": "Relation acheteur-vendeur : des partenariats longs favorisent des termes pro-vendeur, des relations nouvelles favorisent la protection de l'acheteur.", "bold": false } ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusion : alignez les termes sur votre stratégie logistique"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        { "text": "Choisir les bons Incoterms pour le fret routier européen consiste à équilibrer contrôle, coût et risque. EXW confère une responsabilité maximale à l'acheteur, mais FCA est souvent plus adapté aux transports transfrontaliers car le vendeur gère les formalités d'exportation. DAP et DDP offrent des solutions livrées - DAP laisse les droits d'importation à l'acheteur tandis que DDP fournit un service porte à porte au risque du vendeur. Évaluez vos capacités logistiques, votre expertise douanière et vos objectifs commerciaux avant d'arrêter les termes, et appuyez-vous sur un transitaire de confiance pour une documentation et une exécution rigoureuses.", "bold": false }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sources"
+    },
+    {
+      "type": "citation",
+      "text": "Know Your Incoterms (International Trade Administration, 2024) - présente les règles Incoterms 2020 et les responsabilités des acheteurs et vendeurs tous modes confondus.",
+      "author": "International Trade Administration",
+      "url": "https://www.trade.gov/know-your-incoterms"
+    },
+    {
+      "type": "citation",
+      "text": "Incoterms: meaning, rules and responsibilities (Atradius Collections, 2025) - explique comment EXW et FCA répartissent coûts, chargement et formalités d'exportation.",
+      "author": "Atradius Collections",
+      "url": "https://atradiuscollections.com/knowledge/incoterms-explained.html"
+    },
+    {
+      "type": "citation",
+      "text": "Incoterms: meaning, rules and responsibilities (Atradius Collections, 2025) - détaille les obligations en DAP et DDP, notamment qui paie droits et taxes à l'import.",
+      "author": "Atradius Collections",
+      "url": "https://atradiuscollections.com/knowledge/incoterms-explained.html"
+    }
+  ],
+  "tags": [
+    "incoterms",
+    "fret routier européen",
+    "conformité commerciale",
+    "commission de transport",
+    "logistique export"
+  ]
+}
+
