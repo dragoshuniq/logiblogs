@@ -1,0 +1,307 @@
+{
+  "id": "cross-border-road-freight-europe-rules-documents-pitfalls",
+  "shortId": "cross-border-freight",
+  "language": "fi",
+  "isVisible": true,
+  "readTime": 480,
+  "title": "Rajat ylittävä maantiekuljetus Euroopassa: säännöt, asiakirjat ja yleiset sudenkuopat",
+  "description": "Hallitse Euroopan rajat ylittävät maantiekuljetukset kattavan oppaamme avulla: EU-sääntely, keskeiset asiakirjat, kabotaasisäännöt, ajo- ja lepoajat sekä yleiset sudenkuopat. Opi varmistamaan sääntelyn noudattaminen, välttämään sakot ja tehostamaan kansainvälisiä maantiekuljetusprosesseja EU:n sisämarkkinoilla.",
+  "publishedAt": "2024-11-17T00:00:00Z",
+  "category": "Kuljetus",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistiikkateknologian asiantuntijat",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "truck-border-crossing.png",
+  "imageAlt": "Kuorma-auto läpäisee EU:n rajatarkastuksen, kun tullivirkailijat tarkastavat asiakirjat",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kansainväliset maantiekuljetukset Euroopan unionissa (EU) vaikuttavat ensi silmäyksellä yksinkertaisilta: kun tavarat ovat sisämarkkinoilla, ne voivat liikkua vapaasti jäsenvaltioiden välillä. Sääntelyn monimutkaisuus, asiakirjatyö ja vaihtelevat kansalliset vaatimukset voivat kuitenkin koitua haasteiksi kokeneillekin lähettäjille. Sääntöjen ymmärtäminen ja oikeiden asiakirjojen valmistelu ehkäisevät viivästyksiä, sakkoja ja liiketoiminnan menetyksiä. Tässä artikkelissa selitetään Euroopan rajat ylittävän maantiekuljetuksen keskeiset vaatimukset, tuodaan esiin yleisiä sudenkuoppia ja annetaan käytännön neuvoja vaatimustenmukaisuuteen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Eurooppalaisen maantiekuljetuksen sääntely-ympäristö"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "EU:n sisämarkkinat poistavat tullit jäsenvaltioiden välillä, mutta maantiekuljetus on silti laajan sääntelyverkon piirissä. Kuljetusyritysten on noudatettava EU:n liikkuvuuspakettia, joka yhdenmukaistaa kuljettajien lähettämistä, kabotaasia ja ajoneuvojen palauttamista koskevat säännöt. Kalustopäälliköiden on seurattava ajoaikoja, varmistettava ajoneuvojen paluu kotimaahan kahdeksan viikon välein ja maksettava ulkomailla työskenteleville kuljettajille sama palkka kuin paikallisille (SNAP ACC, 2025). Ajoneuvoissa on oltava digitaaliset ajopiirturit vaatimustenmukaisuuden seurantaa varten, ja kalustoilla tulisi säilyttää ajopiirturidataa todisteena (SNAP ACC, 2025). Päästörajoitusalueet, Euro 7 ja älykkäät ajopiirturit lisäävät velvoitteita rajat ylittävissä kuljetuksissa (SNAP ACC, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kabotaasi- ja lähettämisrajoitukset"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kabotaasisäännöt rajoittavat kotimaan ajojen määrää, joita ulkomainen kuorma-auto saa suorittaa toisessa EU-maassa. Liikkuvuuspaketin mukaan kuorma-auto voi tehdä enintään kolme kabotaasikeikkaa seitsemän päivän kuluessa kansainvälisestä toimituksesta, minkä jälkeen sen on poistuttava maasta jäähdyttelyjakson ajaksi (SNAP ACC, 2025). Työnantajien, jotka lähettävät kuljettajia muihin jäsenmaihin, on tehtävä lähettämisilmoitus ja varmistettava, että kuljettajilla on mukana lähettämisen todisteet, rahtikirjat ja ajopiirturitiedot (UK Department for Transport, 2023). Noudattamatta jättäminen voi johtaa sakkoihin ja ajoneuvon pysäyttämiseen (UK Department for Transport, 2023).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Keskeiset asiakirjat kansainvälisissä maantiekuljetuksissa"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Myös sisämarkkinoilla rajat ylittävät lähetykset vaativat erityisiä asiakirjoja. CMR-rahtikirja – kansainvälisen tieliikenteen rahtisopimuksesta tehdyn yleissopimuksen mukaisesti – on jokaisen rajat ylittävän tiekuljetuksen perusasiakirja. Se sisältää tiedot lähettäjästä, vastaanottajasta, kuljetusliikkeestä, tavaroiden kuvauksesta sekä lähetys- ja toimituspaikoista. Lähettäjän ja kuljetusliikkeen on allekirjoitettava; asiakirja toimii kuljetussopimuksen todisteena.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Muita tärkeitä asiakirjoja ovat:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "TIR-karnet: IRU:n myöntämä kansainvälinen tulliasiakirja, jonka ansiosta sinetöidyt ajoneuvot tai kontit voivat kulkea useiden maiden läpi ilman tullimaksuja ja tarkastuksia jokaisella rajalla",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Yhteisölupa: vaaditaan EU:ssa kotipaikkaansa pitäville kuljetusyrityksille rajat ylittävään maantiekuljetukseen unionin sisällä",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "CEMT-lupa: tarpeen kuljetuksiin Euroopan liikenneministerikonferenssin jäsenmaiden välillä (erityisesti EU:n ulkopuolisille reiteille)",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kuljettajatodistus: pakollinen EU:n ulkopuolisten kuljettajien käytössä laillisen työsuhteen ja pätevyyden todentamiseksi",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "ADR-todistus: lupa ajoneuvoille, jotka kuljettavat vaarallisia aineita ADR-sopimuksen mukaisesti",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "ATP-todistus: vaaditaan ajoneuvoille, jotka kuljettavat helposti pilaantuvia elintarvikkeita; vahvistaa, että kylmäajoneuvot täyttävät lämpötilavaatimukset",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kauppadokumentit: jokaiseen lähetykseen on liityttävä kaupallinen lasku ja pakkausluettelo, joissa on tiedot tavaroista, arvosta, painosta ja pakkauksesta",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tulliasiakirjat: vaikka EU:ssa ei peritä tulleja, T2-transiitti-ilmoitukset voivat olla tarpeen, kun lähetys kulkee EU:n ulkopuolisten alueiden kautta; kaupassa EU:n ulkopuolisten maiden kanssa vaaditaan Yhteinen hallinnollinen asiakirja (SAD/DAU)",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "src": "cmr-consignment-note.png",
+      "alt": "Kuljettaja luovuttaa CMR-rahtikirjan tulliviranomaisille Euroopan rajalla",
+      "caption": "CMR rajalla korostaa EU:n maantiekuljetusten vaadittua asiakirjaliikennettä."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "CMR-rahtikirja ja sähköinen tulevaisuus"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "EU:ssa ja Yhdistyneessä kuningaskunnassa laaditaan vuosittain noin 470 miljoonaa CMR-asiakirjaa; ne muodostavat perustan toimitusnäytölle ja arvonlisäveron dokumentoinnille. Vuoden 2008 pöytäkirja toi käyttöön sähköisen CMR:n (e-CMR) ja EU:n eFTI-asetus yhdenmukaistaa sähköisen kuljetustiedon vuodesta 2025 alkaen. Monet maat hyväksyvät jo e-CMR:n, mutta käyttöönotto on epätasaista. Kuljetusyritysten tulisi varmistaa, että digitaaliset asiakirjat tunnustetaan kussakin lainkäyttöalueessa ennen kuin tukeutuvat yksinomaan niihin.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Toimintasäännöt: ajo- ja lepoajat sekä ajoneuvostandardit"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kuljettajien väsymys on merkittävä onnettomuus- ja sääntörikkomusten syy. EU:n säännöt rajoittavat kuljettajat ",
+          "bold": false
+        },
+        {
+          "text": "9 tuntiin päivässä",
+          "bold": true
+        },
+        {
+          "text": " (kahdesti viikossa 10 tuntiin) ja ",
+          "bold": false
+        },
+        {
+          "text": "56 tuntiin viikossa",
+          "bold": true
+        },
+        {
+          "text": " enintään ",
+          "bold": false
+        },
+        {
+          "text": "90 tuntiin kahdessa viikossa",
+          "bold": true
+        },
+        {
+          "text": " (SNAP ACC, 2025). 4,5 tunnin ajon jälkeen on pidettävä 45 minuutin tauko, ja 11 tunnin päivittäinen lepo on pakollinen (Euroopan komissio, 2024). 45 tunnin viikkolepo on pidettävä, eikä sitä saa viettää ohjaamossa. Säännöt koskevat koko EU:ta ja niitä valvotaan ajopiirtureilla ja tiesatsauksilla (Euroopan komissio, 2024).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ajoneuvojen on täytettävä päästö- ja turvallisuusstandardit. Monissa kaupungeissa on päästörajoitusalueita, jotka edellyttävät vähintään Euro 6 -moottoreita; Saksa otti joulukuussa 2023 käyttöön CO2-komponentin kuorma-autojen tiemaksussa, mikä lähes kaksinkertaisti kustannukset (SNAP ACC, 2025). Kuljetusyritysten tulisi myös rekisteröidä perävaunut ja varmistaa, että ajoneuvoissa on asianmukaiset turvavarusteet, kuten sammuttimet, varoituskolmiot ja talvirenkaat siellä missä niitä vaaditaan (SNAP ACC, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "road-freight-documents.png",
+      "alt": "Infografiikka, joka tiivistää rajat ylittävän maantiekuljetuksen keskeiset asiakirjat Euroopassa",
+      "caption": "Infografiikka kokoaa yhteen keskeiset asiakirjat, jotka tulee liittää jokaiseen rajat ylittävään lähetykseen."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Yleiset sudenkuopat ja niiden välttäminen"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Puutteellinen tai virheellinen dokumentaatio. CMR:n, laskujen tai transit-asiakirjojen puuttuminen tai virheet aiheuttavat viivästyksiä ja sakkoja. Tarkista aina, että rahtikirjat kuvaavat oikein tavarat, painon ja osoitteet ja että laskut ja pakkauslistat vastaavat lähetystä",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Lähettämissääntöjen laiminlyönti. Lähettämisilmoituksen ja todistusaineiston puuttuminen voi johtaa sakkoihin sekä työnantajalle että kuljettajalle",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kabotaasirajojen rikkominen. Jotkut kuljetusyritykset tekevät kotimaan toimituksia kansainvälisen ajon jälkeen huomaamatta, että kabotaasi on rajoitettu kolmeen operaatioon seitsemässä päivässä",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ajoaikojen aliarviointi. Tietyöt, rajatarkastukset ja lepoajat voivat pidentää läpimenoaikoja huomattavasti. Suunnittele puskuriaikoja ja käytä reittisuunnittelua, joka huomioi tauot ja rajoitukset.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ajoneuvostandardien huomioimatta jättäminen. Ajo päästörajoitusalueelle ilman vaadittua päästöluokkaa tai tiemaksujen maksamatta jättäminen johtaa seuraamuksiin. Tarkista paikalliset vaatimukset ja varmista tiemaksulaitteet siellä missä sähköinen maksujärjestelmä on käytössä.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kielimuurit ja asiakirjavirheet. Vaikka englanti on yleistä, rahtikirjojen tulisi sisältää ranskaa tai muita paikallisia kieliä. Käytä kaksikielisiä lomakkeita ja käännöstyökaluja väärinkäsitysten välttämiseksi.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Yhteenveto: täytä vaatimukset ja säilytä kilpailukyky"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Euroopan rajat ylittävä maantiekuljetus perustuu sekä EU:n yhdenmukaistettuihin sääntöihin että kansallisiin vaatimuksiin. Lähettäjät ja kuljetusliikkeet, jotka panostavat sääntelyn ymmärtämiseen, valmistelevat täydellisen dokumentaation ja noudattavat kuljettajia ja kabotaasia koskevia sääntöjä, välttävät kalliit virheet. EU:n siirtyessä kohti sähköisiä kuljetustietoja e-CMR:n ja sähköisten lähettämisilmoitusten varhaiset käyttäjät hyötyvät tehokkuudesta ja vähemmästä paperityöstä. Yhteistyö modernin logistiikkakumppanin, kuten Logifien, kanssa varmistaa vaatimustenmukaisuuden, reaaliaikaisen näkyvyyden ja sujuvat prosessit koko Euroopassa.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lähteet"
+    },
+    {
+      "type": "citation",
+      "text": "Carrying out international road haulage (UK Department for Transport, 2023) - selittää lähettämisilmoitukset, todentavat asiakirjat ja ajopiirturimerkinnät, joita vaaditaan, kun Iso-Britannian ja EU:n kuljettajat työskentelevät ulkomailla.",
+      "author": "UK Department for Transport",
+      "url": "https://www.gov.uk/guidance/carrying-out-international-road-haulage/"
+    },
+    {
+      "type": "citation",
+      "text": "Road transport workers: driving and rest time rules (European Commission, 2024) - kuvaa EU:n rajat ajo- ja lepoajoille, viikkolevolle ja valvonnalle ajopiirturin avulla.",
+      "author": "European Commission",
+      "url": "https://europa.eu/youreurope/business/dealing-with-customers/transport/road-transport-workers/index_en.htm"
+    },
+    {
+      "type": "citation",
+      "text": "What fleet managers need to know about EU transport regulations (SNAP ACC Newsroom, 2025) - tiivistää liikkuvuuspaketin kabotaasirajat, lähettämissäännöt ja vaatimuksen ajoneuvojen palauttamisesta kahdeksan viikon välein.",
+      "author": "Josh Cousens",
+      "url": "https://snapacc.com/newsroom/what-fleet-managers-need-to-know-about-eu-transport-regulations/"
+    },
+    {
+      "type": "citation",
+      "text": "What fleet managers need to know about EU transport regulations (SNAP ACC Newsroom, 2025) - korostaa Euro 7 -päästöstandardeja, päästörajoitusalueita, älykkäitä ajopiirtureita ja digitaalisia vaatimustenmukaisuusodotuksia eurooppalaisille kalustoille.",
+      "author": "Josh Cousens",
+      "url": "https://snapacc.com/newsroom/what-fleet-managers-need-to-know-about-eu-transport-regulations/"
+    }
+  ],
+  "tags": [
+    "rajat ylittävä maantiekuljetus",
+    "eurooppalainen maantiekuljetus",
+    "kansainvälinen maantiekuljetus Euroopassa",
+    "rajat ylittävät lähetykset EU:ssa",
+    "CMR-rahtikirja",
+    "tulliasiakirjat maantiekuljetuksille",
+    "tavaroiden lähetys Euroopassa"
+  ]
+}
+

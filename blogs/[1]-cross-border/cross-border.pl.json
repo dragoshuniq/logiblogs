@@ -1,0 +1,307 @@
+{
+  "id": "cross-border-road-freight-europe-rules-documents-pitfalls",
+  "shortId": "cross-border-freight",
+  "language": "pl",
+  "isVisible": true,
+  "readTime": 480,
+  "title": "Transgraniczny transport drogowy w Europie: zasady, dokumenty i częste pułapki",
+  "description": "Opanuj europejski transgraniczny transport drogowy dzięki naszemu kompleksowemu przewodnikowi obejmującemu przepisy UE, kluczowe dokumenty, zasady kabotażu, ograniczenia czasu pracy kierowców oraz najczęstsze pułapki. Dowiedz się, jak zapewnić zgodność, uniknąć kar i usprawnić międzynarodowe operacje transportu drogowego na jednolitym rynku UE.",
+  "publishedAt": "2024-11-17T00:00:00Z",
+  "category": "Transport",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperci ds. technologii logistycznych",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "truck-border-crossing.png",
+  "imageAlt": "Ciężarówka przejeżdża przez punkt kontroli granicznej UE, gdy funkcjonariusze celni sprawdzają dokumenty",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Międzynarodowy transport drogowy w Unii Europejskiej (UE) wydaje się na pierwszy rzut oka zaskakująco prosty: po wprowadzeniu towarów na jednolity rynek mogą one swobodnie przemieszczać się między państwami członkowskimi. Złożoność regulacyjna, dokumentacja oraz zróżnicowane wymagania krajowe potrafią jednak zaskoczyć nawet doświadczonych nadawców. Zrozumienie zasad i przygotowanie właściwych dokumentów zapobiega opóźnieniom, karom i utracie zleceń. Ten artykuł wyjaśnia kluczowe wymagania dotyczące transgranicznego transportu drogowego w Europie, wskazuje częste pułapki i oferuje praktyczne wskazówki dotyczące zgodności.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ramy regulacyjne europejskiego transportu drogowego"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Rynek wewnętrzny UE znosi cła między państwami członkowskimi, jednak transport drogowy podlega rozbudowanym regulacjom. Przewoźnicy muszą przestrzegać Pakietu Mobilności UE, który ujednolica zasady dotyczące delegowania kierowców, kabotażu i powrotu pojazdów. Menedżerowie flot muszą monitorować czas prowadzenia pojazdów, zapewnić powrót pojazdów do kraju siedziby co osiem tygodni oraz płacić kierowcom delegowanym za granicę wynagrodzenia na poziomie lokalnym (SNAP ACC, 2025). Pojazdy muszą być wyposażone w cyfrowe tachografy do kontroli zgodności, a floty powinny gromadzić dane z tachografów jako dowód (SNAP ACC, 2025). Strefy niskiej emisji, norma Euro 7 i inteligentne tachografy nakładają dodatkowe obowiązki przy operacjach transgranicznych (SNAP ACC, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ograniczenia w kabotażu i delegowaniu"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Zasady kabotażu ograniczają liczbę przewozów krajowych, jakie zagraniczna ciężarówka może wykonać w innym państwie UE. Zgodnie z Pakietem Mobilności ciężarówka może wykonać do trzech operacji kabotażowych w ciągu siedmiu dni po zakończeniu dostawy międzynarodowej, po czym musi opuścić kraj na okres wychłodzenia (SNAP ACC, 2025). Pracodawcy delegujący kierowców do innych państw członkowskich muszą składać zgłoszenia delegowania i zapewnić, że kierowcy posiadają dowody delegowania, listy przewozowe i zapisy z tachografu (UK Department for Transport, 2023). Brak zgodności może skutkować karami i unieruchomieniem pojazdu (UK Department for Transport, 2023).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dokumenty niezbędne w międzynarodowym transporcie drogowym"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Nawet w ramach rynku wewnętrznego przesyłki transgraniczne wymagają określonych dokumentów. List przewozowy CMR – wymagany przez Konwencję o umowie międzynarodowego przewozu drogowego towarów – jest podstawowym dokumentem każdego transgranicznego przewozu drogowego. Zawiera dane nadawcy, odbiorcy, przewoźnika, opis towarów oraz miejsca nadania i dostawy. Musi zostać podpisany przez nadawcę i przewoźnika i stanowi dowód zawarcia umowy przewozu.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Inne kluczowe dokumenty obejmują:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Karnet TIR: międzynarodowy dokument celny wydawany przez IRU, umożliwiający przejazd zaplombowanych pojazdów lub kontenerów przez wiele krajów bez płacenia ceł i bez kontroli na każdej granicy",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Licencja wspólnotowa: wymagana dla przewoźników z siedzibą w UE do wykonywania transgranicznego transportu drogowego w Unii",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Zezwolenie CEMT: potrzebne do transportu między państwami członkowskimi Konferencji Europejskich Ministrów Transportu (zwłaszcza na kierunkach poza UE)",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Świadectwo kierowcy: obowiązkowe przy zatrudnianiu kierowców spoza UE w celu potwierdzenia legalnego zatrudnienia i kwalifikacji",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Świadectwo ADR: zezwolenie dla pojazdów przewożących towary niebezpieczne zgodnie z umową ADR",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Świadectwo ATP: wymagane dla pojazdów przewożących artykuły łatwo psujące się; potwierdza, że pojazdy chłodnicze spełniają wymagania temperaturowe",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Dokumenty handlowe: każdej przesyłce musi towarzyszyć faktura handlowa i lista pakunkowa, zawierające szczegóły towarów, wartość, wagę i sposób opakowania",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Dokumenty celne: chociaż w UE nie pobiera się ceł, deklaracje tranzytowe (T2) mogą być potrzebne, gdy przesyłka przejeżdża przez terytoria spoza UE, a Jednolity Dokument Administracyjny (SAD/DAU) jest wymagany w handlu z krajami trzecimi",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "src": "cmr-consignment-note.png",
+      "alt": "Kierowca przekazuje świadectwo CMR funkcjonariuszom celnym na przejściu granicznym w Europie",
+      "caption": "Prezentacja dokumentu CMR na granicy podkreśla zakres wymaganej dokumentacji w transporcie drogowym w UE."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "List przewozowy CMR i przyszłość elektroniczna"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "W UE i Wielkiej Brytanii co roku wystawia się około 470 milionów dokumentów CMR; stanowią one podstawę dowodu dostawy i rozliczeń VAT. Protokół z 2008 r. wprowadził elektroniczny CMR (e-CMR), a rozporządzenie eFTI UE ujednolici elektroniczne informacje o ładunkach od 2025 r. Wiele krajów akceptuje e-CMR, lecz wdrożenie pozostaje nierównomierne. Przewoźnicy powinni sprawdzić, czy dokumenty cyfrowe są uznawane w danej jurysdykcji, zanim oprą się wyłącznie na wersjach elektronicznych.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Zasady operacyjne: czas prowadzenia, odpoczynki i standardy pojazdów"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Zmęczenie kierowców jest istotną przyczyną wypadków i naruszeń. Przepisy UE ograniczają kierowców do ",
+          "bold": false
+        },
+        {
+          "text": "9 godzin dziennie",
+          "bold": true
+        },
+        {
+          "text": " (z możliwością wydłużenia do 10 godzin dwa razy w tygodniu) oraz do ",
+          "bold": false
+        },
+        {
+          "text": "56 godzin tygodniowo",
+          "bold": true
+        },
+        {
+          "text": " przy maksymalnie ",
+          "bold": false
+        },
+        {
+          "text": "90 godzin w ciągu dwóch tygodni",
+          "bold": true
+        },
+        {
+          "text": " (SNAP ACC, 2025). Po 4,5 godzinach jazdy kierowca musi zrobić 45-minutową przerwę; dzienny odpoczynek 11 godzin jest obowiązkowy (Komisja Europejska, 2024). Odpoczynek tygodniowy 45 godzin musi być wykorzystany i nie może odbywać się w kabinie. Zasady te obowiązują w całej UE i są kontrolowane za pomocą tachografów oraz kontroli drogowych (Komisja Europejska, 2024).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Pojazdy muszą spełniać normy emisji i bezpieczeństwa. W wielu miastach działają strefy niskiej emisji, wymagające co najmniej silników Euro 6; Niemcy wprowadzili w grudniu 2023 r. komponent CO2 do opłat drogowych dla ciężarówek, niemal podwajając koszty (SNAP ACC, 2025). Przewoźnicy powinni także rejestrować naczepy oraz zapewnić wyposażenie pojazdów w odpowiednie środki bezpieczeństwa, takie jak gaśnice, trójkąty ostrzegawcze i opony zimowe tam, gdzie to wymagane (SNAP ACC, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "road-freight-documents.png",
+      "alt": "Infografika podsumowująca kluczowe dokumenty dla transgranicznego transportu drogowego w Europie",
+      "caption": "Infografika zbiera dokumenty, które powinny towarzyszyć każdej transgranicznej przesyłce."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Najczęstsze pułapki i jak ich unikać"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Niekompletne lub błędne dokumenty. Brak lub błędne wypełnienie CMR, faktur czy dokumentów tranzytowych powoduje opóźnienia i kary. Zawsze sprawdzaj, czy CMR poprawnie odzwierciedla opis towarów, wagę i adresy, a faktury i listy pakunkowe odpowiadają przesyłce",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ignorowanie zasad delegowania. Brak deklaracji delegowania i dokumentów potwierdzających może skutkować karami dla pracodawcy i kierowcy",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Naruszanie limitów kabotażu. Niektórzy przewoźnicy wykonują krajowe dostawy po międzynarodowym przewozie, nie zdając sobie sprawy, że kabotaż jest ograniczony do trzech operacji w siedem dni",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Niedoszacowanie czasów przejazdu. Roboty drogowe, kontrole graniczne i przerwy kierowców mogą znacznie wydłużyć tranzyt. Planuj bufory i używaj narzędzi planowania tras uwzględniających przerwy i ograniczenia.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Pomijanie standardów pojazdów. Wjazd do stref niskiej emisji bez odpowiedniej klasy emisji lub nieopłacenie myta prowadzi do sankcji. Sprawdź wymagania lokalne i upewnij się, że urządzenia do poboru opłat są zainstalowane tam, gdzie obowiązują systemy elektroniczne.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Bariery językowe i błędy w dokumentach. Choć angielski jest powszechny, listy przewozowe powinny zawierać francuski lub inne języki lokalne. Korzystaj z formularzy dwujęzycznych i narzędzi tłumaczeniowych, by uniknąć nieporozumień.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Wnioski: zachowaj zgodność i konkurencyjność"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transgraniczny transport drogowy w Europie jest regulowany przez połączenie ujednoliconych zasad UE i wymagań krajowych. Nadawcy i przewoźnicy, którzy inwestują w zrozumienie regulacji, przygotowują kompletną dokumentację i przestrzegają zasad dotyczących kierowców oraz kabotażu, unikną kosztownych błędów. Wraz z postępującą cyfryzacją informacji o ładunkach w UE wcześni użytkownicy e-CMR i elektronicznych deklaracji delegowania zyskają na efektywności i ograniczą biurokrację. Współpraca z nowoczesnym operatorem logistycznym, takim jak Logifie, zapewnia zgodność, widoczność w czasie rzeczywistym i usprawnione operacje w całej Europie.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Źródła"
+    },
+    {
+      "type": "citation",
+      "text": "Carrying out international road haulage (UK Department for Transport, 2023) - wyjaśnia deklaracje delegowania, dokumenty potwierdzające oraz zapisy tachografu wymagane, gdy kierowcy z UK i UE pracują za granicą.",
+      "author": "UK Department for Transport",
+      "url": "https://www.gov.uk/guidance/carrying-out-international-road-haulage/"
+    },
+    {
+      "type": "citation",
+      "text": "Road transport workers: driving and rest time rules (European Commission, 2024) - opisuje limity UE dotyczące czasu prowadzenia, przerw, tygodniowego odpoczynku oraz kontroli tachografów.",
+      "author": "European Commission",
+      "url": "https://europa.eu/youreurope/business/dealing-with-customers/transport/road-transport-workers/index_en.htm"
+    },
+    {
+      "type": "citation",
+      "text": "What fleet managers need to know about EU transport regulations (SNAP ACC Newsroom, 2025) - podsumowuje limity kabotażu w Pakiecie Mobilności, zasady delegowania i wymóg powrotu pojazdów co osiem tygodni.",
+      "author": "Josh Cousens",
+      "url": "https://snapacc.com/newsroom/what-fleet-managers-need-to-know-about-eu-transport-regulations/"
+    },
+    {
+      "type": "citation",
+      "text": "What fleet managers need to know about EU transport regulations (SNAP ACC Newsroom, 2025) - podkreśla normy emisji Euro 7, strefy niskiej emisji, inteligentne tachografy i oczekiwania w zakresie cyfrowej zgodności dla flot europejskich.",
+      "author": "Josh Cousens",
+      "url": "https://snapacc.com/newsroom/what-fleet-managers-need-to-know-about-eu-transport-regulations/"
+    }
+  ],
+  "tags": [
+    "transgraniczny transport drogowy",
+    "europejski transport drogowy",
+    "międzynarodowy transport drogowy w Europie",
+    "przesyłki transgraniczne UE",
+    "list przewozowy CMR",
+    "dokumenty celne dla transportu drogowego",
+    "wysyłka towarów w Europie"
+  ]
+}
+

@@ -1,0 +1,307 @@
+{
+  "id": "cross-border-road-freight-europe-rules-documents-pitfalls",
+  "shortId": "cross-border-freight",
+  "language": "tr",
+  "isVisible": true,
+  "readTime": 480,
+  "title": "Avrupa'da sınır ötesi karayolu taşımacılığı: kurallar, belgeler ve yaygın hatalar",
+  "description": "AB mevzuatı, temel belgeler, kabotaj kuralları, sürüş sınırlamaları ve yaygın hataları kapsayan kapsamlı rehberimizle Avrupa'da sınır ötesi karayolu taşımacılığını yönetin. Uygunluğu nasıl sağlayacağınızı, cezaları nasıl önleyeceğinizi ve AB iç pazarındaki uluslararası karayolu taşımacılığı operasyonlarınızı nasıl sadeleştireceğinizi öğrenin.",
+  "publishedAt": "2024-11-17T00:00:00Z",
+  "category": "Taşımacılık",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Lojistik teknolojisi uzmanları",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "truck-border-crossing.png",
+  "imageAlt": "Bir kamyon, gümrük memurları evrakları kontrol ederken AB sınır kapısından geçiyor",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Avrupa Birliği (AB) içinde uluslararası karayolu taşımacılığı ilk bakışta şaşırtıcı derecede basit görünür: mallar iç pazara girdikten sonra üye devletler arasında serbestçe hareket edebilir. Ancak karmaşık mevzuat, evrak işleri ve değişken ulusal gereklilikler, deneyimli göndericileri bile zorlayabilir. Kuralları anlamak ve doğru belgeleri hazırlamak gecikmeleri, cezaları ve iş kayıplarını önler. Bu makale, Avrupa'da sınır ötesi karayolu taşımacılığının temel gerekliliklerini açıklar, yaygın hataları vurgular ve uygunluk için pratik tavsiyeler sunar.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Avrupa karayolu taşımacılığının düzenleyici çerçevesi"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "AB iç pazarı üye devletler arasındaki tarifeleri kaldırır, ancak karayolu taşımacılığı hâlâ kapsamlı kurallara tabidir. Taşıyıcılar; sürücü görevlendirme, kabotaj ve araçların geri dönüşüne ilişkin kuralları uyumlaştıran AB Hareketlilik Paketi'ne uymalıdır. Filo yöneticileri sürüş sürelerini izlemeli, araçların her sekiz haftada bir menşe ülkesine dönmesini sağlamalı ve yurt dışında görev yapan sürücülere yerel sürücülerle aynı ücreti ödemelidir (SNAP ACC, 2025). Uygunluğun izlenmesi için araçlara dijital takograf takılmalıdır ve filolar kanıt olarak takograf verilerini saklamalıdır (SNAP ACC, 2025). Düşük emisyon bölgeleri, Euro 7 ve akıllı takograflar, sınır ötesi operasyonlarda ek yükümlülükler getirir (SNAP ACC, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kabotaj ve görevlendirme kısıtlamaları"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kabotaj kuralları, yabancı bir kamyonun başka bir AB ülkesinde yapabileceği yurt içi sefer sayısını sınırlar. Hareketlilik Paketi'ne göre bir kamyon, uluslararası teslimatı takip eden yedi gün içinde en fazla üç kabotaj operasyonu yapabilir ve ardından bir bekleme süresi için ülkeyi terk etmelidir (SNAP ACC, 2025). Diğer üye ülkelere sürücü görevlendiren işverenler, görevlendirme bildirimi vermeli ve sürücülerin görevlendirme kanıtını, taşıma senetlerini ve takograf kayıtlarını yanlarında bulundurduğunu sağlamalıdır (UK Department for Transport, 2023). Uyum eksikliği, para cezalarına ve aracın bağlanmasına yol açabilir (UK Department for Transport, 2023).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Uluslararası karayolu taşımacılığı için temel belgeler"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "İç pazar içinde bile, sınır ötesi sevkiyatlar belirli belgeler gerektirir. CMR taşıma senedi – Uluslararası Karayolu ile Eşya Taşınmasına İlişkin Sözleşme uyarınca – her sınır ötesi karayolu taşımacılığı için temel belgedir. Göndereni, alıcıyı, taşıyıcıyı, mal tanımını ve yükleme ile teslim yerlerini kaydeder. Gönderen ve taşıyıcı tarafından imzalanır ve taşıma sözleşmesinin kanıtı olarak hizmet eder.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Diğer önemli belgeler şunlardır:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "TIR Karnesi: IRU tarafından düzenlenen, mühürlü araç veya konteynerlerin her sınırda gümrük vergisi ödemeden ve kontrol yapılmadan birden fazla ülkeden geçmesine olanak tanıyan uluslararası gümrük belgesi",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Topluluk ruhsatı: Birlik içinde sınır ötesi karayolu taşımacılığı yapmak için AB'de yerleşik taşıyıcılar için zorunludur",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "CEMT izni: Avrupa Ulaştırma Bakanları Konferansı üyeleri arasında (özellikle AB dışı güzergahlar için) taşımalar için gereklidir",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sürücü sertifikası: AB dışından sürücü istihdam edildiğinde yasal istihdamı ve sürücünün yeterliliğini kanıtlamak için zorunludur",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "ADR belgesi: ADR uyarınca tehlikeli madde taşıyan araçlar için yetki belgesi",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "ATP belgesi: bozulabilir gıda ürünleri taşıyan araçlar için gereklidir; soğutmalı araçların sıcaklık gerekliliklerini karşıladığını doğrular",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ticari belgeler: Her sevkiyata, mallar, değer, ağırlık ve ambalaj bilgilerini içeren ticari fatura ve paket listesi eşlik etmelidir",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Gümrük belgeleri: AB içinde gümrük vergisi uygulanmasa da, sevkiyat AB dışı bölgelerden geçtiğinde transit beyannameleri (T2) gerekebilir; AB dışı ülkelerle ticarette Tek İdari Belge (SAD/DAU) zorunludur",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "src": "cmr-consignment-note.png",
+      "alt": "Bir sürücü, Avrupa sınır kapısında gümrük görevlilerine CMR taşıma senedini teslim ediyor",
+      "caption": "Sınırda CMR'nin sunulması, AB karayolu taşımacılığında gerekli evrakların kapsamını vurgular."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "CMR taşıma senedi ve elektronik gelecek"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "AB ve Birleşik Krallık'ta yılda yaklaşık 470 milyon CMR düzenlenir; bunlar teslimat kanıtı ve KDV belgeleri için temel oluşturur. 2008 Protokolü, elektronik CMR'yi (e-CMR) getirdi ve AB'nin eFTI yönetmeliği 2025'ten itibaren elektronik yük bilgilerinin uyumlaştırılmasını sağlayacaktır. Birçok ülke e-CMR'yi halihazırda kabul etmektedir, ancak benimseme eşitsizdir. Taşıyıcılar, yalnızca dijital belgelere güvenmeden önce bunların her yargı alanında tanınıp tanınmadığını kontrol etmelidir.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Operasyon kuralları: sürüş süreleri, dinlenme süreleri ve araç standartları"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sürücü yorgunluğu, kazaların ve uyumsuzlukların önemli bir nedenidir. AB kuralları, sürücüleri günde ",
+          "bold": false
+        },
+        {
+          "text": "9 saat",
+          "bold": true
+        },
+        {
+          "text": " (haftada iki kez 10 saate kadar) ve haftada ",
+          "bold": false
+        },
+        {
+          "text": "56 saat",
+          "bold": true
+        },
+        {
+          "text": " ile sınırlar; iki haftada azami ",
+          "bold": false
+        },
+        {
+          "text": "90 saat",
+          "bold": true
+        },
+        {
+          "text": " (SNAP ACC, 2025). 4,5 saatlik sürüşten sonra 45 dakikalık mola zorunludur; ayrıca 11 saatlik günlük dinlenme zorunludur (Avrupa Komisyonu, 2024). 45 saatlik haftalık dinlenme yapılmalı ve kabinde geçirilemez. Bu kurallar AB genelinde uygulanır ve takograflar ile yol kenarı kontrolleriyle denetlenir (Avrupa Komisyonu, 2024).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Araçların emisyon ve güvenlik standartlarını karşılaması gerekir. Birçok şehirde en az Euro 6 motor gerektiren düşük emisyon bölgeleri bulunmaktadır; Almanya, Aralık 2023'te kamyon otoyol ücretine CO2 bileşeni ekleyerek maliyetleri neredeyse iki katına çıkarmıştır (SNAP ACC, 2025). Taşıyıcılar ayrıca dorse kayıtlarını tamamlamalı ve araçların, gerekli yerlerde yangın söndürücü, reflektör üçgen ve kış lastikleri gibi uygun güvenlik ekipmanlarıyla donatıldığından emin olmalıdır (SNAP ACC, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "road-freight-documents.png",
+      "alt": "Avrupa'da sınır ötesi karayolu taşımacılığı için gereken temel belgeleri özetleyen bilgi grafiği",
+      "caption": "Bilgi grafiği, her sınır ötesi sevkiyata eşlik etmesi gereken temel belgeleri bir araya getirir."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Yaygın hatalar ve bunlardan nasıl kaçınılır"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Eksik veya hatalı belgeler. CMR, faturalar veya transit evraklarının eksik ya da yanlış doldurulması gecikmelere ve cezalara yol açar. Taşıma senetlerinin mal açıklamasını, ağırlığı ve adresleri doğru yansıttığını; faturalar ile paket listelerinin sevkiyatla uyuştuğunu her zaman kontrol edin",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Görevlendirme kurallarını görmezden gelmek. Görevlendirme bildirimi ve destekleyici belgelerin bulunmaması, hem işveren hem de sürücü için cezalara neden olabilir",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kabotaj limitlerini ihlal etmek. Bazı taşıyıcılar, uluslararası bir seferin ardından kabotajın yedi günde üç operasyonla sınırlı olduğunu bilmeden yurt içi teslimatlar yapar",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sürüş sürelerini hafife almak. Yol çalışmaları, sınır kontrolleri ve sürücü dinlenmeleri, transit sürelerini ciddi biçimde uzatabilir. Programlara pay bırakın ve mola ile kısıtlamaları dikkate alan rota planlaması kullanın.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Araç standartlarını göz ardı etmek. Gerekli emisyon sınıfı olmadan düşük emisyon bölgesine girmek veya otoyol ücretini ödememek yaptırımlara yol açar. Yerel gereklilikleri kontrol edin ve elektronik ücret toplama sisteminin uygulandığı yerlerde cihazların takılı olduğundan emin olun.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Dil engelleri ve belge hataları. İngilizce yaygın olsa da, taşıma senetleri Fransızca veya diğer yerel dilleri de içermelidir. Yanlış anlamaları önlemek için iki dilli formlar ve çeviri araçları kullanın.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sonuç: kurallara uyun, rekabetçi kalın"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Avrupa'da sınır ötesi karayolu taşımacılığı, uyumlaştırılmış AB kuralları ve ulusal gerekliliklerin birleşimiyle yönetilir. Mevzuatı anlamaya yatırım yapan, eksiksiz evrak hazırlayan ve sürücü ile kabotaj kurallarına uyan gönderici ve taşıyıcılar, maliyetli hatalardan kaçınacaktır. AB, yük bilgisinin dijitalleşmesine ilerledikçe e-CMR ve elektronik görevlendirme bildirimlerini erken benimseyenler verimlilik kazanır ve evrak işini azaltır. Logifie gibi modern bir lojistik sağlayıcıyla çalışmak, uygunluğu, gerçek zamanlı görünürlüğü ve Avrupa genelinde yalın operasyonları güvence altına alır.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kaynaklar"
+    },
+    {
+      "type": "citation",
+      "text": "Carrying out international road haulage (UK Department for Transport, 2023) - Birleşik Krallık ve AB sürücülerinin yurt dışında çalıştığı durumlarda gereken görevlendirme bildirimlerini, destekleyici kanıtları ve takograf kayıtlarını açıklar.",
+      "author": "UK Department for Transport",
+      "url": "https://www.gov.uk/guidance/carrying-out-international-road-haulage/"
+    },
+    {
+      "type": "citation",
+      "text": "Road transport workers: driving and rest time rules (European Commission, 2024) - sürüş ve dinlenme süreleri, haftalık dinlenme ve takografla denetimi kapsayan AB sınırlarını ayrıntılandırır.",
+      "author": "European Commission",
+      "url": "https://europa.eu/youreurope/business/dealing-with-customers/transport/road-transport-workers/index_en.htm"
+    },
+    {
+      "type": "citation",
+      "text": "What fleet managers need to know about EU transport regulations (SNAP ACC Newsroom, 2025) - Hareketlilik Paketi'ndeki kabotaj limitlerini, görevlendirme kurallarını ve araçların her sekiz haftada bir dönmesi zorunluluğunu özetler.",
+      "author": "Josh Cousens",
+      "url": "https://snapacc.com/newsroom/what-fleet-managers-need-to-know-about-eu-transport-regulations/"
+    },
+    {
+      "type": "citation",
+      "text": "What fleet managers need to know about EU transport regulations (SNAP ACC Newsroom, 2025) - Avrupa filoları için Euro 7 emisyon standartlarını, düşük emisyon bölgelerini, akıllı takografları ve dijital uygunluk beklentilerini vurgular.",
+      "author": "Josh Cousens",
+      "url": "https://snapacc.com/newsroom/what-fleet-managers-need-to-know-about-eu-transport-regulations/"
+    }
+  ],
+  "tags": [
+    "sınır ötesi karayolu taşımacılığı",
+    "Avrupa karayolu taşımacılığı",
+    "Avrupa'da uluslararası karayolu taşımacılığı",
+    "AB'de sınır ötesi gönderiler",
+    "CMR taşıma senedi",
+    "karayolu taşımacılığı için gümrük belgeleri",
+    "Avrupa'da eşya gönderimi"
+  ]
+}
+
