@@ -1,0 +1,56 @@
+{
+  "id": "sustainability-in-european-road-freight-practical-steps-without-high-tech-solutions",
+  "shortId": "sustainability-road-freight",
+  "language": "fr",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Durabilité dans le fret routier européen: actions pratiques sans haute technologie",
+  "description": "Les acteurs logistiques veulent décarboner le fret routier, mais toutes les entreprises ne peuvent pas investir dans des camions électriques, la télématique et l'IA. Heureusement, de nombreux gestes simples et des changements de comportement réduisent fortement les émissions et les coûts...",
+  "publishedAt": "2025-01-19T00:00:00Z",
+  "category": "Durabilité",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experts en technologies logistiques",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "sustainability-hero.png",
+  "imageAlt": "Conducteur de camion adopte une éco-conduite souple sur une route européenne bordée d'arbres",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Les acteurs de la logistique reconnaissent la nécessité de décarboner le fret routier, mais toutes les entreprises ne peuvent pas investir dans des camions électriques, la télématique et l'IA. Il existe toutefois de nombreuses actions simples et des changements de comportement capables de réduire significativement les émissions et les coûts d'exploitation. Cet article présente des mesures pratiques que les flottes et les expéditeurs peuvent adopter immédiatement, sans investissements lourds.", "bold": false}]},
+    {"type": "image", "src": "sustainability-visual.png", "alt": "Gros plan d'un camion faisant le plein de biodiesel dans une station-service rurale", "caption": "Basculer des pompes diesel vers des carburants biodiesel mélangés est un gain rapide de la check-list durabilité."},
+    {"type": "heading", "level": 2, "text": "Pourquoi la durabilité compte"},
+    {"type": "paragraph", "children": [{"text": "Le transport et la logistique représentent environ 25 % des émissions mondiales de carbone (Ct Global Freight Audit, 2023). Le fret routier en est le premier contributeur, et ses émissions augmenteront sans action. Réduire les émissions améliore la qualité de l'air, diminue la facture carburant et renforce l'image de marque.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Actions pratiques pour un fret plus vert"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Éco-conduite. Former les conducteurs à accélérer en douceur, maintenir une vitesse stable, anticiper le trafic et éviter les ralentis inutiles génère des économies de carburant. Une pression de pneus optimale et une climatisation mesurée améliorent l'efficacité.", "bold": false}],
+      [{"text": "Entretien régulier. Réglage moteur, remplacement des filtres à air, contrôle de géométrie et lubrifiants basse viscosité réduisent la consommation. La maintenance préventive limite les pannes et prolonge la durée de vie.", "bold": false}],
+      [{"text": "Optimisation du chargement et consolidation. Remplir les camions et regrouper les envois réduit les trajets à vide. Les retours de charge et la collaboration aident à apparier volumes et capacités.", "bold": false}],
+      [{"text": "Planification d'itinéraire. Même sans IA, on choisit des itinéraires évitant la congestion et les fortes pentes. La conduite de nuit peut réduire la consommation.", "bold": false}],
+      [{"text": "Carburants alternatifs et mélanges. Les biocarburants comme le biodiesel ou le HVO réduisent le CO2 de 50 à 90 % par rapport au diesel. Ils ne nécessitent pas de modification moteur et constituent un tremplin vers l'électrification, même s'ils peuvent coûter plus cher.", "bold": false}],
+      [{"text": "Transport intermodal. Combiner route et rail (ou short-sea) réduit la distance routière et donc les émissions. Le rail émet moins de CO2 par tonne-kilomètre, idéal pour les longues distances.", "bold": false}],
+      [{"text": "Emballages et équipements allégés. Alléger palettes et emballages diminue la consommation. Palettes réutilisables et emballages retournables réduisent les déchets.", "bold": false}],
+      [{"text": "Engagement des conducteurs et incitations. Les primes à la conduite économe encouragent le changement de comportement. Des retours via reçus carburant et tableaux de bord simples aident à suivre la performance.", "bold": false}],
+      [{"text": "Collaborer le long de la chaîne. Partager volumes et plannings permet des tournées plus efficaces et moins de trajets à vide.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Études de cas et éléments probants"},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Bénéfices de l'éco-conduite. Des programmes montrent -5 à -15 % de consommation. Le ICCT évoque jusqu'à 0,15 litre par km économisé (Ct Global Freight Audit, 2023).", "bold": false}],
+      [{"text": "Véhicules sobres. Passer à l'Euro 6 et ajouter des dispositifs aérodynamiques réduit la consommation de 5 à 10 %; les pneus à faible résistance apportent un gain supplémentaire (Ct Global Freight Audit, 2023).", "bold": false}],
+      [{"text": "Carburants alternatifs. Le HVO offre de fortes réductions de CO2 sans modification moteur. La Commission européenne encourage carburants durables et intermodal pour atteindre les objectifs (Ct Global Freight Audit, 2023).", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Conclusion: de petits gestes, un grand impact"},
+    {"type": "paragraph", "children": [{"text": "La durabilité en fret routier n'exige pas toujours de la haute technologie. Des mesures opérationnelles simples - éco-conduite, maintenance, consolidation et planification - réduisent les émissions et les coûts. Explorer les biocarburants et l'intermodal renforce l'effet. En mobilisant les conducteurs et en collaborant dans la chaîne, les entreprises progressent vers la décarbonation tout en se préparant aux technologies futures.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Sources"},
+    {"type": "citation", "text": "Why is Reducing Carbon Emissions in Transportation and Logistics Important? (Ct Global Freight Audit, 2023) - Souligne que jusqu'à 90 % des émissions d'une organisation proviennent de la chaîne d'approvisionnement et que transport/logistique pèsent près de 25 % des émissions mondiales. Présente des actions: éco-conduite, planification, intermodal, carburants alternatifs et efficacité flotte.", "author": "Ct Global Freight Audit", "url": "https://ctglobal-freightaudit.com/why-is-reducing-carbon-emissions-in-transportation-and-logistics-important/"}
+  ],
+  "tags": [
+    "fret routier durable",
+    "logistique verte europe",
+    "réduire CO2 transport routier",
+    "pratiques logistiques éco responsables",
+    "solutions de fret bas carbone",
+    "opérations de transport durables",
+    "fret plus vert sans technologie"
+  ]
+}
+

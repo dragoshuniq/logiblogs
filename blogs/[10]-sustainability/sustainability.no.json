@@ -1,0 +1,56 @@
+{
+  "id": "sustainability-in-european-road-freight-practical-steps-without-high-tech-solutions",
+  "shortId": "sustainability-road-freight",
+  "language": "no",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Bærekraft i europeisk veitransport: praktiske grep uten høyteknologi",
+  "description": "Logistikkaktører ser behovet for å avkarbonisere veitransport, men ikke alle kan investere i elektriske lastebiler, telematikk og AI. Heldigvis finnes det mange enkle tiltak og atferdsendringer som merkbart reduserer utslipp og kostnader...",
+  "publishedAt": "2025-01-19T00:00:00Z",
+  "category": "Bærekraft",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperter på logistikkteknologi",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "sustainability-hero.png",
+  "imageAlt": "Lastebilsjåfør praktiserer jevn, drivstoffeffektiv kjøring på en europeisk allé",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Bransjen erkjenner behovet for å avkarbonisere veitransport, men ikke alle virksomheter kan investere i el‑lastebiler, telematikk og AI. Det finnes likevel mange lav‑teknologiske og atferdsbaserte tiltak som kraftig reduserer utslipp og driftskostnader. Denne artikkelen skisserer praktiske tiltak som flåter og avsendere kan ta i bruk umiddelbart, uten store investeringer.", "bold": false}]},
+    {"type": "image", "src": "sustainability-visual.png", "alt": "Nærbilde av lastebil som fyller biodiesel på en landlig stasjon", "caption": "Å bytte fra diesel til biodieselblandinger ved pumpen er et raskt bærekraftstiltak."},
+    {"type": "heading", "level": 2, "text": "Hvorfor bærekraft betyr noe"},
+    {"type": "paragraph", "children": [{"text": "Transport og logistikk står for omtrent 25 % av de globale karbonutslippene (Ct Global Freight Audit, 2023). Veitransport bidrar mest, og utslippene vil øke uten tiltak. Å redusere dem forbedrer luftkvalitet, senker drivstoffkostnader og styrker omdømmet.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Praktiske grep for grønnere veitransport"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Eco‑driving. Opplæring i myk akselerasjon, jevn hastighet, forutseende kjøring og å unngå unødig tomgang gir betydelig drivstoffsparing. Riktig dekktrykk og moderat bruk av AC øker effektiviteten.", "bold": false}],
+      [{"text": "Regelmessig vedlikehold. Motortuning, luftfilterbytte, hjulstillingskontroll og lavviskøse smøremidler reduserer forbruket. Forebyggende vedlikehold minimerer driftsstans og forlenger levetid.", "bold": false}],
+      [{"text": "Lastoptimering og konsolidering. Fullere biler og samlasting reduserer tomkjøring. Returlaster matcher volum og kapasitet.", "bold": false}],
+      [{"text": "Ruteplanlegging. Selv uten AI kan man velge ruter med mindre kø og stigninger. Nattkjøring kan redusere forbruket ved å unngå trafikk.", "bold": false}],
+      [{"text": "Alternative drivstoff og blandinger. Biodiesel og HVO kan kutte CO2 med 50-90 % vs. standard diesel. De krever ingen motormodifikasjoner og bygger bro til elektrifisering.", "bold": false}],
+      [{"text": "Intermodalt. Kombiner vei med bane eller short‑sea for å redusere kjørte kilometer og utslipp. Bane har lavere CO2 per tonnkilometer og passer lange strekninger.", "bold": false}],
+      [{"text": "Lett emballasje og utstyr. Lettere paller og emballasje reduserer forbruk. Gjenbrukspaller og returpakning kutter avfall.", "bold": false}],
+      [{"text": "Førerengasjement og insentiver. Belønningsprogrammer for drivstoffeffektiv kjøring endrer atferd. Tilbakemelding via kvitteringer og enkle dashboards hjelper oppfølging.", "bold": false}],
+      [{"text": "Samarbeid i verdikjeden. Del data om volumer og tidsplaner for mer effektive ruter og færre tomturer.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Dokumentasjon og eksempler"},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Fordeler med eco‑driving. Programmer viser 5-15 % lavere forbruk. ICCT rapporterer inntil 0,15 liter/km spart (Ct Global Freight Audit, 2023).", "bold": false}],
+      [{"text": "Drivstoffeffektive kjøretøy. Euro 6 og aerodynamikk reduserer forbruket 5-10 %; dekk med lav rullemotstand gir ekstra besparelser (Ct Global Freight Audit, 2023).", "bold": false}],
+      [{"text": "Alternative drivstoff. HVO gir betydelig CO2‑kutt uten motormodifikasjoner. EU‑kommisjonen fremmer bærekraftige drivstoff og intermodalt for å nå mål (Ct Global Freight Audit, 2023).", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Konklusjon: små grep, stor effekt"},
+    {"type": "paragraph", "children": [{"text": "Bærekraft i veitransport krever ikke alltid høyteknologi. Enkle operative tiltak - eco‑driving, vedlikehold, konsolidering og ruteplanlegging - reduserer utslipp og kostnader. Biobrensel og intermodalt forsterker gevinsten. Med engasjerte sjåfører og samarbeid i verdikjeden tar virksomheter reelle steg mot dekarbonisering og forbereder seg på fremtidig teknologi.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Kilde"},
+    {"type": "citation", "text": "Why is Reducing Carbon Emissions in Transportation and Logistics Important? (Ct Global Freight Audit, 2023) - Opptil 90 % av utslippene kan stamme fra verdikjeden, og transport/logistikk står for nær 25 % globalt. Tiltak: eco‑driving, ruteplanlegging, intermodalt, alternative drivstoff og flåteeffektivitet.", "author": "Ct Global Freight Audit", "url": "https://ctglobal-freightaudit.com/why-is-reducing-carbon-emissions-in-transportation-and-logistics-important/"}
+  ],
+  "tags": [
+    "bærekraftig veitransport",
+    "grønn logistikk europa",
+    "redusere CO2 i veitransport",
+    "miljøvennlige logistikkpraksiser",
+    "lave utslipp løsninger",
+    "bærekraftige transportoperasjoner",
+    "grønnere veitransport uten teknologi"
+  ]
+}
+

@@ -1,0 +1,56 @@
+{
+  "id": "sustainability-in-european-road-freight-practical-steps-without-high-tech-solutions",
+  "shortId": "sustainability-road-freight",
+  "language": "tr",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Avrupa kara taşımacılığında sürdürülebilirlik: yüksek teknoloji olmadan pratik adımlar",
+  "description": "Lojistik sektörü kara taşımacılığını karbondan arındırma ihtiyacını kabul ediyor, ancak her şirket elektrikli kamyon, telematik ve yapay zekaya yatırım yapamaz. Neyse ki emisyonları ve maliyetleri belirgin biçimde azaltan pek çok basit ve davranış odaklı adım var...",
+  "publishedAt": "2025-01-19T00:00:00Z",
+  "category": "Sürdürülebilirlik",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Lojistik teknolojisi uzmanları",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "sustainability-hero.png",
+  "imageAlt": "Ağaçlıklı bir Avrupa yolunda sürücü yumuşak ve tasarruflu sürüş yapıyor",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Lojistik aktörleri kara taşımacılığını karbonsuzlaştırma gereğini görüyor, ancak herkes elektrikli kamyon, telematik ve yapay zekaya yatırım yapamaz. Bununla birlikte, emisyonları ve işletme maliyetlerini ciddi ölçüde azaltan çok sayıda düşük maliyetli ve davranışsal önlem vardır. Bu yazı, yüksek sermaye harcamaları olmadan filoların ve göndericilerin hemen uygulayabileceği pratik adımları özetler.", "bold": false}]},
+    {"type": "image", "src": "sustainability-visual.png", "alt": "Kırsal bir istasyonda kamyona biyodizel yakıt dolumu yakın plan", "caption": "Pompalarda biyodizel karışımlarına geçiş, sürdürülebilirlik kontrol listesinde hızlı bir kazanımdır."},
+    {"type": "heading", "level": 2, "text": "Sürdürülebilirlik neden önemli"},
+    {"type": "paragraph", "children": [{"text": "Taşımacılık ve lojistik küresel karbon emisyonlarının yaklaşık %25'ini oluşturuyor (Ct Global Freight Audit, 2023). En büyük pay kara taşımacılığına ait ve önlem alınmazsa artmaya devam eder. Emisyonların azaltılması hava kalitesini iyileştirir, yakıt maliyetlerini düşürür ve kurumsal itibarı güçlendirir.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Daha yeşil taşımacılık için pratik adımlar"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Eko-sürüş uygulamaları. Yumuşak hızlanma, sabit hız, trafiği öngörme ve gereksiz rölantiden kaçınma eğitimleri önemli yakıt tasarrufları sağlar. Doğru lastik basıncı ve klimayı ölçülü kullanmak verimliliği artırır.", "bold": false}],
+      [{"text": "Düzenli bakım. Motor ayarı, hava filtresi değişimi, rot‑balans ve düşük viskoziteli yağlar tüketimi azaltır. Önleyici bakım arızaları en aza indirir ve araç ömrünü uzatır.", "bold": false}],
+      [{"text": "Yük optimizasyonu ve konsolidasyon. Kamyonları doldurmak ve sevkiyatları birleştirmek boş seferleri azaltır. Geri yük anlaşmaları kapasiteyle hacmi eşleştirir.", "bold": false}],
+      [{"text": "Rota planlama. Yapay zeka olmadan da daha az trafik ve eğimli hatlar seçilebilir. Gece sürüşü trafikten kaçınarak tüketimi azaltabilir.", "bold": false}],
+      [{"text": "Alternatif yakıtlar ve karışımlar. Biyodizel veya HVO gibi biyoyakıtlar, standart dizele göre CO2'yi %50-90 azaltır. Daha pahalı olsalar da motor değişikliği gerektirmez ve elektrifikasyona köprü görevi görürler.", "bold": false}],
+      [{"text": "Intermodal taşımacılık. Yolu demiryolu veya short‑sea ile birleştirmek sürüş mesafesini ve emisyonları düşürür. Demiryolu ton‑kilometre başına daha az CO2 üretir ve uzun hatlar için uygundur.", "bold": false}],
+      [{"text": "Hafif ambalaj ve ekipman. Palet ve ambalajları hafifletmek tüketimi azaltır. Yeniden kullanılabilir paletler ve iade ambalaj atığı azaltır.", "bold": false}],
+      [{"text": "Sürücü katılımı ve teşvikler. Yakıt verimli sürüşe prim veren programlar davranış değişimini teşvik eder. Akaryakıt fişleri ve basit panolarla geri bildirim performans takibini kolaylaştırır.", "bold": false}],
+      [{"text": "Zincir genelinde işbirliği. Hacim ve plan verilerini paylaşmak daha verimli rotalar ve daha az boş sefer sağlar.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Vaka çalışmaları ve kanıtlar"},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Eko-sürüş faydaları. Eğitim programları %5-15 yakıt tasarrufu göstermektedir. ICCT kilometre başına 0,15 litreye kadar tasarruf bildirir (Ct Global Freight Audit, 2023).", "bold": false}],
+      [{"text": "Yakıt verimli araçlar. Euro 6 ve aerodinamik ekler tüketimi %5-10 azaltır; düşük yuvarlanma dirençli lastikler ilave fayda sağlar (Ct Global Freight Audit, 2023).", "bold": false}],
+      [{"text": "Alternatif yakıtlar. HVO, motor değişikliği olmadan ciddi CO2 azaltımı sağlar. Avrupa Komisyonu hedefler için sürdürülebilir yakıt ve intermodali destekler (Ct Global Freight Audit, 2023).", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Sonuç: küçük adımlar, büyük etki"},
+    {"type": "paragraph", "children": [{"text": "Kara taşımacılığında sürdürülebilirlik her zaman yüksek teknolojiyi gerektirmez. Basit operasyonel önlemler - eko-sürüş, bakım, konsolidasyon ve rota planlama - emisyonları ve maliyetleri düşürür. Biyoyakıtlar ve intermodal taşımacılık etkiyi güçlendirir. Sürücülerin katılımı ve tedarik zinciri işbirliğiyle işletmeler karbonsuzlaşmaya doğru somut ilerleme kaydeder ve geleceğin teknolojilerine hazırlanır.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Kaynak"},
+    {"type": "citation", "text": "Why is Reducing Carbon Emissions in Transportation and Logistics Important? (Ct Global Freight Audit, 2023) - Bir kuruluşun emisyonlarının %90'a kadarı tedarik zincirinden gelebilir; taşımacılık/lojistik küresel toplamın neredeyse %25'ini oluşturur. Adımlar: eko-sürüş, rota planlama, intermodal, alternatif yakıtlar ve filo verimliliği.", "author": "Ct Global Freight Audit", "url": "https://ctglobal-freightaudit.com/why-is-reducing-carbon-emissions-in-transportation-and-logistics-important/"}
+  ],
+  "tags": [
+    "sürdürülebilir kara taşımacılığı",
+    "yeşil lojistik avrupa",
+    "karayolunda CO2 azaltma",
+    "çevre dostu lojistik uygulamaları",
+    "düşük karbonlu yük çözümleri",
+    "sürdürülebilir taşıma operasyonları",
+    "teknolojisiz daha yeşil kara yolu"
+  ]
+}
+

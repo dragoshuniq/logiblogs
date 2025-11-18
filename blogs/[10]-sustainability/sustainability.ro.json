@@ -1,0 +1,56 @@
+{
+  "id": "sustainability-in-european-road-freight-practical-steps-without-high-tech-solutions",
+  "shortId": "sustainability-road-freight",
+  "language": "ro",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Sustenabilitate în transportul rutier european: pași practici fără tehnologie de vârf",
+  "description": "Actorii din logistică recunosc nevoia de decarbonizare a transportului rutier, dar nu toate companiile pot investi în camioane electrice, telematică și AI. Din fericire, există multe măsuri simple și schimbări de comportament care reduc semnificativ emisiile și costurile...",
+  "publishedAt": "2025-01-19T00:00:00Z",
+  "category": "Sustenabilitate",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experți în tehnologii pentru logistică",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "sustainability-hero.png",
+  "imageAlt": "Șoferul practică eco-driving lin pe o șosea europeană mărginită de copaci",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Părțile implicate în logistică recunosc necesitatea decarbonizării transportului rutier, dar nu toate companiile pot investi în camioane electrice, telematică și AI. Există însă numeroase măsuri low‑tech și schimbări de comportament care reduc semnificativ emisiile și costurile operaționale. Acest articol descrie măsuri practice pe care flotele și expeditorii le pot adopta imediat, fără investiții mari.", "bold": false}]},
+    {"type": "image", "src": "sustainability-visual.png", "alt": "Prim-plan cu un camion alimentat cu biodiesel la o stație rurală", "caption": "Înlocuirea motorinei cu amestecuri de biodiesel la pompă este un câștig rapid din lista de sustenabilitate."},
+    {"type": "heading", "level": 2, "text": "De ce contează sustenabilitatea"},
+    {"type": "paragraph", "children": [{"text": "Transportul și logistica reprezintă aproximativ 25 % din emisiile globale de carbon (Ct Global Freight Audit, 2023). Transportul rutier este cel mai mare contributor, iar emisiile vor crește fără acțiuni. Reducerea lor îmbunătățește calitatea aerului, scade costul cu combustibilul și consolidează reputația companiei.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Pași practici pentru un transport mai verde"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Eco-driving. Instruirea șoferilor pentru accelerare lină, viteze constante, anticiparea traficului și evitarea staționării cu motorul pornit generează economii semnificative. Presiunea corectă în anvelope și folosirea moderată a climatizării sporesc eficiența.", "bold": false}],
+      [{"text": "Mentenanță regulată. Reglarea motorului, înlocuirea filtrelor de aer, geometria roților și lubrifianți cu vâscozitate redusă scad consumul. Întreținerea preventivă reduce defecțiunile și prelungește durata de viață.", "bold": false}],
+      [{"text": "Optimizarea încărcării și consolidarea. Umplerea camioanelor și combinarea transporturilor reduc cursele goale. Acordurile de backhaul aliniază volumele cu capacitatea.", "bold": false}],
+      [{"text": "Planificarea rutelor. Chiar și fără AI, se pot alege rute cu mai puțină aglomerație și pante. Conducerea pe timp de noapte poate reduce consumul evitând traficul.", "bold": false}],
+      [{"text": "Carburanți alternativi și amestecuri. Biocarburanții precum biodiesel sau HVO reduc CO2 cu 50-90 % față de motorină. Deși pot fi mai scumpi, nu necesită modificări la motor și sunt o punte către electrificare.", "bold": false}],
+      [{"text": "Intermodal. Combinarea rutierului cu feroviarul sau short‑sea reduce distanța parcursă și emisiile. Calea ferată emite mai puțin CO2 per tonă‑kilometru, potrivită pentru distanțe lungi.", "bold": false}],
+      [{"text": "Ambalaje și echipamente ușoare. Reducerea greutății paleților și ambalajelor scade consumul. Paleții reutilizabili și ambalajele returnabile reduc deșeurile.", "bold": false}],
+      [{"text": "Implicarea șoferilor și stimulente. Programele de stimulare a condusului eficient încurajează schimbarea comportamentului. Feedback prin bonurile de combustibil și dashboarduri simple ajută la urmărirea performanței.", "bold": false}],
+      [{"text": "Colaborare pe lanț. Partajarea datelor despre volume și programe permite rute eficiente și mai puține curse goale.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Studii de caz și dovezi"},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Beneficiile eco-driving. Programele arată reduceri de 5-15 % la consum. ICCT menționează economii de până la 0,15 litri/km (Ct Global Freight Audit, 2023).", "bold": false}],
+      [{"text": "Vehicule eficiente. Trecea la Euro 6 și dispozitive aerodinamice reduce consumul cu 5-10 %, iar anvelopele cu rezistență scăzută aduc câștiguri suplimentare (Ct Global Freight Audit, 2023).", "bold": false}],
+      [{"text": "Carburanți alternativi. HVO aduce reduceri importante de CO2 fără modificări ale motorului. Comisia Europeană încurajează carburanți sustenabili și intermodalitatea pentru atingerea țintelor (Ct Global Freight Audit, 2023).", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Concluzie: schimbări mici, impact mare"},
+    {"type": "paragraph", "children": [{"text": "Sustenabilitatea în transportul rutier nu presupune mereu tehnologie de vârf. Măsuri operaționale simple - eco-driving, mentenanță, consolidare și planificare - reduc emisiile și costurile. Explorarea biocarburanților și a intermodalului amplifică beneficiile. Implicând șoferii și colaborând pe lanțul de aprovizionare, companiile fac progrese reale către decarbonizare și se pregătesc pentru tehnologiile viitoare.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Surse"},
+    {"type": "citation", "text": "Why is Reducing Carbon Emissions in Transportation and Logistics Important? (Ct Global Freight Audit, 2023) - Arată că până la 90 % din emisii pot proveni din lanțul de aprovizionare și că transportul/logistica însumează aproape 25 % din emisiile globale. Enumeră pași: eco-driving, planificare rute, intermodal, carburanți alternativi și eficiență de flotă.", "author": "Ct Global Freight Audit", "url": "https://ctglobal-freightaudit.com/why-is-reducing-carbon-emissions-in-transportation-and-logistics-important/"}
+  ],
+  "tags": [
+    "transport rutier sustenabil",
+    "logistică verde europa",
+    "reducerea CO2 în transportul rutier",
+    "practici logistice eco",
+    "soluții cu emisii reduse",
+    "operațiuni de transport sustenabile",
+    "rutier mai verde fără tehnologie"
+  ]
+}
+

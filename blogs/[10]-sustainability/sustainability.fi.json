@@ -1,0 +1,56 @@
+{
+  "id": "sustainability-in-european-road-freight-practical-steps-without-high-tech-solutions",
+  "shortId": "sustainability-road-freight",
+  "language": "fi",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Kestävä kehitys maantiekuljetuksissa: käytännön toimet ilman huipputekniikkaa",
+  "description": "Logistiikkatoimijat tunnistavat tarpeen vähentää maantiekuljetusten päästöjä, mutta kaikki eivät voi investoida sähkökuorma-autoihin, telematiikkaan ja tekoälyyn. Onneksi on monia yksinkertaisia ja käyttäytymiseen perustuvia toimia, jotka pienentävät päästöjä ja kustannuksia selvästi...",
+  "publishedAt": "2025-01-19T00:00:00Z",
+  "category": "Kestävä kehitys",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistiikkateknologian asiantuntijat",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "sustainability-hero.png",
+  "imageAlt": "Kuorma-auton kuljettaja ajaa pehmeästi ja taloudellisesti puiden reunustamalla eurooppalaisella tiellä",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Logistiikka tunnistaa tarpeen vähentää maantiekuljetusten päästöjä, mutta kaikki yritykset eivät voi investoida sähkökuorma-autoihin, telematiikkaan ja tekoälyyn. On kuitenkin runsaasti matalan kynnyksen ja käyttäytymistä muuttavia toimia, joilla voidaan merkittävästi pienentää päästöjä ja käyttökustannuksia. Tämä artikkeli listaa käytännön toimia, joita kuljetusyritykset ja lähettäjät voivat ottaa heti käyttöön ilman suuria investointeja.", "bold": false}]},
+    {"type": "image", "src": "sustainability-visual.png", "alt": "Lähikuva biodieselillä tankattavasta kuorma-autosta maaseutuasemalla", "caption": "Dieselistä biodieselseoksiin siirtyminen pumpulla on nopea voitto kestävän kehityksen tarkistuslistalla."},
+    {"type": "heading", "level": 2, "text": "Miksi kestävyys on tärkeää"},
+    {"type": "paragraph", "children": [{"text": "Kuljetus ja logistiikka muodostavat noin 25 % maailman hiilipäästöistä (Ct Global Freight Audit, 2023). Maantiekuljetus on suurin tekijä, ja ilman toimia päästöt kasvavat. Niiden vähentäminen parantaa ilmanlaatua, laskee polttoainekuluja ja vahvistaa mainetta.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Käytännön toimet vihreämpään maantiekuljetukseen"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Eco-driving. Kouluta kuljettajia pehmeään kiihdytykseen, tasaisiin nopeuksiin, liikenteen ennakointiin ja tyhjäkäynnin välttämiseen; näin säästyy polttoainetta. Oikea rengaspaine ja maltillinen ilmastoinnin käyttö parantavat tehokkuutta.", "bold": false}],
+      [{"text": "Säännöllinen huolto. Moottorin säätö, ilmansuodattimet, ohjauskulmien säätö ja matalan viskositeetin voiteluaineet pienentävät kulutusta. Ennaltaehkäisevä huolto vähentää vikoja ja pidentää käyttöikää.", "bold": false}],
+      [{"text": "Kuorman optimointi ja konsolidointi. Täydemmät kuormat ja lähetysten yhdistäminen vähentävät tyhjäajoa. Paluukuormat auttavat tasaamaan kysynnän ja kapasiteetin.", "bold": false}],
+      [{"text": "Reittisuunnittelu. Ilman tekoälyäkin voidaan valita vähemmän ruuhkaisia ja loivempia reittejä. Yöajo voi pienentää kulutusta välttämällä liikennettä.", "bold": false}],
+      [{"text": "Vaihtoehtoiset polttoaineet ja seokset. Biopolttoaineet, kuten biodiesel tai HVO, voivat vähentää CO2:ta 50-90 % verrattuna dieseliin. Ne eivät vaadi moottorimuutoksia ja toimivat siltana sähköistykseen, vaikka voivat olla kalliimpia.", "bold": false}],
+      [{"text": "Intermodaalisuus. Tie yhdistettynä rautatiehen tai short-sea-kuljetuksiin vähentää ajokilometrejä ja päästöjä. Rautatie tuottaa vähemmän CO2:ta tonnikilometriä kohti ja sopii pitkiin matkoihin.", "bold": false}],
+      [{"text": "Keveämmät pakkaukset ja varusteet. Keveämmät lavat ja pakkaukset laskevat kulutusta. Uudelleenkäytettävät lavat ja palautuspakkaus vähentävät jätettä.", "bold": false}],
+      [{"text": "Kuljettajien sitouttaminen ja kannustimet. Kannustinohjelmat taloudellisesta ajosta tukevat käyttäytymismuutosta. Palaute kuiteista ja yksinkertaisista kojonäytöistä auttaa seurannassa.", "bold": false}],
+      [{"text": "Yhteistyö ketjussa. Jaa tietoja volyymeista ja aikatauluista tehokkaiden reittien ja vähäisemmän tyhjäajon mahdollistamiseksi.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Näyttö ja esimerkit"},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Eco-drivingin hyödyt. Koulutusohjelmat osoittavat 5-15 % kulutussäästöt. ICCT raportoi jopa 0,15 l/km säästöjä (Ct Global Freight Audit, 2023).", "bold": false}],
+      [{"text": "Polttoainetaloudelliset ajoneuvot. Euro 6 ja aerodynaamiset lisäosat voivat pienentää kulutusta 5-10 %; pienestä vierintävastuksesta saatavat lisäsäästöt (Ct Global Freight Audit, 2023).", "bold": false}],
+      [{"text": "Vaihtoehtoiset polttoaineet. HVO tarjoaa merkittäviä CO2‑vähennyksiä ilman moottorimuutoksia. Euroopan komissio kannustaa kestäviä polttoaineita ja intermodaalisuutta (Ct Global Freight Audit, 2023).", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Johtopäätös: pienet teot, suuri vaikutus"},
+    {"type": "paragraph", "children": [{"text": "Kestävä maantieliikenne ei aina vaadi huipputeknologiaa. Yksinkertaiset operatiiviset toimet - eco-driving, huolto, konsolidointi ja reittisuunnittelu - vähentävät päästöjä ja kustannuksia. Biopolttoaineet ja intermodaalisuus vahvistavat hyötyä. Kun kuljettajat sitoutuvat ja ketjun osapuolet tekevät yhteistyötä, yritykset etenevät kohti vähähiilisyyttä ja valmistautuvat tulevaan teknologiaan.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Lähde"},
+    {"type": "citation", "text": "Why is Reducing Carbon Emissions in Transportation and Logistics Important? (Ct Global Freight Audit, 2023) - Jopa 90 % organisaation päästöistä voi syntyä toimitusketjussa ja kuljetus/logistiikka muodostaa lähes 25 % globaalisti. Toimia: eco-driving, reittisuunnittelu, intermodaalisuus, vaihtoehtoiset polttoaineet ja kaluston tehokkuus.", "author": "Ct Global Freight Audit", "url": "https://ctglobal-freightaudit.com/why-is-reducing-carbon-emissions-in-transportation-and-logistics-important/"}
+  ],
+  "tags": [
+    "kestävä maantiekuljetus",
+    "vihreä logistiikka eurooppa",
+    "CO2:n vähentäminen maantiekuljetuksessa",
+    "ympäristöystävälliset logistiikkakäytännöt",
+    "vähähiiliset rahtiratkaisut",
+    "kestävät kuljetusoperaatiot",
+    "vihreämpi maantiekuljetus ilman teknologiaa"
+  ]
+}
+
