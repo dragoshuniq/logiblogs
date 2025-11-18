@@ -38,10 +38,10 @@
       [{"text": "Aja maltillisesti. Vältä äkkijarrutuksia ja jyrkkiä käännöksiä, jotka voivat siirtää tai kaataa lastin (Northland Insurance Company, 2022).", "bold": false}],
       [{"text": "Hallinnoi lämpötilaa. Esijäähdytä kylmäyksikkö ja lasti, kalibroi asetukset ja huolla laitteet (IAT Insurance Group, 2023).", "bold": false}],
       [{"text": "Estä kosteus ja kontaminaatio. Tarkista vuodot, käytä kosteudenpoistajia ja pyydä puhtaussertifikaatit (Reload Logistics, 2025).", "bold": false}],
-      [{"text": "Hallitse turvallisuusriskejä. Pysäköi turvallisissa paikoissa, ole valppaana lastivarkauksien varalta ja käytä GPS‑seurantaa.", "bold": false}]
+      [{"text": "Hallitse turvallisuusriskejä. Pysäköi turvallisissa paikoissa, ole valppaana lastivarkauksien varalta ja käytä GPS-seurantaa.", "bold": false}]
     ]},
     {"type": "heading", "level": 2, "text": "Vaatimusten käsittely CMR:n mukaan"},
-    {"type": "paragraph", "children": [{"text": "Tiekuljetussopimusta koskeva CMR‑yleissopimus säätelee vastuuta rajat ylittävissä tiekuljetuksissa. Kuljetusliikkeen vastuu on yleensä rajattu bruttokilon mukaan, paitsi tahallisuuden tai törkeän huolimattomuuden tapauksissa. Korvauksen hakemiseksi vastaanottajan tulee merkitä vauriot CMR‑rahtikirjaan toimituksen yhteydessä ja ilmoittaa kirjallisesti seitsemän päivän kuluessa näkyvistä vaurioista ja 21 päivän kuluessa piilevistä.", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "Tiekuljetussopimusta koskeva CMR-yleissopimus säätelee vastuuta rajat ylittävissä tiekuljetuksissa. Kuljetusliikkeen vastuu on yleensä rajattu bruttokilon mukaan, paitsi tahallisuuden tai törkeän huolimattomuuden tapauksissa. Korvauksen hakemiseksi vastaanottajan tulee merkitä vauriot CMR-rahtikirjaan toimituksen yhteydessä ja ilmoittaa kirjallisesti seitsemän päivän kuluessa näkyvistä vaurioista ja 21 päivän kuluessa piilevistä.", "bold": false}]},
     {"type": "heading", "level": 2, "text": "Johtopäätös: ennaltaehkäisy voittaa vaatimukset"},
     {"type": "paragraph", "children": [{"text": "Suurin osa maantiekuljetusten vahingoista on ehkäistävissä hyvällä valmistelulla, huolellisella käsittelyllä ja vankalla dokumentoinnilla. Ennakkotarkastukset, valvottu lastaus, oikea kiinnitys sekä koulutus turvalliseen ajamiseen ja lämpötilanhallintaan vähentävät vaatimusten määrää ja vakavuutta. CMR‑vastuusääntöjen tuntemus ja nopea dokumentointi sujuvoittavat prosessia, kun ongelmia ilmenee.", "bold": false}]},
     {"type": "heading", "level": 3, "text": "Lähteet"},
@@ -54,7 +54,7 @@
   "tags": [
     "vähentää kuljetusvahinkoja",
     "vahinkojen ehkäisy maantiekuljetus",
-    "CMR‑korvausvaatimukset",
+    "CMR-korvausvaatimukset",
     "logistiikan reklamaatioiden hallinta",
     "vahinkojen ehkäisy kuljetuksessa",
     "lastaus- ja purkumenettelyt",

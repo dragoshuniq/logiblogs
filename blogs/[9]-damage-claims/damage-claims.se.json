@@ -38,10 +38,10 @@
       [{"text": "Kör varsamt. Undvik kraftiga inbromsningar och snäva svängar som kan få lasten att förskjutas eller välta (Northland Insurance Company, 2022).", "bold": false}],
       [{"text": "Styr temperaturen. Förkyl aggregat och last, kalibrera inställningar och underhåll kylanläggningen (IAT Insurance Group, 2023).", "bold": false}],
       [{"text": "Motverka fukt och kontaminering. Inspektera för läckor, använd fuktabsorbenter och begär renhetsintyg (Reload Logistics, 2025).", "bold": false}],
-      [{"text": "Hantera säkerhetsrisker. Parkera på säkra platser, var uppmärksam på stöldupplägg och använd GPS‑spårning.", "bold": false}]
+      [{"text": "Hantera säkerhetsrisker. Parkera på säkra platser, var uppmärksam på stöldupplägg och använd GPS-spårning.", "bold": false}]
     ]},
     {"type": "heading", "level": 2, "text": "Kravhantering enligt CMR"},
-    {"type": "paragraph", "children": [{"text": "CMR‑konventionen reglerar ansvar vid gränsöverskridande vägtransporter. Transportörens ansvar är normalt begränsat per kilo bruttovikt, utom vid uppsåt eller grov vårdslöshet. För ersättning ska mottagaren anteckna skada på CMR‑fraktsedeln vid leverans och skriftligen meddela transportören inom sju dagar för synliga skador och 21 dagar för dolda skador.", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "CMR-konventionen reglerar ansvar vid gränsöverskridande vägtransporter. Transportörens ansvar är normalt begränsat per kilo bruttovikt, utom vid uppsåt eller grov vårdslöshet. För ersättning ska mottagaren anteckna skada på CMR-fraktsedeln vid leverans och skriftligen meddela transportören inom sju dagar för synliga skador och 21 dagar för dolda skador.", "bold": false}]},
     {"type": "heading", "level": 2, "text": "Slutsats: prevention slår reklamation"},
     {"type": "paragraph", "children": [{"text": "De flesta skador i vägtransport kan förebyggas med god förberedelse, varsam hantering och robust dokumentation. Med kontroller före avfärd, övervakad lastning, korrekt surrning samt utbildning i säker körning och temperaturkontroll minskar avsändare och transportörer frekvens och allvarlighetsgrad av krav. Kännedom om ansvar enligt CMR och snabb dokumentation gör processen smidigare när problem uppstår.", "bold": false}]},
     {"type": "heading", "level": 3, "text": "Källor"},
@@ -54,11 +54,10 @@
   "tags": [
     "minska transportskador",
     "skadeförebyggande vägtransport",
-    "CMR‑reklamationer",
+    "CMR-reklamationer",
     "hantering av logistikreklamationer",
     "förhindra skador i transport",
     "lastnings- och lossningsrutiner",
     "bästa praxis lastsäkring"
   ]
 }
-

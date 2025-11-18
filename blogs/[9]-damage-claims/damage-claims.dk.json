@@ -38,12 +38,12 @@
       [{"text": "Kør forsigtigt. Undgå hårde opbremsninger og skarpe drej, der kan få lasten til at skride eller vælte (Northland Insurance Company, 2022).", "bold": false}],
       [{"text": "Kontrollér temperaturen. Forkøl køleenhed og last, kalibrér indstillinger og vedligehold udstyr (IAT Insurance Group, 2023).", "bold": false}],
       [{"text": "Forebyg fugt og kontaminering. Tjek for lækager, brug fugtabsorbenter og bed om renhedscertifikater (Reload Logistics, 2025).", "bold": false}],
-      [{"text": "Håndter sikkerhedsrisici. Parker sikkert, vær opmærksom på tyveri af gods og brug GPS‑sporing.", "bold": false}]
+      [{"text": "Håndter sikkerhedsrisici. Parker sikkert, vær opmærksom på tyveri af gods og brug GPS-sporing.", "bold": false}]
     ]},
     {"type": "heading", "level": 2, "text": "Kravhåndtering efter CMR"},
-    {"type": "paragraph", "children": [{"text": "CMR‑konventionen regulerer ansvar for grænseoverskridende vejforsendelser. Vognmandens ansvar er normalt begrænset pr. kilo bruttovægt, undtagen ved forsæt eller grov uagtsomhed. For erstatning skal modtager notere skade på CMR‑fragtbrev ved levering og skriftligt underrette vognmanden inden syv dage ved synlig skade og 21 dage ved skjult skade.", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "CMR-konventionen regulerer ansvar for grænseoverskridende vejforsendelser. Vognmandens ansvar er normalt begrænset pr. kilo bruttovægt, undtagen ved forsæt eller grov uagtsomhed. For erstatning skal modtager notere skade på CMR-fragtbrev ved levering og skriftligt underrette vognmanden inden syv dage ved synlig skade og 21 dage ved skjult skade.", "bold": false}]},
     {"type": "heading", "level": 2, "text": "Konklusion: forebyggelse slår krav"},
-    {"type": "paragraph", "children": [{"text": "De fleste skader i vejtransport kan forebygges med god forberedelse, skånsom håndtering og solid dokumentation. Med tjek før afgang, overvåget lastning, korrekt surring samt træning i sikker kørsel og temperaturkontrol kan afsendere og vognmænd reducere hyppighed og alvor. Kendskab til CMR‑ansvarsregler og hurtig dokumentation gør processen smidigere, når problemer opstår.", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "De fleste skader i vejtransport kan forebygges med god forberedelse, skånsom håndtering og solid dokumentation. Med tjek før afgang, overvåget lastning, korrekt surring samt træning i sikker kørsel og temperaturkontrol kan afsendere og vognmænd reducere hyppighed og alvor. Kendskab til CMR-ansvarsregler og hurtig dokumentation gør processen smidigere, når problemer opstår.", "bold": false}]},
     {"type": "heading", "level": 3, "text": "Kilder"},
     {"type": "citation", "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Uddyber ansvarsfordeling: vognmand for sikker håndtering efter accept; afsender for korrekt emballering og mærkning; modtager inspicerer og dokumenterer; forsikring erstatter ikke korrekt håndtering.", "author": "Reload Logistics", "url": "https://www.reloadlogistics.com/blog/how-to-prevent-cargo-damage/"},
     {"type": "citation", "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Tips til at forebygge krav: tjek før afgang, overvåget lastning/lossning, dokumentation af afvigelser, SLC, forsegling, lastsikring, kontroller undervejs og forsigtig kørsel.", "author": "Northland Insurance Company", "url": "https://www.northlandins.com/resources/preventing-cargo-claims/"},
@@ -54,11 +54,10 @@
   "tags": [
     "reducere transportskader",
     "skadeforebyggelse vejtransport",
-    "CMR‑krav",
+    "CMR-krav",
     "håndtering af logistikkrav",
     "undgå skader i transport",
     "lastning og losning procedurer",
     "best practice lastsikring"
   ]
 }
-
