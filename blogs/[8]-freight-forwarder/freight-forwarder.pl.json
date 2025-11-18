@@ -1,0 +1,190 @@
+{
+  "id": "working-with-a-freight-forwarder-what-shippers-should-expect-day-to-day",
+  "shortId": "working-with-forwarder",
+  "language": "pl",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Współpraca ze spedytorem: czego nadawcy powinni oczekiwać na co dzień",
+  "description": "Spedytorzy są architektami transportu: orkiestrują przewozy multimodalne i zajmują się dokumentacją, zgodnością i koordynacją niezbędną, aby towary dotarły z punktu nadania do miejsca przeznaczenia. Z perspektywy nadawcy zrozumienie roli spedytora i zasad współpracy przekłada się na większą efektywność i mniej stresu...",
+  "publishedAt": "2025-01-05T00:00:00Z",
+  "category": "Biznes",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperci technologii logistycznych",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "freight-forwarder-hero.png",
+  "imageAlt": "Centrum operacyjne spedytora z pulpitami na żywo, mapami i przetwarzanymi dokumentami",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Spedytorzy działają jak architekci transportu, orkiestrując łańcuchy multimodalne i obsługując dokumenty, wymogi zgodności oraz koordynację potrzebną do przemieszczenia towarów z miejsca nadania do miejsca dostawy. Dla nadawców zrozumienie, co robi spedytor i jak z nim współpracować, zwiększa efektywność i redukuje stres. Ten artykuł wyjaśnia codzienne czynności spedytorów, ich wartość oraz to, jak wybrać właściwego partnera.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "freight-forwarder-visual.png",
+      "alt": "Kierownik logistyki i spedytor wspólnie przeglądają dokumenty przewozowe w biurze",
+      "caption": "Spedytor i nadawca przeglądają dokumenty rezerwacyjne przed wyjazdem ciężarówek z magazynu."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Kim jest spedytor?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Międzynarodowa Federacja Związków Spedytorów (FIATA) definiuje usługi spedycyjne i logistyczne jako wszelkie usługi związane z przewozem, konsolidacją, magazynowaniem, przeładunkiem, pakowaniem lub dystrybucją towarów, a także usługi pomocnicze i doradcze, takie jak sprawy celne i podatkowe, zakup ubezpieczenia oraz rozliczenia płatności (FIATA, 2004). Spedytor zapewnia, aby towary dotarły we właściwe miejsce, we właściwym czasie, w dobrym stanie i po rozsądnych kosztach (FIATA, 2004).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Spedytorzy dostarczają wiedzę w kilku obszarach:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          { "text": "Planowanie logistyki: spedytorzy projektują trasy i dobierają środki transportu, negocjując stawki z przewoźnikami, aby zrównoważyć koszt, szybkość i niezawodność (FIATA, 2004).", "bold": false }
+        ],
+        [
+          { "text": "Zgodność regulacyjna: przygotowują dokumenty eksportowe i importowe, zgłoszenia celne oraz dbają o spełnienie wymogów prawnych (FIATA, 2004).", "bold": false }
+        ],
+        [
+          { "text": "Zarządzanie ryzykiem: doradzają w zakresie ubezpieczeń, zarządzają ryzykiem utraty lub uszkodzenia i pomagają w obsłudze roszczeń (FIATA, 2004).", "bold": false }
+        ],
+        [
+          { "text": "Finanse i płatności: ułatwiają rozliczenia między kupującym i sprzedającym oraz aranżują instrumenty kredytowe lub ubezpieczeniowe (FIATA, 2004).", "bold": false }
+        ],
+        [
+          { "text": "Integracja międzyfunkcyjna: dzięki technologiom IT integrują dane między nadawcami, przewoźnikami i organami, zwiększając przejrzystość łańcucha dostaw (FIATA, 2004).", "bold": false }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Codzienna współpraca ze spedytorem"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          { "text": "Oferty i rezerwacje. Nadawca podaje rodzaj ładunku, wagę, wymiary, miejsce załadunku i dostawy oraz oczekiwany czas tranzytu. Spedytor sprawdza dostępność i przygotowuje wycenę obejmującą stawkę bazową, dopłaty paliwowe, opłaty drogowe i koszty dodatkowe. Cyfrowi spedytorzy często dają oferty od ręki; tradycyjni potrzebują zwykle więcej czasu.", "bold": false }
+        ],
+        [
+          { "text": "Dokumentacja. Po rezerwacji spedytor zbiera faktury handlowe, listy pakunkowe oraz wymagane pozwolenia i certyfikaty. Wystawia list CMR, przygotowuje zgłoszenia celne i dokumenty tranzytowe (np. T1/T2). W przypadku ADR weryfikuje uprawnienia i karty charakterystyki.", "bold": false }
+        ],
+        [
+          { "text": "Koordynacja transportu. Spedytor planuje odbiór, koordynuje z magazynami i monitoruje przesyłki przez punkty przeładunkowe. Zarządza formalnościami granicznymi; kierowcy mają przy sobie zgłoszenia delegowania i dane z tachografu.", "bold": false }
+        ],
+        [
+          { "text": "Śledzenie i zarządzanie wyjątkami. Aktualizacje statusu przez e-mail, telefon lub pulpit. W razie opóźnień (np. postój celny, pogoda) spedytor uzgadnia objazdy lub koryguje ETA.", "bold": false }
+        ],
+        [
+          { "text": "Dostawa i zamknięcie. Po dostawie spedytor pozyskuje potwierdzenie doręczenia (POD) i aktualizuje CMR. Rozlicza faktury i płatności dla przewoźników. Przy DDP może opłacać należności importowe w imieniu sprzedawcy.", "bold": false }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Korzyści ze współpracy"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [ { "text": "Know-how i skala. Spedytorzy negocjują lepsze stawki i znają złożone przepisy.", "bold": false } ],
+        [ { "text": "Mniej administracji. Przejmują dokumenty, odprawy i zgodność, aby nadawca mógł skupić się na core biznesie.", "bold": false } ],
+        [ { "text": "Przejrzystość i kontrola. Cyfrowi spedytorzy oferują tracking w czasie rzeczywistym i analitykę kosztów.", "bold": false } ],
+        [ { "text": "Redukcja ryzyka. Doradzają w zakresie ubezpieczeń i pomagają przy roszczeniach.", "bold": false } ],
+        [ { "text": "Elastyczność. W razie zakłóceń można zmienić przewoźnika, środek transportu lub trasę.", "bold": false } ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Jak wybrać odpowiedniego spedytora"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [ { "text": "Referencje i doświadczenie. Szukaj członkostwa w FIATA lub krajowych związkach. Zapytaj o doświadczenie z Twoim towarem i trasami.", "bold": false } ],
+        [ { "text": "Kompetencje cyfrowe. Nowocześni spedytorzy oferują rezerwacje online, tracking, automatyczne dokumenty i integracje TMS.", "bold": false } ],
+        [ { "text": "Siła sieci. Relacje z przewoźnikami i agentami u źródła i w miejscu docelowym wpływają na dostępność i jakość usług.", "bold": false } ],
+        [ { "text": "Obsługa klienta. Oceń responsywność komunikacji i umiejętność rozwiązywania problemów.", "bold": false } ],
+        [ { "text": "Historia zgodności. Sprawdź przestrzeganie zasad antymonopolowych i standardów regulacyjnych.", "bold": false } ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Wnioski: liczy się partnerstwo"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Spedytorzy to coś więcej niż pośrednicy; to partnerzy projektujący i zarządzający złożonymi operacjami logistycznymi. Zrozumienie ich ról pozwala nadawcom budować produktywne relacje, upraszczać procesy i zapewniać płynny przepływ towarów przez granice. Wybór spedytora takiego jak Logifie, łączącego wiedzę branżową z narzędziami cyfrowymi, daje przewagę konkurencyjną w dzisiejszym dynamicznym środowisku logistycznym.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Źródła"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Definiuje usługi spedycyjne i logistyczne, obejmujące przewóz, konsolidację, magazynowanie, przeładunek, pakowanie, dystrybucję oraz usługi pomocnicze, takie jak cło, ubezpieczenia i rozliczanie płatności.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Wyjaśnia planowanie logistyki: negocjacje z przewoźnikami i projektowanie łańcuchów usług równoważących koszt, szybkość i niezawodność.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Opisuje role w zakresie zgodności, zarządzania ryzykiem oraz doradztwa w kwestii ubezpieczeń i ryzyk walutowych.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Zaznacza, że spedytorzy obsługują sprawy finansowe i z użyciem IT wspierają integrację międzyfunkcyjną.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    }
+  ],
+  "tags": [
+    "na czym polega praca spedytora",
+    "współpraca ze spedytorem",
+    "korzyści ze spedytora",
+    "usługi spedytora w europie",
+    "partner logistyczny dla MŚP",
+    "rola spedytora w łańcuchu dostaw",
+    "jak wybrać spedytora"
+  ]
+}
+

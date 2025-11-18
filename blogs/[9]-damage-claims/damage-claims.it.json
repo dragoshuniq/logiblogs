@@ -1,0 +1,64 @@
+{
+  "id": "how-to-reduce-damage-and-claims-in-road-freight",
+  "shortId": "reduce-damage-claims",
+  "language": "it",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Come ridurre danni e reclami nel trasporto stradale",
+  "description": "I danni al carico e i reclami conseguenti erodono i margini e la reputazione. Prevenire è più efficace che gestire i sinistri a posteriori. Questo articolo illustra le cause più comuni dei danni, chiarisce le responsabilità secondo le convenzioni internazionali e propone best practice per ridurre i rischi nel trasporto su strada...",
+  "publishedAt": "2025-01-12T00:00:00Z",
+  "category": "Operazioni",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Esperti di tecnologia logistica",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "damage-claims-hero.png",
+  "imageAlt": "Lista di controllo che ricorda al conducente di ispezionare l'attrezzatura, caricare correttamente e sigillare il semirimorchio",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "I danni alla merce e le relative richieste di risarcimento non solo riducono i profitti, ma danneggiano anche la reputazione. Prevenire è più efficace che gestire i reclami dopo il fatto. Questo articolo descrive le cause più comuni dei danni, chiarisce le responsabilità secondo le convenzioni internazionali e presenta le migliori pratiche per minimizzare il rischio nel trasporto su strada.", "bold": false}]},
+    {"type": "image", "src": "damage-claims-visual.png", "alt": "Un conducente controlla le cinghie di fissaggio all'interno del semirimorchio prima della partenza per confermare che tutto sia in sicurezza", "caption": "Il conducente ricontrolla le cinghie prima della partenza per evitare futuri reclami per danni."},
+    {"type": "heading", "level": 2, "text": "Cause di danni e responsabilità"},
+    {"type": "paragraph", "children": [{"text": "La merce può danneggiarsi per movimentazione brusca, impilamento irregolare, umidità, contaminazione, scarti di temperatura, infestazioni, incendio o furto. La responsabilità dipende dalla causa e dalle condizioni di spedizione:", "bold": false}]},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Responsabilità del vettore: in genere è responsabile dei danni dovuti a movimentazione impropria, fissaggio insufficiente o mancato mantenimento della temperatura durante il trasporto (Reload Logistics, 2025).", "bold": false}],
+      [{"text": "Responsabilità del mittente: deve imballare, etichettare e documentare correttamente la merce. Se un imballaggio scadente o merci pericolose non dichiarate causano danni, può essere ritenuto responsabile (Reload Logistics, 2025).", "bold": false}],
+      [{"text": "Responsabilità del destinatario: deve ispezionare la merce alla consegna e registrare immediatamente eventuali danni visibili per sostenere reclami validi (Reload Logistics, 2025).", "bold": false}],
+      [{"text": "Incoterms e assicurazione: gli Incoterms determinano quando il rischio passa dal venditore all'acquirente. L'assicurazione copre molti rischi ma non sostituisce una corretta movimentazione (Reload Logistics, 2025).", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Best practice per prevenire i danni"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Ispezioni prima del viaggio. Controllare semirimorchi per perdite, tavole rotte e oggetti sporgenti. Ispezionare i dispositivi di fissaggio e i teloni (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Supervisionare carico e scarico. Verificare che la merce sia caricata correttamente, distribuita in modo uniforme e fissata. Documentare eventuali discrepanze prima di lasciare il molo (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Documentare le discrepanze. Annotare i problemi sui documenti di spedizione e informare subito l'azienda; scattare foto di eventuali danni (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Usare la dicitura shipper load and count (SLC) quando opportuno. Se non è possibile supervisionare il carico, firmare i documenti con \"shipper load and count\" per limitare la responsabilità (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Sigillare il semirimorchio e bloccare le attrezzature. Usare sigilli e lucchetti di qualità per dissuadere i furti (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Fissare il carico. Bloccare, puntellare e usare dispositivi idonei per evitare spostamenti. Sostituire cinghie usurate (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Ispezionare in itinere. I conducenti devono controllare periodicamente il carico e i dispositivi di fissaggio e regolarli se necessario (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Guidare con prudenza. Evitare frenate brusche e curve strette che potrebbero far spostare o ribaltare il carico (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Controllare la temperatura. Pre-raffreddare gruppo frigo e merce, calibrare le impostazioni e mantenere l'attrezzatura (IAT Insurance Group, 2023).", "bold": false}],
+      [{"text": "Prevenire umidità e contaminazione. Verificare eventuali perdite, usare assorbitori di umidità e richiedere certificati di pulizia (Reload Logistics, 2025).", "bold": false}],
+      [{"text": "Gestire i rischi di sicurezza. Parcheggiare in aree sicure, restare vigili contro i furti di carico e usare tracciamento GPS.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Gestione dei reclami secondo la CMR"},
+    {"type": "paragraph", "children": [{"text": "La Convenzione relativa al contratto di trasporto internazionale di merci su strada (CMR) disciplina la responsabilità nelle spedizioni stradali transfrontaliere. In genere limita la responsabilità del vettore per chilogrammo di peso lordo, salvo dolo o colpa grave. Per ottenere il risarcimento, il destinatario deve annotare i danni sulla lettera di vettura CMR alla consegna e notificare per iscritto al vettore entro sette giorni per i danni apparenti e 21 giorni per quelli occulti.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Conclusione: prevenire batte reclamare"},
+    {"type": "paragraph", "children": [{"text": "La maggior parte dei danni nel trasporto su strada si evita con una buona preparazione, una movimentazione accurata e una documentazione robusta. Con ispezioni preventive, supervisione del carico, fissaggio corretto e formazione su guida sicura e controllo della temperatura, mittenti e vettori riducono frequenza e gravità dei reclami. Conoscere le regole di responsabilità CMR e documentare tempestivamente semplifica la gestione quando i problemi si verificano.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Fonti"},
+    {"type": "citation", "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Spiega le responsabilità per i danni: il vettore è responsabile della movimentazione e del trasporto sicuri dopo l'accettazione; il mittente dell'imballaggio ed etichettatura; il destinatario dell'ispezione e documentazione alla consegna; l'assicurazione non sostituisce una movimentazione corretta.", "author": "Reload Logistics", "url": "https://www.reloadlogistics.com/blog/how-to-prevent-cargo-damage/"},
+    {"type": "citation", "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Suggerimenti per prevenire i reclami: ispezioni pre-viaggio, supervisione di carico/scarico, documentazione delle discrepanze, SLC, sigillatura, fissaggio, controlli in itinere e guida prudente.", "author": "Northland Insurance Company", "url": "https://www.northlandins.com/resources/preventing-cargo-claims/"},
+    {"type": "citation", "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Sottolinea l'importanza di dispositivi di fissaggio adeguati e di una guida attenta per evitare spostamenti e incidenti.", "author": "Northland Insurance Company", "url": "https://www.northlandins.com/resources/preventing-cargo-claims/"},
+    {"type": "citation", "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Evidenzia formazione dei conducenti, pre-raffreddamento e manutenzione regolare per evitare sinistri legati alla temperatura nei carichi refrigerati.", "author": "IAT Insurance Group", "url": "https://www.iatinsurancegroup.com/transportation/blog/trucking-cargo-claims/"},
+    {"type": "citation", "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Suggerisce misure contro umidità e contaminazione: verifiche di tenuta, sigillature e assorbitori di umidità.", "author": "Reload Logistics", "url": "https://www.reloadlogistics.com/blog/how-to-prevent-cargo-damage/"}
+  ],
+  "tags": [
+    "ridurre i danni nel trasporto",
+    "prevenzione danni su strada",
+    "reclami CMR",
+    "gestione reclami logistici",
+    "evitare danni nel trasporto",
+    "procedure di carico e scarico",
+    "best practice per fissaggio"
+  ]
+}
+

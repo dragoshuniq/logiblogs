@@ -1,0 +1,73 @@
+{
+  "id": "working-with-a-freight-forwarder-what-shippers-should-expect-day-to-day",
+  "shortId": "working-with-forwarder",
+  "language": "tr",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Bir lojistik firmasıyla çalışma: göndericilerin günlük olarak ne beklemesi gerekir",
+  "description": "Lojistik firmaları (freight forwarder) taşımacılığın mimarlarıdır: çok modlu taşıma zincirlerini kurgular, evrak, mevzuata uyum ve koordinasyonu yönetir. Göndericiler için rolleri ve işleyişi anlamak verimliliği artırır ve stresi azaltır...",
+  "publishedAt": "2025-01-05T00:00:00Z",
+  "category": "İş",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Lojistik teknolojisi uzmanları",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "freight-forwarder-hero.png",
+  "imageAlt": "Canlı panolar, haritalar ve işlenen evraklarla bir lojistik firmasının kontrol odası",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Lojistik firmaları taşımayı tasarlar, çok modlu akışları orkestre eder ve malların çıkıştan varışa taşınması için gereken evrak, uyum ve koordinasyonu yürütür. Göndericiler için, forwarderların ne yaptığını ve onlarla nasıl çalışılacağını bilmek verimliliği artırır ve stresi azaltır. Bu yazı, forwarderların günlük faaliyetlerini, sağladıkları değeri ve doğru partneri seçme kriterlerini açıklar.", "bold": false}]},
+    {"type": "image", "src": "freight-forwarder-visual.png", "alt": "Lojistik yöneticisi ve forwarder ofiste sevkiyat evraklarını birlikte inceliyor", "caption": "Forwarder ve gönderici, kamyonlar depodan çıkmadan önce rezervasyon evraklarını birlikte gözden geçirir."},
+    {"type": "heading", "level": 2, "text": "Lojistik firması (freight forwarder) nedir?"},
+    {"type": "paragraph", "children": [{"text": "FIATA (International Federation of Freight Forwarders Associations), spedyasyon ve lojistik hizmetlerini; taşıma, konsolidasyon, depolama, elleçleme, paketleme veya dağıtım ile gümrük ve vergi konuları, sigorta temini ve tahsilat gibi yardımcı-danışmanlık hizmetlerini kapsayan tüm hizmetler olarak tanımlar (FIATA, 2004). Bir forwarder malların doğru yere, doğru zamanda, iyi durumda ve makul maliyetle ulaşmasını sağlar (FIATA, 2004).", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "Forwarderların uzmanlık sunduğu başlıca alanlar:", "bold": false}]},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Lojistik planlama: güzergahların tasarlanması ve taşıma modlarının seçimi; taşıyıcılarla maliyet, hız ve güvenilirlik dengesi için fiyat pazarlıkları (FIATA, 2004).", "bold": false}],
+      [{"text": "Mevzuata uyum: ihracat/ithalat evrakı, gümrük beyanları ve düzenlemelere uygunluğun sağlanması (FIATA, 2004).", "bold": false}],
+      [{"text": "Risk yönetimi: sigorta konusunda danışmanlık, kayıp/hasar risklerinin yönetimi ve hasar süreçlerine destek (FIATA, 2004).", "bold": false}],
+      [{"text": "Finans ve tahsilat: alıcı-satıcı ödemelerinin kolaylaştırılması ve kredi/sigorta enstrümanlarının düzenlenmesi (FIATA, 2004).", "bold": false}],
+      [{"text": "Fonksiyonlar arası entegrasyon: BT ile gönderici, taşıyıcı ve otoriteler arasında veri entegrasyonu ve tedarik zinciri görünürlüğünün artırılması (FIATA, 2004).", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Günlük işleyişte birlikte çalışma"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Teklif ve rezervasyon. Gönderici, yük türü, ağırlık, ölçüler, alma/teslim noktaları ve istenen transit zamanı bilgilerini iletir. Forwarder, kapasiteyi kontrol eder ve baz navlun, yakıt ek ücreti, yol ücretleri ve yan giderleri içeren teklif sunar. Dijital forwarderlar anlık teklif verebilir; klasik modeller daha uzun sürebilir.", "bold": false}],
+      [{"text": "Dokümantasyon. Rezervasyon sonrası forwarder, ticari faturalar, paket listeleri ve gerekli izin/sertifikaları toplar. CMR düzenler, gümrük beyanlarını ve transit belgelerini (T1/T2) hazırlar. ADR için yetkinlikler ve güvenlik bilgi formları kontrol edilir.", "bold": false}],
+      [{"text": "Taşıma koordinasyonu. Forwarder, alımı planlar, depolarla koordine eder ve sevkiyatları aktarma noktaları boyunca izler. Sınır formalitelerini yönetir; sürücüler görevlendirme bildirimleri ve takograf kayıtlarını bulundurur.", "bold": false}],
+      [{"text": "Takip ve istisna yönetimi. Durum güncellemeleri e‑posta, telefon veya pano üzerinden sağlanır. Gecikmelerde (gümrük, hava) yeniden güzergah veya ETA ayarı yapılır.", "bold": false}],
+      [{"text": "Teslimat ve kapanış. Teslim sonrası forwarder, teslimat belgesini (POD) alır ve CMR'yi günceller. Faturaları mutabıklar ve taşıyıcılara ödemeleri yapar. DDP sevkiyatlarda ithalat vergileri satıcı adına ödenebilir.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Bir forwarder ile çalışmanın faydaları"},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Uzmanlık ve ölçek. Forwarderlar daha iyi fiyatlar için pazarlık eder ve karmaşık mevzuatı bilir.", "bold": false}],
+      [{"text": "Daha az idari yük. Belgeler, gümrük ve uyum işleri üstlenilir; gönderici çekirdek işe odaklanır.", "bold": false}],
+      [{"text": "Şeffaflık ve kontrol. Dijital oyuncular gerçek zamanlı takip ve maliyet analitiği sunar.", "bold": false}],
+      [{"text": "Risk azaltma. Sigorta kapsamı konusunda danışmanlık ve talep süreçlerinde destek.", "bold": false}],
+      [{"text": "Esneklik. Aksaklıklarda taşıyıcı, mod veya rota değiştirilebilir.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Doğru forwarder nasıl seçilir"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Referans ve deneyim. FIATA veya ulusal birlik üyeliği arayın. Yük tipleriniz ve hatlarınızla ilgili tecrübeyi sorun.", "bold": false}],
+      [{"text": "Dijital yetkinlik. Modern forwarderlar çevrim içi rezervasyon, takip, otomatik belgeler ve TMS entegrasyonları sunar.", "bold": false}],
+      [{"text": "Ağ gücü. Köken/varış noktalarındaki taşıyıcı ve acente ilişkileri kapasite ve hizmeti etkiler.", "bold": false}],
+      [{"text": "Müşteri hizmeti. İletişim hızı ve problem çözme yeteneğini değerlendirin.", "bold": false}],
+      [{"text": "Uyum geçmişi. Rekabet ve düzenleyici standartlara uyumu kontrol edin.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Sonuç: ortaklık esastır"},
+    {"type": "paragraph", "children": [{"text": "Forwarderlar sadece aracı değildir; karmaşık lojistik operasyonlarını tasarlayan ve yöneten ortaklardır. Rollerini ve beklentileri anlayan göndericiler, verimli ilişkiler kurar, süreçleri yalınlaştırır ve malların sınırlar arasında sorunsuz hareketini sağlar. Sektör bilgisini dijital araçlarla birleştiren Logifie gibi bir ortak, bugünün dinamik lojistik ortamında rekabet avantajı sağlar.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Kaynaklar"},
+    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Spedyasyon ve lojistik hizmetlerinin kapsamını açıklar: taşıma, konsolidasyon, depolama, elleçleme, paketleme, dağıtım ve gümrük, sigorta, tahsilat gibi yardımcı hizmetler.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
+    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Lojistik planlamayı açıklar: maliyet, hız ve güvenilirliği dengeleyen hizmet zincirleri için taşıyıcılarla pazarlık.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
+    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Uyum, risk yönetimi ve sigorta/döviz risklerine danışmanlık rollerini tanımlar.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
+    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Forwarderların finans konularını yönettiğini ve BT ile fonksiyonlar arası entegrasyonu desteklediğini not eder.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"}
+  ],
+  "tags": [
+    "freight forwarder ne iş yapar",
+    "forwarder ile çalışma",
+    "forwarder kullanmanın faydaları",
+    "avrupa spedyasyon hizmetleri",
+    "KOBİ'ler için lojistik partner",
+    "tedarik zincirinde forwarderın rolü",
+    "doğru forwarder nasıl seçilir"
+  ]
+}
+

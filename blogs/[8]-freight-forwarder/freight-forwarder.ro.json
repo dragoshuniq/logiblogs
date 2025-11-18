@@ -1,0 +1,73 @@
+{
+  "id": "working-with-a-freight-forwarder-what-shippers-should-expect-day-to-day",
+  "shortId": "working-with-forwarder",
+  "language": "ro",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Colaborarea cu un expeditor: ce ar trebui să aștepte expeditorii în activitatea zilnică",
+  "description": "Expeditorii acționează ca arhitecți ai transportului: orchestrează lanțuri multimodale și gestionează documentația, conformitatea și coordonarea necesare pentru a muta mărfurile de la origine la destinație. Pentru expeditori, înțelegerea rolului lor și a modului de colaborare crește eficiența și reduce stresul...",
+  "publishedAt": "2025-01-05T00:00:00Z",
+  "category": "Afaceri",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experți în tehnologii pentru logistică",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "freight-forwarder-hero.png",
+  "imageAlt": "Turn de control al unui expeditor cu tablouri de bord live, hărți și documente procesate",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Expeditorii sunt arhitecții transportului, orchestrează lanțuri multimodale și se ocupă de documente, conformitate și coordonare pentru a deplasa mărfurile de la punctul de expediere la destinație. Pentru expeditori, înțelegerea activităților unui forwarder și a modului de colaborare crește eficiența și reduce stresul. Acest articol explică activitățile zilnice ale expeditorilor, valoarea pe care o oferă și criteriile de alegere a partenerului potrivit.", "bold": false}]},
+    {"type": "image", "src": "freight-forwarder-visual.png", "alt": "Managerul de logistică și expeditorul revizuiesc împreună documentele de transport într-un birou", "caption": "Expeditorul și clientul verifică documentele de rezervare înainte ca camioanele să plece din depozit."},
+    {"type": "heading", "level": 2, "text": "Ce este un expeditor?"},
+    {"type": "paragraph", "children": [{"text": "FIATA (Federația Internațională a Asociațiilor de Expeditori) definește serviciile de expediție și logistică ca servicii de orice fel legate de transport, consolidare, depozitare, manipulare, ambalare sau distribuție, precum și servicii auxiliare și de consultanță precum chestiuni vamale și fiscale, obținerea de asigurări și încasarea plăților (FIATA, 2004). Un expeditor se asigură că mărfurile ajung la locul potrivit, la momentul potrivit, în stare bună și la un cost rezonabil (FIATA, 2004).", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "Expeditorii oferă expertiză în mai multe domenii:", "bold": false}]},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Planificare logistică: expeditorii proiectează rute și aleg moduri de transport, negociind tarife cu transportatorii pentru a echilibra costul, viteza și fiabilitatea (FIATA, 2004).", "bold": false}],
+      [{"text": "Conformitate reglementară: se ocupă de documentele de export și import, declarațiile vamale și asigură respectarea cerințelor legale (FIATA, 2004).", "bold": false}],
+      [{"text": "Managementul riscurilor: consiliază privind asigurările, gestionează riscul de pierdere sau avarie și ajută la soluționarea daunelor (FIATA, 2004).", "bold": false}],
+      [{"text": "Finanțe și plăți: facilitează plățile între cumpărător și vânzător și aranjează instrumente de credit sau de asigurare (FIATA, 2004).", "bold": false}],
+      [{"text": "Integrare cross-funcțională: cu ajutorul IT, integrează date între expeditori, transportatori și autorități, crescând vizibilitatea lanțului de aprovizionare (FIATA, 2004).", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Colaborarea zilnică cu expeditorul"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Oferte și rezervări. Expeditorul furnizează tipul mărfii, greutatea, dimensiunile, locurile de încărcare/destinație și timpul de tranzit dorit. Forwarderul verifică capacitatea și întocmește o ofertă ce include tariful de bază, suplimentul de combustibil, taxele rutiere și costurile auxiliare. Speditori digitali oferă adesea oferte instant, cei tradiționali pot avea nevoie de timp.", "bold": false}],
+      [{"text": "Documentație. După rezervare, forwarderul colectează facturi comerciale, liste de ambalare și permise/certificate necesare. Emite CMR, pregătește declarații vamale și documente de tranzit (T1/T2). Pentru ADR, verifică avizele și fișele cu date de securitate.", "bold": false}],
+      [{"text": "Coordonarea transportului. Forwarderul programează ridicarea, coordonează cu depozitele și monitorizează expedierile prin punctele de cross-dock. Gestionează formalități de frontieră; șoferii au declarații de detașare și înregistrări din tahograf.", "bold": false}],
+      [{"text": "Tracking și managementul excepțiilor. Actualizări de status prin e-mail, telefon sau dashboard. La întârzieri (de exemplu opriri vamale, vreme), forwarderul decide rute alternative sau ajustează ETA.", "bold": false}],
+      [{"text": "Livrare și închidere. După livrare, forwarderul obține POD și actualizează CMR. Conciliază facturile și plățile către transportatori. Pentru DDP poate achita taxele de import în numele vânzătorului.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Beneficiile colaborării"},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Expertiză și efecte de scară. Speditorii negociază tarife mai bune și cunosc regulamentele complexe.", "bold": false}],
+      [{"text": "Mai puțină birocrație. Preiau documente, vamă și conformitate, astfel încât expeditorul să se concentreze pe activitatea de bază.", "bold": false}],
+      [{"text": "Transparență și control. Speditorii digitali oferă tracking în timp real și analize pentru status și costuri.", "bold": false}],
+      [{"text": "Reducerea riscurilor. Consiliere privind asigurările și asistență la daune.", "bold": false}],
+      [{"text": "Flexibilitate. La perturbări se pot schimba transportatorii, modurile sau rutele.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Cum alegi expeditorul potrivit"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Referințe și experiență. Caută apartenența la FIATA sau asociații naționale. Întreabă despre experiența cu marfa și rutele tale.", "bold": false}],
+      [{"text": "Capabilități digitale. Speditorii moderni oferă rezervare online, tracking, documente automatizate și integrări TMS.", "bold": false}],
+      [{"text": "Puterea rețelei. Relațiile cu transportatorii și agenții la origine/destinație influențează capacitatea și calitatea serviciului.", "bold": false}],
+      [{"text": "Serviciu clienți. Evaluează rapiditatea comunicării și abilitatea de rezolvare a problemelor.", "bold": false}],
+      [{"text": "Istoric de conformitate. Verifică respectarea politicilor antitrust și a standardelor de reglementare.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Concluzie: parteneriatul contează"},
+    {"type": "paragraph", "children": [{"text": "Expeditorii sunt mai mult decât intermediari; sunt parteneri care proiectează și gestionează operațiuni logistice complexe. Înțelegând rolurile și așteptările, expeditorii pot construi relații productive, simplifica procesele și asigura fluxul fără probleme peste granițe. Alegerea unui partener precum Logifie, care combină expertiza din industrie cu instrumente digitale, oferă un avantaj competitiv în mediul logistic dinamic de astăzi.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Surse"},
+    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Definește serviciile de expediție și logistică: transport, consolidare, depozitare, manipulare, ambalare, distribuție și servicii auxiliare precum vamă, asigurări și încasarea plăților.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
+    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Explică planificarea logistică: negocierea cu transportatorii pentru a construi lanțuri de servicii echilibrate între cost, viteză și fiabilitate.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
+    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Descrie rolurile în conformitate, managementul riscului și consultanța privind riscurile de asigurare și valută.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
+    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Menționează că expeditorii gestionează aspecte financiare și, cu ajutorul IT, facilitează integrarea cross-funcțională.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"}
+  ],
+  "tags": [
+    "ce face un expeditor",
+    "colaborarea cu un expeditor",
+    "beneficiile folosirii unui expeditor",
+    "servicii de expediție în europa",
+    "partener logistic pentru IMM-uri",
+    "rolul expeditorului în lanțul de aprovizionare",
+    "cum alegi un expeditor"
+  ]
+}
+

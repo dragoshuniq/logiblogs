@@ -1,0 +1,73 @@
+{
+  "id": "working-with-a-freight-forwarder-what-shippers-should-expect-day-to-day",
+  "shortId": "working-with-forwarder",
+  "language": "se",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Att arbeta med en speditör: vad avsändare bör förvänta sig i vardagen",
+  "description": "Speditörer fungerar som transportens arkitekter: de orkestrerar multimodala transporter och hanterar dokumentation, regelefterlevnad och koordinering från ursprung till destination. För avsändare ger förståelse för roller och arbetssätt högre effektivitet och mindre stress...",
+  "publishedAt": "2025-01-05T00:00:00Z",
+  "category": "Affärer",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experter på logistikteknik",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "freight-forwarder-hero.png",
+  "imageAlt": "Speditörens kontrollrum med livepaneler, kartor och dokument som behandlas",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Speditörer fungerar som arkitekter för transport, de orkestrerar multimodala kedjor och sköter dokument, compliance och koordinering för att flytta varor från A till B. För avsändare kan förståelse för vad speditörer gör och hur man samarbetar med dem öka effektiviteten och minska stressen. Den här artikeln beskriver speditörers vardag, vilket värde de tillför och hur du väljer rätt partner.", "bold": false}]},
+    {"type": "image", "src": "freight-forwarder-visual.png", "alt": "Logistikchef och speditör granskar fraktdokument tillsammans på kontoret", "caption": "Speditör och avsändare går igenom bokningsdokumenten innan lastbilarna lämnar lagret."},
+    {"type": "heading", "level": 2, "text": "Vad är en speditör?"},
+    {"type": "paragraph", "children": [{"text": "FIATA (International Federation of Freight Forwarders Associations) definierar spedition och logistiktjänster som alla tjänster relaterade till transport, konsolidering, lagring, hantering, packning eller distribution av varor, samt stöd- och rådgivningstjänster såsom tull- och skattefrågor, försäkringar och betalningshantering (FIATA, 2004). En speditör ser till att varor kommer rätt, i rätt tid, i gott skick och till rimlig kostnad (FIATA, 2004).", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "Speditörer bidrar med expertis inom flera områden:", "bold": false}]},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Logistikplanering: speditörer designar rutter och väljer trafikslag, förhandlar priser med transportörer och balanserar kostnad, hastighet och tillförlitlighet (FIATA, 2004).", "bold": false}],
+      [{"text": "Regelefterlevnad: de hanterar export- och importdokument, tullanmälningar och ser till att kraven uppfylls (FIATA, 2004).", "bold": false}],
+      [{"text": "Riskhantering: de ger råd om försäkringar, hanterar risker för förlust eller skada och hjälper till vid skadeärenden (FIATA, 2004).", "bold": false}],
+      [{"text": "Finans och betalningar: de underlättar betalningar mellan köpare och säljare och ordnar kredit- eller försäkringslösningar (FIATA, 2004).", "bold": false}],
+      [{"text": "Tvärfunktionell integrering: med IT integrerar de data mellan avsändare, transportörer och myndigheter för bättre transparens (FIATA, 2004).", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Samarbetet i vardagen"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Offert och bokning. Avsändaren anger godstyp, vikt, mått, hämtnings- och leveransadress samt önskad transittid. Speditören kontrollerar kapacitet och ger offert med grundfrakt, bränsletillägg, vägavgifter och tillägg. Digitala speditörer ger ofta snabboffert; traditionella kan ta längre tid.", "bold": false}],
+      [{"text": "Dokumentation. Efter bokning samlar speditören in handelsfakturor, packlistor och nödvändiga tillstånd/certifikat. Hanterar CMR, tullanmälningar och transitdokument (T1/T2). Vid ADR kontrolleras behörigheter och säkerhetsdatablad.", "bold": false}],
+      [{"text": "Transportkoordinering. Speditören planerar upphämtning, koordinerar med lager och övervakar sändningar via terminaler. Gränsformaliteter hanteras; förare bär intyg om utstationering och tachografdata.", "bold": false}],
+      [{"text": "Spårning och avvikelsehantering. Statusuppdateringar via e‑post, telefon eller dashboard. Vid förseningar (tullstopp, väder) föreslås omrutting eller justerad ETA.", "bold": false}],
+      [{"text": "Leverans och avslut. Efter leverans hämtar speditören POD och uppdaterar CMR. Avstämmer fakturor och betalar transportörer. Vid DDP kan importavgifter betalas för säljarens räkning.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Fördelar med att anlita speditör"},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Expertis och skala. Speditörer förhandlar bättre priser och kan regelverken.", "bold": false}],
+      [{"text": "Mindre administration. De tar hand om dokument, tull och compliance så att avsändaren kan fokusera på kärnverksamheten.", "bold": false}],
+      [{"text": "Transparens och styrning. Digitala aktörer erbjuder spårning i realtid och kostnadsanalys.", "bold": false}],
+      [{"text": "Riskreducering. Råd om försäkringsskydd och stöd vid skadehantering.", "bold": false}],
+      [{"text": "Flexibilitet. Vid störningar kan transportör, trafikslag eller rutt bytas.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Välja rätt speditör"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Referenser och erfarenhet. Titta efter FIATA-medlemskap eller nationella förbund. Fråga om erfarenhet av dina varor och sträckor.", "bold": false}],
+      [{"text": "Digital förmåga. Moderna speditörer erbjuder onlinebokning, spårning, automatiska dokument och TMS-integrationer.", "bold": false}],
+      [{"text": "Nätverksstyrka. Relationer med transportörer och agenter vid ursprung/mål påverkar kapacitet och service.", "bold": false}],
+      [{"text": "Kundservice. Bedöm hur snabbt de kommunicerar och löser problem.", "bold": false}],
+      [{"text": "Efterlevnad. Kontrollera historik gällande konkurrensregler och myndighetskrav.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Slutsats: partnerskap är nyckeln"},
+    {"type": "paragraph", "children": [{"text": "Speditörer är mer än mellanhänder; de är partners som utformar och driver komplexa logistikflöden. Genom att förstå deras roller och förväntningar kan avsändare bygga produktiva relationer, strömlinjeforma processer och få varuflöden att fungera smidigt över gränser. En partner som Logifie, som kombinerar branschkunskap med digitala verktyg, ger ett försprång i dagens dynamiska logistikmiljö.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Källor"},
+    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Definierar spedition och logistiktjänster: transport, konsolidering, lagring, hantering, packning, distribution samt tull, försäkring och betalningshantering.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
+    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Förklarar logistikplanering: förhandling med transportörer för tjänstekedjor som balanserar kostnad, hastighet och tillförlitlighet.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
+    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Beskriver roller i compliance, riskhantering och rådgivning kring försäkrings- och valutarisken.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
+    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Noterar att speditörer hanterar finansiella frågor och med IT stödjer tvärfunktionell integrering.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"}
+  ],
+  "tags": [
+    "vad gör en speditör",
+    "samarbeta med speditör",
+    "fördelar med speditör",
+    "europeiska speditionstjänster",
+    "logistikpartner för SMB",
+    "speditörens roll i supply chain",
+    "hur välja speditör"
+  ]
+}
+

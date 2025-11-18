@@ -1,0 +1,69 @@
+{
+  "id": "working-with-a-freight-forwarder-what-shippers-should-expect-day-to-day",
+  "shortId": "working-with-forwarder",
+  "language": "nl",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Werken met een expediteur: wat verladers dagelijks mogen verwachten",
+  "description": "Expediteurs zijn de architecten van transport: zij orkestreren multimodale ketens en verzorgen documentatie, compliance en coördinatie van deur tot deur. Voor verladers zorgt begrip van deze rollen voor meer efficiëntie en minder stress...",
+  "publishedAt": "2025-01-05T00:00:00Z",
+  "category": "Business",
+  "author": {"name": "Logifie Team", "role": "Experts in logistieke technologie", "avatar": "/logos/slogo.png"},
+  "image": "freight-forwarder-hero.png",
+  "imageAlt": "Controlekamer van een expediteur met live dashboards, kaarten en verwerkingsdossiers",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Een expediteur ontwerpt en beheert complexe logistiek. Door zijn waarde en verwachtingen te kennen, stroomlijnen verladers processen en voorkomen zij frictie. Dit artikel beschrijft het dagelijkse werk van de expediteur, de toegevoegde waarde en hoe je de juiste partner kiest.", "bold": false}]},
+    {"type": "image", "src": "freight-forwarder-visual.png", "alt": "Logistiek manager en expediteur bekijken samen de verzenddocumenten", "caption": "Expediteur en verlader controleren de boekingspapieren voordat de trucks vertrekken."},
+    {"type": "heading", "level": 2, "text": "Wat is een expediteur?"},
+    {"type": "paragraph", "children": [{"text": "Volgens FIATA omvatten expeditie-/logistieke diensten vervoer, consolidatie, opslag, handling, verpakking en distributie, plus aanverwante/adviesdiensten (douane, fiscaliteit, verzekeringen, incasso) (FIATA, 2004). Doel: op de juiste plek, tijd, conditie en tegen redelijke kosten leveren (FIATA, 2004).", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "Kernexpertises:", "bold": false}]},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Logistieke planning: routes en modaliteiten ontwerpen en met vervoerders onderhandelen over kosten/snelheid/betrouwbaarheid (FIATA, 2004).", "bold": false}],
+      [{"text": "Regelgeving: export-/importdocumenten, aangiften en naleving (FIATA, 2004).", "bold": false}],
+      [{"text": "Risicobeheer: advies over verzekeringen, risico's verlies/beschadiging en afhandeling claims (FIATA, 2004).", "bold": false}],
+      [{"text": "Financiën en betalingen: faciliteren van betalingen en credit-/verzekeringsinstrumenten (FIATA, 2004).", "bold": false}],
+      [{"text": "Transversale integratie: via IT data koppelen tussen verlader, vervoerder en douane voor meer zichtbaarheid (FIATA, 2004).", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Dagelijkse interacties met de expediteur"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Offertes en boekingen. Verlader specificeert goederen, gewicht/afmetingen, laad-/loslocaties en gewenste looptijd. De expediteur checkt capaciteit en biedt tarief met basisvracht, brandstoftoeslag, tol en toeslagen. Digitale spelers bieden direct prijzen; traditionele vergen vaak meer tijd.", "bold": false}],
+      [{"text": "Documentatie. Na boeking verzamelt hij handelsfacturen, paklijsten en licenties/certificaten. Hij maakt CMR, douaneaangiften en transitdocumenten (T1/T2). Voor ADR controleert hij certificaten en SDS.", "bold": false}],
+      [{"text": "Transportcoördinatie. Plant afhaalmomenten, stemt af met magazijnen en monitort via hubs. Beheert grensformaliteiten; chauffeurs dragen detacheringsverklaringen en tachograafgegevens.", "bold": false}],
+      [{"text": "Tracking en uitzonderingen. Status via e-mail/telefoon/dashboards. Bij vertragingen (douane, weer) wordt herroutering of ETA-aanpassing geregeld.", "bold": false}],
+      [{"text": "Levering en afsluiting. Bij aflevering: POD en CMR-update, factuurafstemming en betaling vervoerders. Bij DDP kan hij invoerrechten namens de verkoper voldoen.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Voordelen van samenwerken"},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Expertise en schaal. Beter onderhandelde tarieven en kennis van complexe regels.", "bold": false}],
+      [{"text": "Minder administratie. Hij regelt documenten, douane en compliance.", "bold": false}],
+      [{"text": "Zicht en controle. Digitale expediteurs bieden realtime tracking en analytics.", "bold": false}],
+      [{"text": "Risicomitigatie. Verzekeringsadvies en claimafhandeling.", "bold": false}],
+      [{"text": "Flexibiliteit. Wisselt vervoerder/mode/route bij verstoringen.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "De juiste expediteur kiezen"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Credenties en ervaring. FIATA-lidmaatschap/brancheorganisaties; ervaring met jouw goederen en lanes.", "bold": false}],
+      [{"text": "Digitale capaciteiten. Online boeken, tracking, geautomatiseerde documenten en TMS-koppeling.", "bold": false}],
+      [{"text": "Netwerkkracht. Relaties met vervoerders/agenten aan bron en bestemming.", "bold": false}],
+      [{"text": "Klantenservice. Reactiesnelheid en probleemoplossing.", "bold": false}],
+      [{"text": "Compliance. Naleving van mededingingsregels en wetgeving.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Conclusie: partnerschap is cruciaal"},
+    {"type": "paragraph", "children": [{"text": "De expediteur is meer dan een tussenpersoon: een partner die complexe logistiek ontwerpt en beheert. Wie zijn rol begrijpt, bouwt productieve relaties, stroomlijnt processen en zorgt voor soepele grensoverschrijdende stromen. Een partner als Logifie - expertise plus digitale tools - biedt een concurrentievoordeel.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Bronnen"},
+    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Definieert expeditie- en logistieke diensten: vervoer, consolidatie, opslag, handling, verpakking, distributie plus douane, verzekeringen en incasso.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
+    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Legt uit hoe planning via onderhandelingen met vervoerders het evenwicht kosten/snelheid/betrouwbaarheid zoekt.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
+    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Beschrijft rollen in compliance, risicobeheer en advies over verzekering/valuta.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
+    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Benoemt financiële afhandeling en transversale integratie met IT.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"}
+  ],
+  "tags": [
+    "wat doet een expediteur",
+    "werken met expediteur",
+    "voordelen expediteur",
+    "diensten expediteur europa",
+    "logistieke partner mkb",
+    "rol expediteur supply chain",
+    "expediteur kiezen"
+  ]
+}
+

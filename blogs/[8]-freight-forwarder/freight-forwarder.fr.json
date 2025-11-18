@@ -1,0 +1,73 @@
+{
+  "id": "working-with-a-freight-forwarder-what-shippers-should-expect-day-to-day",
+  "shortId": "working-with-forwarder",
+  "language": "fr",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Travailler avec un commissionnaire de transport : à quoi s'attendre au quotidien",
+  "description": "Les commissionnaires agissent comme des architectes du transport : ils orchestrent des chaînes multimodales et gèrent la paperasse, la conformité et la coordination nécessaires du départ à l'arrivée. Pour les chargeurs, comprendre ces rôles améliore l'efficacité et réduit le stress...",
+  "publishedAt": "2025-01-05T00:00:00Z",
+  "category": "Business",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experts en technologies logistiques",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "freight-forwarder-hero.png",
+  "imageAlt": "Tour de contrôle d'un commissionnaire avec tableaux de bord, cartes et dossiers traités",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Les commissionnaires de transport conçoivent et pilotent des opérations logistiques complexes. Comprendre leur valeur et leurs attentes permet aux chargeurs de fluidifier les process et d'éviter les frictions. Cet article décrit le quotidien d'un commissionnaire, la valeur apportée et les critères de choix du bon partenaire.", "bold": false}]},
+    {"type": "image", "src": "freight-forwarder-visual.png", "alt": "Responsable logistique et commissionnaire passent en revue les documents d'expédition au bureau", "caption": "Le commissionnaire et le chargeur vérifient les documents de réservation avant le départ des camions."},
+    {"type": "heading", "level": 2, "text": "Qu'est-ce qu'un commissionnaire de transport ?"},
+    {"type": "paragraph", "children": [{"text": "La FIATA définit les services de commissionnaire et de logistique comme toute prestation liée au transport, à la consolidation, au stockage, à la manutention, à l'emballage ou à la distribution de marchandises, ainsi que les services connexes et de conseil tels que douane, fiscalité, assurances et encaissement (FIATA, 2004). L'objectif : livrer au bon endroit, au bon moment, en bon état et à coût raisonnable (FIATA, 2004).", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "Domaines d'expertise du commissionnaire :", "bold": false}]},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Planification logistique : conception des chaînes et choix des modes, négociation des tarifs pour équilibrer coût, vitesse et fiabilité (FIATA, 2004).", "bold": false}],
+      [{"text": "Conformité réglementaire : gestion des documents export/import, déclarations douanières et exigences réglementaires (FIATA, 2004).", "bold": false}],
+      [{"text": "Gestion des risques : conseil en assurances, gestion des risques de perte/avarie et traitement des réclamations (FIATA, 2004).", "bold": false}],
+      [{"text": "Finances et paiements : facilitation des paiements entre acheteur et vendeur, instruments de crédit/assurance (FIATA, 2004).", "bold": false}],
+      [{"text": "Intégration transversale : via les systèmes d'information, intégration des données chargeur/transporteur/douane pour plus de visibilité (FIATA, 2004).", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Interactions quotidiennes avec le commissionnaire"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Devis et réservations. Le chargeur précise nature, poids, dimensions, sites de collecte/livraison et délais. Le commissionnaire vérifie la capacité et propose un tarif incluant fret de base, surcharge carburant, péages et frais annexes. Les acteurs digitaux fournissent des devis instantanés; les modèles traditionnels sont plus lents.", "bold": false}],
+      [{"text": "Documentation. Une fois réservé, collecte des factures commerciales, listes de colisage et licences/certificats. Préparation du CMR, des déclarations douanières et des documents de transit (T1/T2). Pour l'ADR, vérification des certificats et FDS.", "bold": false}],
+      [{"text": "Coordination du transport. Planification des enlèvements, coordination avec entrepôts et suivi via hubs. Gestion des formalités transfrontalières; les conducteurs portent déclarations de détachement et enregistrements tachygraphiques.", "bold": false}],
+      [{"text": "Suivi et gestion des aléas. Statuts par e-mail, téléphone ou tableaux de bord. En cas de retard (douane, météo), réacheminement et ajustement des ETAs en coordination.", "bold": false}],
+      [{"text": "Livraison et clôture. À la livraison, obtention du POD et mise à jour du CMR. Rapprochement des factures et paiement des transporteurs. En DDP, prise en charge des droits d'import pour le vendeur.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Bénéfices de la collaboration"},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Expertise et effet d'échelle. Meilleures conditions et maîtrise réglementaire.", "bold": false}],
+      [{"text": "Allègement administratif. Prise en charge des documents, douanes et conformité.", "bold": false}],
+      [{"text": "Visibilité et contrôle. Les acteurs digitaux offrent suivi temps réel et analytics.", "bold": false}],
+      [{"text": "Gestion du risque. Conseil en assurance et prise en charge des réclamations.", "bold": false}],
+      [{"text": "Flexibilité. Possibilité de changer transporteur, mode ou route en cas de perturbations.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Choisir le bon commissionnaire"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Références et expertise. Adhésion FIATA/associations nationales; expérience sur vos produits et axes.", "bold": false}],
+      [{"text": "Capacités digitales. Réservation en ligne, tracking, documents automatisés, intégration TMS.", "bold": false}],
+      [{"text": "Force du réseau. Relations avec transporteurs/agents à l'origine et à destination.", "bold": false}],
+      [{"text": "Service client. Réactivité et résolution de problèmes.", "bold": false}],
+      [{"text": "Conformité. Antitrust et normes réglementaires respectés.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Conclusion : un partenariat clé"},
+    {"type": "paragraph", "children": [{"text": "Le commissionnaire n'est pas un simple intermédiaire : c'est un partenaire qui conçoit et pilote des opérations logistiques complexes. En comprenant ses rôles et attentes, le chargeur construit une relation productive, simplifie ses processus et garantit des flux transfrontaliers fluides. Un partenaire comme Logifie, alliant expertise et outils digitaux, offre un avantage compétitif durable.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Sources"},
+    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Définit les services de commissionnaire et logistique : transport, consolidation, stockage, manutention, emballage, distribution ainsi que douane, assurance et encaissement.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
+    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Explique la planification logistique via la négociation avec les transporteurs pour équilibrer coût, vitesse et fiabilité.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
+    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Décrit les rôles en conformité, gestion des risques et conseil en assurance/risques de change.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
+    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Précise la gestion financière et l'intégration transversale par les SI.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"}
+  ],
+  "tags": [
+    "rôle commissionnaire transport",
+    "travailler avec un commissionnaire",
+    "avantages commissionnaire",
+    "services commissionnaire europe",
+    "partenaire logistique PME",
+    "rôle commissionnaire supply chain",
+    "choisir un commissionnaire"
+  ]
+}
+
