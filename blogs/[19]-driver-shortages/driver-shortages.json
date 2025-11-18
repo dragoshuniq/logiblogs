@@ -1,0 +1,209 @@
+{
+  "id": "driver-shortages-in-european-road-transport-causes-impacts-and-solutions",
+  "shortId": "driver-shortages-european",
+  "language": "en",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Driver Shortages in European Road Transport: Causes, Impacts and Solutions",
+  "description": "Across Europe, logistics managers are struggling to find enough qualified truck drivers. Ageing workforces, high entry barriers and poor working conditions are fueling a labour crisis that threatens the reliability of road freight. This article examines the...",
+  "publishedAt": "2025-12-07T00:00:00.000Z",
+  "category": "Operations",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistics Technology Experts",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "driver-shortages-hero.png",
+  "imageAlt": "Photo of a row of parked semi-trailer trucks with a hiring sign in a European truck yard, cloudy sky.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Across Europe, logistics managers are struggling to find enough qualified truck drivers. Ageing workforces, high entry barriers and poor working conditions are fueling a labour crisis that threatens the reliability of road freight. This article examines the scale and causes of the driver shortage and proposes practical measures to attract and retain drivers.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "driver-shortages-visual-1.png",
+      "alt": "illustration depicting demographic distribution in road freight: ageing drivers, young entrants, licence costs and gender gap.",
+      "caption": "illustration depicting demographic distribution in road freight: ageing drivers, young entrants, licence costs and gender gap"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Scope of the shortage"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The International Road Transport Union (IRU) describes the driver shortage as a global crisis. In Europe, the IRU estimates that unfilled truck, bus and coach driver positions number in the hundreds of thousands, with more than 3.6 million positions vacant worldwide. Young drivers are rare: fewer than 6.5% of professional drivers are under 25, while more than 40% are over 55. Women represent less than 7% of the workforce, reflecting safety concerns and inadequate facilities.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "An EU labour market report from ELA/EURES notes that the land transport sector comprises roughly 1.06 million enterprises employing about 5.78 million people and that many countries report acute shortages of heavy truck drivers and mechanics. High barriers to entry include the cost of obtaining a commercial driving licence and a certificate of professional competence (CPC), which can exceed EUR 2,000 in some countries. Licence recognition for third-country drivers is complex and time-consuming, limiting recruitment from outside the EU.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Causes of the shortage"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Several factors contribute to the driver shortage:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Demographics and retirement: The driver population is ageing. With more than 40% of drivers over 55, many will retire within the next decade. Too few young people view trucking as an attractive career, leading to a pipeline problem.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Working conditions: Long hours, overnight stays, irregular schedules and limited access to safe parking and sanitation deter potential recruits. The ELA/EURES report notes that poor pay and safety concerns discourage women and younger workers.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Licence costs and training: Obtaining a heavy vehicle licence and CPC can cost thousands of euros. A Trans.info article notes that in Poland, a truck driving licence costs around 10,000 PLN ( 2,340) and similar costs apply elsewhere. Without subsidies, few young people can afford training.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Administrative complexity: Inconsistent recognition of licences across member states and burdensome visa requirements slow recruitment of drivers from outside the EU.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Competition from other sectors: Logistics competes with construction, warehousing and gig-economy jobs that may offer more predictable schedules.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Impacts on logistics"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The shortage drives up wages and carrier rates, contributes to delivery delays and reduces flexibility. Fleets are forced to park vehicles due to lack of drivers, limiting capacity during peak seasons. According to Trans.info, Europe's driver shortage is nearing 500,000, and fleets in Poland alone face a deficit of 100,000 to 200,000 drivers. Without intervention, the IRU warns that essential goods movement will be undermined.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Solutions and recommendations"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Lower barriers to entry: Governments can subsidise licence and training costs or offer vouchers. Italy, for example, provides vouchers covering up to 80% of licence costs. Simplifying licence recognition and visa processes could attract drivers from neighbouring countries.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Improve working conditions: Provide safe rest areas with sanitation and security. Encourage flexible scheduling, shorter tours and regional routes to make driving compatible with family life.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Attract underrepresented groups: Programmes to recruit women and young people should emphasise safety, equal pay and career progression. Modern trucks with comfortable cabins and advanced driver assistance systems can make the profession more appealing.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Invest in automation and intermodal: While automation will not replace drivers overnight, technologies like automated dock loading, driver assistance and truck platooning can enhance productivity. Intermodal transport reduces the number of long-haul journeys, easing driver demand.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Promote professional image: Highlight the strategic role of drivers in supply chains. Offer apprenticeships and partnerships with vocational schools.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusion"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Europe's driver shortage threatens the resilience of supply chains. Addressing it requires concerted action by governments, carriers and shippers to lower entry barriers, improve working conditions and modernise the profession. Investing in training, diversity and technology will help attract new drivers and ensure that road freight can meet growing demand.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sources"
+    },
+    {
+      "type": "citation",
+      "text": "Global driver shortage reaches crisis point (International Road Transport Union, 2024) - States that millions of driver positions are unfilled worldwide, that fewer than 6.5% of drivers are under 25 while over 40% are over 55, and that the shortage threatens essential goods movement.",
+      "author": "International Road Transport Union",
+      "url": "https://www.iru.org/news-resources/newsroom/driver-shortage-global-crisis"
+    },
+    {
+      "type": "citation",
+      "text": "ELA/EURES labour market report 2024 (European Labour Authority, EURES, 2024) - Reports that the land transport sector in the EU consists of about 1.06 million enterprises employing 5.78 million people, highlights shortages of heavy truck drivers and mechanics, notes high licence costs and poor working conditions and points out underrepresentation of women.",
+      "author": "European Labour Authority, EURES",
+      "url": "https://ec.europa.eu/social/main.jsp?catId=738&langId=en&pubId=8407"
+    },
+    {
+      "type": "citation",
+      "text": "Driver shortage leaves fleets idle and costs increase for system (Trans.info, 2025) - Highlights that Europe's driver shortage is nearing 500,000; notes high licence costs (~EUR 2,340) and reports Italy's voucher scheme covering up to 80% of training costs; suggests intermodal transport can relieve the labour shortage by replacing 30-40 trailers per train.",
+      "author": "Trans.info",
+      "url": "https://trans.info/en/driver-shortage-idle-fleets-421938"
+    }
+  ],
+  "tags": [
+    "driver shortage",
+    "truck driver",
+    "labour crisis",
+    "licence cost",
+    "working conditions",
+    "European logistics",
+    "transport workforce"
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "post-brexit-road-freight-between-the-eu-and-uk-customs-sps-checks-and-border-challenges",
+  "shortId": "post-brexit-road",
+  "language": "en",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Post-Brexit Road Freight between the EU and UK: Customs, SPS Checks and Border Challenges",
+  "description": "Since the United Kingdom left the EU's customs union and single market at the end of 2020, the rules governing road freight between the EU and UK have fundamentally changed. Goods crossing the border must now comply with customs formalities, rules of origin...",
+  "publishedAt": "2025-12-04T00:00:00.000Z",
+  "category": "Transportation",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistics Technology Experts",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "post-brexit-hero.png",
+  "imageAlt": "Photo of trucks queuing at the UK-EU border control post with customs officers inspecting documentation, cloudy weather.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Since the United Kingdom left the EU's customs union and single market at the end of 2020, the rules governing road freight between the EU and UK have fundamentally changed. Goods crossing the border must now comply with customs formalities, rules of origin and sanitary and phytosanitary (SPS) checks. For businesses shipping across the Channel, understanding these procedures is essential to avoid delays and penalties.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "post-brexit-visual-1.png",
+      "alt": "Illustration of a supply chain diagram showing customs declarations, rules of origin certificates, and SPS checks between the EU and UK.",
+      "caption": "Illustration of a supply chain diagram showing customs declarations, rules of origin certificates, and SPS checks between the EU and UK"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Customs declarations and rules of origin"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Under the EU-UK Trade and Cooperation Agreement (TCA), goods can move tariff-free and quota-free if they meet rules of origin requirements. The House of Commons Library notes that compliance can be onerous and that only 10-53% of UK textile and clothing exports claimed preferential tariff rates in 2022. Goods not meeting rules of origin may incur tariffs. Businesses need to determine the origin of components and maintain supplier declarations.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Customs declarations are mandatory for all goods entering Great Britain from the EU and vice versa. The EU introduced full customs controls on 1 January 2021, while the UK has phased in its own controls, with some border checks still being implemented. Digital customs systems like the UK's Customs Declaration Service (CDS) and the EU's Import Control System 2 (ICS2) are central to processing declarations.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sanitary and phytosanitary (SPS) checks"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Imports of live animals, animal products and certain plants are subject to SPS checks. The Institute for Government explains that such goods must be pre-notified through the UK's Import of Products, Animals, Food and Feed System (IPAFFS) or the EU's TRACES system and routed through Border Control Posts (BCPs). At these posts, consignments undergo documentary, identity and physical checks to ensure compliance with animal health and food safety rules. Companies should account for extra time at BCPs and ensure paperwork is accurate.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Border Target Operating Model (BTOM)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The UK's Border Target Operating Model proposes a risk-based approach to SPS controls and introduces a Single Trade Window for digital import procedures. According to the House of Commons Library, the BTOM aims to simplify border processes and will phase in new checks over several years. The model envisions different levels of scrutiny depending on the risk category of goods (low, medium, high). Businesses should monitor the BTOM rollout to adjust lead times and documentation requirements.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cabotage and posting in the UK"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The EU Mobility Package rules on cabotage and posting also affect EU carriers operating in the UK. Cabotage (domestic haulage in a foreign country) is limited to two operations within seven days of an international delivery in the UK. The four-day cooling-off period after cabotage, described earlier, does not apply to operations outside the EU but the UK has adopted similar restrictions. Cross-trade operations (e.g., Ireland-UK-France) may be restricted, and drivers may require posting declarations in the EU via the IMI portal.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Practical steps for shippers and carriers"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Understand rules of origin: Compile a database of suppliers' declarations to prove origin. Consider using free trade advisers to determine which products qualify for zero tariffs.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Prepare accurate customs declarations: Ensure you or your customs agent has all necessary codes (commodity codes, value, weight) and uses appropriate IT systems (CDS, NCTS).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Anticipate SPS checks: If shipping food or plants, pre-notify consignments and schedule time for inspections at BCPs. Temperature-controlled vehicles may need to queue at special facilities.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Partner with experienced forwarders: A digital forwarder can handle customs paperwork, guarantee TIR carnets and manage cross-docking at border hubs.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusion"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Post-Brexit trade introduces new administrative layers for EU-UK road freight. Customs declarations, rules of origin and SPS inspections must be factored into transit times and costs. Businesses that invest in understanding these requirements and collaborate with knowledgeable partners will navigate the post-Brexit landscape more smoothly and maintain reliable supply chains.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sources"
+    },
+    {
+      "type": "citation",
+      "text": "Trade with the EU after Brexit (House of Commons Library, 2023) - Discusses the EU-UK Trade and Cooperation Agreement, noting that goods must meet rules of origin to qualify for zero tariffs and that only 10-53% of textile and clothing exports claimed preferential rates in 2022; also notes full customs controls and ongoing implementation of UK border controls.",
+      "author": "House of Commons Library",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-8397/CBP-8397.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Border Target Operating Model (House of Commons Library, 2023) - Explains the UK's Border Target Operating Model, which proposes a risk-based approach to SPS controls and the development of a Single Trade Window.",
+      "author": "House of Commons Library",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-9710/CBP-9710.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Explainer: The Great Britain-EU border (Institute for Government, 2022) - Describes SPS requirements for goods crossing the GB-EU border, stating that animal and plant products must be pre-notified via IPAFFS or TRACES and undergo documentary, identity and physical checks at Border Control Posts.",
+      "author": "Institute for Government",
+      "url": "https://www.instituteforgovernment.org.uk/explainer/gb-eu-border"
+    }
+  ],
+  "tags": [
+    "post-Brexit road freight",
+    "EU-UK customs",
+    "SPS checks",
+    "rules of origin",
+    "TCA UK",
+    "border procedures",
+    "road freight Europe"
+  ]
+}

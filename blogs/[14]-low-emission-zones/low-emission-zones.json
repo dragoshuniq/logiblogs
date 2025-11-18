@@ -1,0 +1,194 @@
+{
+  "id": "low-emission-zones-and-the-eurovignette-what-europe-s-new-toll-reforms-mean-for-freight-costs",
+  "shortId": "low-emission-zones",
+  "language": "en",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Low-Emission Zones and the Eurovignette: What Europe's New Toll Reforms Mean for Freight Costs",
+  "description": "Road freight is under mounting pressure to decarbonise. European cities are expanding low-emission zones (LEZs) and national governments are reforming road pricing under the revised Eurovignette directive. Understanding how these measures affect costs is...",
+  "publishedAt": "2025-12-02T00:00:00.000Z",
+  "category": "Sustainability",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistics Technology Experts",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "low-emission-zones-hero.png",
+  "imageAlt": "Illustration of a European city map with highlighted low-emission zones, toll gateways and different coloured truck icons indicating Euro VI and electric vehicles.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Road freight is under mounting pressure to decarbonise. European cities are expanding low-emission zones (LEZs) and national governments are reforming road pricing under the revised Eurovignette directive. Understanding how these measures affect costs is essential for logistics managers planning long-haul and urban deliveries across the continent.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "low-emission-zones-visual-1.png",
+      "alt": "Photo of a heavy-duty electric truck passing a toll station on a European motorway with wind turbines in the background.",
+      "caption": "Photo of a heavy-duty electric truck passing a toll station on a European motorway with wind turbines in the background"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Growing network of low-emission zones"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Low-emission zones restrict the most polluting vehicles from entering urban areas. According to the Clean Cities Campaign, Europe had 228 active LEZs in 2019 and 320 in 2022, a 40% increase. The number is expected to rise by 58% by 2025 as cities tighten emission standards. Some 27 cities plan to expand or tighten existing LEZs and at least 35 intend to introduce zero-emission zones by 2030. London's Ultra Low Emission Zone alone reduced carbon dioxide emissions by around 800,000 tonnes between 2019 and 2022 and cut nitrogen dioxide by up to 46%.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "While LEZs improve air quality, they can disrupt freight operations if older diesel trucks are banned or subject to high daily fees. Logistics managers should map LEZs on major corridors and plan alternative routes or upgrade fleets to Euro VI or zero-emission vehicles.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Eurovignette: shifting from time-based vignettes to distance and CO2-based tolls"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Eurovignette directive (Directive 2022/362/EU) governs how member states charge heavy goods vehicles on the Trans-European Transport Network (TEN-T). The revised rules require that time-based vignettes be phased out on the core TEN-T network by 2030. From 2024, tolls and vignettes for heavy-duty vehicles must vary according to CO2 emissions, rewarding cleaner trucks. From 2026, tolls must include charges for the external cost of air pollution, ensuring users pay for social and environmental impacts.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Under the new rules, zero-emission trucks may be exempted from tolls until December 2025, an exemption the European Commission proposes to extend to June 2031. Member states have discretion to offer full or partial exemptions, meaning the attractiveness of electric trucks will vary across borders. According to the European Alternative Fuels Observatory, heavy-duty vehicles generate 27.5% of CO2 emissions from EU road transport, making toll differentiation a powerful lever for decarbonisation. Only a handful of countries currently offer full exemptions, but more are expected to follow as they implement the directive.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How tolls and LEZs impact freight costs"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Recent analyses show toll costs represent a significant share of road freight expenditure. Research by logistics intelligence providers and the IRU suggests that tolls can account for around 14% of total freight costs and up to 23% on certain routes (Q2 2025 figures). The shift from flat-rate vignettes to distance-based CO2-differentiated tolls will amplify cost differences between clean and polluting vehicles. Meanwhile, the Clean Cities Campaign notes that LEZ expansion will continue to reduce nitrogen dioxide by roughly 20% across cities.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "To manage costs, carriers should:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Invest in cleaner vehicles: Upgrading to Euro VI or zero-emission trucks lowers toll rates and avoids LEZ penalties.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Use route optimisation: Optimising routes to avoid multiple LEZs or high-priced toll sections can save money and cut emissions.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Monitor national policies: Each member state sets its own toll structure and LEZ rules. Stay informed on exemptions for zero-emission vehicles and changing emissions classes.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Consider intermodal alternatives: For long distances, rail or combined transport can bypass LEZ restrictions and reduce toll expenditure.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Planning ahead for zero-emission freight"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Eurovignette reform and LEZ expansion send a clear signal: the cost of running older combustion trucks will rise. Logistics managers should develop roadmaps to electrify or adopt low-carbon alternatives. Zero-emission trucks are still expensive and charging infrastructure is uneven, but early adopters may benefit from toll exemptions and city access privileges. Fleet renewal programmes and incentives offered by governments can help offset costs.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusion"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Low-emission zones and road pricing reforms are reshaping the cost structure of European road freight. By understanding the Eurovignette directive and monitoring LEZ expansion, shippers and carriers can anticipate where costs will rise and plan investments in cleaner equipment and smarter routing. In the long term, these measures will not only reduce CO2 and air pollution but also support a more level playing field for sustainable transport.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sources"
+    },
+    {
+      "type": "citation",
+      "text": "Low-Emission Zones: The Essential Guide (Clean Cities Campaign, 2023) - Provides statistics on the number of low-emission zones in Europe, reports a 40% increase from 2019 to 2022, and notes that the London ULEZ reduced CO2 emissions by 800,000 tonnes and NO2 by up to 46%.",
+      "author": "Clean Cities Campaign",
+      "url": "https://cleancitiescampaign.org/wp-content/uploads/2023/05/Low-Emission-Zones-The-Essential-Guide.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Road charging: Eurovignette directive (European Commission, 2023) - Summarises the revised Eurovignette directive, stating that vignettes must be phased out by 2030 and tolls must vary according to CO2 emissions from 2024, with external cost charges for air pollution from 2026.",
+      "author": "European Commission",
+      "url": "https://transport.ec.europa.eu/transport-themes/road/road-charging_en"
+    },
+    {
+      "type": "citation",
+      "text": "Zero-emission truck toll exemption until 2025 (European Alternative Fuels Observatory, 2024) - Notes that heavy-duty trucks account for 27.5% of EU road transport CO2 emissions and explains that the Eurovignette directive allows member states to exempt zero-emission trucks from tolls until December 2025, with a proposed extension to 2031.",
+      "author": "European Alternative Fuels Observatory",
+      "url": "https://alternative-fuels-observatory.ec.europa.eu/policies/eurovignette-zero-emission-trucks"
+    }
+  ],
+  "tags": [
+    "low emission zones",
+    "Eurovignette",
+    "road toll reform",
+    "CO2-based tolls",
+    "zero-emission trucks",
+    "freight costs",
+    "LEZ"
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "id": "towards-paperless-freight-efti-and-e-cmr-driving-digitalisation-in-europe",
+  "shortId": "towards-paperless-freight",
+  "language": "en",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Towards Paperless Freight: eFTI and e-CMR Driving Digitalisation in Europe",
+  "description": "Paper still dominates freight transport in Europe. Consignment notes, waybills, customs forms and permits are printed, stamped and filed, creating administrative burdens and increasing the risk of errors. To streamline operations and support environmental...",
+  "publishedAt": "2025-12-05T00:00:00.000Z",
+  "category": "Technology",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistics Technology Experts",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "paperless-freight-hero.png",
+  "imageAlt": "Illustration of a tablet displaying a consignment note (e-CMR) with checkmarks and a truck icon, EU stars in the background.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Paper still dominates freight transport in Europe. Consignment notes, waybills, customs forms and permits are printed, stamped and filed, creating administrative burdens and increasing the risk of errors. To streamline operations and support environmental goals, the EU is moving towards electronic freight transport information (eFTI) and digital consignment notes (e-CMR). This blog explains the regulatory drivers, benefits and challenges of paperless freight.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "paperless-freight-visual-1.png",
+      "alt": "Photo of a truck driver using a handheld device to show electronic freight documents at a border checkpoint in Europe.",
+      "caption": "Photo of a truck driver using a handheld device to show electronic freight documents at a border checkpoint in Europe"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Why digitalisation matters"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Road freight operators often carry stacks of paper documents, ranging from CMR consignment notes to dangerous goods declarations. The lack of a uniform legal framework for digital documents has been a major barrier to electronic data exchange. Regulation (EU) 2020/1056 aims to overcome this by requiring competent authorities to accept electronic freight transport information when economic operators are obliged to provide regulatory information. By 2027, authorities must accept electronic information via certified eFTI platforms and communicate electronically.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "eFTI Regulation: key elements"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The eFTI regulation establishes technical standards for platforms, data sets and procedures. It obliges member states to set up digital portals and requires economic operators to provide freight information electronically if they choose. The regulation is expected to reduce administrative costs, particularly for SMEs, by eliminating duplicate data entry and physical document handling.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Key features include:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Acceptance of electronic data: Competent authorities must accept data provided via certified eFTI platforms instead of paper.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Security and interoperability: Platforms must meet cybersecurity requirements and use common data sets so information can be shared across borders.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Implementation timeline: Member states must adopt the necessary technical specifications by 2026 and fully accept eFTI documents by July 2027.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "e-CMR: digital consignment notes"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The CMR Convention governs international road transport. Since 2008, a protocol allows for electronic consignment notes (e-CMR). Adoption has been slow: only around 36 European countries have ratified the eCMR protocol, and uptake remains uneven. Nevertheless, a wave of pilots and national systems is accelerating progress. An industry report notes that by July 2027 national authorities must accept digital transport documents via certified platforms and that large-scale implementation is expected by 2026 with mandatory application in 2029.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Digital consignment notes offer several benefits: they eliminate paper handling, reduce the risk of loss or damage, allow real-time status updates and shorten waiting times at borders. According to the International Road Transport Union, eCMR reduces paperwork, lowers handling costs and allows trucks to avoid border stops, improving efficiency.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Challenges and opportunities"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Interoperability: Various national eCMR systems are not yet interoperable. The eFTI regulation aims to harmonise data formats, but industry players need to adopt common standards and interfaces.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Legal certainty: While the eFTI regulation mandates acceptance of electronic data, carriers and shippers must ensure their systems meet all requirements for authentication, integrity and confidentiality.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Investment: SMEs may struggle with the cost of integrating eFTI platforms, but national funding and EU programmes (e.g., Connecting Europe Facility) can provide support.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Change management: Adoption requires training staff and shifting from paper processes. Combining digital consignment notes with route optimisation, telematics and automated customs filing can yield greater benefits.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Preparing for paperless freight"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Logistics managers should start by analysing current document flows and identifying where digital solutions can replace paper. Partnering with digital platforms that are certified under the eFTI specifications will ensure compliance. Early adoption of eCMR provides experience and can improve customer transparency. Engaging with partners across the supply chain is crucial to ensure interoperability and data quality.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusion"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Europe is on the cusp of a paperless freight transformation. The eFTI regulation and eCMR protocol provide a legal framework for electronic documents, promising lower costs, faster border clearance and improved sustainability. By investing in digital platforms and collaborative processes, shippers and carriers can position themselves at the forefront of this change.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sources"
+    },
+    {
+      "type": "citation",
+      "text": "Regulation (EU) 2020/1056 on electronic freight transport information (European Parliament, Council of the European Union, 2020) - Establishes a legal framework for electronic freight transport information and requires authorities to accept electronic data provided via certified eFTI platforms, addressing barriers to digitalisation and setting a July 2027 deadline for acceptance.",
+      "author": "European Parliament, Council of the European Union",
+      "url": "https://eur-lex.europa.eu/eli/reg/2020/1056/oj"
+    },
+    {
+      "type": "citation",
+      "text": "Paper consignment notes will be phased out, eCMR is coming (Trans.info, 2023) - Reports that by July 2027 national authorities must accept digital transport documents via certified eFTI platforms and that large-scale implementation of eCMR is expected by 2026.",
+      "author": "Trans.info",
+      "url": "https://trans.info/en/ecmr-replacing-paper-cmr-279235"
+    },
+    {
+      "type": "citation",
+      "text": "UNECE and IRU call for digital consignment notes (International Road Transport Union, 2023) - Explains that the eCMR protocol has been ratified by more than 30 countries and that digital consignment notes reduce paperwork, lower handling costs and allow trucks to avoid border stops.",
+      "author": "International Road Transport Union",
+      "url": "https://www.iru.org/news-resources/newsroom/unece-and-iru-call-digital-consignment-notes"
+    }
+  ],
+  "tags": [
+    "paperless freight",
+    "eFTI",
+    "e-CMR",
+    "digital consignment note",
+    "electronic freight information",
+    "EU logistics",
+    "digitalisation"
+  ]
+}

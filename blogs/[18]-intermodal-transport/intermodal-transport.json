@@ -1,0 +1,203 @@
+{
+  "id": "intermodal-and-combined-transport-in-europe-opportunities-for-shifting-freight-from-road",
+  "shortId": "intermodal-combined-transport",
+  "language": "en",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Intermodal and Combined Transport in Europe: Opportunities for Shifting Freight from Road",
+  "description": "Reducing road congestion and greenhouse gas emissions requires shifting more freight from road to rail, inland waterways and short-sea shipping. Intermodal and combined transport provide the operational frameworks to achieve this by using standardised loading...",
+  "publishedAt": "2025-12-06T00:00:00.000Z",
+  "category": "Planning",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistics Technology Experts",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "intermodal-transport-hero.png",
+  "imageAlt": "Illustration of a multimodal logistics network in Europe showing containers moving between trucks, trains, barges and short-sea ships with arrows.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Reducing road congestion and greenhouse gas emissions requires shifting more freight from road to rail, inland waterways and short-sea shipping. Intermodal and combined transport provide the operational frameworks to achieve this by using standardised loading units across modes and offering incentives for rail-road combinations. This article explores the current state of combined transport in Europe, legislative drivers and practical considerations for shippers.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "intermodal-transport-visual-1.png",
+      "alt": "Photo of a European intermodal terminal with a freight train loading containers from road trucks and cranes in the background.",
+      "caption": "Photo of a European intermodal terminal with a freight train loading containers from road trucks and cranes in the background"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Understanding combined and intermodal transport"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Combined transport refers to intermodal freight transport where the major part of the journey is undertaken by rail, inland waterways or sea, and road journeys are limited to the initial and final legs. The EU's Combined Transport Directive (92/106/EEC) encourages such operations by allowing hauliers to perform cabotage without additional authorisations and granting exemptions from road access restrictions. A European Parliament briefing notes that the directive is outdated and that the Commission proposed amendments in November 2023 to strengthen incentives and broaden the definition.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Intermodal transport more broadly refers to using at least two different modes with the same loading unit, such as a container or swap body. Modern logistics strategies combine road with rail, barge or short-sea services to improve efficiency and reduce carbon footprints.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Growth of combined transport"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The 2024 UIC/UIRR report highlights the rapid growth of combined transport in Europe. Between 2010 and 2023, combined transport volume increased by 59%, and the intermodal wagon fleet grew by 40%. By 2023, combined transport accounted for roughly 50% of Europe's rail freight sector and 52% of connections were cross-border. The report counted around 350 cross-border connections with weekly departures and estimated the sector's revenue at EUR 6.4 billion in 2022. Growth is expected to continue at 3% per year until 2040.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Despite this progress, road still dominates freight transport. Eurostat reports that in 2023 road accounted for 25.3% of freight transport (tonne-kilometres) in the EU, while rail represented only 5.5% and inland waterways 1.6%. Maritime transport remains the largest mode, with 67.4% of freight. Encouraging a modal shift therefore remains a central objective of EU transport policy.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Legislative and policy drivers"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Revision of the Combined Transport Directive: The proposed amendment aims to broaden the definition of combined transport, introduce clearer criteria for eligibility and improve monitoring and reporting. It also seeks to harmonise incentives such as exemptions from road tolls, night-driving restrictions and simplified customs procedures.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "TEN-T and capacity management: The revision of the Trans-European Transport Network (TEN-T) Regulation reinforces the role of urban nodes and multimodal freight terminals. Capacity management rules are being considered to prioritise freight slots on rail corridors.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "eFTI and digitalisation: Implementation of the eFTI regulation and interoperable booking platforms will simplify multimodal operations.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Green incentives: Carbon pricing, CO2-based tolls and LEZs increase the relative attractiveness of rail and inland waterway transport.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Practical considerations for shippers"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Evaluate lane characteristics: Intermodal transport works best on distances over 300 km where rail offers a cost and emissions advantage. Identify corridors with frequent train departures and reliable service.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Understand unit loads: Use standard containers or swap bodies that can be lifted by cranes at terminals. Ensure that goods are loaded securely for multiple handling operations.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Plan for terminal operations: Factor in transfer times at terminals and potential delays due to congestion. Electronic booking and early arrival slot reservations help minimise dwell time.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Collaborate with partners: Work with rail operators, freight forwarders and logistics hubs that specialise in combined transport. Digital freight platforms can provide visibility across modes.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Align with sustainability goals: Communicate the carbon benefits of intermodal transport to customers. Many companies now track Scope 3 emissions and prefer suppliers who use low-carbon modes.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusion"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Intermodal and combined transport are growing rapidly but still represent a minority of freight movements compared with road. By taking advantage of revised EU legislation, improved rail capacity and digital platforms, shippers can diversify their modal mix, reduce costs and contribute to decarbonisation. Forwarders like Logifie can help design multimodal solutions tailored to specific routes and commodities.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sources"
+    },
+    {
+      "type": "citation",
+      "text": "Revision of the Combined Transport Directive (European Parliament Research Service, 2023) - Explains that the existing Combined Transport Directive is outdated and that amendments proposed in November 2023 aim to broaden the definition of combined transport and strengthen incentives.",
+      "author": "European Parliament Research Service",
+      "url": "https://www.europarl.europa.eu/thinktank/en/document.html?reference=EPRS_BRI(2023)749778"
+    },
+    {
+      "type": "citation",
+      "text": "Combined Transport in Europe: Growth and Challenges (UIC, UIRR, 2024) - Reports that combined transport volumes in Europe increased by 59% from 2010 to 2023, the intermodal wagon fleet grew 40%, combined transport accounts for 50% of rail freight and 52% of connections are cross-border, with revenue of EUR 6.4 billion.",
+      "author": "UIC, UIRR",
+      "url": "https://uic.org/commercial-platform/combined-transport-in-europe-2024-report/"
+    },
+    {
+      "type": "citation",
+      "text": "Most goods transported by sea within the EU in 2023 (Eurostat, 2025) - Notes that road freight accounted for 25.3% of tonne-kilometres in the EU in 2023, while rail represented 5.5%, inland waterways 1.6% and sea 67.4%.",
+      "author": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250416-1"
+    }
+  ],
+  "tags": [
+    "combined transport",
+    "intermodal freight",
+    "rail-road shift",
+    "modal split",
+    "TEN-T",
+    "combined transport directive",
+    "multimodal"
+  ]
+}

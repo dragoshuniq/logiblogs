@@ -1,0 +1,231 @@
+{
+  "id": "eu-cabotage-rules-and-the-mobility-package-navigating-cooling-off-periods-and-vehicle-return-requirements",
+  "shortId": "eu-cabotage-rules",
+  "language": "en",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "EU Cabotage Rules and the Mobility Package: Navigating Cooling-Off Periods and Vehicle Return Requirements",
+  "description": "European shippers and carriers have long benefited from cabotage - the right for road hauliers from one EU country to operate domestic journeys in another member state - because it helps reduce empty mileage and increase efficiency. Yet cabotage can also...",
+  "publishedAt": "2025-12-01T00:00:00.000Z",
+  "category": "Transportation",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistics Technology Experts",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "cabotage-rules-hero.png",
+  "imageAlt": "Illustration of an EU map showing a truck crossing borders with arrows indicating cabotage routes, with a calendar icon illustrating the four-day cooling-off period.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "European shippers and carriers have long benefited from cabotage - the right for road hauliers from one EU country to operate domestic journeys in another member state - because it helps reduce empty mileage and increase efficiency. Yet cabotage can also distort markets and enable unfair competition if vehicles stay indefinitely in countries where costs are lower. To address this, the EU Mobility Package introduces new rules on cabotage and posting of drivers. This article explains what these rules mean for carriers and shippers, focusing on cooling-off periods, return-to-home requirements and digital posting declarations.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "cabotage-rules-visual-1.png",
+      "alt": "Photo of a European lorry returning to its home base depot at sunset, warehouse in the background.",
+      "caption": "Photo of a European lorry returning to its home base depot at sunset, warehouse in the background"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What is cabotage?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Cabotage occurs when a haulier registered in one EU member state performs domestic transport operations within another member state. For example, a Polish haulier delivering goods to France and then taking multiple domestic loads within France before returning home is engaging in cabotage. Cabotage helps reduce empty runs and supports balanced flows across Europe, but it has been controversial because some operators have used it to skirt local labour rules and wages.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Under EU law, a non-resident haulier may perform up to three cabotage operations within seven days of an international delivery. These operations must take place after goods have been unloaded from the incoming international load.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mobility Package cooling-off period"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "To prevent continuous cabotage, the Mobility Package introduces a \"cooling-off\" period. After completing a cabotage operation in a member state, a haulier must wait four days before performing further cabotage in that same country. The four-day period starts at 00:00 on the day after the last unloading in that state and ends at 23:59 on the fourth day. During this time, the haulier can either return to its home country, take on international loads to other member states, or perform cabotage in a different member state.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This rule aims to ensure that foreign trucks do not remain permanently in low-cost labour markets while still allowing flexibility for cross-border operations. For shippers, the cooling-off period means there may be fewer foreign carriers available for short-notice domestic transport during peak periods, so planning ahead and using established forwarding partners becomes critical.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vehicle return-to-home requirement"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Another key element of the Mobility Package is the vehicle return requirement. Transport companies must organise their operations so that each vehicle used in international road haulage returns to its member state of establishment at least once every eight weeks. Although the European Court of Justice annulled the prescriptive obligation, the overall aim remains: trucks should not stay in another country for long periods. This rule applies to vehicles with a gross vehicle weight of more than 2.5 tonnes engaged in international transport.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Carriers must plan schedules and loads to include a return journey within the eight-week window. Failure to comply can result in fines or loss of cabotage rights. For shippers working with foreign carriers, it is prudent to verify that their partners respect the return requirement, as non-compliance could disrupt deliveries.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Posting of drivers and the IMI portal"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Mobility Package also includes a \"Lex specialis\" directive on the posting of drivers (Directive 2020/1057). Cabotage and cross-trade operations (successive international shipments between third countries) are considered posting, meaning drivers must be paid according to the host country's minimum wage and work conditions. To simplify compliance, declarations must be submitted electronically via the Internal Market Information (IMI) portal. The IRU notes that the IMI portal is the only official tool for posting declarations and that national authorities may not impose additional notification systems.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Drivers must carry a copy of the posting declaration, evidence of transport operations and tachograph records to demonstrate compliance during roadside checks. In contrast, bilateral transport (one outbound and one inbound leg with possible additional cross-trade legs) is excluded from posting rules.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Smart tachographs and enforcement"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Mobility Package requires the installation of second-generation smart tachographs on vehicles engaged in international transport to record border crossings and cabotage activities. Vehicles between 2.5 and 3.5 tonnes will be subject to tachograph rules for cross-border operations from mid-2026, bringing smaller vans into the regulatory framework.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Smart tachographs automatically register border crossings and the vehicle's position during loading and unloading, making it easier for enforcement authorities to verify cooling-off periods and vehicle returns. Carriers should plan retrofitting schedules and allocate resources for tachograph upgrades.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Practical advice for shippers and carriers"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Check carrier compliance: Ensure carriers you contract adhere to cooling-off periods and return requirements. Ask for evidence of posting declarations and tachograph data when necessary.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Plan around cooling-off periods: If your operations rely on foreign carriers, consider the four-day no-cabotage window when scheduling domestic shipments.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Use digital documentation: Encourage carriers to submit posting declarations via the IMI portal and maintain electronic consignment notes (e-CMR) to streamline compliance.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Engage a trusted forwarder: A digital freight forwarder like Logifie can help manage cabotage compliance, posting declarations and route planning, reducing administrative burden on shippers.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusion"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The EU Mobility Package is reshaping cabotage and posting rules to balance market openness with fair competition. Cooling-off periods and vehicle return requirements mean carriers must plan operations carefully, while shippers need to ensure partners comply. By understanding these rules and using digital tools, logistics managers can navigate the new landscape and continue to optimise cross-border road freight.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sources"
+    },
+    {
+      "type": "citation",
+      "text": "Questions and answers: Mobility Package I - Cabotage (European Commission, 2021) - Explains the four-day cooling-off period after a cabotage operation and restrictions on performing cabotage in the same member state during this period.",
+      "author": "European Commission",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021XC0816(01)"
+    },
+    {
+      "type": "citation",
+      "text": "Mobility Package I - Return obligation and licensing (Federal Ministry for Digital and Transport, 2023) - Describes the requirement for vehicles in international transport to return to their member state of establishment at least every eight weeks and notes that vehicles over 2.5 t need a Community licence.",
+      "author": "Federal Ministry for Digital and Transport",
+      "url": "https://www.bmdv.bund.de/SharedDocs/EN/Articles/G/mobility-package.html"
+    },
+    {
+      "type": "citation",
+      "text": "Posting of drivers: Lex specialis (International Road Transport Union, 2023) - Explains that cabotage and cross-trade operations are treated as posting, requiring declarations via the IMI portal, and clarifies that bilateral operations are not considered posting.",
+      "author": "International Road Transport Union",
+      "url": "https://www.iru.org/news-resources/iru-advises-on-posting-of-drivers-legislation"
+    }
+  ],
+  "tags": [
+    "cabotage rules",
+    "EU mobility package",
+    "cooling-off period",
+    "truck return home",
+    "driver posting",
+    "IMI portal",
+    "road freight Europe"
+  ]
+}

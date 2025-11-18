@@ -1,0 +1,212 @@
+{
+  "id": "cold-chain-logistics-in-europe-standards-compliance-and-best-practices",
+  "shortId": "cold-chain-logistics",
+  "language": "en",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Cold Chain Logistics in Europe: Standards, Compliance and Best Practices",
+  "description": "Perishable foods, medicines and sensitive industrial materials must remain within precise temperature ranges throughout transport. In Europe, the cold chain is governed by a complex web of international agreements and regulations designed to protect consumers...",
+  "publishedAt": "2025-12-03T00:00:00.000Z",
+  "category": "Operations",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistics Technology Experts",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "cold-chain-hero.png",
+  "imageAlt": "Photo of a refrigerated truck loading pallets of perishable goods at a European cross-docking facility, with temperature sensors visible.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Perishable foods, medicines and sensitive industrial materials must remain within precise temperature ranges throughout transport. In Europe, the cold chain is governed by a complex web of international agreements and regulations designed to protect consumers and ensure fair competition. This article outlines the key standards and offers practical advice for shippers and carriers maintaining temperature control across borders.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "cold-chain-visual-1.png",
+      "alt": "illustration showing a cold chain logistics flow in Europe, including icons for ATP certificates, HACCP procedures, temperature monitoring, and low-GWP refrigerants.",
+      "caption": "illustration showing a cold chain logistics flow in Europe, including icons for ATP certificates, HACCP procedures, temperature monitoring, and low-GWP refrigerants"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Regulatory landscape"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "ATP agreement"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Agreement on the International Carriage of Perishable Foodstuffs and on the Special Equipment to be Used for such Carriage (ATP) establishes technical standards for the transport of perishable goods. It applies to cross-border carriage of food between the 48 contracting countries. Vehicles must carry ATP certificates classifying them as insulated, refrigerated or mechanically refrigerated with designated temperature classes (A, B or C). Reinforced equipment (class F) is required for deep-freeze cargo. The International Forwarding Association notes that Europe's cold chain spans cross-docking, long-haul transport and urban deliveries, and compliance with ATP classes is a prerequisite for cross-border operations.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Food hygiene and HACCP"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Beyond ATP, all food businesses in the EU must comply with Regulation (EC) No 852/2004 on food hygiene. The regulation requires operators to implement Hazard Analysis and Critical Control Point (HACCP) principles throughout the production and transport chain. Annex I of the regulation covers hygiene during primary production and transport, including cleaning and temperature control, while Annex II covers cleanliness, transport, packaging and heat treatment. Businesses must identify hazards, set critical limits, monitor and maintain records to ensure that food remains safe.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Good Distribution Practice for pharmaceuticals"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Medicinal products fall under the EU's Good Distribution Practice (GDP) guidelines. The guidelines emphasise that the distribution network is increasingly complex and aim to maintain quality and integrity of medicinal products throughout storage and transport. Wholesalers must implement a quality system with responsibilities, processes and monitoring to ensure products remain within their required temperature ranges. Falsified medicines and temperature excursions are serious risks; robust documentation and training are essential.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "F-gas regulation and refrigerants"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Cold chain transport relies on refrigeration units that often use hydrofluorocarbons (HFCs). The EU's updated F-gas Regulation (Regulation EU 2024/573) sets quotas that gradually phase down HFC production and consumption. By 2036, the quota will decline to 15% of the baseline and the regulation extends recovery obligations and digital customs controls to reduce emissions. Carriers should plan to adopt refrigeration systems using low-GWP refrigerants such as CO2 or hydrocarbons.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Best practices for maintaining the cold chain"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Maintaining product integrity requires more than compliance with legal frameworks. Shippers and carriers can implement the following best practices:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Pre-trip inspections: Inspect insulation, door seals, refrigeration units and temperature monitoring devices before loading. Ensure the unit is pre-cooled to the required set point.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Continuous temperature monitoring: Use calibrated data loggers or telematics systems to record temperatures throughout transit. Real-time alerts allow drivers and dispatchers to intervene if temperatures drift.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Proper loading: Load goods quickly and evenly to allow air circulation. Avoid blocking air vents. For mixed loads, segregate products with different temperature requirements.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Documented procedures: Maintain loading and unloading checklists, cleaning schedules and corrective action records. Clear documentation is crucial for audits and can defend against claims.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Training and collaboration: Train drivers and warehouse staff on hygiene, handling and emergency procedures. Collaborate with suppliers and customers to coordinate pick-up windows and avoid delays that could jeopardise temperature control.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Emerging trends in Europe's cold chain"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Digital technologies are improving visibility and control in temperature-sensitive logistics. Real-time data from IoT sensors enable predictive maintenance and automated alerts. Blockchain platforms are being tested to create immutable temperature records. Meanwhile, regulatory pressure to reduce greenhouse-gas emissions is pushing fleet operators toward electric or hybrid refrigerated vehicles and alternative refrigerants. Temperature-controlled urban consolidation hubs can help reduce distances and ensure compliance with low-emission zones.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusion"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Europe's cold chain is anchored by the ATP agreement, HACCP principles, GDP guidelines and environmental regulations. Shippers and carriers must invest in compliant equipment, rigorous procedures and training to maintain product integrity across borders. By embracing technology and preparing for stricter refrigerant rules, businesses can enhance reliability and sustainability in temperature-controlled transport.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sources"
+    },
+    {
+      "type": "citation",
+      "text": "Europe's cold chain under ATP, HACCP and GDP (International Forwarding Association, 2025) - Describes Europe's cold chain and notes that operations include cross-docking, long-haul and urban deliveries, all governed by the ATP agreement, HACCP principles and GDP guidelines.",
+      "author": "International Forwarding Association",
+      "url": "https://www.ifa-forwarding.net/en/cold-chain-logistics-europe-2025/"
+    },
+    {
+      "type": "citation",
+      "text": "Regulation (EC) No 852/2004 on the hygiene of foodstuffs (European Commission, 2004) - Summarises the food hygiene regulation, explaining that businesses must implement good hygiene practices and HACCP procedures and that Annex I and II include requirements for transport, cleanliness, packaging and temperature control.",
+      "author": "European Commission",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l21262"
+    },
+    {
+      "type": "citation",
+      "text": "Guidelines on Good Distribution Practice of medicinal products for human use (European Commission, 2013) - States that distribution networks for medicinal products are increasingly complex and that wholesalers must maintain quality and integrity of products through a quality system during storage and transport.",
+      "author": "European Commission",
+      "url": "https://ec.europa.eu/health/sites/default/files/files/eudralex/vol-4/2013_gdp_guidelines_en.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Regulation (EU) 2024/573 on fluorinated greenhouse gases (European Union, 2024) - The updated F-gas regulation phases down hydrofluorocarbon quotas, extends recovery obligations and introduces digital customs controls, pushing carriers to adopt low-GWP refrigerants.",
+      "author": "European Union",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R0573"
+    }
+  ],
+  "tags": [
+    "cold chain",
+    "ATP agreement",
+    "HACCP",
+    "GDP guidelines",
+    "F-gas regulation",
+    "temperature control",
+    "perishable goods"
+  ]
+}
