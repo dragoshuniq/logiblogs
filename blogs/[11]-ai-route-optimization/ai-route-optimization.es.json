@@ -1,0 +1,61 @@
+{
+  "id": "how-ai-route-optimization-reduces-co2-in-road-freight",
+  "shortId": "ai-route-optimization",
+  "language": "es",
+  "isVisible": true,
+  "readTime": 600,
+  "title": "Cómo la optimización de rutas con IA reduce el CO2 en el transporte por carretera",
+  "description": "En el transporte por carretera, el tiempo suele ser dinero y, cada vez más, carbono. Los motores diésel emiten grandes volúmenes de GEI. La optimización de rutas con IA acorta trayectos, reduce kilómetros en vacío y baja consumo y emisiones sin perder nivel de servicio...",
+  "publishedAt": "2025-01-26T00:00:00Z",
+  "category": "Tecnología",
+  "author": {"name": "Logifie Team", "role": "Expertos en tecnología logística", "avatar": "/logos/slogo.png"},
+  "image": "ai-route-optimization-hero.png",
+  "imageAlt": "Despachadores monitorizan un mapa europeo con rutas de camión optimizadas e indicadores de ahorro de emisiones",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "En el transporte por carretera, el tiempo suele ser dinero y, cada vez más, CO2. Los camiones mantienen las cadenas de suministro, pero los motores diésel emiten grandes cantidades de gases de efecto invernadero (GEI). El transporte por carretera supone ~15 % de las emisiones globales de CO2 y los camiones de mercancías casi el 29 % de las del transporte. Los operadores deben controlar costes y reducir emisiones. La optimización de rutas con IA ofrece una vía práctica para un transporte más verde sin sacrificar el servicio.", "bold": false}]},
+    {"type": "image", "src": "ai-route-optimization-visual.png", "alt": "Mapa digital que muestra camiones reruteados por IA según tráfico, meteorología y datos de emisiones en tiempo real", "caption": "El centro de control visualiza cómo la IA rerutea camiones en tiempo real cuando cambian tráfico, climatología y factores de emisiones."},
+    {"type": "heading", "level": 2, "text": "Por qué el transporte necesita un ruteo más inteligente"},
+    {"type": "paragraph", "children": [{"text": "El transporte representa cerca de una quinta parte de las emisiones mundiales de CO2. Los camiones pesados consumen diésel y emiten CO2, NOx y partículas. Las ineficiencias agravan el problema: en EE. UU., los kilómetros en vacío son 15–20 % (~87 Mt CO2e), y algunos países europeos superan el 30 %. La congestión, el ruteo subóptimo, el mal acoplamiento de carga/capacidad y el ralentí prolongado desperdician combustible.", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "El ruteo tradicional se basa en mapas estáticos, experiencia del conductor y decisiones manuales, ignorando factores dinámicos (tráfico, clima, ventanas de entrega, eficiencia del vehículo), lo que provoca desvíos, retrasos y sobreconsumo. La IA usa algoritmos avanzados para generar la secuencia más eficiente de paradas de una flota. Modelos y heurísticas combinan telemática, sensores de tráfico, meteorología, características del vehículo y restricciones del pedido para minimizar distancia, tiempo o emisiones.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Cómo funciona la optimización de rutas con IA"},
+    {"type": "paragraph", "children": [{"text": "Combina varias tecnologías:", "bold": false}]},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Ingesta de datos en tiempo real: la telemática e IoT aportan posición, consumo y estado del vehículo; APIs de tráfico ofrecen congestión en vivo; los servicios meteorológicos prevén condiciones.", "bold": false}],
+      [{"text": "Algoritmos de optimización: variantes del problema de ruteo de vehículos (VRP) con ventanas temporales, capacidad o recogida/entrega generan rutas que respetan horarios, horas de conducción, clases de vehículo y objetivos de emisiones.", "bold": false}],
+      [{"text": "Aprendizaje automático: mejora las predicciones de tiempo de viaje, estima emisiones por vehículo y calibra parámetros con históricos.", "bold": false}],
+      [{"text": "Múltiples objetivos: además de coste/distancia, se optimizan emisiones (evitar pendientes y stop‑and‑go; equilibrar cargas para subir la ocupación).", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Beneficios: menos costes y CO2"},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Menos kilómetros en vacío", "bold": false}],
+      [{"text": "Tiempos más cortos evitando congestión y desvíos", "bold": false}],
+      [{"text": "Niveles de servicio estables con ETA realista y reruteo dinámico", "bold": false}],
+      [{"text": "Monitorización de emisiones por envío para reportar y elegir rutas bajas en carbono", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Integración con plataformas de expedición digital"},
+    {"type": "paragraph", "children": [{"text": "El potencial pleno surge al integrar la IA en una plataforma digital de forwarding. Estas consolidan TMS, WMS, pedidos y redes de transportistas y permiten:", "bold": false}]},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Cotización y reserva instantáneas", "bold": false}],
+      [{"text": "Documentación automatizada (conocimientos electrónicos, declaraciones aduaneras, POD)", "bold": false}],
+      [{"text": "Visibilidad en tiempo real mediante mapas y paneles", "bold": false}],
+      [{"text": "Cálculo de emisiones combinando datos de ruteo y factores de emisión", "bold": false}]
+    ]},
+    {"type": "paragraph", "children": [{"text": "La plataforma de Logifie integra IA de ruteo con un TMS moderno: planificar, reservar transportistas y monitorizar métricas de sostenibilidad en un mismo lugar, automatizando tareas y centralizando datos.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Desafíos y consideraciones"},
+    {"type": "paragraph", "children": [{"text": "Datos, costes/privacidad, integración con TMS/WMS y restricciones regulatorias/contractuales (horas de conducción, acuerdos, SLA) requieren planificación.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Hacia una logística más verde"},
+    {"type": "paragraph", "children": [{"text": "La IA para optimizar rutas es una palanca potente para descarbonizar el transporte por carretera: menos vacíos, distancias más cortas y mejor uso de activos. Casos como UPS ORION muestran recortes sustanciales. Integrada en plataformas digitales, aporta visibilidad, mejor experiencia y resiliencia operativa.", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "Para cumplir objetivos net‑zero y seguir siendo competitivos, conviene priorizar la inversión en IA de ruteo. Asociarse con proveedores tecnológicos como Logifie permite aprovechar la IA sin desarrollar las herramientas internamente. Empiece evaluando la eficiencia actual, cierre brechas de datos y pilote con parte de su flota; mida combustible, emisiones y servicio; amplíe después junto con flotas más verdes y envíos colaborativos.", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "Adoptando hoy la optimización con IA, el sector da un gran paso hacia un transporte por carretera sostenible y rentable.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Fuentes"},
+    {"type": "citation", "text": "Transport (Global Change Data Lab, 2023) – Estadística de emisiones globales; el transporte por carretera ~15 % del CO2 global; camiones ~29 % del transporte.", "author": "Hannah Ritchie, Max Roser", "url": "https://ourworldindata.org/transport"},
+    {"type": "citation", "text": "Artificial Intelligence for sustainable logistics (IJSRA, 2025) – La IA puede ahorrar hasta 15 % de CO2 y 30 % de combustible; costes y privacidad siguen siendo barreras.", "author": "Orcun Sarioguz", "url": "https://www.researchgate.net/publication/393169189_Artificial_Intelligence_for_sustainable_logistics_Reducing_carbon_emissions_and_fuel_consumption_through_route_optimization"},
+    {"type": "citation", "text": "Route Optimization White Paper (Finmile, 2024) – Planificación algorítmica: -10–20 % de millas, -30–40 % de rutas, +25–30 % de eficiencia; UPS ORION como referencia.", "author": "Finmile", "url": "https://www.finmile.com/whitepaper-route-optimization"},
+    {"type": "citation", "text": "UPS ORION (BSR, 2020) – Ahorros de ~100 M millas y 10 M galones/año; ~100.000 t GEI evitadas.", "author": "BSR, UPS", "url": "https://www.bsr.org/en/case-studies/ups-orion"},
+    {"type": "citation", "text": "Driving sustainability: Reducing empty miles (Einride, 2023) – EE. UU.: 15–20 % de millas en vacío; ~87 Mt CO2e; en la UE algunos países superan 30 %.", "author": "Einride", "url": "https://www.einride.tech/news/reducing-empty-miles"},
+    {"type": "citation", "text": "Digital Freight Networks Can Reduce Truck Emissions (ACEEE, 2024) – Las redes digitales elevan el factor de carga medio (~57 %) y reducen emisiones.", "author": "Anna Bermiss", "url": "https://www.aceee.org/blog-post/2024/01/digital-freight-networks-can-reduce-truck-emissions"},
+    {"type": "citation", "text": "Intelligent Transport, Greener Future (WEF, 2025) – La logística ~8 % de los GEI mundiales; la IA puede reducir hasta 15 % mediante optimización.", "author": "World Economic Forum", "url": "https://reports.weforum.org/intelligent-transport-greener-future/"}
+  ],
+  "tags": ["optimización de rutas con IA", "logística verde", "flete sostenible"]
+}
+

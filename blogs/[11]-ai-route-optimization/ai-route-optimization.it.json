@@ -1,0 +1,55 @@
+{
+  "id": "how-ai-route-optimization-reduces-co2-in-road-freight",
+  "shortId": "ai-route-optimization",
+  "language": "it",
+  "isVisible": true,
+  "readTime": 600,
+  "title": "Come l'ottimizzazione dei percorsi con IA riduce la CO2 nel trasporto stradale",
+  "description": "Nel trasporto stradale, il tempo è denaro – e sempre più CO2. I motori diesel emettono grandi quantità di gas serra. L'ottimizzazione dei percorsi con IA accorcia le tratte, riduce i viaggi a vuoto e abbassa consumi ed emissioni senza intaccare il livello di servizio...",
+  "publishedAt": "2025-01-26T00:00:00Z",
+  "category": "Tecnologia",
+  "author": {"name": "Logifie Team", "role": "Esperti di tecnologia logistica", "avatar": "/logos/slogo.png"},
+  "image": "ai-route-optimization-hero.png",
+  "imageAlt": "Dispatcher monitorano una mappa europea con percorsi camion ottimizzati e indicatori di risparmio emissioni",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Nel trasporto stradale, il tempo è denaro – e sempre più CO2. I camion tengono in moto le supply chain, ma i motori diesel emettono molti gas serra (GHG). Il trasporto su strada rappresenta ~15 % delle emissioni globali di CO2 e i camion merci quasi il 29 % di quelle del trasporto. I fornitori logistici devono contenere i costi e ridurre le emissioni. L'IA per l'ottimizzazione dei percorsi rende il trasporto più verde senza sacrificare i livelli di servizio.", "bold": false}]},
+    {"type": "image", "src": "ai-route-optimization-visual.png", "alt": "Mappa digitale che mostra camion riorientati dall'IA in base a traffico, meteo e dati di emissione live", "caption": "Il centro di controllo visualizza come l'IA riorienta i camion in tempo reale al variare di meteo, traffico e fattori emissivi."},
+    {"type": "heading", "level": 2, "text": "Perché servono percorsi più intelligenti"},
+    {"type": "paragraph", "children": [{"text": "Il trasporto è responsabile di circa un quinto delle emissioni mondiali di CO2. I veicoli pesanti consumano diesel ed emettono CO2, NOx e particolato. Le inefficienze aggravano il problema: negli USA il 15–20 % dei km è a vuoto (~87 Mt CO2e) e in alcuni paesi UE si supera il 30 %. Traffico, routing subottimale, match carico/capacità e lunghi tempi al minimo sprecano carburante.", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "Il routing tradizionale si basa su mappe statiche, esperienza e decisioni manuali, ignorando fattori dinamici (traffico live, meteo, finestre di consegna, efficienza veicolo), con deviazioni, ritardi e consumi extra. L'IA usa algoritmi sofisticati per generare la sequenza più efficiente di fermate. Modelli e euristiche integrano telematica, sensori di traffico, servizi meteo, caratteristiche dei veicoli e vincoli d'ordine per minimizzare distanza, tempo o emissioni.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Come funziona l'ottimizzazione con IA"},
+    {"type": "paragraph", "children": [{"text": "Combina più tecnologie:", "bold": false}]},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Dati in tempo reale: telematica e IoT forniscono posizione, consumi e stato del veicolo; API traffico e meteo completano il quadro.", "bold": false}],
+      [{"text": "Algoritmi di ottimizzazione: varianti VRP (finestre temporali, capacità, pickup/delivery) generano giri nel rispetto di orari, ore di guida, classi veicolo e obiettivi emissivi.", "bold": false}],
+      [{"text": "Apprendimento: ML migliora tempi previsti, stima emissioni per veicolo e calibra i parametri sui dati storici.", "bold": false}],
+      [{"text": "Obiettivi multipli: oltre a costo/distanza, si ottimizzano le emissioni (meno pendenze e stop‑and‑go; miglior bilanciamento dei carichi).", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Benefici pratici: meno costi e CO2"},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Meno viaggi a vuoto", "bold": false}],
+      [{"text": "Tempi più brevi evitando congestioni", "bold": false}],
+      [{"text": "Service level stabili con ETA realistico e rerouting dinamico", "bold": false}],
+      [{"text": "Monitoraggio emissioni per spedizione per reporting e scelta di percorsi low‑carbon", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Integrazione nelle piattaforme digitali di forwarding"},
+    {"type": "paragraph", "children": [{"text": "Il massimo potenziale emerge integrando l'IA in una piattaforma digitale che aggrega TMS, WMS, ordini e rete carrier: preventivi istantanei, documenti automatizzati, visibilità in tempo reale e contabilità CO2 per spedizione.", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "La piattaforma Logifie integra l'IA di routing con un TMS moderno per pianificare, prenotare e monitorare metriche di sostenibilità in un unico luogo, automatizzando attività ripetitive e centralizzando i dati.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Sfide e considerazioni"},
+    {"type": "paragraph", "children": [{"text": "Qualità dei dati, costi/privacy, integrazione con TMS/WMS e vincoli normativi/contrattuali (ore di guida, accordi, SLA) richiedono pianificazione attenta.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Verso una logistica più verde"},
+    {"type": "paragraph", "children": [{"text": "L'IA per l'ottimizzazione dei percorsi è una leva potente per decarbonizzare il trasporto su strada: meno vuoti, distanze minori e migliore utilizzo degli asset. I casi UPS ORION e altri mostrano risparmi significativi. Integrata nelle piattaforme digitali, porta visibilità, customer experience e resilienza operativa.", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "Per obiettivi net‑zero e competitività, investire nell'IA di routing è una priorità. Con partner tecnologici come Logifie si sfrutta l'IA senza svilupparla in casa. Valutate l'efficienza attuale, colmate i gap di dati e pilotate sullaflottiglia; misurate carburante, emissioni e servizio; scalate poi con flotte più verdi e spedizioni collaborative.", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "Adottando oggi l'ottimizzazione con IA, la logistica compie un grande passo verso un trasporto stradale sostenibile e conveniente.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Fonti"},
+    {"type": "citation", "text": "Transport (Global Change Data Lab, 2023) – Il trasporto su strada ~15 % della CO2 globale; i camion ~29 % delle emissioni del trasporto.", "author": "Hannah Ritchie, Max Roser", "url": "https://ourworldindata.org/transport"},
+    {"type": "citation", "text": "Artificial Intelligence for sustainable logistics (IJSRA, 2025) – Risparmi fino a 15 % CO2 e 30 % carburante; costi e privacy come barriere.", "author": "Orcun Sarioguz", "url": "https://www.researchgate.net/publication/393169189_Artificial_Intelligence_for_sustainable_logistics_Reducing_carbon_emissions_and_fuel_consumption_through_route_optimization"},
+    {"type": "citation", "text": "Route Optimization White Paper (Finmile, 2024) – -10–20 % miglia, -30–40 % rotte, +25–30 % efficienza; riferimento UPS ORION.", "author": "Finmile", "url": "https://www.finmile.com/whitepaper-route-optimization"},
+    {"type": "citation", "text": "UPS ORION (BSR, 2020) – ~100 M miglia e 10 M galloni/anno risparmiati; ~100.000 t GHG evitate.", "author": "BSR, UPS", "url": "https://www.bsr.org/en/case-studies/ups-orion"},
+    {"type": "citation", "text": "Driving sustainability: Reducing empty miles (Einride, 2023) – USA: 15–20 % km a vuoto; ~87 Mt CO2e; in UE alcuni paesi >30 %.", "author": "Einride", "url": "https://www.einride.tech/news/reducing-empty-miles"},
+    {"type": "citation", "text": "Digital Freight Networks Can Reduce Truck Emissions (ACEEE, 2024) – Reti digitali aumentano il load factor medio (~57 %) e riducono emissioni.", "author": "Anna Bermiss", "url": "https://www.aceee.org/blog-post/2024/01/digital-freight-networks-can-reduce-truck-emissions"},
+    {"type": "citation", "text": "Intelligent Transport, Greener Future (WEF, 2025) – La logistica ~8 % dei GHG globali; l'IA può ridurre fino a 15 % con ottimizzazione operativa.", "author": "World Economic Forum", "url": "https://reports.weforum.org/intelligent-transport-greener-future/"}
+  ],
+  "tags": ["ottimizzazione percorsi IA", "logistica verde", "trasporto sostenibile"]
+}
+
