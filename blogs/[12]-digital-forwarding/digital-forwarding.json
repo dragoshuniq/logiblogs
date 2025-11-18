@@ -14,7 +14,7 @@
     "avatar": "/logos/slogo.png"
   },
   "image": "digital-forwarding-hero.png",
-  "imageAlt": "Split-screen illustration showing a traditional freight forwarding office filled with paperwork, phones and faxes on one side, and a modern digital freight control room with computer screens, dashboards and automated workflows on the other side, realistic style",
+  "imageAlt": "Split scene showing a paper-heavy traditional forwarding office beside a streamlined digital control room",
   "content": [
     {
       "type": "paragraph",
@@ -28,7 +28,7 @@
     {
       "type": "image",
       "src": "digital-forwarding-visual.png",
-      "alt": "Detailed isometric illustration of a digital freight platform dashboard displaying instant quotation, live shipment tracking, carbon emissions metrics, and automated document management in a modern logistics office",
+      "alt": "Dashboard view of a digital forwarding platform with instant quotes, live tracking and carbon metrics",
       "caption": "Digital forwarding dashboard spotlights instant quotes, emissions metrics and automated paperwork."
     },
     {

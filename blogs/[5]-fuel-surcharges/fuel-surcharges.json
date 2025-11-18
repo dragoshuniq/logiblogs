@@ -14,7 +14,7 @@
     "avatar": "/logos/slogo.png"
   },
   "image": "fuel-surcharges-hero.png",
-  "imageAlt": "Minimalist infographic showing how fuel surcharges are calculated, with a base fuel price, index and surcharge percentage, flat design",
+  "imageAlt": "Diagram explaining how the base fuel price, index values and surcharge percentages combine on a freight invoice",
   "content": [
     {
       "type": "paragraph",
@@ -28,7 +28,7 @@
     {
       "type": "image",
       "src": "fuel-surcharges-visual.png",
-      "alt": "Realistic illustration of a truck approaching a European toll gate with signage displaying toll rates and CO2 pricing, modern style",
+      "alt": "Truck approaches a European toll gate where digital signs show toll rates and CO2 charges",
       "caption": "Toll gates and CO2 pricing cues illustrate how infrastructure fees roll into the fuel surcharge line item."
     },
     {

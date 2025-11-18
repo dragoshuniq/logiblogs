@@ -12,7 +12,7 @@
     "avatar": "/logos/slogo.png"
   },
   "image": "/assets/home1.jpg",
-  "imageAlt": "AI transforming European freight forwarding operations",
+  "imageAlt": "Operations team oversees European freight flows using AI dashboards",
   "content": [
     {
       "type": "heading",
@@ -40,7 +40,7 @@
     {
       "type": "image",
       "src": "/assets/home1.jpg",
-      "alt": "AI transforming European freight forwarding operations",
+      "alt": "Control tower staff use an AI dashboard to coordinate European freight shipments",
       "caption": "Control tower staff rely on AI dashboards to orchestrate European freight flows."
     },
     {
@@ -116,7 +116,7 @@
     {
       "type": "image",
       "src": "/assets/home2.jpg",
-      "alt": "AI-powered route optimisation for freight transport",
+      "alt": "Dispatch planners examine AI-generated routes that balance cost, driver hours and emissions",
       "caption": "Dispatch planners review AI-generated routes that balance driver hours, cost and emissions."
     },
     {
@@ -252,7 +252,7 @@
     {
       "type": "image",
       "src": "/assets/home3.jpg",
-      "alt": "Smart warehouse robots in European logistics hub",
+      "alt": "Autonomous robots reposition totes inside a European logistics warehouse",
       "caption": "Autonomous robots reposition totes inside a European warehouse to speed up fulfillment."
     },
     {
@@ -355,7 +355,7 @@
     {
       "type": "image",
       "src": "/assets/home4.jpg",
-      "alt": "Logistics manager using AI for transport planning",
+      "alt": "Logistics manager reviews predictive analytics to align transport plans with sustainability targets",
       "caption": "Planner uses predictive analytics to align transport decisions with sustainability targets."
     },
     {
@@ -467,7 +467,7 @@
     {
       "type": "image",
       "src": "/assets/home5.jpg",
-      "alt": "EU AI Act compliance in logistics data management",
+      "alt": "Compliance specialists audit AI decision logs to document EU AI Act controls",
       "caption": "Compliance specialists audit AI decision logs to document EU AI Act controls."
     },
     {
@@ -570,7 +570,7 @@
     {
       "type": "image",
       "src": "/assets/home6.jpg",
-      "alt": "AI-powered digital twin of European logistics network",
+      "alt": "Digital twin of a pan-European logistics network visualises capacity and carbon scenarios",
       "caption": "Digital twin of a pan-European network lets teams test new capacity and carbon scenarios."
     },
     {

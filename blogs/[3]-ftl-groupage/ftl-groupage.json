@@ -14,7 +14,7 @@
     "avatar": "/logos/slogo.png"
   },
   "image": "ftv-groupage.png",
-  "imageAlt": "Split-screen illustration contrasting an FTL truck carrying a single large shipment with a groupage truck carrying multiple palletised consignments, flat vector style",
+  "imageAlt": "Side-by-side view comparing a dedicated FTL truck with a groupage trailer carrying multiple pallets",
   "content": [
     {
       "type": "paragraph",
@@ -28,7 +28,7 @@
     {
       "type": "image",
       "src": "warehouse.png",
-      "alt": "Realistic photo of warehouse workers consolidating pallets onto a truck for groupage shipping, with forklifts and pallet racks visible",
+      "alt": "Warehouse team wraps and straps pallets before loading them for a groupage shipment",
       "caption": "Operations team consolidates multiple customers' pallets on one dock door ahead of a groupage run."
     },
     {

@@ -14,7 +14,7 @@
     "avatar": "/logos/slogo.png"
   },
   "image": "transit-times-hero.png",
-  "imageAlt": "Illustration of a European map with colour-coded routes showing transit times for different distance ranges and icons for trucks, clocks and rest periods, flat design",
+  "imageAlt": "Map of Europe showing key road corridors with typical transit times, clocks and rest-stop markers",
   "content": [
     {
       "type": "paragraph",
@@ -28,7 +28,7 @@
     {
       "type": "image",
       "src": "transit-times-visual.png",
-      "alt": "Realistic photo of a truck driving through a mountain pass in winter weather, highlighting the challenges of transit time variability",
+      "alt": "Truck navigates a snowy mountain pass, illustrating how weather and terrain stretch transit time",
       "caption": "Snowy mountain corridor underlines how geography and weather stretch transit schedules."
     },
     {

@@ -14,7 +14,7 @@
     "avatar": "/logos/slogo.png"
   },
   "image": "seasonality-hero.png",
-  "imageAlt": "Isometric illustration of a calendar highlighting peak logistics seasons such as Chinese New Year, summer holidays, Golden Week, Black Friday and Christmas, with icons for ships, trucks and warehouses",
+  "imageAlt": "Calendar highlighting major European logistics peaks such as Chinese New Year, summer holidays and holiday sales",
   "content": [
     {
       "type": "paragraph",
@@ -28,7 +28,7 @@
     {
       "type": "image",
       "src": "seasonality-visual.png",
-      "alt": "Realistic photo of a congested European warehouse during peak season, with pallets stacked high and workers preparing shipments",
+      "alt": "Busy European warehouse packed with pallets and staff preparing shipments during peak season",
       "caption": "Overflowing warehouse floor shows the congestion planners face during peak season crunches."
     },
     {

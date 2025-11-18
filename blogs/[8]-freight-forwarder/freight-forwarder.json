@@ -14,7 +14,7 @@
     "avatar": "/logos/slogo.png"
   },
   "image": "freight-forwarder-hero.png",
-  "imageAlt": "Isometric illustration of a freight forwarder's control tower with digital dashboards, maps and documents being processed, modern flat design",
+  "imageAlt": "Freight forwarder's control tower with live dashboards, maps and paperwork being processed",
   "content": [
     {
       "type": "paragraph",
@@ -28,7 +28,7 @@
     {
       "type": "image",
       "src": "freight-forwarder-visual.png",
-      "alt": "Realistic photo of a logistics manager discussing shipment details with a freight forwarder in an office, documents spread on a table",
+      "alt": "Logistics manager and freight forwarder review shipment paperwork together in an office",
       "caption": "Forwarder and shipper review booking paperwork together before trucks leave the warehouse."
     },
     {

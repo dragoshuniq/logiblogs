@@ -14,7 +14,7 @@
     "avatar": "/logos/slogo.png"
   },
   "image": "ai-route-optimization-hero.png",
-  "imageAlt": "Realistic illustration of a modern logistics control room with operators overseeing a digital map of Europe, trucks moving along optimized routes and green icons showing reduced emissions, warm lighting",
+  "imageAlt": "Dispatchers monitor a European map that highlights optimised truck routes and emission savings indicators",
   "content": [
     {
       "type": "paragraph",
@@ -28,7 +28,7 @@
     {
       "type": "image",
       "src": "ai-route-optimization-visual.png",
-      "alt": "Isometric illustration of a fleet of trucks on a digital map, with AI algorithms calculating the shortest routes and icons for weather, traffic and emissions, minimalist flat style",
+      "alt": "Digital map displays trucks being rerouted by AI based on live traffic, weather and emissions data",
       "caption": "Dispatch center visualises how AI reroutes trucks in real time as weather, traffic and emissions inputs change."
     },
     {

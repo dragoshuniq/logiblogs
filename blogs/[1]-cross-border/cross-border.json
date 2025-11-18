@@ -14,7 +14,7 @@
     "avatar": "/logos/slogo.png"
   },
   "image": "truck-border-crossing.png",
-  "imageAlt": "Truck crossing European border with customs documents and digital compliance signage",
+  "imageAlt": "Truck clears an EU border checkpoint while customs officers verify paperwork",
   "content": [
     {
       "type": "paragraph",
@@ -133,7 +133,7 @@
     {
       "type": "image",
       "src": "cmr-consignment-note.png",
-      "alt": "Driver presenting CMR consignment note at European customs gate",
+      "alt": "Driver hands a CMR consignment note to customs staff at a European border gate",
       "caption": "Driver presents the CMR note at a border crossing, underscoring the paperwork needed for EU road freight."
     },
     {
@@ -200,7 +200,7 @@
     {
       "type": "image",
       "src": "road-freight-documents.png",
-      "alt": "Infographic showing key documents for cross-border road freight",
+      "alt": "Infographic summarising the essential paperwork for cross-border European road freight",
       "caption": "Infographic pulls together the key documents every cross border shipment must travel with."
     },
     {

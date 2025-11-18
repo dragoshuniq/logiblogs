@@ -14,7 +14,7 @@
     "avatar": "/logos/slogo.png"
   },
   "image": "sustainability-hero.png",
-  "imageAlt": "Illustration of a truck driver practicing eco-driving techniques on a scenic European road, with icons showing smooth acceleration and fuel efficiency, minimalist flat style",
+  "imageAlt": "Truck driver practices smooth eco-driving along a tree-lined European road",
   "content": [
     {
       "type": "paragraph",
@@ -28,7 +28,7 @@
     {
       "type": "image",
       "src": "sustainability-visual.png",
-      "alt": "Realistic photo of a biodiesel pump filling a modern truck, highlighting alternative fuels, with greenery in the background",
+      "alt": "Close-up of a truck being refuelled with biodiesel at a rural service station",
       "caption": "Switching diesel pumps to biodiesel blends is a quick win highlighted in the sustainability checklist."
     },
     {
