@@ -1,0 +1,56 @@
+{
+  "id": "sustainability-in-european-road-freight-practical-steps-without-high-tech-solutions",
+  "shortId": "sustainability-road-freight",
+  "language": "de",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Nachhaltigkeit im europäischen Straßengüterverkehr: praktische Schritte ohne Hightech",
+  "description": "Akteure der Logistik wollen den Straßengüterverkehr dekarbonisieren, doch nicht jedes Unternehmen kann in E‑Lkw, Telematik und KI investieren. Zum Glück gibt es viele einfache, verhaltensbezogene Maßnahmen, die Emissionen und Betriebskosten deutlich senken...",
+  "publishedAt": "2025-01-19T00:00:00Z",
+  "category": "Nachhaltigkeit",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experten für Logistiktechnologie",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "sustainability-hero.png",
+  "imageAlt": "Lkw‑Fahrer fährt gleichmäßig und vorausschauend auf einer baumgesäumten europäischen Landstraße",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Akteure der Logistik erkennen die Notwendigkeit, den Straßengüterverkehr zu dekarbonisieren, doch nicht jedes Unternehmen kann in E‑Lkw, Telematik und KI investieren. Es gibt jedoch zahlreiche Low‑Tech‑ und verhaltensbezogene Maßnahmen, die Emissionen und Betriebskosten spürbar senken. Dieser Beitrag zeigt praktische Nachhaltigkeitsschritte für Flotten und Verlader, die sofort umsetzbar sind – ohne hohe Investitionen.", "bold": false}]},
+    {"type": "image", "src": "sustainability-visual.png", "alt": "Nahaufnahme eines Lkw, der an einer ländlichen Tankstelle mit Biodiesel betankt wird", "caption": "Der Wechsel auf Biodiesel‑Mischungen an der Zapfsäule ist ein schneller Hebel in der Checkliste."},
+    {"type": "heading", "level": 2, "text": "Warum Nachhaltigkeit zählt"},
+    {"type": "paragraph", "children": [{"text": "Transport und Logistik verursachen rund 25 % der weltweiten CO2‑Emissionen (Ct Global Freight Audit, 2023). Der Straßengüterverkehr ist der größte Treiber; ohne Gegenmaßnahmen steigen die Emissionen weiter. Reduzierung verbessert Luftqualität, senkt Kraftstoffkosten und stärkt die Unternehmensreputation.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Praktische Schritte für grünere Transporte"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Eco‑Driving. Schulungen zu sanftem Beschleunigen, konstantem Tempo, vorausschauendem Fahren und Vermeidung von Leerlauf sparen spürbar Kraftstoff. Korrekte Reifenluftdrücke und maßvoller Klimaanlagen‑Einsatz erhöhen die Effizienz.", "bold": false}],
+      [{"text": "Regelmäßige Wartung. Motorabstimmung, Luftfilterwechsel, Spureinstellung und niedrigviskose Schmierstoffe reduzieren Verbrauch. Präventive Wartung minimiert Pannen und verlängert die Lebensdauer.", "bold": false}],
+      [{"text": "Ladeoptimierung und Konsolidierung. Vollere Auslastung und Kombinieren von Sendungen reduzieren Leerfahrten. Kooperationen und Rückladungen gleichen Angebot und Nachfrage ab.", "bold": false}],
+      [{"text": "Routenplanung. Auch ohne KI lassen sich stau‑ und steigungsarme Routen wählen. Nachtfahrten vermeiden Staus und senken den Verbrauch.", "bold": false}],
+      [{"text": "Alternative Kraftstoffe und Mischungen. Biokraftstoffe wie Biodiesel oder HVO senken CO2 um 50–90 % gegenüber Diesel. Sie erfordern keine Motorumbauten und sind eine Brücke zur Elektrifizierung, auch wenn sie teurer sein können.", "bold": false}],
+      [{"text": "Intermodal. Straße mit Schiene oder Short‑Sea kombinieren verkürzt die Lkw‑Distanz und Emissionen. Schiene emittiert pro Tonnenkilometer weniger CO2 und eignet sich für lange Distanzen.", "bold": false}],
+      [{"text": "Leichtes Verpacken und Equipment. Leichtere Paletten und Verpackungen senken das Gewicht. Mehrwegpaletten und Umlaufverpackungen reduzieren Abfall.", "bold": false}],
+      [{"text": "Fahrerengagement und Anreize. Bonusprogramme für sparsames Fahren fördern Verhaltensänderung. Rückmeldungen per Tankbeleg und einfache Dashboards unterstützen.", "bold": false}],
+      [{"text": "Zusammenarbeit in der Supply Chain. Datenaustausch zu Mengen und Fahrplänen ermöglicht effiziente Routen und weniger Leerfahrten.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Belege und Fallbeispiele"},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Eco‑Driving wirkt. Programme senken den Verbrauch um 5–15 %. Der ICCT berichtet von Einsparungen bis 0,15 Liter pro Kilometer (Ct Global Freight Audit, 2023).", "bold": false}],
+      [{"text": "Effiziente Fahrzeuge. Euro‑6‑Lkw und Aerodynamik‑Anbauteile sparen 5–10 % Kraftstoff; Rollwiderstandsarme Reifen bringen weitere Vorteile (Ct Global Freight Audit, 2023).", "bold": false}],
+      [{"text": "Alternative Kraftstoffe. HVO bietet große CO2‑Reduktionen ohne Motorumbau. Die EU fördert nachhaltige Kraftstoffe und Intermodalität zur Zielerreichung (Ct Global Freight Audit, 2023).", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Fazit: kleine Schritte, große Wirkung"},
+    {"type": "paragraph", "children": [{"text": "Nachhaltigkeit im Straßengüterverkehr erfordert nicht immer Hightech. Einfache operative Maßnahmen – Eco‑Driving, Wartung, Ladebündelung und Routenplanung – senken Emissionen und Kosten. Biokraftstoffe und Intermodalität verstärken die Wirkung. Mit engagierten Fahrern und Kooperation entlang der Kette erzielen Unternehmen messbare Fortschritte und bereiten sich auf künftige Technologien vor.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Quellen"},
+    {"type": "citation", "text": "Why is Reducing Carbon Emissions in Transportation and Logistics Important? (Ct Global Freight Audit, 2023) - Zeigt, dass bis zu 90 % der Treibhausgasemissionen aus der Lieferkette stammen können und Transport/Logistik rund 25 % global ausmachen. Skizziert Schritte wie Eco‑Driving, Routenplanung, Intermodalität, alternative Kraftstoffe und Flotteneffizienz.", "author": "Ct Global Freight Audit", "url": "https://ctglobal-freightaudit.com/why-is-reducing-carbon-emissions-in-transportation-and-logistics-important/"}
+  ],
+  "tags": [
+    "nachhaltiger straßengüterverkehr",
+    "grüne logistik europa",
+    "CO2 im straßenverkehr senken",
+    "umweltfreundliche logistikpraktiken",
+    "klimafreundliche frachtlösungen",
+    "nachhaltige transportoperationen",
+    "grüner straßengüterverkehr ohne hightech"
+  ]
+}
+
