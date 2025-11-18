@@ -1,0 +1,34 @@
+{
+  "id": "digital-freight-forwarding-vs-traditional-forwarding",
+  "shortId": "digital-vs-traditional",
+  "language": "pl",
+  "isVisible": true,
+  "readTime": 600,
+  "title": "Spedycja cyfrowa a tradycyjna",
+  "description": "Spedycja leży u podstaw handlu globalnego. Przez dekady: telefon, faks i arkusze. Dziś platformy cyfrowe oferują oferty instant, śledzenie w czasie rzeczywistym i automaty dokumenty. Czym różni się spedycja cyfrowa i co to oznacza dla nadawców?...",
+  "publishedAt": "2025-02-02T00:00:00Z",
+  "category": "Technologia",
+  "author": {"name": "Logifie Team", "role": "Eksperci technologii logistycznych", "avatar": "/logos/slogo.png"},
+  "image": "digital-forwarding-hero.png",
+  "imageAlt": "Podzielona scena: papierowe biuro tradycyjne obok smukłej cyfrowej sali operacyjnej",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Spedycja organizuje przepływ towarów przez morza, granice i ostatnią milę. Przez lata opierała się na telefonach, faksach i arkuszach. Dziś platformy cyfrowe zapewniają oferty natychmiastowe, tracking w czasie rzeczywistym i automatyzację dokumentów. Jak spedycja cyfrowa różni się od tradycyjnej i dlaczego ma to znaczenie? Ten artykuł porównuje oba modele i podpowiada, jak dobrać partnera.", "bold": false}]},
+    {"type": "image", "src": "digital-forwarding-visual.png", "alt": "Panel platformy spedycji cyfrowej: oferty instant, śledzenie na mapie i metryki węglowe", "caption": "Panel spedycji cyfrowej podkreśla oferty instant, metryki emisji i zautomatyzowaną papierologię."},
+    {"type": "heading", "level": 2, "text": "Model legacy: procesy ręczne i ograniczona widoczność"},
+    {"type": "paragraph", "children": [{"text": "Tradycyjna spedycja powstała, gdy dokumenty podróżowały wolniej niż ładunek. Rezerwacja kontenera to często łańcuch maili i telefonów z brokerami, przewoźnikami i służbami celnymi. Na ofertę czekało się nawet do 100 godzin – sprawdzanie stawek i ręczne dokumenty. BL i zgłoszenia przez faks/kuriera generowały błędy i opóźnienia.", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "Ręczne workflowy spowalniają obsługę i podnoszą koszty. BCG szacuje, że automatyzacja może ściąć do 40 % kosztów backoffice/operacji. Wielu operatorów nadal bazuje na e‑mailach i przekazaniach osobistych; niewielu daje ofertę instant. Brak integracji TMS/WMS/cło ogranicza widoczność i utrudnia reakcję przy odchyleniach.", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "*Podpis: ilustracja split‑screen – po lewej papierowe biuro, po prawej cyfrowa sala kontroli z dashboardami i workflowami.*", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Spedycja cyfrowa: platformy, API i automatyzacja"},
+    {"type": "paragraph", "children": [{"text": "Cyfrowi spedytorzy myślą o spedycji jak o usłudze software‑owej. Budują platformy łączące nadawców, przewoźników, służby celne i magazyny. Kluczowe funkcje:", "bold": false}]},
+    {"type": "list", "ordered": false, "items": [[{"text": "Oferty i rezerwacje natychmiastowe", "bold": false}], [{"text": "Widoczność w czasie rzeczywistym (IoT, integracje przewoźników), ETA i alerty", "bold": false}], [{"text": "Automaty dokumenty (e‑BL, zgłoszenia, POD)", "bold": false}], [{"text": "Raportowanie CO2 na przesyłkę", "bold": false}], [{"text": "Otwarte API do integracji z TMS/WMS", "bold": false}]]},
+    {"type": "heading", "level": 2, "text": "Dobór właściwego spedytora"},
+    {"type": "paragraph", "children": [{"text": "Sprawdź: technologię, portfolio usług (cło, magazyn, ubezpieczenia), sieć i skalę, wsparcie klienta, zrównoważenie (pomiar/redukcja emisji) oraz ład nad danymi (własność, bezpieczeństwo, zgodność).", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "Wybór nie musi być zero‑jedynkowy: wielu nadawców działa hybrydowo – standardy przez platformę, złożone relacje z tradycyjnymi partnerami. Logifie łączy AI do routingu i tracking na żywo z ekspercką obsługą w trudnych przypadkach.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Trendy"},
+    {"type": "list", "ordered": false, "items": [[{"text": "AI i analityka predykcyjna (popyt, routing, ceny dynamiczne)", "bold": false}], [{"text": "Blockchain i dokumenty cyfrowe: mniej nadużyć i szybsza odprawa", "bold": false}], [{"text": "IoT i smart‑kontenery (pozycja, temperatura, wstrząsy)", "bold": false}], [{"text": "CSRD, kalkulatory CO2 i wybór tras o niskim śladzie", "bold": false}], [{"text": "Konsolidacja platform i oferta one‑stop‑shop multimodalna", "bold": false}]]},
+    {"type": "heading", "level": 2, "text": "Wnioski"},
+    {"type": "paragraph", "children": [{"text": "Cyfrowa spedycja przyspiesza oferty, zwiększa przejrzystość i automatyzuje rutynę; tradycyjna sprawdza się w złożonych, szytych na miarę zleceniach. Najlepsza mieszanka zależy od towaru, korytarzy i procesów – często wygrywa podejście hybrydowe.", "bold": false}]}
+  ],
+  "tags": ["spedycja cyfrowa", "technologie logistyczne"]
+}
+

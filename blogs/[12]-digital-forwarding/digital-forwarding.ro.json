@@ -1,0 +1,34 @@
+{
+  "id": "digital-freight-forwarding-vs-traditional-forwarding",
+  "shortId": "digital-vs-traditional",
+  "language": "ro",
+  "isVisible": true,
+  "readTime": 600,
+  "title": "Expediția digitală vs expediția tradițională",
+  "description": "Expediția se află în centrul comerțului global. Zeci de ani a însemnat telefon, fax și foi de calcul. Astăzi, platformele digitale promit oferte instant, tracking în timp real și documente automatizate. În ce diferă expediția digitală și de ce contează pentru expeditori?...",
+  "publishedAt": "2025-02-02T00:00:00Z",
+  "category": "Tehnologie",
+  "author": {"name": "Logifie Team", "role": "Experți în tehnologii pentru logistică", "avatar": "/logos/slogo.png"},
+  "image": "digital-forwarding-hero.png",
+  "imageAlt": "Scenă împărțită: un birou tradițional încărcat de hârtii alături de o sală de control digitală aerisită",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Expediția coordonează mișcarea mărfurilor peste oceane, granițe și pe ultima milă. Timp de decenii s‑a bazat pe apeluri, faxuri și foi de calcul. Astăzi, platformele digitale oferă cotații instant, urmărire live și documente automatizate. Cum diferă expeditorii digitali de cei tradiționali și de ce contează? Acest articol compară modelele și oferă criterii pentru alegerea partenerului potrivit.", "bold": false}]},
+    {"type": "image", "src": "digital-forwarding-visual.png", "alt": "Panou al unei platforme digitale cu cotații instant, urmărire live și metrici de carbon", "caption": "Panoul de expediție digitală evidențiază cotațiile instant, metricile de emisii și automatizarea documentelor."},
+    {"type": "heading", "level": 2, "text": "Modelul clasic: procese manuale și vizibilitate limitată"},
+    {"type": "paragraph", "children": [{"text": "Expediția tradițională s‑a format când documentele circulau mai încet decât marfa. O rezervare însemna adesea lanțuri de e‑mailuri și apeluri cu brokeri, transportatori și vama. O cotație putea dura până la 100 de ore, fiind necesare verificări de tarife și documente manuale. BL‑urile și declarațiile trimise prin fax/curier generau erori și întârzieri.", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "Fluxurile manuale încetinesc experiența clientului și cresc costurile. BCG estimează că automatizarea poate reduce cu până la 40 % costurile de back office și operațiuni. Totuși, mulți jucători folosesc încă e‑mailul și predarea manuală; puțini oferă cotație instant. Fără integrare TMS/WMS/vamă, vizibilitatea lipsește și reacția la excepții întârzie.", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "*Legendă: ilustrație cu ecran împărțit între un birou tradițional plin de hârtii și o sală de control digitală cu tablouri de bord și fluxuri automatizate.*", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Expediția digitală: platforme, API‑uri și automatizare"},
+    {"type": "paragraph", "children": [{"text": "Expeditorii digitali reimaginează expediția ca serviciu software. Construiesc platforme care conectează expeditori, transportatori, vama și depozite. Funcții cheie:", "bold": false}]},
+    {"type": "list", "ordered": false, "items": [[{"text": "Cotații și rezervări instant", "bold": false}], [{"text": "Vizibilitate în timp real (IoT, integrări) cu ETA predictiv și alerte", "bold": false}], [{"text": "Documente automatizate (BL electronic, declarații, POD)", "bold": false}], [{"text": "Calculul emisiilor pe expediere", "bold": false}], [{"text": "API‑uri deschise pentru integrare cu TMS/WMS", "bold": false}]]},
+    {"type": "heading", "level": 2, "text": "Alegerea expeditorului potrivit"},
+    {"type": "paragraph", "children": [{"text": "Analizează: capabilități tehnologice, portofoliu (vamă, depozitare, asigurări), rețea și scală, suport clienți, sustenabilitate (măsurare/reducere emisii), guvernanța datelor (proprietate, securitate, conformitate).", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "Decizia nu e neapărat binară: mulți adoptă un model hibrid – platformă pentru transporturi standard și expeditori tradiționali pentru cele complexe. Logifie combină rutare pe bază de AI și tracking live cu expertiză umană pentru cazuri dificile.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Tendințe"},
+    {"type": "list", "ordered": false, "items": [[{"text": "AI și analitică predictivă (cerere, rutare, prețuri dinamice)", "bold": false}], [{"text": "Blockchain și documente digitale pentru schimburi sigure și vămuire rapidă", "bold": false}], [{"text": "IoT și containere inteligente (poziție, temperatură, șocuri)", "bold": false}], [{"text": "Sustenabilitate/transparență (CSRD): calculatoare CO2 și rute cu emisii reduse", "bold": false}], [{"text": "Consolidare de platforme și ofertă multimodală ‘one‑stop‑shop’", "bold": false}]]},
+    {"type": "heading", "level": 2, "text": "Concluzie"},
+    {"type": "paragraph", "children": [{"text": "Expediția digitală accelerează cotațiile, oferă vizibilitate și automatizează rutina; cea tradițională rămâne valoroasă pentru operațiuni complexe și suport personalizat. Cea mai bună opțiune depinde de marfă, rute și procese interne; adesea, strategia hibridă este optimă.", "bold": false}]}
+  ],
+  "tags": ["expediție digitală", "tehnologie logistică"]
+}
+

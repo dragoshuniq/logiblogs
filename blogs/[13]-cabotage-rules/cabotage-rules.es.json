@@ -1,0 +1,36 @@
+{
+  "id": "eu-cabotage-rules-and-the-mobility-package-navigating-cooling-off-periods-and-vehicle-return-requirements",
+  "shortId": "eu-cabotage-rules",
+  "language": "es",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Cabotaje en la UE y Paquete de Movilidad: periodos de enfriamiento y retorno del vehículo",
+  "description": "El cabotaje reduce kilómetros en vacío y mejora la eficiencia, pero puede distorsionar mercados. El Paquete de Movilidad de la UE introduce normas sobre periodos de enfriamiento, retorno del vehículo y desplazamiento de conductores. Esto es lo esencial para transportistas y cargadores...",
+  "publishedAt": "2025-12-01T00:00:00.000Z",
+  "category": "Transporte",
+  "author": {"name": "Logifie Team", "role": "Expertos en tecnología logística", "avatar": "/logos/slogo.png"},
+  "image": "cabotage-rules-hero.png",
+  "imageAlt": "Ilustración de un mapa de la UE con un camión cruzando fronteras y flechas de cabotaje; un icono de calendario muestra el periodo de cuatro días",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Durante años, cargadores y transportistas europeos se han beneficiado del cabotaje porque reduce vacíos y equilibra flujos. Sin embargo, puede fomentar competencia desleal si los vehículos permanecen indefinidamente en países de menor coste. Para evitarlo, el Paquete de Movilidad de la UE introduce nuevas reglas sobre cabotaje y desplazamiento. Aquí explicamos periodos de enfriamiento, retorno al país de origen y declaraciones digitales de desplazamiento.", "bold": false}]},
+    {"type": "image", "src": "cabotage-rules-visual-1.png", "alt": "Foto de un camión europeo regresando a su base al atardecer con un almacén al fondo", "caption": "Un camión regresa a su base: la obligación de retorno forma parte del Paquete de Movilidad."},
+    {"type": "heading", "level": 2, "text": "¿Qué es el cabotaje?"},
+    {"type": "paragraph", "children": [{"text": "Existe cabotaje cuando un transportista establecido en un Estado miembro realiza transporte nacional dentro de otro Estado miembro. Por ejemplo, un transportista polaco que entrega en Francia y realiza varias cargas internas antes de volver a casa. El cabotaje reduce vacíos, pero ha sido polémico cuando se usa para eludir normas laborales locales.", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "Según la normativa de la UE, un transportista no residente puede realizar hasta tres operaciones de cabotaje dentro de los siete días posteriores a una entrega internacional, y siempre después de la descarga del envío internacional.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Periodo de enfriamiento del Paquete de Movilidad"},
+    {"type": "paragraph", "children": [{"text": "Para evitar el cabotaje continuo, se establece un periodo de ‘enfriamiento’: tras completar cabotaje en un país, el transportista debe esperar cuatro días antes de volver a cabotajear en el mismo país. El cómputo empieza a las 00:00 del día siguiente a la última descarga y termina a las 23:59 del cuarto día. En ese tiempo puede regresar a su país, tomar cargas internacionales a otros Estados o realizar cabotaje en un tercer país.", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "El objetivo es evitar que camiones extranjeros permanezcan de forma permanente en mercados de bajo coste, sin impedir la flexibilidad transfronteriza. Para cargadores, el enfriamiento implica menos capacidad extranjera para cortas internas en picos: conviene planificar y apoyarse en transitarios fiables.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Obligación de retorno del vehículo"},
+    {"type": "paragraph", "children": [{"text": "Otra pieza clave es la obligación de retorno: las empresas deben organizar operaciones de modo que cada vehículo regrese periódicamente al centro operativo en su Estado de matriculación (al menos cada ocho semanas). Así se evita la deslocalización permanente de flotas.", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "La medida impacta en planificación de red, ubicación de bases y costes. Los operadores deberían agrupar rutas para encajar tramos internacionales, cabotaje y ciclos de retorno, idealmente con herramientas digitales de planificación.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Desplazamiento de conductores y portal IMI"},
+    {"type": "paragraph", "children": [{"text": "En el desplazamiento, el empleador debe registrar declaraciones en el portal IMI y llevar en el vehículo pruebas (contrato, nóminas, CMR, datos de tacógrafo). Las autoridades verificarán salarios mínimos y condiciones locales.", "bold": false}]},
+    {"type": "paragraph", "children": [{"text": "Para cargadores, la transparencia sobre los carriers y su cumplimiento es esencial: conviene fijar contractualmente el cumplimiento de desplazamiento y la entrega de evidencias.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Recomendaciones prácticas"},
+    {"type": "list", "ordered": false, "items": [[{"text": "Planifica con antelación: integra ventanas de cabotaje y enfriamiento en la planificación de red y rutas", "bold": false}], [{"text": "Ciclos de retorno: diseña la flota para cumplir los ocho semanas de retorno", "bold": false}], [{"text": "Digitaliza documentación: gestiona IMI, CMR y tacógrafo de forma centralizada", "bold": false}], [{"text": "Selecciona socios que demuestren cumplimiento de la UE", "bold": false}]]},
+    {"type": "heading", "level": 2, "text": "Conclusión"},
+    {"type": "paragraph", "children": [{"text": "El Paquete de Movilidad armoniza reglas en la UE: periodos de enfriamiento, retorno del vehículo y declaraciones digitales. Quien planifique el cabotaje con visión, asegure compliance y use herramientas digitales reducirá riesgos y aprovechará eficiencias.", "bold": false}]}
+  ],
+  "tags": ["reglas de cabotaje", "paquete de movilidad ue", "periodo de enfriamiento", "retorno de vehículo", "desplazamiento de conductores", "portal imi", "transporte por carretera europa"]
+}
+
