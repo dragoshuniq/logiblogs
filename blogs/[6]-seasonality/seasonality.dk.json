@@ -1,0 +1,62 @@
+{
+  "id": "seasonality-in-european-logistics-planning-for-peaks-and-disruptions",
+  "shortId": "seasonality-logistics",
+  "language": "dk",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Sæsonudsving i europæisk logistik: planlæg til spidsbelastning og afbrydelser",
+  "description": "Fra kinesisk nytår til årsskiftet er Europas logistikkalender præget af perioder, der presser kapacitet, løfter priser og tester robusthed. Afsendere, der forstår mønstrene, kan...",
+  "publishedAt": "2024-12-22T00:00:00Z",
+  "category": "Planlægning",
+  "author": {"name": "Logifie Team", "role": "Eksperter i logistikteknologi", "avatar": "/logos/slogo.png"},
+  "image": "seasonality-hero.png",
+  "imageAlt": "Kalender over Europa med markering af vigtige logistiske spidsperioder som kinesisk nytår, sommerferie og julesalg",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Sæsonudsving gør planlægning sværere og påvirker omkostningerne. Med viden om spidsperioder kan du sikre kapacitet i tide, justere lagre og bygge fleksibilitet ind i processerne.", "bold": false}]},
+    {"type": "image", "src": "seasonality-visual.png", "alt": "Travlt europæisk lager fyldt med paller og personale i højsæsonen", "caption": "En overfyldt lagerflade illustrerer de flaskehalse, planlæggere møder i spidsbelastning."},
+    {"type": "heading", "level": 2, "text": "Vigtige spidsperioder"},
+    {"type": "heading", "level": 3, "text": "Kinesisk nytår (januar-februar)"},
+    {"type": "paragraph", "children": [{"text": "Kinesiske fabrikker holder lukket i op til to uger, hvilket giver flere forsendelser før og efter højtiden. Europæiske importører bør booke kapacitet tidligt og forvente forsinkelser, mens transportører håndterer ubalancerede equipment-flows (A.P. Moller - Maersk, 2025).", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Sommerferie og skolestart (juli-august)"},
+    {"type": "paragraph", "children": [{"text": "Efterspørgslen stiger på mode, elektronik og skoleartikler, mens mange chauffører og havnearbejdere holder ferie, hvilket reducerer kapaciteten. I 2024 meldte NTG reduceret kapacitet fra uge 29; visse ruter (Spanien, Frankrig, Italien, Schweiz) kræver særaftaler i uge 32-34; normalisering omkring uge 35 (NTG, 2024).", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Golden Week (1-7 oktober)"},
+    {"type": "paragraph", "children": [{"text": "Kinas nationale fridage sætter delvist produktion og havne i stå og udløser endnu en spids før/efter perioden (A.P. Moller - Maersk, 2025).", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Black Friday og Cyber Monday (slut november)"},
+    {"type": "paragraph", "children": [{"text": "E-handelskampagner skaber kraftige stigninger i pakke- og pallevolumen. Last-mile-net og sortering belastes, og transportører prioriterer forsendelser med højere margin.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Højtider (december)"},
+    {"type": "paragraph", "children": [{"text": "Detailhandlen supplerer op til jul og nytår. Pladsmangel, havnekø og begrænsninger i last mile tiltager.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Effekter af spidsperioder"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Kapacitetsmangel og prisstigninger. Øget efterspørgsel belaster vejtransport, lager og havne og skubber spotpriser op.", "bold": false}],
+      [{"text": "Længere gennemløbstider og forsinkelser. Køre-/hviletidsregler, mindre bemanding og overfyldte netværk giver langsommere leverancer.", "bold": false}],
+      [{"text": "Lagerudfordringer. Udsolgt eller overlagre ved unøjagtige prognoser.", "bold": false}],
+      [{"text": "Operationelt pres. Mangel på lagermedarbejdere og last mile-flaskehalse øger fejl og reklamationer.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Planlægningsstrategier"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Book kapacitet tidligt. Sikr transport- og lager-slots uger før spidsperioder.", "bold": false}],
+      [{"text": "Diversificér transportformer og ruter. Brug bane, short-sea eller luft for at undgå overfyldte korridorer.", "bold": false}],
+      [{"text": "Forbedr prognoser. Samarbejd med leverandører/kunder for at skærpe forecasts og justere lagre.", "bold": false}],
+      [{"text": "Fordel forsendelser. Spred ordrer over flere uger for at undgå overbelastning.", "bold": false}],
+      [{"text": "Fleksible kontrakter. Garanteret plads med variable priser; overvej højsæson-tillæg.", "bold": false}],
+      [{"text": "Cross-docking og konsolidering. Saml små forsendelser for bedre udnyttelse og færre forsinkelser.", "bold": false}],
+      [{"text": "Teknologi. Realtidsindsigt muliggør omdirigering og håndtering af afvigelser.", "bold": false}],
+      [{"text": "Klar kommunikation. Informér om mulige forsinkelser og sæt realistiske forventninger.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Konklusion: forbered dig på spidsperioder og bevar konkurrenceevnen"},
+    {"type": "paragraph", "children": [{"text": "Sæsonudsving er et vilkår i europæisk logistik. Virksomheder, der planlægger fremsynet, bygger robusthed og samarbejder med agile partnere, kan gøre spidsperioder til muligheder. Ved at forstå hvornår/hvorfor de opstår og bruge tidlig booking, multimodale løsninger og præcise prognoser, håndteres afbrydelser og kunder tilfredsstilles.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Kilder"},
+    {"type": "citation", "text": "Peak logistics periods: Chinese New Year, Golden Week and holiday seasons (A.P. Moller - Maersk, 2025) - Angiver fem globale spidsperioder - kinesisk nytår, sommer/skolestart, Golden Week, Black Friday/Cyber Monday og årsskifte - samt effekter på kapacitet, tider og omkostninger.", "author": "Maersk", "url": "https://www.maersk.com/news/articles/2025/peak-logistics-periods"},
+    {"type": "citation", "text": "Impact of the summer season on road freight (NTG Nordic Transport Group, 2024) - Oplyser reduceret kapacitet fra uge 29 i kontinentaleuropa; visse ruter (Spanien, Frankrig, Italien, Schweiz) kræver aftaler i uge 32-34; normalisering omkring uge 35.", "author": "NTG Nordic Transport Group", "url": "https://ntg.com/news/summer-season-road-freight-impact/"}
+  ],
+  "tags": [
+    "sæsonudsving logistik",
+    "højsæson vejtransport europa",
+    "julepeak logistik europa",
+    "planlægning højsæson transport",
+    "kapacitetsplanlægning logistik",
+    "sæsonbestemt efterspørgsel fragt",
+    "håndtering af afbrydelser logistik europa"
+  ]
+}
+

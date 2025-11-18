@@ -1,0 +1,61 @@
+{
+  "id": "seasonality-in-european-logistics-planning-for-peaks-and-disruptions",
+  "shortId": "seasonality-logistics",
+  "language": "fi",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Sesonkivaihtelu eurooppalaisessa logistiikassa: suunnittele huiput ja häiriöt",
+  "description": "Kiinalaisesta uudesta vuodesta vuoden loppuruuhkaan – Euroopan logistiikkakalenteri sisältää huippuja, jotka kuormittavat kapasiteettia, nostavat hintoja ja koettelevat toimitusketjun kestävyyttä. Lähettäjät, jotka ymmärtävät nämä mallit...",
+  "publishedAt": "2024-12-22T00:00:00Z",
+  "category": "Suunnittelu",
+  "author": {"name": "Logifie Team", "role": "Logistiikkateknologian asiantuntijat", "avatar": "/logos/slogo.png"},
+  "image": "seasonality-hero.png",
+  "imageAlt": "Euroopan kalenteri, jossa korostettu tärkeimmät logistiikan huippujaksot kuten kiinalainen uusivuosi, kesälomat ja juhlasesonki",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Sesonkivaihtelu vaikeuttaa suunnittelua ja vaikuttaa kustannuksiin. Tuntemalla huippujaksot voit varata kapasiteetin ajoissa, säätää varastotasoja ja rakentaa joustavuutta prosesseihin.", "bold": false}]},
+    {"type": "image", "src": "seasonality-visual.png", "alt": "Eurooppalainen varasto täynnä lavoja ja henkilöstöä sesongin huipulla", "caption": "Ylikuormitettu varastolattia havainnollistaa ruuhkia, joita suunnittelijat kohtaavat sesonkihuipuissa."},
+    {"type": "heading", "level": 2, "text": "Keskeiset huippujaksot"},
+    {"type": "heading", "level": 3, "text": "Kiinalainen uusivuosi (tammikuu-helmikuu)"},
+    {"type": "paragraph", "children": [{"text": "Tehtaat Kiinassa sulkeutuvat jopa kahdeksi viikoksi, mikä nostaa lähetysten määrää ennen ja jälkeen juhlan. Eurooppalaisten tuoji en kannattaa varata kapasiteettia aikaisin ja varautua viiveisiin epätasapainoisten laitevirtojen vuoksi (A.P. Moller - Maersk, 2025).", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Kesäloma ja koulujen alku (heinäkuu-elokuu)"},
+    {"type": "paragraph", "children": [{"text": "Kysyntä kasvaa muodin, elektroniikan ja koulutarvikkeiden osalta. Samaan aikaan monet kuljettajat ja ahtausmiehet ovat lomalla, mikä vähentää kapasiteettia. Vuonna 2024 NTG raportoi pienempää kapasiteettia viikosta 29 alkaen; tietyt reitit (Espanja, Ranska, Italia, Sveitsi) vaativat erityisjärjestelyjä viikoilla 32-34; normalisoituu noin viikolla 35 (NTG, 2024).", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Golden Week (1-7 lokakuuta)"},
+    {"type": "paragraph", "children": [{"text": "Kiinalainen Golden Week pysäyttää osin tuotannon ja satamat ja aiheuttaa uuden piikin ennen ja jälkeen viikon (A.P. Moller - Maersk, 2025).", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Black Friday ja Cyber Monday (marraskuun loppu)"},
+    {"type": "paragraph", "children": [{"text": "Verkkokaupan kampanjat kasvattavat paketti- ja lavamääriä. Last mile -verkot ja lajittelut ruuhkautuvat; kuljetusliikkeet priorisoivat korkeamarginaaliset lähetykset.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Juhlapyhät (joulukuu)"},
+    {"type": "paragraph", "children": [{"text": "Vähittäiskauppa täydentää valikoimaa joulua ja uuttavuotta varten. Tilapula, satamien ruuhkat ja last mile -rajoitteet kasvavat.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Huippujen vaikutukset"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Kapasiteettivaje ja hintapiikit. Kysyntä kuormittaa maantiekuljetusta, varastoja ja satamia ja nostaa spot-hintoja.", "bold": false}],
+      [{"text": "Pitemmät läpimenoajat ja viiveet. Ajo/leposäädökset, henkilöstöpula ja ruuhkaiset verkot hidastavat toimituksia.", "bold": false}],
+      [{"text": "Varastohaasteet. Puutteet tai ylisuuret varastot, jos ennusteet pettävät.", "bold": false}],
+      [{"text": "Operatiivinen paine. Varastotyövoimapula ja last mile -pullonkaulat lisäävät virheitä ja reklamaatioita.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Suunnittelustrategiat"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Varaa kapasiteetti aikaisin. Varmista kuljetus- ja varastopaikat viikkoja ennen huippuja.", "bold": false}],
+      [{"text": "Monipuolista kulkutavat ja reitit. Hyödynnä rautatie, short-sea tai lento ruuhkaisten käytävien kiertämiseen.", "bold": false}],
+      [{"text": "Tarkenna ennusteet. Tee yhteistyötä toimittajien ja asiakkaiden kanssa ennusteiden parantamiseksi ja varastojen säätämiseksi.", "bold": false}],
+      [{"text": "Jaksota lähetykset. Jaa tilaukset useille viikoille kuljetusliikkeiden kuormituksen tasaamiseksi.", "bold": false}],
+      [{"text": "Joustavat sopimukset. Taattu kapasiteetti muuttuvin hinnoin; huomioi sesonkilisät.", "bold": false}],
+      [{"text": "Cross-docking ja konsolidointi. Yhdistä pienet lähetykset täyttöasteen parantamiseksi ja viiveiden vähentämiseksi.", "bold": false}],
+      [{"text": "Teknologia. Reaaliaikainen näkyvyys mahdollistaa reitityksen muutokset ja poikkeamien hallinnan.", "bold": false}],
+      [{"text": "Selkeä viestintä. Kerro mahdollisista viiveistä ja aseta realistiset odotukset.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Johtopäätös: valmistaudu huippuihin ja säilytä kilpailukyky"},
+    {"type": "paragraph", "children": [{"text": "Sesonkivaihtelu on tosiasia eurooppalaisessa logistiikassa. Yritykset, jotka suunnittelevat ennakolta, rakentavat resilienssiä ja toimivat ketterien kumppanien kanssa, voivat kääntää huiput mahdollisuuksiksi. Ymmärtämällä huippujen ajoituksen ja syyt sekä käyttämällä aikaista varausta, multimodaalisia ratkaisuja ja luotettavia ennusteita, hallitset häiriöitä ja tyytyväistät asiakkaat.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Lähteet"},
+    {"type": "citation", "text": "Peak logistics periods: Chinese New Year, Golden Week and holiday seasons (A.P. Moller - Maersk, 2025) - Kuvaa viisi huippujaksoa - kiinalainen uusivuosi, kesä/koulujen alku, Golden Week, Black Friday/Cyber Monday ja vuoden loppu - ja vaikutukset kapasiteettiin, aikoihin ja kustannuksiin.", "author": "Maersk", "url": "https://www.maersk.com/news/articles/2025/peak-logistics-periods"},
+    {"type": "citation", "text": "Impact of the summer season on road freight (NTG Nordic Transport Group, 2024) - Raportoi pienemmästä kapasiteetista viikosta 29 alkaen Manner-Euroopassa; tietyt reitit (Espanja, Ranska, Italia, Sveitsi) vaativat järjestelyjä viikoilla 32-34; normalisoituu noin viikolla 35.", "author": "NTG Nordic Transport Group", "url": "https://ntg.com/news/summer-season-road-freight-impact/"}
+  ],
+  "tags": [
+    "sesonkivaihtelu logistiikka",
+    "huippusesonki maantiekuljetus eurooppa",
+    "joulupiikki logistiikka eurooppa",
+    "sesongin suunnittelu kuljetus",
+    "kapasiteettisuunnittelu logistiikka",
+    "sesonkikysyntä rahti",
+    "häiriöiden hallinta logistiikka eurooppa"
+  ]}
+
