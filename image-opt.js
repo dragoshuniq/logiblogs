@@ -20,38 +20,62 @@ const FOLDERS_TO_PROCESS = [
 
 async function optimizeImage(inputPath, outputPath) {
   const ext = path.extname(inputPath).toLowerCase();
+
+  // Load and resize watermark
+  const watermark = await sharp("blogo.png")
+    .resize({
+      width: 150, // Fixed watermark size
+      height: 43,
+      fit: "inside",
+      withoutEnlargement: true,
+    })
+    .png()
+    .toBuffer();
+
   const sharpInstance = sharp(inputPath).resize({
     width: 1200,
     withoutEnlargement: true,
   });
 
+  // Add watermark to the right side
+  const processedImage = await sharpInstance
+    .composite([
+      {
+        input: watermark,
+        top: 20, // 20px from top
+        left: 1200 - 170, // Position from right edge (1200 - 150 - 20px margin)
+        opacity: 0.7, // Semi-transparent
+      },
+    ])
+    .toBuffer();
+
   // Keep original format
   if (ext === ".png") {
-    await sharpInstance
+    await sharp(processedImage)
       .png({
         quality: 80,
         compressionLevel: 9,
       })
       .toFile(outputPath);
   } else if (ext === ".jpg" || ext === ".jpeg") {
-    await sharpInstance
+    await sharp(processedImage)
       .jpeg({
         quality: 80,
         mozjpeg: true,
       })
       .toFile(outputPath);
   } else if (ext === ".webp") {
-    await sharpInstance
+    await sharp(processedImage)
       .webp({
         quality: 80,
       })
       .toFile(outputPath);
   } else {
     // Default to original format
-    await sharpInstance.toFile(outputPath);
+    await sharp(processedImage).toFile(outputPath);
   }
 
-  console.log("✓ Optimized:", outputPath);
+  console.log("✓ Optimized with watermark:", outputPath);
 }
 
 async function processFolder(folderPath) {
