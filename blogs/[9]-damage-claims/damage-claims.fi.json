@@ -1,0 +1,64 @@
+{
+  "id": "how-to-reduce-damage-and-claims-in-road-freight",
+  "shortId": "reduce-damage-claims",
+  "language": "fi",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Näin vähennät vahinkoja ja korvausvaatimuksia maantiekuljetuksissa",
+  "description": "Rahdin vahingot ja niistä seuraavat korvausvaatimukset heikentävät katetta ja mainetta. Ennaltaehkäisy on tehokkaampaa kuin vaatimusten käsittely jälkikäteen. Tämä artikkeli käsittelee yleisiä vahinkojen syitä, selventää vastuita kansainvälisten sopimusten mukaan ja esittelee parhaat käytännöt riskien pienentämiseksi maantieliikenteessä...",
+  "publishedAt": "2025-01-12T00:00:00Z",
+  "category": "Toiminta",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistiikkateknologian asiantuntijat",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "damage-claims-hero.png",
+  "imageAlt": "Tarkistuslista muistuttaa kuljettajaa tarkistamaan varusteet, lastaamaan oikein ja sinetöimään perävaunun",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Rahdin vahingot ja niistä seuraavat korvausvaatimukset eivät pelkästään pienennä tuottoa, vaan heikentävät myös mainetta. Vahinkojen ennaltaehkäisy on tehokkaampaa kuin vaatimusten hoito jälkikäteen. Tässä artikkelissa kuvataan yleisimmät vahinkojen syyt, vastuut kansainvälisten sopimusten mukaan sekä parhaat käytännöt riskien pienentämiseksi maantiekuljetuksissa.", "bold": false}]},
+    {"type": "image", "src": "damage-claims-visual.png", "alt": "Kuljettaja tarkastaa lastin sidontavyöt perävaunun sisällä ennen lähtöä varmistaakseen kiinnityksen", "caption": "Kuljettaja tarkistaa sidonnat vielä kerran ennen lähtöä välttääkseen myöhemmät vahinkovaatimukset."},
+    {"type": "heading", "level": 2, "text": "Vahinkojen syyt ja vastuut"},
+    {"type": "paragraph", "children": [{"text": "Vahinkoja aiheuttavat raju käsittely, epätasainen pinoaminen, kosteus, kontaminaatio, lämpötilapoikkeamat, tuholaiset, palo tai varkaus. Vastuu riippuu syystä ja lähetysehdoista:", "bold": false}]},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Kuljetusliikkeen vastuu: vastaa yleensä vahingoista, jotka johtuvat virheellisestä käsittelystä, puutteellisesta sidonnasta tai lämpötilan ylläpidon laiminlyönnistä kuljetuksen aikana (Reload Logistics, 2025).", "bold": false}],
+      [{"text": "Lähettäjän vastuu: on pakattava, merkittävä ja dokumentoitava lähetys oikein. Heikko pakkaus tai ilmoittamattomat vaaralliset aineet voivat johtaa vastuuseen (Reload Logistics, 2025).", "bold": false}],
+      [{"text": "Vastaanottajan vastuu: on tarkastettava lähetys toimituksen yhteydessä ja dokumentoitava näkyvät vahingot viipymättä vaatimuksen tueksi (Reload Logistics, 2025).", "bold": false}],
+      [{"text": "Incotermit ja vakuutus: Incotermit määrittävät riskin siirtymisen myyjältä ostajalle. Vakuutus kattaa monia riskejä, mutta ei korvaa asianmukaista käsittelyä (Reload Logistics, 2025).", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Parhaat käytännöt vahinkojen ehkäisyyn"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Ennakkotarkastukset. Tarkasta perävaunut vuotojen, rikkoutuneiden lautojen ja ulkonevien osien varalta. Tarkista sidontavälineet ja pressut (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Valvo lastausta ja purkua. Varmista oikea lastaus, tasainen jakautuminen ja riittävä kiinnitys. Dokumentoi poikkeamat ennen lähtöä (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Dokumentoi poikkeamat. Merkitse puutteet rahtiasiakirjoihin, ilmoita heti yritykselle ja kuvaa vahingot (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Käytä shipper load and count (SLC) tarvittaessa. Jos et voi valvoa lastausta, allekirjoita \"shipper load and count\" vastuun rajaamiseksi (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Sinetöi perävaunut ja lukitse laitteet. Käytä sinettejä ja laadukkaita lukkoja varkauksien estämiseksi (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Kiinnitä lasti oikein. Blokkaa, tue ja käytä sopivia sidontavälineitä siirtymisen estämiseksi. Vaihda kuluneet hihnat (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Tarkasta matkan aikana. Kuljettajien tulee tarkistaa lasti ja sidonta säännöllisesti ja säätää tarvittaessa (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Aja maltillisesti. Vältä äkkijarrutuksia ja jyrkkiä käännöksiä, jotka voivat siirtää tai kaataa lastin (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Hallinnoi lämpötilaa. Esijäähdytä kylmäyksikkö ja lasti, kalibroi asetukset ja huolla laitteet (IAT Insurance Group, 2023).", "bold": false}],
+      [{"text": "Estä kosteus ja kontaminaatio. Tarkista vuodot, käytä kosteudenpoistajia ja pyydä puhtaussertifikaatit (Reload Logistics, 2025).", "bold": false}],
+      [{"text": "Hallitse turvallisuusriskejä. Pysäköi turvallisissa paikoissa, ole valppaana lastivarkauksien varalta ja käytä GPS‑seurantaa.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Vaatimusten käsittely CMR:n mukaan"},
+    {"type": "paragraph", "children": [{"text": "Tiekuljetussopimusta koskeva CMR‑yleissopimus säätelee vastuuta rajat ylittävissä tiekuljetuksissa. Kuljetusliikkeen vastuu on yleensä rajattu bruttokilon mukaan, paitsi tahallisuuden tai törkeän huolimattomuuden tapauksissa. Korvauksen hakemiseksi vastaanottajan tulee merkitä vauriot CMR‑rahtikirjaan toimituksen yhteydessä ja ilmoittaa kirjallisesti seitsemän päivän kuluessa näkyvistä vaurioista ja 21 päivän kuluessa piilevistä.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Johtopäätös: ennaltaehkäisy voittaa vaatimukset"},
+    {"type": "paragraph", "children": [{"text": "Suurin osa maantiekuljetusten vahingoista on ehkäistävissä hyvällä valmistelulla, huolellisella käsittelyllä ja vankalla dokumentoinnilla. Ennakkotarkastukset, valvottu lastaus, oikea kiinnitys sekä koulutus turvalliseen ajamiseen ja lämpötilanhallintaan vähentävät vaatimusten määrää ja vakavuutta. CMR‑vastuusääntöjen tuntemus ja nopea dokumentointi sujuvoittavat prosessia, kun ongelmia ilmenee.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Lähteet"},
+    {"type": "citation", "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Kuvaa vastuunjaon: kuljetusliike vastaa turvallisesta käsittelystä hyväksynnän jälkeen, lähettäjä oikeasta pakkauksesta ja merkinnöistä, vastaanottaja tarkastaa ja dokumentoi toimituksessa; vakuutus ei korvaa asianmukaista käsittelyä.", "author": "Reload Logistics", "url": "https://www.reloadlogistics.com/blog/how-to-prevent-cargo-damage/"},
+    {"type": "citation", "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Vinkkejä: ennakkotarkastukset, lastauksen/lastausvalvonta, poikkeamien dokumentointi, SLC, sinetöinti, lasten kiinnitys, tarkastukset matkalla ja maltillinen ajotapa.", "author": "Northland Insurance Company", "url": "https://www.northlandins.com/resources/preventing-cargo-claims/"},
+    {"type": "citation", "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Korostaa oikeiden sidontavälineiden ja varovaisen ajon tärkeyttä siirtymien ja onnettomuuksien ehkäisyssä.", "author": "Northland Insurance Company", "url": "https://www.northlandins.com/resources/preventing-cargo-claims/"},
+    {"type": "citation", "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Korostaa kuljettajakoulutusta, esijäähdytystä ja huoltoa lämpötilaan liittyvien vahinkojen välttämiseksi kylmätavarassa.", "author": "IAT Insurance Group", "url": "https://www.iatinsurancegroup.com/transportation/blog/trucking-cargo-claims/"},
+    {"type": "citation", "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Suosittelee toimenpiteitä kosteutta ja kontaminaatiota vastaan: vuototesti, tiivistys ja kosteudenpoistajat.", "author": "Reload Logistics", "url": "https://www.reloadlogistics.com/blog/how-to-prevent-cargo-damage/"}
+  ],
+  "tags": [
+    "vähentää kuljetusvahinkoja",
+    "vahinkojen ehkäisy maantiekuljetus",
+    "CMR‑korvausvaatimukset",
+    "logistiikan reklamaatioiden hallinta",
+    "vahinkojen ehkäisy kuljetuksessa",
+    "lastaus ja purku menettelyt",
+    "parhaat käytännöt lasten kiinnitys"
+  ]
+}
+

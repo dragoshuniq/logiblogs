@@ -1,0 +1,64 @@
+{
+  "id": "how-to-reduce-damage-and-claims-in-road-freight",
+  "shortId": "reduce-damage-claims",
+  "language": "pl",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Jak ograniczyć uszkodzenia i roszczenia w transporcie drogowym",
+  "description": "Uszkodzenia ładunku i wynikające z nich roszczenia obniżają marżę i psują reputację. Zapobieganie jest skuteczniejsze niż rozpatrywanie roszczeń po fakcie. Artykuł omawia typowe przyczyny szkód, wyjaśnia odpowiedzialności zgodnie z konwencjami międzynarodowymi i przedstawia dobre praktyki minimalizujące ryzyko w transporcie drogowym...",
+  "publishedAt": "2025-01-12T00:00:00Z",
+  "category": "Operacje",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperci technologii logistycznych",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "damage-claims-hero.png",
+  "imageAlt": "Lista kontrolna przypomina kierowcy o sprawdzeniu sprzętu, prawidłowym załadunku i zaplombowaniu naczepy",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Uszkodzenia ładunku i związane z nimi roszczenia nie tylko obniżają zyski, lecz także szkodzą reputacji. Skuteczniej jest zapobiegać niż później obsługiwać roszczenia. Ten artykuł przedstawia najczęstsze przyczyny szkód, wyjaśnia odpowiedzialności wynikające z konwencji międzynarodowych i pokazuje dobre praktyki ograniczające ryzyko w transporcie drogowym.", "bold": false}]},
+    {"type": "image", "src": "damage-claims-visual.png", "alt": "Kierowca sprawdza pasy mocujące wewnątrz naczepy przed wyjazdem, aby potwierdzić, że wszystko jest zabezpieczone", "caption": "Kierowca ponownie sprawdza pasy przed wyjazdem, aby uniknąć późniejszych roszczeń z tytułu szkód."},
+    {"type": "heading", "level": 2, "text": "Przyczyny szkód i odpowiedzialność"},
+    {"type": "paragraph", "children": [{"text": "Do uszkodzeń dochodzi wskutek nieostrożnej obsługi, nierównego sztaplowania, wilgoci, zanieczyszczeń, odchyleń temperatury, szkodników, pożaru lub kradzieży. Odpowiedzialność zależy od przyczyny i warunków dostawy:", "bold": false}]},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Odpowiedzialność przewoźnika: zwykle odpowiada za szkody wynikające z niewłaściwej obsługi, niewystarczającego zabezpieczenia lub braku utrzymania temperatury w trakcie przewozu (Reload Logistics, 2025).", "bold": false}],
+      [{"text": "Odpowiedzialność nadawcy: musi prawidłowo zapakować, oznakować i udokumentować ładunek. Jeśli szkody wynikają ze słabego opakowania lub niezgłoszonych materiałów niebezpiecznych, nadawca może ponieść odpowiedzialność (Reload Logistics, 2025).", "bold": false}],
+      [{"text": "Odpowiedzialność odbiorcy: powinien sprawdzić ładunek przy dostawie i niezwłocznie udokumentować szkody widoczne, aby poprzeć roszczenie (Reload Logistics, 2025).", "bold": false}],
+      [{"text": "Incoterms i ubezpieczenie: Incoterms określają moment przejścia ryzyka ze sprzedawcy na kupującego. Ubezpieczenie obejmuje wiele ryzyk, ale nie zastępuje właściwej obsługi (Reload Logistics, 2025).", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Dobre praktyki zapobiegania szkodom"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Kontrole przed wyjazdem. Sprawdź naczepy pod kątem wycieków, pękniętych desek i wystających elementów. Skontroluj urządzenia do mocowania ładunku i plandeki (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Nadzoruj załadunek i rozładunek. Upewnij się, że ładunek jest poprawnie ułożony, równomiernie rozłożony i zabezpieczony. Udokumentuj rozbieżności przed opuszczeniem rampy (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Dokumentuj rozbieżności. Zanotuj problemy na dokumentach przewozowych, natychmiast powiadom firmę i zrób zdjęcia (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Stosuj shipper load and count (SLC), gdy to właściwe. Jeśli nie możesz nadzorować załadunku, podpisz dokumenty jako \"shipper load and count\", aby ograniczyć odpowiedzialność (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Zaplombuj naczepy i zabezpiecz sprzęt. Używaj plomb i solidnych zamków, aby zniechęcić do kradzieży (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Zabezpiecz ładunek. Blokuj, klinuj i używaj właściwych środków mocujących, aby zapobiec przemieszczaniu. Wymieniaj zużyte pasy (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Kontroluj w trasie. Kierowcy powinni okresowo sprawdzać ładunek i mocowania oraz korygować je w razie potrzeby (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Jedź ostrożnie. Unikaj gwałtownego hamowania i ostrych zakrętów, które mogą spowodować przesunięcie lub wywrócenie ładunku (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Kontrola temperatury. Schłodź wcześniej agregat i ładunek, skalibruj ustawienia i utrzymuj urządzenia chłodnicze (IAT Insurance Group, 2023).", "bold": false}],
+      [{"text": "Zapobieganie wilgoci i zanieczyszczeniom. Sprawdzaj szczelność, stosuj pochłaniacze wilgoci i żądaj certyfikatów czystości (Reload Logistics, 2025).", "bold": false}],
+      [{"text": "Zarządzaj ryzykiem kradzieży. Parkuj w bezpiecznych miejscach, bądź czujny na kradzieże ładunku i korzystaj z GPS.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Obsługa roszczeń na gruncie CMR"},
+    {"type": "paragraph", "children": [{"text": "Konwencja o umowie międzynarodowego przewozu drogowego towarów (CMR) reguluje odpowiedzialność w transgranicznych przewozach drogowych. Zasadniczo ogranicza odpowiedzialność przewoźnika w przeliczeniu na kilogram masy brutto, chyba że szkoda została wyrządzona umyślnie lub rażąco niedbale. Aby dochodzić odszkodowania, odbiorca musi odnotować szkodę na liście przewozowym CMR przy dostawie i powiadomić przewoźnika na piśmie w ciągu siedmiu dni w przypadku szkody widocznej i 21 dni w przypadku szkody ukrytej.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Wniosek: lepiej zapobiegać niż dochodzić roszczeń"},
+    {"type": "paragraph", "children": [{"text": "Większości szkód w transporcie drogowym można zapobiec dzięki dobremu przygotowaniu, ostrożnej obsłudze i rzetelnej dokumentacji. Kontrole przed wyjazdem, nadzór nad załadunkiem, właściwe zabezpieczenie oraz szkolenia z bezpiecznej jazdy i kontroli temperatury pozwalają nadawcom i przewoźnikom zmniejszyć częstotliwość i skalę roszczeń. Znajomość zasad odpowiedzialności CMR i szybka dokumentacja usprawniają proces, gdy pojawią się problemy.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Źródła"},
+    {"type": "citation", "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Wyjaśnia odpowiedzialności za szkody: przewoźnik odpowiada za bezpieczną obsługę po przyjęciu ładunku; nadawca za prawidłowe opakowanie i oznakowanie; odbiorca sprawdza i dokumentuje przy dostawie; ubezpieczenie nie zastępuje prawidłowej obsługi.", "author": "Reload Logistics", "url": "https://www.reloadlogistics.com/blog/how-to-prevent-cargo-damage/"},
+    {"type": "citation", "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Wskazówki zapobiegawcze: kontrole przed wyjazdem, nadzór nad załadunkiem/rozładunkiem, dokumentowanie rozbieżności, SLC, plombowanie, zabezpieczanie ładunku, kontrole w trasie i ostrożna jazda.", "author": "Northland Insurance Company", "url": "https://www.northlandins.com/resources/preventing-cargo-claims/"},
+    {"type": "citation", "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Podkreśla znaczenie właściwych środków mocujących i ostrożnej jazdy, aby uniknąć przesunięć i wypadków.", "author": "Northland Insurance Company", "url": "https://www.northlandins.com/resources/preventing-cargo-claims/"},
+    {"type": "citation", "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Akcentuje szkolenia kierowców, wstępne schłodzenie i regularny serwis, by uniknąć szkód temperaturowych w ładunkach chłodniczych.", "author": "IAT Insurance Group", "url": "https://www.iatinsurancegroup.com/transportation/blog/trucking-cargo-claims/"},
+    {"type": "citation", "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Zaleca działania przeciw wilgoci i zanieczyszczeniom: testy szczelności, uszczelnienia i pochłaniacze wilgoci.", "author": "Reload Logistics", "url": "https://www.reloadlogistics.com/blog/how-to-prevent-cargo-damage/"}
+  ],
+  "tags": [
+    "ograniczanie szkód w transporcie",
+    "prewencja szkód drogowych",
+    "roszczenia CMR",
+    "obsługa roszczeń logistycznych",
+    "zapobieganie uszkodzeniom ładunku",
+    "procedury załadunku i rozładunku",
+    "dobre praktyki mocowania ładunku"
+  ]
+}
+

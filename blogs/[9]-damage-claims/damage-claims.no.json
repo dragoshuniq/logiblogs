@@ -1,0 +1,63 @@
+{
+  "id": "how-to-reduce-damage-and-claims-in-road-freight",
+  "shortId": "reduce-damage-claims",
+  "language": "no",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Slik reduserer du skader og krav i veitransport",
+  "description": "Godsskader og påfølgende krav spiser av marginene og skader omdømmet. Forebygging er mer effektivt enn å håndtere krav i etterkant. Denne artikkelen beskriver vanlige skadeårsaker, klargjør ansvar etter internasjonale konvensjoner og presenterer beste praksis for å minimere risiko i veitransport...",
+  "publishedAt": "2025-01-12T00:00:00Z",
+  "category": "Drift",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperter på logistikkteknologi",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "damage-claims-hero.png",
+  "imageAlt": "Sjekkliste som minner sjåføren om å inspisere utstyr, laste riktig og forsegle traileren",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Godsskader og påfølgende krav reduserer ikke bare fortjenesten, men skader også omdømmet. Å forebygge skader er mer effektivt enn å håndtere krav etterpå. Denne artikkelen forklarer de vanligste årsakene til skader, ansvar etter internasjonale konvensjoner og beste praksis for å redusere risiko i veitransport.", "bold": false}]},
+    {"type": "image", "src": "damage-claims-visual.png", "alt": "Sjåfør inspiserer lastestropper inne i trailer før avgang for å bekrefte at alt er sikret", "caption": "Sjåføren dobbelsjekker lastestroppene før avgang for å unngå senere skadekrav."},
+    {"type": "heading", "level": 2, "text": "Årsaker til skader og ansvar"},
+    {"type": "paragraph", "children": [{"text": "Skader kan skyldes hardhendt håndtering, ujevn stabling, fukt, kontaminering, temperaturavvik, skadedyr, brann eller tyveri. Ansvar avhenger av årsak og leveringsbetingelser:", "bold": false}]},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Transportørens ansvar: er normalt ansvarlig for skader som følge av feil håndtering, utilstrekkelig sikring eller manglende temperaturkontroll under transport (Reload Logistics, 2025).", "bold": false}],
+      [{"text": "Avsenders ansvar: må pakke, merke og dokumentere riktig. Ved dårlig emballasje eller udeklarert farlig gods kan avsender holdes ansvarlig (Reload Logistics, 2025).", "bold": false}],
+      [{"text": "Mottakers ansvar: må inspisere godset ved levering og dokumentere synlige skader umiddelbart for å støtte et krav (Reload Logistics, 2025).", "bold": false}],
+      [{"text": "Incoterms og forsikring: Incoterms bestemmer når risikoen går over fra selger til kjøper. Forsikring dekker mange risikoer, men erstatter ikke korrekt håndtering (Reload Logistics, 2025).", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Beste praksis for å forebygge skader"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Kontroll før tur. Sjekk trailere for lekkasjer, knekte bord og utspringende gjenstander. Inspiser sikringsutstyr og presenninger (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Overvåk lasting og lossing. Verifiser korrekt last, jevn fordeling og sikring. Dokumenter avvik før dere forlater rampen (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Dokumenter avvik. Noter uløste forhold i fraktpapirer, varsle bedriften straks og ta bilder (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Bruk shipper load and count (SLC) ved behov. Hvis lasting ikke kan overvåkes, signer med \"shipper load and count\" for å begrense ansvar (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Forsegl trailere og lås utstyr. Bruk plomber og kvalitetslåser for å avskrekke tyveri (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Sikre lasten. Blokker, stiv av og bruk riktig sikringsutstyr for å hindre forskyvning. Bytt slitte stropper (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Inspiser underveis. Sjåfører bør sjekke last og sikring jevnlig og justere ved behov (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Kjør forsiktig. Unngå bråbremsing og skarpe svinger som kan flytte eller velte lasten (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Kontroller temperatur. Forhåndskjøl aggregat og last, kalibrer innstillinger og vedlikehold kjøleutstyr (IAT Insurance Group, 2023).", "bold": false}],
+      [{"text": "Hindre fukt og kontaminering. Sjekk for lekkasjer, bruk fuktabsorber og be om renhetssertifikat (Reload Logistics, 2025).", "bold": false}],
+      [{"text": "Håndter sikkerhetsrisiko. Parker på sikre steder, vær oppmerksom på lastetyveri og bruk GPS‑sporing.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Kravshåndtering etter CMR"},
+    {"type": "paragraph", "children": [{"text": "CMR‑konvensjonen regulerer ansvar ved grensekryssende veiforsendelser. Transportørens ansvar er vanligvis begrenset per kilo bruttovekt, unntatt ved forsett eller grov uaktsomhet. For å kreve erstatning må mottaker notere skader på CMR‑fraktbrevet ved levering og varsle transportør skriftlig innen sju dager for synlige skader og 21 dager for skjulte.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Konklusjon: forebygging slår krav"},
+    {"type": "paragraph", "children": [{"text": "De fleste skader i veitransport kan forebygges med god forberedelse, varsom håndtering og solid dokumentasjon. Med kontroller før tur, overvåket lasting, korrekt sikring og opplæring i sikker kjøring og temperaturkontroll kan avsendere og transportører redusere hyppighet og alvorlighet av krav. Kjennskap til CMR‑ansvarsregler og rask dokumentasjon gjør prosessen enklere når problemer oppstår.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Kilder"},
+    {"type": "citation", "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Forklarer ansvarsfordeling: transportør har ansvar for sikker håndtering etter overtakelse; avsender for korrekt emballasje og merking; mottaker inspiserer og dokumenterer ved levering; forsikring erstatter ikke korrekt håndtering.", "author": "Reload Logistics", "url": "https://www.reloadlogistics.com/blog/how-to-prevent-cargo-damage/"},
+    {"type": "citation", "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Tips for å forebygge krav: kontroller før tur, overvåket lasting/lossing, dokumentasjon av avvik, SLC, forsegling, lastsikring, kontroller underveis og varsom kjøring.", "author": "Northland Insurance Company", "url": "https://www.northlandins.com/resources/preventing-cargo-claims/"},
+    {"type": "citation", "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Vektlegger betydningen av riktig lastsikringsutstyr og forsiktig kjøring for å unngå forskyvninger og ulykker.", "author": "Northland Insurance Company", "url": "https://www.northlandins.com/resources/preventing-cargo-claims/"},
+    {"type": "citation", "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Fremhever føreropplæring, forhåndskjøling og vedlikehold for å unngå temperaturrelaterte krav ved kjølevarer.", "author": "IAT Insurance Group", "url": "https://www.iatinsurancegroup.com/transportation/blog/trucking-cargo-claims/"},
+    {"type": "citation", "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Anbefaler tiltak mot fukt og kontaminering: lekkasjetest, tetting og fuktabsorbere.", "author": "Reload Logistics", "url": "https://www.reloadlogistics.com/blog/how-to-prevent-cargo-damage/"}
+  ],
+  "tags": [
+    "redusere transportskader",
+    "skadeforebygging veitransport",
+    "CMR‑krav",
+    "håndtering av logistikkkrav",
+    "forhindre skader i transport",
+    "lasting og lossing prosedyrer",
+    "beste praksis lastsikring"
+  ]
+}

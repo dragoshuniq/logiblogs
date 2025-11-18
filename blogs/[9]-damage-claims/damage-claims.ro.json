@@ -1,0 +1,64 @@
+{
+  "id": "how-to-reduce-damage-and-claims-in-road-freight",
+  "shortId": "reduce-damage-claims",
+  "language": "ro",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Cum reduci daunele și reclamațiile în transportul rutier",
+  "description": "Daunele la marfă și reclamațiile aferente erodează marjele și afectează reputația. Prevenția este mai eficientă decât gestionarea reclamațiilor ulterior. Acest articol prezintă cauzele frecvente ale daunelor, clarifică responsabilitățile conform convențiilor internaționale și oferă bune practici pentru a reduce riscurile în transportul rutier...",
+  "publishedAt": "2025-01-12T00:00:00Z",
+  "category": "Operațiuni",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experți în tehnologii pentru logistică",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "damage-claims-hero.png",
+  "imageAlt": "Listă de verificare care le amintește șoferilor să verifice echipamentul, să încarce corect și să sigileze semiremorca",
+  "content": [
+    {"type": "paragraph", "children": [{"text": "Daunele la marfă și reclamațiile ulterioare nu doar reduc profitul, ci afectează și reputația. Prevenirea daunelor este mai eficientă decât gestionarea reclamațiilor după faptă. Acest articol evidențiază cauzele obișnuite ale daunelor, clarifică responsabilitățile conform convențiilor internaționale și prezintă bune practici pentru a minimiza riscurile în transportul rutier.", "bold": false}]},
+    {"type": "image", "src": "damage-claims-visual.png", "alt": "Șoferul verifică chingile de ancorare în interiorul semiremorcii înainte de plecare pentru a confirma că totul este securizat", "caption": "Șoferul verifică încă o dată chingile înainte de plecare pentru a preveni reclamațiile ulterioare."},
+    {"type": "heading", "level": 2, "text": "Cauze ale daunelor și responsabilitatea"},
+    {"type": "paragraph", "children": [{"text": "Marfa poate fi deteriorată prin manipulare brutală, stivuire neuniformă, umiditate, contaminare, abateri de temperatură, infestări, incendiu sau furt. Responsabilitatea depinde de cauză și de condițiile transportului:", "bold": false}]},
+    {"type": "list", "ordered": false, "items": [
+      [{"text": "Responsabilitatea transportatorului: în general răspunde pentru daunele cauzate de manipulare necorespunzătoare, asigurare insuficientă sau nerespectarea temperaturii în tranzit (Reload Logistics, 2025).", "bold": false}],
+      [{"text": "Responsabilitatea expeditorului: trebuie să ambaleze, eticheteze și documenteze corect marfa. Dacă ambalarea necorespunzătoare sau materialele periculoase nedeclarate produc daune, expeditorul poate fi responsabil (Reload Logistics, 2025).", "bold": false}],
+      [{"text": "Responsabilitatea destinatarului: trebuie să inspecteze marfa la livrare și să documenteze imediat eventualele daune vizibile pentru a susține o reclamație validă (Reload Logistics, 2025).", "bold": false}],
+      [{"text": "Incoterms și asigurarea: Incoterms stabilesc momentul transferului riscului de la vânzător la cumpărător. Asigurarea acoperă multe riscuri, dar nu înlocuiește manipularea corectă (Reload Logistics, 2025).", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Bune practici pentru prevenirea daunelor"},
+    {"type": "list", "ordered": true, "items": [
+      [{"text": "Inspecții înainte de cursă. Verifică semiremorcile pentru scurgeri, scânduri rupte și obiecte proeminente. Inspectează dispozitivele de ancorare și prelatele (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Supraveghează încărcarea și descărcarea. Confirmă încărcarea corectă, distribuția uniformă și ancorarea. Documentează neconcordanțele înainte de a părăsi rampa (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Documentează neconcordanțele. Notează problemele în documentele de transport, informează imediat compania și fotografiază daunele (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Folosește shipper load and count (SLC) când este cazul. Dacă nu poți supraveghea încărcarea, semnează documentele cu \"shipper load and count\" pentru a limita răspunderea (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Sigilează semiremorcile și blochează echipamentele. Utilizează sigilii și încuietori de calitate pentru a descuraja furturile (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Asigură încărcătura. Blochează, calează și folosește dispozitive adecvate pentru a preveni deplasarea. Înlocuiește chingile uzate (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Inspectează pe traseu. Șoferii ar trebui să verifice periodic încărcătura și dispozitivele de ancorare și să le ajusteze la nevoie (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Condu prudent. Evită frânările bruște și virajele strânse care pot deplasa sau răsturna încărcătura (Northland Insurance Company, 2022).", "bold": false}],
+      [{"text": "Controlează temperatura. Pre-răcește unitatea frigorifică și marfa, calibrează setările și întreține echipamentele (IAT Insurance Group, 2023).", "bold": false}],
+      [{"text": "Previne umiditatea și contaminarea. Verifică etanșeitatea, folosește absorbanți de umiditate și solicită certificate de curățenie (Reload Logistics, 2025).", "bold": false}],
+      [{"text": "Abordează riscurile de securitate. Parchează în locuri sigure, rămâi vigilent la furturi de marfă și folosește urmărire GPS.", "bold": false}]
+    ]},
+    {"type": "heading", "level": 2, "text": "Gestionarea reclamațiilor conform CMR"},
+    {"type": "paragraph", "children": [{"text": "Convenția privind contractul pentru transportul internațional de mărfuri pe șosea (CMR) reglementează răspunderea pentru expedierile rutiere transfrontaliere. În general, limitează răspunderea transportatorului pe kilogram de greutate brută, cu excepția cazurilor de intenție sau neglijență gravă. Pentru a solicita despăgubiri, destinatarul trebuie să noteze daunele în scrisoarea de trăsură CMR la livrare și să notifice în scris transportatorul în termen de șapte zile pentru daune vizibile și 21 de zile pentru daune ascunse.", "bold": false}]},
+    {"type": "heading", "level": 2, "text": "Concluzie: prevenția bate reclamația"},
+    {"type": "paragraph", "children": [{"text": "Majoritatea daunelor în transportul rutier pot fi prevenite prin pregătire bună, manipulare atentă și documentație solidă. Prin inspecții înainte de cursă, supravegherea încărcării, asigurarea corectă și instruirea privind condusul sigur și controlul temperaturii, expeditorii și transportatorii reduc frecvența și gravitatea reclamațiilor. Înțelegerea regulilor de răspundere CMR și documentarea la timp simplifică procesul atunci când apar probleme.", "bold": false}]},
+    {"type": "heading", "level": 3, "text": "Surse"},
+    {"type": "citation", "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Explică responsabilitățile pentru daune: transportatorul răspunde pentru manipulare și transport sigure după preluare; expeditorul pentru ambalare și etichetare corecte; destinatarul inspectează și documentează la livrare; asigurarea nu înlocuiește manipularea corectă.", "author": "Reload Logistics", "url": "https://www.reloadlogistics.com/blog/how-to-prevent-cargo-damage/"},
+    {"type": "citation", "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Sfaturi pentru prevenirea reclamațiilor: inspecții înainte de cursă, supravegherea încărcării/descărcării, documentarea neconcordanțelor, SLC, sigilare, asigurarea încărcăturii, controale pe traseu și condus prudent.", "author": "Northland Insurance Company", "url": "https://www.northlandins.com/resources/preventing-cargo-claims/"},
+    {"type": "citation", "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Subliniază importanța dispozitivelor adecvate de ancorare și a condusului atent pentru a preveni deplasarea încărcăturii și accidentele.", "author": "Northland Insurance Company", "url": "https://www.northlandins.com/resources/preventing-cargo-claims/"},
+    {"type": "citation", "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Evidențiază instruirea șoferilor, pre-răcirea și întreținerea regulată pentru a evita reclamațiile legate de temperatură la mărfurile frigorifice.", "author": "IAT Insurance Group", "url": "https://www.iatinsurancegroup.com/transportation/blog/trucking-cargo-claims/"},
+    {"type": "citation", "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Recomandă măsuri împotriva umidității și contaminării: verificarea scurgerilor, etanșări și absorbante de umiditate.", "author": "Reload Logistics", "url": "https://www.reloadlogistics.com/blog/how-to-prevent-cargo-damage/"}
+  ],
+  "tags": [
+    "reducerea daunelor în transport",
+    "prevenirea daunelor rutiere",
+    "reclamații CMR",
+    "gestionarea reclamațiilor logistice",
+    "prevenirea deteriorării mărfurilor",
+    "proceduri de încărcare și descărcare",
+    "bune practici de ancorare"
+  ]
+}
+
