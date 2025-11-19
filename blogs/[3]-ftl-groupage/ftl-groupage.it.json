@@ -1,5 +1,5 @@
 {
-  "id": "groupage-vs-full-truck-load-what-s-best-for-your-european-freight",
+  "id": "groupage-vs-full-truck-load-what-s-best-for-your-european-freight-it",
   "shortId": "groupage-vs-ftl",
   "language": "it",
   "isVisible": true,
@@ -124,7 +124,11 @@
       "level": 2,
       "text": "Quando scegliere groupage e quando FTL"
     },
-    { "type": "heading", "level": 3, "text": "Scegli FTL quando:" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Scegli FTL quando:"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -190,7 +194,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Opzioni ibride" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Opzioni ibride"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -261,7 +269,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Fonti" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fonti"
+    },
     {
       "type": "citation",
       "text": "European road freight options explained (Uniserve Group, 2025) - Definisce FTL e LTL/groupage: FTL usa l'intero mezzo (tempi più brevi, meno movimentazioni); il groupage consolida lotti riducendo i costi ma allungando i tempi.",

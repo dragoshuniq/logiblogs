@@ -1,5 +1,5 @@
 {
-  "id": "seasonality-in-european-logistics-planning-for-peaks-and-disruptions",
+  "id": "seasonality-in-european-logistics-planning-for-peaks-and-disruptions-it",
   "shortId": "seasonality-logistics",
   "language": "it",
   "isVisible": true,
@@ -8,46 +8,229 @@
   "description": "Dal Capodanno cinese al picco di fine anno, il calendario logistico europeo è punteggiato da periodi di punta che mettono sotto stress la capacità, fanno salire le tariffe e mettono alla prova la resilienza della supply chain. Chi comprende questi andamenti stagionali...",
   "publishedAt": "2024-12-22T00:00:00Z",
   "category": "Pianificazione",
-  "author": {"name": "Logifie Team", "role": "Esperti di tecnologie per la logistica", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Esperti di tecnologie per la logistica",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "seasonality-hero.png",
   "imageAlt": "Calendario dell'Europa che evidenzia i principali picchi logistici come Capodanno cinese, vacanze estive e vendite di fine anno",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Dal Capodanno cinese alla corsa di fine anno, il calendario logistico europeo è scandito da picchi che tendono la capacità, aumentano i prezzi e mettono alla prova la resilienza. I caricatori che conoscono questi schemi stagionali possono prenotare capacità in anticipo, adeguare gli stock e introdurre flessibilità nelle catene di fornitura.", "bold": false}]},
-    {"type": "image", "src": "seasonality-visual.png", "alt": "Magazzino europeo affollato di pallet e personale durante l'alta stagione", "caption": "Il magazzino al limite evidenzia la congestione che i planner affrontano nei picchi di stagione."},
-    {"type": "heading", "level": 2, "text": "Principali stagioni di picco"},
-    {"type": "heading", "level": 3, "text": "Capodanno cinese (gennaio-febbraio)"},
-    {"type": "paragraph", "children": [{"text": "In Cina le fabbriche si fermano fino a due settimane, con un'impennata delle spedizioni nelle settimane precedenti e successive alla festività. Gli importatori europei dovrebbero prenotare in anticipo e attendersi ritardi mentre i vettori gestiscono flussi di equipment sbilanciati (A.P. Moller - Maersk, 2025).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Vacanze estive e back-to-school (luglio-agosto)"},
-    {"type": "paragraph", "children": [{"text": "Aumenta la domanda di moda, elettronica e articoli scolastici, mentre molti autisti e addetti ai terminal sono in ferie, riducendo la capacità. Nel 2024 NTG ha segnalato capacità ridotta dalla settimana 29 e rotte (Spagna, Francia, Italia, Svizzera) che richiedono accordi speciali nelle settimane 32-34; normalizzazione intorno alla settimana 35 (NTG, 2024).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Golden Week (1-7 ottobre)"},
-    {"type": "paragraph", "children": [{"text": "La Golden Week cinese interrompe produzione e porti, generando un ulteriore picco prima e dopo la festività (A.P. Moller - Maersk, 2025).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Black Friday e Cyber Monday (fine novembre)"},
-    {"type": "paragraph", "children": [{"text": "Le promozioni e-commerce fanno aumentare i volumi di pacchi e pallet. L'ultimo miglio e gli hub di smistamento si congestionano; i vettori danno priorità alle spedizioni a maggiore margine.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Festività di fine anno (dicembre)"},
-    {"type": "paragraph", "children": [{"text": "I retailer riforniscono gli scaffali per Natale e Capodanno. Carenza di spazio, congestione portuale e vincoli dell'ultimo miglio si intensificano.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Impatto delle stagioni di picco"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Carenze di capacità e aumento delle tariffe. La maggiore domanda mette sotto pressione trasporto su gomma, magazzini e porti, spingendo in alto le spot rates.", "bold": false}],
-      [{"text": "Tempi di transito più lunghi e ritardi. Regole di guida, minore disponibilità di personale e reti congestionate rallentano le consegne.", "bold": false}],
-      [{"text": "Sfide di inventario. Rotture di stock o overstock se le previsioni sono errate.", "bold": false}],
-      [{"text": "Stress operativo. Carenza di manodopera in magazzino e colli di bottiglia dell'ultimo miglio aumentano errori e reclami.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Strategie di pianificazione"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Prenotare capacità in anticipo. Garantire slot di trasporto e magazzino settimane prima dei picchi.", "bold": false}],
-      [{"text": "Diversificare modi e rotte. Usare ferrovia, short-sea o aereo per aggirare i corridoi congestionati.", "bold": false}],
-      [{"text": "Previsioni accurate. Collaborare con fornitori e clienti per affinare i forecast e adeguare gli stock.", "bold": false}],
-      [{"text": "Scaglionare le spedizioni. Distribuire gli ordini su più settimane per non sovraccaricare i vettori.", "bold": false}],
-      [{"text": "Contratti flessibili. Ottenere spazio garantito con tariffe variabili; considerare surcharge di alta stagione.", "bold": false}],
-      [{"text": "Cross-docking e consolidamento. Raggruppare piccole spedizioni per migliorare il tasso di carico e ridurre ritardi.", "bold": false}],
-      [{"text": "Tecnologia. La visibilità in tempo reale consente di ripianificare e gestire le eccezioni.", "bold": false}],
-      [{"text": "Comunicazione trasparente. Informare i clienti di possibili ritardi e impostare aspettative realistiche.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Conclusione: prepararsi ai picchi per restare competitivi"},
-    {"type": "paragraph", "children": [{"text": "La stagionalità è un dato di fatto nella logistica europea. Le aziende che pianificano, costruiscono resilienza e collaborano con operatori agili trasformano i picchi in opportunità. Capire quando e perché si verificano e applicare prenotazione anticipata, soluzioni multimodali e previsione affidabile aiuta a gestire le disruption e soddisfare i clienti.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Fonti"},
-    {"type": "citation", "text": "Peak logistics periods: Chinese New Year, Golden Week and holiday seasons (A.P. Moller - Maersk, 2025) - Identifica cinque periodi di picco - Capodanno cinese, estate/rientro a scuola, Golden Week, Black Friday/Cyber Monday e festività - e gli effetti su capacità, tempi e costi.", "author": "Maersk", "url": "https://www.maersk.com/news/articles/2025/peak-logistics-periods"},
-    {"type": "citation", "text": "Impact of the summer season on road freight (NTG Nordic Transport Group, 2024) - Riporta capacità ridotta dalla settimana 29 in Europa continentale; alcune rotte (Spagna, Francia, Italia, Svizzera) richiedono accordi nelle settimane 32-34; normalizzazione intorno alla 35.", "author": "NTG Nordic Transport Group", "url": "https://ntg.com/news/summer-season-road-freight-impact/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Dal Capodanno cinese alla corsa di fine anno, il calendario logistico europeo è scandito da picchi che tendono la capacità, aumentano i prezzi e mettono alla prova la resilienza. I caricatori che conoscono questi schemi stagionali possono prenotare capacità in anticipo, adeguare gli stock e introdurre flessibilità nelle catene di fornitura.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "seasonality-visual.png",
+      "alt": "Magazzino europeo affollato di pallet e personale durante l'alta stagione",
+      "caption": "Il magazzino al limite evidenzia la congestione che i planner affrontano nei picchi di stagione."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Principali stagioni di picco"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Capodanno cinese (gennaio-febbraio)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In Cina le fabbriche si fermano fino a due settimane, con un'impennata delle spedizioni nelle settimane precedenti e successive alla festività. Gli importatori europei dovrebbero prenotare in anticipo e attendersi ritardi mentre i vettori gestiscono flussi di equipment sbilanciati (A.P. Moller - Maersk, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Vacanze estive e back-to-school (luglio-agosto)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Aumenta la domanda di moda, elettronica e articoli scolastici, mentre molti autisti e addetti ai terminal sono in ferie, riducendo la capacità. Nel 2024 NTG ha segnalato capacità ridotta dalla settimana 29 e rotte (Spagna, Francia, Italia, Svizzera) che richiedono accordi speciali nelle settimane 32-34; normalizzazione intorno alla settimana 35 (NTG, 2024).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Golden Week (1-7 ottobre)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La Golden Week cinese interrompe produzione e porti, generando un ulteriore picco prima e dopo la festività (A.P. Moller - Maersk, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Black Friday e Cyber Monday (fine novembre)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Le promozioni e-commerce fanno aumentare i volumi di pacchi e pallet. L'ultimo miglio e gli hub di smistamento si congestionano; i vettori danno priorità alle spedizioni a maggiore margine.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Festività di fine anno (dicembre)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "I retailer riforniscono gli scaffali per Natale e Capodanno. Carenza di spazio, congestione portuale e vincoli dell'ultimo miglio si intensificano.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Impatto delle stagioni di picco"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Carenze di capacità e aumento delle tariffe. La maggiore domanda mette sotto pressione trasporto su gomma, magazzini e porti, spingendo in alto le spot rates.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tempi di transito più lunghi e ritardi. Regole di guida, minore disponibilità di personale e reti congestionate rallentano le consegne.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sfide di inventario. Rotture di stock o overstock se le previsioni sono errate.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Stress operativo. Carenza di manodopera in magazzino e colli di bottiglia dell'ultimo miglio aumentano errori e reclami.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Strategie di pianificazione"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Prenotare capacità in anticipo. Garantire slot di trasporto e magazzino settimane prima dei picchi.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Diversificare modi e rotte. Usare ferrovia, short-sea o aereo per aggirare i corridoi congestionati.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Previsioni accurate. Collaborare con fornitori e clienti per affinare i forecast e adeguare gli stock.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Scaglionare le spedizioni. Distribuire gli ordini su più settimane per non sovraccaricare i vettori.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Contratti flessibili. Ottenere spazio garantito con tariffe variabili; considerare surcharge di alta stagione.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Cross-docking e consolidamento. Raggruppare piccole spedizioni per migliorare il tasso di carico e ridurre ritardi.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tecnologia. La visibilità in tempo reale consente di ripianificare e gestire le eccezioni.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Comunicazione trasparente. Informare i clienti di possibili ritardi e impostare aspettative realistiche.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusione: prepararsi ai picchi per restare competitivi"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La stagionalità è un dato di fatto nella logistica europea. Le aziende che pianificano, costruiscono resilienza e collaborano con operatori agili trasformano i picchi in opportunità. Capire quando e perché si verificano e applicare prenotazione anticipata, soluzioni multimodali e previsione affidabile aiuta a gestire le disruption e soddisfare i clienti.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fonti"
+    },
+    {
+      "type": "citation",
+      "text": "Peak logistics periods: Chinese New Year, Golden Week and holiday seasons (A.P. Moller - Maersk, 2025) - Identifica cinque periodi di picco - Capodanno cinese, estate/rientro a scuola, Golden Week, Black Friday/Cyber Monday e festività - e gli effetti su capacità, tempi e costi.",
+      "author": "Maersk",
+      "url": "https://www.maersk.com/news/articles/2025/peak-logistics-periods"
+    },
+    {
+      "type": "citation",
+      "text": "Impact of the summer season on road freight (NTG Nordic Transport Group, 2024) - Riporta capacità ridotta dalla settimana 29 in Europa continentale; alcune rotte (Spagna, Francia, Italia, Svizzera) richiedono accordi nelle settimane 32-34; normalizzazione intorno alla 35.",
+      "author": "NTG Nordic Transport Group",
+      "url": "https://ntg.com/news/summer-season-road-freight-impact/"
+    }
   ],
   "tags": [
     "stagionalità logistica",
@@ -59,4 +242,3 @@
     "gestione interruzioni logistiche europa"
   ]
 }
-

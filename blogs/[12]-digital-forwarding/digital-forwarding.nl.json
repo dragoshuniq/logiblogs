@@ -1,5 +1,5 @@
 {
-  "id": "digital-freight-forwarding-vs-traditional-forwarding",
+  "id": "digital-freight-forwarding-vs-traditional-forwarding-nl",
   "shortId": "digital-vs-traditional",
   "language": "nl",
   "isVisible": true,
@@ -81,7 +81,12 @@
       "type": "list",
       "ordered": false,
       "items": [
-        [{ "text": "Directe offertes en boeking", "bold": false }],
+        [
+          {
+            "text": "Directe offertes en boeking",
+            "bold": false
+          }
+        ],
         [
           {
             "text": "Realtime zicht: IoT en carrier-integraties leveren kaarttracking, ETA en alerts",
@@ -94,7 +99,12 @@
             "bold": false
           }
         ],
-        [{ "text": "CO2-berekening per zending", "bold": false }],
+        [
+          {
+            "text": "CO2-berekening per zending",
+            "bold": false
+          }
+        ],
         [
           {
             "text": "Open API's voor TMS/WMS-integratie",
@@ -126,7 +136,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 2, "text": "Trends" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Trends"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -163,7 +177,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Conclusie" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusie"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -174,5 +192,8 @@
       ]
     }
   ],
-  "tags": ["digitale expeditie", "logistieke technologie"]
+  "tags": [
+    "digitale expeditie",
+    "logistieke technologie"
+  ]
 }

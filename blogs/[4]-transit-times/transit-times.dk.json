@@ -1,5 +1,5 @@
 {
-  "id": "understanding-transit-times-in-european-road-freight",
+  "id": "understanding-transit-times-in-european-road-freight-dk",
   "shortId": "transit-times-road-freight",
   "language": "dk",
   "isVisible": true,
@@ -16,39 +16,190 @@
   "image": "transit-times-hero.png",
   "imageAlt": "Kort over Europa med vigtige vejkorridorer og typiske transittider, med ur- og rastepladsikoner",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Rettidig levering er fundamentalt, men at estimere transittider i Europa er svært. Afstand, EU-regler for køre- og hviletid, trængsel og grænseformaliteter bestemmer, hvor længe en forsendelse er undervejs. Denne artikel gennemgår de vigtigste faktorer, typiske leveringsvinduer og råd til forventningsafstemning i europæisk vejtransport.", "bold": false}]},
-    {"type": "image", "src": "transit-times-visual.png", "alt": "En lastbil kører over et snedækket bjergpas, som viser hvordan vejr og terræn forlænger transittiden", "caption": "Snedækket bjergkorridor understreger, hvordan geografi og vejr trækker tidsplaner ud."},
-    {"type": "heading", "level": 2, "text": "Faktorer der påvirker transittid"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Afstand og geografi. Indlysende men centralt: Warszawa-Berlin (600 km) går hurtigere end Warszawa-Lissabon (3.100 km). Bjergområder, færger og betalingsveje kan forsinke.", "bold": false}],
-      [{"text": "Køre- og hviletider. EU-regler begrænser til 9 timer pr. dag (10 timer to gange om ugen) og 56 timer pr. uge, med 45 minutters pause efter 4,5 time samt daglige/ugentlige hvil (European Union, 2024). Nonstop kørsel gennem Europa er ikke mulig.", "bold": false}],
-      [{"text": "Servicetype (FTL vs groupage). Dedikeret FTL kører direkte fra afsender til modtager. Varevogne op til 3,5 ton dækker op til 700 km/dag (levering næste dag), 700-1.500 km på to dage og over 1.500 km på 3-4 dage (Visline Sp. z o.o., 2024). FTL-lastbiler (op til 24 ton) dækker 550 km næste dag, 550-1.300 km på to dage og 1.500 km på 3-4 dage (Visline Sp. z o.o., 2024). Dellæs og groupage tager ofte 3-6 dage uanset afstand (Visline Sp. z o.o., 2024).", "bold": false}],
-      [{"text": "Grænsekontrol og told. Selv i EU kan passage til ikke-Schengen-lande (fx Polen-Ukraine eller Spanien-Marokko) indebære kontroller, som lægger timer eller dage til.", "bold": false}],
-      [{"text": "Trafik og infrastruktur. Trængsel omkring byer, vejarbejde, sæsonlukninger (fx alpine pas om vinteren) og færgeplaner påvirker tidsplanen.", "bold": false}],
-      [{"text": "Vejr og forstyrrelser. Snestorme, oversvømmelser, strejker eller geopolitiske begivenheder kan give betydelige forsinkelser. Beredskabsplaner er vigtige.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Typiske eksempler på transittid"},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Dedikeret varevogn i EU: op til 700 km - næste dag; 700-1.500 km - to dage; over 1.500 km - 3-4 dage (Visline Sp. z o.o., 2024).", "bold": false}],
-      [{"text": "FTL-lastbil i EU: op til 550 km - næste dag; 550-1.300 km - to dage; over 1.500 km - 3-4 dage (Visline Sp. z o.o., 2024).", "bold": false}],
-      [{"text": "Groupage/dellæs: typisk 3-6 dage uanset afstand (Visline Sp. z o.o., 2024).", "bold": false}]
-    ]},
-    {"type": "paragraph", "children": [{"text": "Dette er retningslinjer; faktiske tider varierer afhængigt af ovenstående faktorer.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Håndter forventninger og øg pålideligheden"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Kommunikér realistiske ledetider. Brug publicerede tabeller som udgangspunkt og indregn hvile, grænseforsinkelser og spidsbelastning.", "bold": false}],
-      [{"text": "Planlæg omkring spidsbelastning og helligdage. Sommer, Golden Week og årsslut skaber pres på netværk; book kapacitet i god tid.", "bold": false}],
-      [{"text": "Overvåg forsendelser i realtid. Tracking og GPS giver synlighed og muliggør proaktiv indsats.", "bold": false}],
-      [{"text": "Konsolider fornuftigt. For små forsendelser er groupage omkostningseffektivt men tilføjer dage; saml hastesager til FTL hvor muligt.", "bold": false}],
-      [{"text": "Brug multimodale løsninger. Tog eller færge kan være hurtigere/mere stabile på visse ruter (fx over Alperne eller Den Engelske Kanal).", "bold": false}],
-      [{"text": "Samarbejd med erfarne speditører. Logifies kendskab til europæiske vejnet og regler hjælper med realistiske planer og undtagelseshåndtering.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Konklusion: planlæg for forudsigelighed"},
-    {"type": "paragraph", "children": [{"text": "Transittider i europæisk vejtransport afhænger af mere end kilometer. Køre-/hviletid, konsolideringsmodeller, infrastruktur og eksterne faktorer former tidsplaner. Med forståelse for variablerne og tæt samarbejde med logistikpartnere kan du sætte realistiske forventninger, undgå bøder og holde forsyningskæden stabil.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Kilder"},
-    {"type": "citation", "text": "Road transport workers: driving and rest time rules (European Union, 2024) - Forklarer EU-regler for køre- og hviletider, inkl. maksimum per dag/uge og obligatoriske pauser.", "author": "European Commission", "url": "https://europa.eu/youreurope/business/dealing-with-customers/transport/road-transport-workers/index_en.htm"},
-    {"type": "citation", "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Anviser retningslinjer for varevogn og FTL: op til 700 km næste dag, 700-1.500 km inden for to dage, over 1.500 km på 3-4 dage; op til 550 km næste dag og 550-1.300 km på to dage for FTL-lastbiler.", "author": "Visline Sp. z o.o.", "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"},
-    {"type": "citation", "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Noterer, at dellæs/groupage typisk tager 3-6 dage uanset afstand pga. (de)konsolideringspunkter.", "author": "Visline Sp. z o.o.", "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Rettidig levering er fundamentalt, men at estimere transittider i Europa er svært. Afstand, EU-regler for køre- og hviletid, trængsel og grænseformaliteter bestemmer, hvor længe en forsendelse er undervejs. Denne artikel gennemgår de vigtigste faktorer, typiske leveringsvinduer og råd til forventningsafstemning i europæisk vejtransport.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "transit-times-visual.png",
+      "alt": "En lastbil kører over et snedækket bjergpas, som viser hvordan vejr og terræn forlænger transittiden",
+      "caption": "Snedækket bjergkorridor understreger, hvordan geografi og vejr trækker tidsplaner ud."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Faktorer der påvirker transittid"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Afstand og geografi. Indlysende men centralt: Warszawa-Berlin (600 km) går hurtigere end Warszawa-Lissabon (3.100 km). Bjergområder, færger og betalingsveje kan forsinke.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Køre- og hviletider. EU-regler begrænser til 9 timer pr. dag (10 timer to gange om ugen) og 56 timer pr. uge, med 45 minutters pause efter 4,5 time samt daglige/ugentlige hvil (European Union, 2024). Nonstop kørsel gennem Europa er ikke mulig.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Servicetype (FTL vs groupage). Dedikeret FTL kører direkte fra afsender til modtager. Varevogne op til 3,5 ton dækker op til 700 km/dag (levering næste dag), 700-1.500 km på to dage og over 1.500 km på 3-4 dage (Visline Sp. z o.o., 2024). FTL-lastbiler (op til 24 ton) dækker 550 km næste dag, 550-1.300 km på to dage og 1.500 km på 3-4 dage (Visline Sp. z o.o., 2024). Dellæs og groupage tager ofte 3-6 dage uanset afstand (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Grænsekontrol og told. Selv i EU kan passage til ikke-Schengen-lande (fx Polen-Ukraine eller Spanien-Marokko) indebære kontroller, som lægger timer eller dage til.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Trafik og infrastruktur. Trængsel omkring byer, vejarbejde, sæsonlukninger (fx alpine pas om vinteren) og færgeplaner påvirker tidsplanen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Vejr og forstyrrelser. Snestorme, oversvømmelser, strejker eller geopolitiske begivenheder kan give betydelige forsinkelser. Beredskabsplaner er vigtige.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Typiske eksempler på transittid"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Dedikeret varevogn i EU: op til 700 km - næste dag; 700-1.500 km - to dage; over 1.500 km - 3-4 dage (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "FTL-lastbil i EU: op til 550 km - næste dag; 550-1.300 km - to dage; over 1.500 km - 3-4 dage (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Groupage/dellæs: typisk 3-6 dage uanset afstand (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Dette er retningslinjer; faktiske tider varierer afhængigt af ovenstående faktorer.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Håndter forventninger og øg pålideligheden"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Kommunikér realistiske ledetider. Brug publicerede tabeller som udgangspunkt og indregn hvile, grænseforsinkelser og spidsbelastning.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Planlæg omkring spidsbelastning og helligdage. Sommer, Golden Week og årsslut skaber pres på netværk; book kapacitet i god tid.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Overvåg forsendelser i realtid. Tracking og GPS giver synlighed og muliggør proaktiv indsats.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Konsolider fornuftigt. For små forsendelser er groupage omkostningseffektivt men tilføjer dage; saml hastesager til FTL hvor muligt.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Brug multimodale løsninger. Tog eller færge kan være hurtigere/mere stabile på visse ruter (fx over Alperne eller Den Engelske Kanal).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Samarbejd med erfarne speditører. Logifies kendskab til europæiske vejnet og regler hjælper med realistiske planer og undtagelseshåndtering.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Konklusion: planlæg for forudsigelighed"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transittider i europæisk vejtransport afhænger af mere end kilometer. Køre-/hviletid, konsolideringsmodeller, infrastruktur og eksterne faktorer former tidsplaner. Med forståelse for variablerne og tæt samarbejde med logistikpartnere kan du sætte realistiske forventninger, undgå bøder og holde forsyningskæden stabil.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kilder"
+    },
+    {
+      "type": "citation",
+      "text": "Road transport workers: driving and rest time rules (European Union, 2024) - Forklarer EU-regler for køre- og hviletider, inkl. maksimum per dag/uge og obligatoriske pauser.",
+      "author": "European Commission",
+      "url": "https://europa.eu/youreurope/business/dealing-with-customers/transport/road-transport-workers/index_en.htm"
+    },
+    {
+      "type": "citation",
+      "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Anviser retningslinjer for varevogn og FTL: op til 700 km næste dag, 700-1.500 km inden for to dage, over 1.500 km på 3-4 dage; op til 550 km næste dag og 550-1.300 km på to dage for FTL-lastbiler.",
+      "author": "Visline Sp. z o.o.",
+      "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"
+    },
+    {
+      "type": "citation",
+      "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Noterer, at dellæs/groupage typisk tager 3-6 dage uanset afstand pga. (de)konsolideringspunkter.",
+      "author": "Visline Sp. z o.o.",
+      "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"
+    }
   ],
   "tags": [
     "transittider vejtransport europa",
@@ -59,4 +210,3 @@
     "realistiske leveringsløfter logistik"
   ]
 }
-

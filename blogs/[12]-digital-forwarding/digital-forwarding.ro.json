@@ -1,5 +1,5 @@
 {
-  "id": "digital-freight-forwarding-vs-traditional-forwarding",
+  "id": "digital-freight-forwarding-vs-traditional-forwarding-ro",
   "shortId": "digital-vs-traditional",
   "language": "ro",
   "isVisible": true,
@@ -81,7 +81,12 @@
       "type": "list",
       "ordered": false,
       "items": [
-        [{ "text": "Cotații și rezervări instant", "bold": false }],
+        [
+          {
+            "text": "Cotații și rezervări instant",
+            "bold": false
+          }
+        ],
         [
           {
             "text": "Vizibilitate în timp real (IoT, integrări) cu ETA predictiv și alerte",
@@ -95,7 +100,10 @@
           }
         ],
         [
-          { "text": "Calculul emisiilor pe expediere", "bold": false }
+          {
+            "text": "Calculul emisiilor pe expediere",
+            "bold": false
+          }
         ],
         [
           {
@@ -128,7 +136,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 2, "text": "Tendințe" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tendințe"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -165,7 +177,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Concluzie" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Concluzie"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -176,5 +192,8 @@
       ]
     }
   ],
-  "tags": ["expediție digitală", "tehnologie logistică"]
+  "tags": [
+    "expediție digitală",
+    "tehnologie logistică"
+  ]
 }

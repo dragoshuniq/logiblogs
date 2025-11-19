@@ -1,5 +1,5 @@
 {
-  "id": "how-ai-route-optimization-reduces-co2-in-road-freight",
+  "id": "how-ai-route-optimization-reduces-co2-in-road-freight-de",
   "shortId": "ai-route-optimization",
   "language": "de",
   "isVisible": true,
@@ -262,7 +262,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Quellen" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Quellen"
+    },
     {
       "type": "citation",
       "text": "Transport (Global Change Data Lab, 2023) – Statistik zu globalen Verkehrsemissionen; Straßenverkehr ca. 15 % der globalen CO2-Emissionen, Güter Lkw rund 29 % der verkehrsbedingten Emissionen.",

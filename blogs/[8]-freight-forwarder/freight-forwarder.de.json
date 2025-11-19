@@ -1,5 +1,5 @@
 {
-  "id": "working-with-a-freight-forwarder-what-shippers-should-expect-day-to-day",
+  "id": "working-with-a-freight-forwarder-what-shippers-should-expect-day-to-day-de",
   "shortId": "working-with-forwarder",
   "language": "de",
   "isVisible": true,
@@ -16,49 +16,246 @@
   "image": "freight-forwarder-hero.png",
   "imageAlt": "Leitstand eines Spediteurs mit Live-Dashboards, Karten und bearbeiteten Versandpapieren",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Spediteure fungieren als Architekten des Transports, orchestrieren multimodale Ketten und kümmern sich um die für den Warenfluss nötige Dokumentation, Compliance und Koordination. Wer als Verlader versteht, was Spediteure tun und wie man mit ihnen zusammenarbeitet, steigert Effizienz und reduziert Stress. Dieser Beitrag erläutert das tägliche Doing von Spediteuren, ihren Mehrwert und die Kriterien für die Partnerwahl.", "bold": false}]} ,
-    {"type": "image", "src": "freight-forwarder-visual.png", "alt": "Logistikmanager und Spediteur prüfen gemeinsam Versandpapiere im Büro", "caption": "Spediteur und Verlader gehen vor Abfahrt die Buchungspapiere gemeinsam durch."},
-    {"type": "heading", "level": 2, "text": "Was ist ein Spediteur?"},
-    {"type": "paragraph", "children": [{"text": "Die Internationale Föderation der Speditionsverbände (FIATA) definiert Speditions- und Logistikleistungen als Dienstleistungen aller Art rund um Beförderung, Konsolidierung, Lagerung, Umschlag, Verpackung oder Distribution von Gütern sowie Neben- und Beratungsleistungen wie Zoll- und Steuerfragen, Versicherungen und Zahlungsabwicklung (FIATA, 2004). Ein Spediteur sorgt dafür, dass Güter zur richtigen Zeit, am richtigen Ort, in gutem Zustand und zu vertretbaren Kosten ankommen (FIATA, 2004).", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Spediteure bringen Expertise in mehreren Bereichen ein:", "bold": false}]},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Logistikplanung: Spediteure entwerfen Routen und wählen Verkehrsträger, verhandeln mit Carrier-Partnern ein Gleichgewicht aus Kosten, Geschwindigkeit und Zuverlässigkeit (FIATA, 2004).", "bold": false}],
-      [{"text": "Regulatorische Compliance: Sie erstellen Ausfuhr-/Einfuhrdokumente, Zollanmeldungen und sorgen für die Einhaltung der Vorschriften (FIATA, 2004).", "bold": false}],
-      [{"text": "Risikomanagement: Beratung zu Versicherungen, Absicherung gegen Verlust/Beschädigung und Unterstützung bei Schadenfällen (FIATA, 2004).", "bold": false}],
-      [{"text": "Finanzen und Zahlungen: Abwicklung von Zahlungen zwischen Käufer und Verkäufer sowie Organisation von Kredit-/Versicherungsinstrumenten (FIATA, 2004).", "bold": false}],
-      [{"text": "Cross-funktionale Integration: Mithilfe von IT integrieren Spediteure Daten zwischen Verladern, Carriern und Behörden und erhöhen so die Supply-Chain-Transparenz (FIATA, 2004).", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Tägliche Zusammenarbeit mit dem Spediteur"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Angebote und Buchungen. Verlader geben Gutart, Gewicht, Abmessungen, Abhol-/Zielort und gewünschte Laufzeit an. Der Spediteur prüft Kapazität und erstellt ein Angebot, inkl. Basisfracht, Treibstoffzuschlägen, Maut und Nebenkosten. Digitale Spediteure liefern Sofortangebote im Portal; klassische benötigen mitunter länger.", "bold": false}],
-      [{"text": "Dokumentation. Nach der Buchung sammelt der Spediteur Handelsrechnungen, Packlisten sowie erforderliche Genehmigungen/Zertifikate. Er erstellt CMR-Frachtbrief, Zollanmeldungen und Transitdokumente (z. B. T1/T2). Bei Gefahrgut prüft er ADR-Nachweise und Sicherheitsdatenblätter.", "bold": false}],
-      [{"text": "Transportkoordination. Der Spediteur terminiert Abholung, koordiniert mit Lagern und überwacht Sendungen über Umschlagpunkte hinweg. Er managt Grenzformalitäten; Fahrer führen Entsendemeldungen und Tachografennachweise mit.", "bold": false}],
-      [{"text": "Tracking und Ausnahme-Management. Statusupdates per E-Mail, Telefon oder Dashboard. Bei Verzögerungen (z. B. Zollstopps, Wetter) stimmt der Spediteur Umroutungen oder ETA-Anpassungen ab.", "bold": false}],
-      [{"text": "Zustellung und Abschluss. Nach Zustellung holt der Spediteur den POD ein und aktualisiert den CMR. Er gleicht Rechnungen ab und zahlt Carrier. Bei DDP-Sendungen kann er Einfuhrabgaben im Auftrag des Verkäufers begleichen.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Vorteile der Zusammenarbeit"},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Expertise und Skaleneffekte. Spediteure verhandeln bessere Raten und kennen komplexe Regularien.", "bold": false}],
-      [{"text": "Weniger Administration. Sie übernehmen Dokumente, Zoll und Compliance, damit Verlader sich aufs Kerngeschäft konzentrieren.", "bold": false}],
-      [{"text": "Transparenz und Steuerung. Digitale Spediteure bieten Echtzeit-Tracking und Analysen für Status und Kosten.", "bold": false}],
-      [{"text": "Risikominderung. Beratung zum Versicherungsschutz und Unterstützung bei Claims.", "bold": false}],
-      [{"text": "Flexibilität. Bei Störungen können Carrier, Modi oder Routen gewechselt werden.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Den richtigen Spediteur auswählen"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Referenzen und Expertise. Achten Sie auf FIATA-Mitgliedschaft oder nationale Verbände. Fragen Sie nach Erfahrung mit Ihren Gütern und Trade Lanes.", "bold": false}],
-      [{"text": "Digitale Fähigkeiten. Moderne Spediteure bieten Online-Buchung, Tracking, automatisierte Dokumente und TMS-Integrationen.", "bold": false}],
-      [{"text": "Netzwerkstärke. Beziehungen zu Carriern und Agenten am Ursprung/Ziel beeinflussen Kapazität und Service.", "bold": false}],
-      [{"text": "Kundenservice. Reaktionsfähigkeit und Problemlösung bewerten.", "bold": false}],
-      [{"text": "Compliance-Historie. Einhaltung von Kartell- und Regulierungsstandards prüfen.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Fazit: Partnerschaft zählt"},
-    {"type": "paragraph", "children": [{"text": "Spediteure sind mehr als Intermediäre: Sie konzipieren und steuern komplexe Logistikoperationen. Wer ihre Rollen kennt, baut produktive Beziehungen auf, verschlankt Prozesse und bewegt Güter reibungslos über Grenzen. Ein Partner wie Logifie, der Branchenwissen mit digitalen Tools verbindet, verschafft im dynamischen Logistikumfeld einen Wettbewerbsvorteil.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Quellen"},
-    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Definiert Speditions- und Logistikleistungen: Beförderung, Konsolidierung, Lagerung, Umschlag, Verpackung, Distribution sowie Zoll, Versicherungen und Zahlungsabwicklung.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
-    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Erläutert die Logistikplanung: Verhandlung mit Carriern zur Gestaltung von Serviceketten zwischen Kosten, Geschwindigkeit und Zuverlässigkeit.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
-    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Beschreibt Rollen bei Compliance, Risikomanagement sowie Beratung zu Versicherungs- und Währungsrisiken.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
-    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Hält fest, dass Spediteure Finanzthemen abwickeln und per IT die funktionsübergreifende Integration fördern.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Spediteure fungieren als Architekten des Transports, orchestrieren multimodale Ketten und kümmern sich um die für den Warenfluss nötige Dokumentation, Compliance und Koordination. Wer als Verlader versteht, was Spediteure tun und wie man mit ihnen zusammenarbeitet, steigert Effizienz und reduziert Stress. Dieser Beitrag erläutert das tägliche Doing von Spediteuren, ihren Mehrwert und die Kriterien für die Partnerwahl.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "freight-forwarder-visual.png",
+      "alt": "Logistikmanager und Spediteur prüfen gemeinsam Versandpapiere im Büro",
+      "caption": "Spediteur und Verlader gehen vor Abfahrt die Buchungspapiere gemeinsam durch."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Was ist ein Spediteur?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Die Internationale Föderation der Speditionsverbände (FIATA) definiert Speditions- und Logistikleistungen als Dienstleistungen aller Art rund um Beförderung, Konsolidierung, Lagerung, Umschlag, Verpackung oder Distribution von Gütern sowie Neben- und Beratungsleistungen wie Zoll- und Steuerfragen, Versicherungen und Zahlungsabwicklung (FIATA, 2004). Ein Spediteur sorgt dafür, dass Güter zur richtigen Zeit, am richtigen Ort, in gutem Zustand und zu vertretbaren Kosten ankommen (FIATA, 2004).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Spediteure bringen Expertise in mehreren Bereichen ein:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Logistikplanung: Spediteure entwerfen Routen und wählen Verkehrsträger, verhandeln mit Carrier-Partnern ein Gleichgewicht aus Kosten, Geschwindigkeit und Zuverlässigkeit (FIATA, 2004).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Regulatorische Compliance: Sie erstellen Ausfuhr-/Einfuhrdokumente, Zollanmeldungen und sorgen für die Einhaltung der Vorschriften (FIATA, 2004).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Risikomanagement: Beratung zu Versicherungen, Absicherung gegen Verlust/Beschädigung und Unterstützung bei Schadenfällen (FIATA, 2004).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Finanzen und Zahlungen: Abwicklung von Zahlungen zwischen Käufer und Verkäufer sowie Organisation von Kredit-/Versicherungsinstrumenten (FIATA, 2004).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Cross-funktionale Integration: Mithilfe von IT integrieren Spediteure Daten zwischen Verladern, Carriern und Behörden und erhöhen so die Supply-Chain-Transparenz (FIATA, 2004).",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tägliche Zusammenarbeit mit dem Spediteur"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Angebote und Buchungen. Verlader geben Gutart, Gewicht, Abmessungen, Abhol-/Zielort und gewünschte Laufzeit an. Der Spediteur prüft Kapazität und erstellt ein Angebot, inkl. Basisfracht, Treibstoffzuschlägen, Maut und Nebenkosten. Digitale Spediteure liefern Sofortangebote im Portal; klassische benötigen mitunter länger.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Dokumentation. Nach der Buchung sammelt der Spediteur Handelsrechnungen, Packlisten sowie erforderliche Genehmigungen/Zertifikate. Er erstellt CMR-Frachtbrief, Zollanmeldungen und Transitdokumente (z. B. T1/T2). Bei Gefahrgut prüft er ADR-Nachweise und Sicherheitsdatenblätter.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Transportkoordination. Der Spediteur terminiert Abholung, koordiniert mit Lagern und überwacht Sendungen über Umschlagpunkte hinweg. Er managt Grenzformalitäten; Fahrer führen Entsendemeldungen und Tachografennachweise mit.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tracking und Ausnahme-Management. Statusupdates per E-Mail, Telefon oder Dashboard. Bei Verzögerungen (z. B. Zollstopps, Wetter) stimmt der Spediteur Umroutungen oder ETA-Anpassungen ab.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Zustellung und Abschluss. Nach Zustellung holt der Spediteur den POD ein und aktualisiert den CMR. Er gleicht Rechnungen ab und zahlt Carrier. Bei DDP-Sendungen kann er Einfuhrabgaben im Auftrag des Verkäufers begleichen.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vorteile der Zusammenarbeit"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Expertise und Skaleneffekte. Spediteure verhandeln bessere Raten und kennen komplexe Regularien.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Weniger Administration. Sie übernehmen Dokumente, Zoll und Compliance, damit Verlader sich aufs Kerngeschäft konzentrieren.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Transparenz und Steuerung. Digitale Spediteure bieten Echtzeit-Tracking und Analysen für Status und Kosten.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Risikominderung. Beratung zum Versicherungsschutz und Unterstützung bei Claims.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Flexibilität. Bei Störungen können Carrier, Modi oder Routen gewechselt werden.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Den richtigen Spediteur auswählen"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Referenzen und Expertise. Achten Sie auf FIATA-Mitgliedschaft oder nationale Verbände. Fragen Sie nach Erfahrung mit Ihren Gütern und Trade Lanes.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Digitale Fähigkeiten. Moderne Spediteure bieten Online-Buchung, Tracking, automatisierte Dokumente und TMS-Integrationen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Netzwerkstärke. Beziehungen zu Carriern und Agenten am Ursprung/Ziel beeinflussen Kapazität und Service.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kundenservice. Reaktionsfähigkeit und Problemlösung bewerten.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Compliance-Historie. Einhaltung von Kartell- und Regulierungsstandards prüfen.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fazit: Partnerschaft zählt"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Spediteure sind mehr als Intermediäre: Sie konzipieren und steuern komplexe Logistikoperationen. Wer ihre Rollen kennt, baut produktive Beziehungen auf, verschlankt Prozesse und bewegt Güter reibungslos über Grenzen. Ein Partner wie Logifie, der Branchenwissen mit digitalen Tools verbindet, verschafft im dynamischen Logistikumfeld einen Wettbewerbsvorteil.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Quellen"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Definiert Speditions- und Logistikleistungen: Beförderung, Konsolidierung, Lagerung, Umschlag, Verpackung, Distribution sowie Zoll, Versicherungen und Zahlungsabwicklung.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Erläutert die Logistikplanung: Verhandlung mit Carriern zur Gestaltung von Serviceketten zwischen Kosten, Geschwindigkeit und Zuverlässigkeit.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Beschreibt Rollen bei Compliance, Risikomanagement sowie Beratung zu Versicherungs- und Währungsrisiken.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Hält fest, dass Spediteure Finanzthemen abwickeln und per IT die funktionsübergreifende Integration fördern.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    }
   ],
   "tags": [
     "was macht ein spediteur",
@@ -70,4 +267,3 @@
     "spediteur auswahlkriterien"
   ]
 }
-

@@ -1,5 +1,5 @@
 {
-  "id": "sustainability-in-european-road-freight-practical-steps-without-high-tech-solutions",
+  "id": "sustainability-in-european-road-freight-practical-steps-without-high-tech-solutions-ua",
   "shortId": "sustainability-road-freight",
   "language": "ua",
   "isVisible": true,
@@ -110,7 +110,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Докази та приклади" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Докази та приклади"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -149,7 +153,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Джерело" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Джерело"
+    },
     {
       "type": "citation",
       "text": "Why is Reducing Carbon Emissions in Transportation and Logistics Important? (Ct Global Freight Audit, 2023) - До 90 % викидів можуть припадати на ланцюг постачання, а транспорт і логістика становлять близько 25 % глобальних викидів. Перелік кроків: еко-кермування, маршрути, інтермодальність, альтернативні палива та ефективність флоту.",

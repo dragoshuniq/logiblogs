@@ -1,5 +1,5 @@
 {
-  "id": "how-ai-route-optimization-reduces-co2-in-road-freight",
+  "id": "how-ai-route-optimization-reduces-co2-in-road-freight-dk",
   "shortId": "ai-route-optimization",
   "language": "dk",
   "isVisible": true,
@@ -61,7 +61,12 @@
     },
     {
       "type": "paragraph",
-      "children": [{ "text": "Kerneelementer:", "bold": false }]
+      "children": [
+        {
+          "text": "Kerneelementer:",
+          "bold": false
+        }
+      ]
     },
     {
       "type": "list",
@@ -93,12 +98,21 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Gevinster i praksis" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Gevinster i praksis"
+    },
     {
       "type": "list",
       "ordered": false,
       "items": [
-        [{ "text": "Mindre tomkørsel", "bold": false }],
+        [
+          {
+            "text": "Mindre tomkørsel",
+            "bold": false
+          }
+        ],
         [
           {
             "text": "Kortere køretider via undgåelse af kø",
@@ -188,7 +202,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Kilder" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kilder"
+    },
     {
       "type": "citation",
       "text": "Transport (Global Change Data Lab, 2023) – Vejtrafik ~15 % global CO2; lastbiler ~29 % af transportens udledninger.",
@@ -232,5 +250,9 @@
       "url": "https://reports.weforum.org/intelligent-transport-greener-future/"
     }
   ],
-  "tags": ["AI ruteoptimering", "grøn logistik", "bæredygtig fragt"]
+  "tags": [
+    "AI ruteoptimering",
+    "grøn logistik",
+    "bæredygtig fragt"
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "understanding-transit-times-in-european-road-freight",
+  "id": "understanding-transit-times-in-european-road-freight-fi",
   "shortId": "transit-times-road-freight",
   "language": "fi",
   "isVisible": true,
@@ -16,39 +16,190 @@
   "image": "transit-times-hero.png",
   "imageAlt": "Euroopan kartta, jossa näkyvät tärkeät tiekäytävät ja tyypilliset transitiajat, kellon ja levähdyspaikan kuvakkeet",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Ajallaan toimittaminen on tärkeää, mutta transitiaikojen arviointi Euroopassa on haastavaa. Etäisyys, EU:n ajo- ja lepoaikasäännöt, ruuhkat ja rajamuodollisuudet määrittävät kauanko kuljetus kestää. Tässä artikkelissa kuvataan keskeiset tekijät, tyypilliset toimitusikkunat ja vinkit odotusten hallintaan Euroopan maantiekuljetuksissa.", "bold": false}]},
-    {"type": "image", "src": "transit-times-visual.png", "alt": "Kuorma-auto kulkee lumisen vuorisolan läpi, mikä näyttää sään ja maaston vaikutuksen transitiaikaan", "caption": "Luminen vuoristokäytävä korostaa, miten maantiede ja sää pidentävät aikatauluja."},
-    {"type": "heading", "level": 2, "text": "Transitioaikaan vaikuttavat tekijät"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Etäisyys ja maantiede. Ilmeistä mutta olennaista: Varsova-Berlin (600 km) on nopeampi kuin Varsova-Lissabon (3 100 km). Vuoristoalueet, lautat ja tietullit voivat hidastaa.", "bold": false}],
-      [{"text": "Ajo- ja lepoajat. EU-säännöt rajaavat ajoa 9 tuntiin/päivä (10 tuntia kahdesti viikossa) ja 56 tuntiin/viikko, 45 minuutin tauko 4,5 tunnin jälkeen sekä päivittäiset/viikoittaiset levot (European Union, 2024). Yhtäjaksoinen ajo koko mantereen halki ei ole mahdollista.", "bold": false}],
-      [{"text": "Palvelutyyppi (FTL vs groupage). Dedikoitu FTL ajaa suoraan lähtöpisteestä määränpäähän. Pakettiautot 3,5 tonniin asti kattavat jopa 700 km/päivä (toimitus seuraavana päivänä), 700-1 500 km kahdessa päivässä ja yli 1 500 km 3-4 päivässä (Visline Sp. z o.o., 2024). FTL-kuorma-autot (jopa 24 t) kattavat 550 km seuraavana päivänä, 550-1 300 km kahdessa päivässä ja 1 500 km 3-4 päivässä (Visline Sp. z o.o., 2024). Osakuormat ja groupage vievät usein 3-6 päivää etäisyydestä riippumatta (Visline Sp. z o.o., 2024).", "bold": false}],
-      [{"text": "Rajatarkastukset ja tullit. Myös EU:ssa siirtyminen ei-Schengen-maihin (esim. Puola-Ukraina tai Espanja-Marokko) voi tuoda tarkastuksia, jotka lisäävät tunteja tai päiviä.", "bold": false}],
-      [{"text": "Liikenne ja infrastruktuuri. Ruuhkat kaupunkiseuduilla, tietöet, kausisulut (esim. alppisolat talvella) ja lautta-aikataulut vaikuttavat ajoitukseen.", "bold": false}],
-      [{"text": "Sää ja häiriöt. Lumimyrskyt, tulvat, lakot tai geopoliittiset tapahtumat voivat aiheuttaa merkittäviä viiveitä. Varasuunnitelmat ovat tärkeitä.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Tyypillisiä transitiaikaesimerkkejä"},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Dedikoitu pakettiauto EU:ssa: enintään 700 km - seuraava päivä; 700-1 500 km - kaksi päivää; yli 1 500 km - 3-4 päivää (Visline Sp. z o.o., 2024).", "bold": false}],
-      [{"text": "FTL-kuorma-auto EU:ssa: enintään 550 km - seuraava päivä; 550-1 300 km - kaksi päivää; yli 1 500 km - 3-4 päivää (Visline Sp. z o.o., 2024).", "bold": false}],
-      [{"text": "Groupage/osakuormat: tyypillisesti 3-6 päivää etäisyydestä riippumatta (Visline Sp. z o.o., 2024).", "bold": false}]
-    ]},
-    {"type": "paragraph", "children": [{"text": "Nämä ovat suuntaa antavia arvoja; todelliset ajat vaihtelevat edellä mainittujen tekijöiden mukaan.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Odotusten hallinta ja luotettavuuden parantaminen"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Viestitä realistiset läpimenoajat. Käytä julkaistuja taulukoita pohjana ja huomioi levot, rajaviiveet ja sesonkihuiput.", "bold": false}],
-      [{"text": "Suunnittele huippujen ja juhlapyhien mukaan. Kesä, Golden Week ja vuoden loppu kuormittavat verkkoja; varaa kapasiteettia ajoissa.", "bold": false}],
-      [{"text": "Seuraa lähetyksiä reaaliajassa. Seuranta ja GPS parantavat näkyvyyttä ja mahdollistavat ennakoivan toiminnan.", "bold": false}],
-      [{"text": "Konsolidoi harkiten. Pienille erille groupage on kustannustehokas mutta lisää päiviä; yhdistä kiireelliset FTL:ään kun mahdollista.", "bold": false}],
-      [{"text": "Hyödynnä intermodaaliratkaisuja. Juna tai lautta voi tietyillä reiteillä olla nopeampi/luotettavampi (esim. Alppien tai Englannin kanaalin yli).", "bold": false}],
-      [{"text": "Tee yhteistyötä kokeneiden huolitsijoiden kanssa. Logifien tuntemus Euroopan tieverkoista ja sääntelystä auttaa realistisissa aikatauluissa ja poikkeamien hoidossa.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Johtopäätös: suunnittele ennakoitavuutta varten"},
-    {"type": "paragraph", "children": [{"text": "Transitiajat eurooppalaisessa maantiekuljetuksessa riippuvat muustakin kuin kilometreistä. Ajo- ja lepoajat, konsolidointimallit, infrastruktuuri ja ulkoiset tekijät muovaavat toimitusaikatauluja. Ymmärtämällä muuttujat ja tekemällä tiivistä yhteistyötä logistiikkakumppaneiden kanssa asetat realistiset odotukset, vältät sakot ja pidät toimitusketjun vakaana.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Lähteet"},
-    {"type": "citation", "text": "Road transport workers: driving and rest time rules (European Union, 2024) - Selittää EU:n ajo- ja lepoaikasäännöt, mukaan lukien päivä- ja viikkorajojen sekä pakolliset tauot.", "author": "European Commission", "url": "https://europa.eu/youreurope/business/dealing-with-customers/transport/road-transport-workers/index_en.htm"},
-    {"type": "citation", "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Antaa ohjeajat pakettiautoille ja FTL-kuorma-autoille: jopa 700 km seuraavana päivänä, 700-1 500 km kahdessa päivässä, yli 1 500 km 3-4 päivässä; FTL:lle jopa 550 km seuraavana päivänä ja 550-1 300 km kahdessa päivässä.", "author": "Visline Sp. z o.o.", "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"},
-    {"type": "citation", "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Toteaa, että osakuormat/groupage vievät tyypillisesti 3-6 päivää etäisyydestä riippumatta (de)konsolidointipisteistä johtuen.", "author": "Visline Sp. z o.o.", "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ajallaan toimittaminen on tärkeää, mutta transitiaikojen arviointi Euroopassa on haastavaa. Etäisyys, EU:n ajo- ja lepoaikasäännöt, ruuhkat ja rajamuodollisuudet määrittävät kauanko kuljetus kestää. Tässä artikkelissa kuvataan keskeiset tekijät, tyypilliset toimitusikkunat ja vinkit odotusten hallintaan Euroopan maantiekuljetuksissa.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "transit-times-visual.png",
+      "alt": "Kuorma-auto kulkee lumisen vuorisolan läpi, mikä näyttää sään ja maaston vaikutuksen transitiaikaan",
+      "caption": "Luminen vuoristokäytävä korostaa, miten maantiede ja sää pidentävät aikatauluja."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Transitioaikaan vaikuttavat tekijät"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Etäisyys ja maantiede. Ilmeistä mutta olennaista: Varsova-Berlin (600 km) on nopeampi kuin Varsova-Lissabon (3 100 km). Vuoristoalueet, lautat ja tietullit voivat hidastaa.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ajo- ja lepoajat. EU-säännöt rajaavat ajoa 9 tuntiin/päivä (10 tuntia kahdesti viikossa) ja 56 tuntiin/viikko, 45 minuutin tauko 4,5 tunnin jälkeen sekä päivittäiset/viikoittaiset levot (European Union, 2024). Yhtäjaksoinen ajo koko mantereen halki ei ole mahdollista.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Palvelutyyppi (FTL vs groupage). Dedikoitu FTL ajaa suoraan lähtöpisteestä määränpäähän. Pakettiautot 3,5 tonniin asti kattavat jopa 700 km/päivä (toimitus seuraavana päivänä), 700-1 500 km kahdessa päivässä ja yli 1 500 km 3-4 päivässä (Visline Sp. z o.o., 2024). FTL-kuorma-autot (jopa 24 t) kattavat 550 km seuraavana päivänä, 550-1 300 km kahdessa päivässä ja 1 500 km 3-4 päivässä (Visline Sp. z o.o., 2024). Osakuormat ja groupage vievät usein 3-6 päivää etäisyydestä riippumatta (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Rajatarkastukset ja tullit. Myös EU:ssa siirtyminen ei-Schengen-maihin (esim. Puola-Ukraina tai Espanja-Marokko) voi tuoda tarkastuksia, jotka lisäävät tunteja tai päiviä.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Liikenne ja infrastruktuuri. Ruuhkat kaupunkiseuduilla, tietöet, kausisulut (esim. alppisolat talvella) ja lautta-aikataulut vaikuttavat ajoitukseen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sää ja häiriöt. Lumimyrskyt, tulvat, lakot tai geopoliittiset tapahtumat voivat aiheuttaa merkittäviä viiveitä. Varasuunnitelmat ovat tärkeitä.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tyypillisiä transitiaikaesimerkkejä"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Dedikoitu pakettiauto EU:ssa: enintään 700 km - seuraava päivä; 700-1 500 km - kaksi päivää; yli 1 500 km - 3-4 päivää (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "FTL-kuorma-auto EU:ssa: enintään 550 km - seuraava päivä; 550-1 300 km - kaksi päivää; yli 1 500 km - 3-4 päivää (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Groupage/osakuormat: tyypillisesti 3-6 päivää etäisyydestä riippumatta (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Nämä ovat suuntaa antavia arvoja; todelliset ajat vaihtelevat edellä mainittujen tekijöiden mukaan.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Odotusten hallinta ja luotettavuuden parantaminen"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Viestitä realistiset läpimenoajat. Käytä julkaistuja taulukoita pohjana ja huomioi levot, rajaviiveet ja sesonkihuiput.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Suunnittele huippujen ja juhlapyhien mukaan. Kesä, Golden Week ja vuoden loppu kuormittavat verkkoja; varaa kapasiteettia ajoissa.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Seuraa lähetyksiä reaaliajassa. Seuranta ja GPS parantavat näkyvyyttä ja mahdollistavat ennakoivan toiminnan.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Konsolidoi harkiten. Pienille erille groupage on kustannustehokas mutta lisää päiviä; yhdistä kiireelliset FTL:ään kun mahdollista.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Hyödynnä intermodaaliratkaisuja. Juna tai lautta voi tietyillä reiteillä olla nopeampi/luotettavampi (esim. Alppien tai Englannin kanaalin yli).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tee yhteistyötä kokeneiden huolitsijoiden kanssa. Logifien tuntemus Euroopan tieverkoista ja sääntelystä auttaa realistisissa aikatauluissa ja poikkeamien hoidossa.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Johtopäätös: suunnittele ennakoitavuutta varten"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transitiajat eurooppalaisessa maantiekuljetuksessa riippuvat muustakin kuin kilometreistä. Ajo- ja lepoajat, konsolidointimallit, infrastruktuuri ja ulkoiset tekijät muovaavat toimitusaikatauluja. Ymmärtämällä muuttujat ja tekemällä tiivistä yhteistyötä logistiikkakumppaneiden kanssa asetat realistiset odotukset, vältät sakot ja pidät toimitusketjun vakaana.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lähteet"
+    },
+    {
+      "type": "citation",
+      "text": "Road transport workers: driving and rest time rules (European Union, 2024) - Selittää EU:n ajo- ja lepoaikasäännöt, mukaan lukien päivä- ja viikkorajojen sekä pakolliset tauot.",
+      "author": "European Commission",
+      "url": "https://europa.eu/youreurope/business/dealing-with-customers/transport/road-transport-workers/index_en.htm"
+    },
+    {
+      "type": "citation",
+      "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Antaa ohjeajat pakettiautoille ja FTL-kuorma-autoille: jopa 700 km seuraavana päivänä, 700-1 500 km kahdessa päivässä, yli 1 500 km 3-4 päivässä; FTL:lle jopa 550 km seuraavana päivänä ja 550-1 300 km kahdessa päivässä.",
+      "author": "Visline Sp. z o.o.",
+      "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"
+    },
+    {
+      "type": "citation",
+      "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Toteaa, että osakuormat/groupage vievät tyypillisesti 3-6 päivää etäisyydestä riippumatta (de)konsolidointipisteistä johtuen.",
+      "author": "Visline Sp. z o.o.",
+      "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"
+    }
   ],
   "tags": [
     "transitiajat maantiekuljetus eurooppa",
@@ -59,4 +210,3 @@
     "realistiset toimituslupaukset logistiikka"
   ]
 }
-

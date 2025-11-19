@@ -1,5 +1,5 @@
 {
-  "id": "working-with-a-freight-forwarder-what-shippers-should-expect-day-to-day",
+  "id": "working-with-a-freight-forwarder-what-shippers-should-expect-day-to-day-no",
   "shortId": "working-with-forwarder",
   "language": "no",
   "isVisible": true,
@@ -31,7 +31,11 @@
       "alt": "Logistikkleder og speditør går gjennom fraktdokumenter sammen på kontoret",
       "caption": "Speditør og avsender gjennomgår bookingpapirer før lastebilene forlater lageret."
     },
-    { "type": "heading", "level": 2, "text": "Hva er en speditør?" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hva er en speditør?"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -168,7 +172,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Velg riktig speditør" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Velg riktig speditør"
+    },
     {
       "type": "list",
       "ordered": true,
@@ -219,7 +227,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Kilder" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kilder"
+    },
     {
       "type": "citation",
       "text": "About Freight Forwarding (FIATA, 2004) - Definerer spedisjons- og logistikktjenester: transport, konsolidering, lagring, håndtering, pakking, distribusjon samt toll, forsikring og betalingsoppgjør.",

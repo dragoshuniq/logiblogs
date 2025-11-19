@@ -1,5 +1,5 @@
 {
-  "id": "understanding-transit-times-in-european-road-freight",
+  "id": "understanding-transit-times-in-european-road-freight-es",
   "shortId": "transit-times-road-freight",
   "language": "es",
   "isVisible": true,
@@ -16,39 +16,190 @@
   "image": "transit-times-hero.png",
   "imageAlt": "Mapa de Europa con los principales corredores viales, tiempos de tránsito típicos y símbolos de reloj y áreas de descanso",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Entregar a tiempo es fundamental para la satisfacción del cliente, pero estimar los tiempos de tránsito en la red europea es complicado. La distancia, las reglas de conducción, la congestión y las formalidades fronterizas determinan cuánto tarda una carga en llegar a destino. Este artículo desglosa los factores, ofrece ventanas típicas de entrega y consejos para gestionar expectativas en el transporte por carretera europeo.", "bold": false}]},
-    {"type": "image", "src": "transit-times-visual.png", "alt": "Un camión atraviesa un paso de montaña nevado, mostrando cómo el clima y el terreno alargan el tránsito", "caption": "Un corredor montañoso nevado subraya cómo la geografía y el clima estiran los plazos."},
-    {"type": "heading", "level": 2, "text": "Factores que afectan al tiempo de tránsito"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Distancia y geografía. Es obvio pero clave: un envío Varsovia-Berlín (600 km) llega antes que uno Varsovia-Lisboa (3.100 km). Zonas montañosas, ferris y carreteras de peaje pueden ralentizar el tránsito.", "bold": false}],
-      [{"text": "Horas de conducción y descansos. La UE limita a 9 horas diarias (10 horas dos veces por semana) y 56 horas semanales, con una pausa de 45 minutos tras 4,5 horas y descansos diarios/semanales (European Union, 2024). Esto impide conducir sin parar a través del continente.", "bold": false}],
-      [{"text": "Tipo de servicio (FTL vs groupage). Los FTL dedicados van directos de origen a destino. Furgonetas hasta 3,5 toneladas cubren hasta 700 km al día (entrega al día siguiente), 700-1.500 km en dos días y más de 1.500 km en 3-4 días (Visline Sp. z o.o., 2024). Camiones FTL (hasta 24 toneladas) cubren 550 km al día siguiente, 550-1.300 km en dos días y 1.500 km en 3-4 días (Visline Sp. z o.o., 2024). Las cargas parciales y el groupage suelen tardar 3-6 días, independientemente de la distancia (Visline Sp. z o.o., 2024).", "bold": false}],
-      [{"text": "Controles fronterizos y aduanas. Incluso dentro de la UE, cruzar a países fuera de Schengen (p. ej., entre Polonia y Ucrania o España y Marruecos) puede implicar controles que sumen horas o días.", "bold": false}],
-      [{"text": "Tráfico e infraestructura. Congestión en áreas urbanas, obras, cierres estacionales (p. ej., pasos alpinos en invierno) y horarios de ferris influyen en los plazos.", "bold": false}],
-      [{"text": "Clima e interrupciones. Nevadas, inundaciones, huelgas o eventos geopolíticos pueden causar retrasos importantes. Los planes de contingencia son claves.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Ejemplos típicos de tiempos de tránsito"},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Furgoneta dedicada intra-UE: hasta 700 km - día siguiente; 700-1.500 km - dos días; más de 1.500 km - 3-4 días (Visline Sp. z o.o., 2024).", "bold": false}],
-      [{"text": "Camión FTL intra-UE: hasta 550 km - día siguiente; 550-1.300 km - dos días; más de 1.500 km - 3-4 días (Visline Sp. z o.o., 2024).", "bold": false}],
-      [{"text": "Groupage/cargas parciales: normalmente 3-6 días sin importar la distancia (Visline Sp. z o.o., 2024).", "bold": false}]
-    ]},
-    {"type": "paragraph", "children": [{"text": "Son referencias; los tiempos reales varían según los factores anteriores.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Gestionar expectativas y mejorar la fiabilidad"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Comunica plazos realistas. Usa tablas publicadas como base e incorpora descansos, demoras fronterizas y temporadas pico.", "bold": false}],
-      [{"text": "Planifica en torno a picos y festivos. Verano, Golden Week y picos de fin de año saturan las redes; reserva capacidad con antelación.", "bold": false}],
-      [{"text": "Monitoriza los envíos en tiempo real. El seguimiento y el GPS dan visibilidad y permiten actuar si hay retrasos.", "bold": false}],
-      [{"text": "Consolida con criterio. Para cargas pequeñas, el groupage ahorra costes pero añade días; agrupa lo urgente en FTL cuando sea posible.", "bold": false}],
-      [{"text": "Usa soluciones multimodales. Combinaciones con ferrocarril o ferri pueden ser más rápidas/fiables en ciertas rutas (p. ej., Alpes o Canal de la Mancha).", "bold": false}],
-      [{"text": "Colabora con transitarios expertos. El conocimiento de Logifie de las redes europeas y la regulación ayuda a planificar plazos realistas y gestionar incidencias.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Conclusión: planificar para la previsibilidad"},
-    {"type": "paragraph", "children": [{"text": "Los tiempos de tránsito en el transporte por carretera europeo dependen de mucho más que los kilómetros. Horas de conducción, modelos de consolidación, infraestructura y factores externos marcan los plazos. Entendiendo estas variables y cooperando con socios logísticos, los cargadores fijan expectativas realistas, evitan sanciones y mantienen la cadena de suministro estable.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Fuentes"},
-    {"type": "citation", "text": "Road transport workers: driving and rest time rules (European Union, 2024) - Explica las normas de la UE sobre tiempos de conducción y descanso, incluyendo máximos diarios/semanales y pausas obligatorias.", "author": "European Commission", "url": "https://europa.eu/youreurope/business/dealing-with-customers/transport/road-transport-workers/index_en.htm"},
-    {"type": "citation", "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Aporta guías de tránsito para furgonetas dedicadas y camiones FTL: hasta 700 km al día siguiente, 700-1.500 km en dos días, más de 1.500 km en 3-4 días; hasta 550 km al día siguiente y 550-1.300 km en dos días para FTL.", "author": "Visline Sp. z o.o.", "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"},
-    {"type": "citation", "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Señala que las cargas parciales/groupage suelen tardar 3-6 días independientemente de la distancia debido a los puntos de (des)consolidación.", "author": "Visline Sp. z o.o.", "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Entregar a tiempo es fundamental para la satisfacción del cliente, pero estimar los tiempos de tránsito en la red europea es complicado. La distancia, las reglas de conducción, la congestión y las formalidades fronterizas determinan cuánto tarda una carga en llegar a destino. Este artículo desglosa los factores, ofrece ventanas típicas de entrega y consejos para gestionar expectativas en el transporte por carretera europeo.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "transit-times-visual.png",
+      "alt": "Un camión atraviesa un paso de montaña nevado, mostrando cómo el clima y el terreno alargan el tránsito",
+      "caption": "Un corredor montañoso nevado subraya cómo la geografía y el clima estiran los plazos."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Factores que afectan al tiempo de tránsito"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Distancia y geografía. Es obvio pero clave: un envío Varsovia-Berlín (600 km) llega antes que uno Varsovia-Lisboa (3.100 km). Zonas montañosas, ferris y carreteras de peaje pueden ralentizar el tránsito.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Horas de conducción y descansos. La UE limita a 9 horas diarias (10 horas dos veces por semana) y 56 horas semanales, con una pausa de 45 minutos tras 4,5 horas y descansos diarios/semanales (European Union, 2024). Esto impide conducir sin parar a través del continente.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tipo de servicio (FTL vs groupage). Los FTL dedicados van directos de origen a destino. Furgonetas hasta 3,5 toneladas cubren hasta 700 km al día (entrega al día siguiente), 700-1.500 km en dos días y más de 1.500 km en 3-4 días (Visline Sp. z o.o., 2024). Camiones FTL (hasta 24 toneladas) cubren 550 km al día siguiente, 550-1.300 km en dos días y 1.500 km en 3-4 días (Visline Sp. z o.o., 2024). Las cargas parciales y el groupage suelen tardar 3-6 días, independientemente de la distancia (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Controles fronterizos y aduanas. Incluso dentro de la UE, cruzar a países fuera de Schengen (p. ej., entre Polonia y Ucrania o España y Marruecos) puede implicar controles que sumen horas o días.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tráfico e infraestructura. Congestión en áreas urbanas, obras, cierres estacionales (p. ej., pasos alpinos en invierno) y horarios de ferris influyen en los plazos.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Clima e interrupciones. Nevadas, inundaciones, huelgas o eventos geopolíticos pueden causar retrasos importantes. Los planes de contingencia son claves.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ejemplos típicos de tiempos de tránsito"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Furgoneta dedicada intra-UE: hasta 700 km - día siguiente; 700-1.500 km - dos días; más de 1.500 km - 3-4 días (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Camión FTL intra-UE: hasta 550 km - día siguiente; 550-1.300 km - dos días; más de 1.500 km - 3-4 días (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Groupage/cargas parciales: normalmente 3-6 días sin importar la distancia (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Son referencias; los tiempos reales varían según los factores anteriores.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Gestionar expectativas y mejorar la fiabilidad"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Comunica plazos realistas. Usa tablas publicadas como base e incorpora descansos, demoras fronterizas y temporadas pico.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Planifica en torno a picos y festivos. Verano, Golden Week y picos de fin de año saturan las redes; reserva capacidad con antelación.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Monitoriza los envíos en tiempo real. El seguimiento y el GPS dan visibilidad y permiten actuar si hay retrasos.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Consolida con criterio. Para cargas pequeñas, el groupage ahorra costes pero añade días; agrupa lo urgente en FTL cuando sea posible.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Usa soluciones multimodales. Combinaciones con ferrocarril o ferri pueden ser más rápidas/fiables en ciertas rutas (p. ej., Alpes o Canal de la Mancha).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Colabora con transitarios expertos. El conocimiento de Logifie de las redes europeas y la regulación ayuda a planificar plazos realistas y gestionar incidencias.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusión: planificar para la previsibilidad"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Los tiempos de tránsito en el transporte por carretera europeo dependen de mucho más que los kilómetros. Horas de conducción, modelos de consolidación, infraestructura y factores externos marcan los plazos. Entendiendo estas variables y cooperando con socios logísticos, los cargadores fijan expectativas realistas, evitan sanciones y mantienen la cadena de suministro estable.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fuentes"
+    },
+    {
+      "type": "citation",
+      "text": "Road transport workers: driving and rest time rules (European Union, 2024) - Explica las normas de la UE sobre tiempos de conducción y descanso, incluyendo máximos diarios/semanales y pausas obligatorias.",
+      "author": "European Commission",
+      "url": "https://europa.eu/youreurope/business/dealing-with-customers/transport/road-transport-workers/index_en.htm"
+    },
+    {
+      "type": "citation",
+      "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Aporta guías de tránsito para furgonetas dedicadas y camiones FTL: hasta 700 km al día siguiente, 700-1.500 km en dos días, más de 1.500 km en 3-4 días; hasta 550 km al día siguiente y 550-1.300 km en dos días para FTL.",
+      "author": "Visline Sp. z o.o.",
+      "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"
+    },
+    {
+      "type": "citation",
+      "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Señala que las cargas parciales/groupage suelen tardar 3-6 días independientemente de la distancia debido a los puntos de (des)consolidación.",
+      "author": "Visline Sp. z o.o.",
+      "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"
+    }
   ],
   "tags": [
     "tiempos de tránsito transporte por carretera europeo",
@@ -59,4 +210,3 @@
     "promesas de entrega realistas logística"
   ]
 }
-

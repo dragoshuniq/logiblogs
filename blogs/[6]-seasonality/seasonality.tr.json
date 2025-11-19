@@ -1,5 +1,5 @@
 {
-  "id": "seasonality-in-european-logistics-planning-for-peaks-and-disruptions",
+  "id": "seasonality-in-european-logistics-planning-for-peaks-and-disruptions-tr",
   "shortId": "seasonality-logistics",
   "language": "tr",
   "isVisible": true,
@@ -8,46 +8,229 @@
   "description": "Çin Yeni Yılı'ndan yıl sonu dönemine kadar Avrupa'nın lojistik takvimi, kapasiteyi zorlayan, fiyatları artıran ve tedarik zinciri dayanıklılığını test eden zirvelerle işaretlidir. Bu mevsimsel döngüleri anlayan göndericiler...",
   "publishedAt": "2024-12-22T00:00:00Z",
   "category": "Planlama",
-  "author": {"name": "Logifie Team", "role": "Lojistik teknolojileri uzmanları", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Lojistik teknolojileri uzmanları",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "seasonality-hero.png",
   "imageAlt": "Avrupa'da Çin Yeni Yılı, yaz tatili ve yılsonu indirimleri gibi başlıca lojistik zirveleri gösteren takvim",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Mevsimsellik planlamayı zorlaştırır ve maliyetleri etkiler. Bilinen zirve dönemlerini tanıyıp kapasiteyi erken güvenceye almak, stokları ayarlamak ve esneklik eklemek fark yaratır.", "bold": false}]},
-    {"type": "image", "src": "seasonality-visual.png", "alt": "Yoğun sezonda paletler ve çalışanlarla dolu Avrupalı bir depo", "caption": "Aşırı dolu depo alanı, planlamacıların zirve dönemlerde karşılaştığı darboğazları gösterir."},
-    {"type": "heading", "level": 2, "text": "Başlıca zirve dönemleri"},
-    {"type": "heading", "level": 3, "text": "Çin Yeni Yılı (Ocak-Şubat)"},
-    {"type": "paragraph", "children": [{"text": "Çin'de fabrikalar iki haftaya kadar kapanır ve tatil öncesi/sonrasında sevkiyatlarda artış görülür. Avrupalı ithalatçılar kapasiteyi erken ayırtmalı ve ekipman akışındaki dengesizlikler nedeniyle gecikmeleri öngörmelidir (A.P. Moller - Maersk, 2025).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Yaz tatili ve okula dönüş (Temmuz-Ağustos)"},
-    {"type": "paragraph", "children": [{"text": "Moda, elektronik ve okul gereçlerine talep artar. Aynı anda birçok sürücü ve liman işçisi izindedir; kapasite azalır. 2024'te NTG, Avrupa ana karasında 29. haftadan itibaren kapasitenin azaldığını; bazı hatlarda (İspanya, Fransa, İtalya, İsviçre) 32-34. haftalarda özel düzenlemeler gerektiğini; 35. hafta civarında normalleştiğini bildirdi (NTG, 2024).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Golden Week (1-7 Ekim)"},
-    {"type": "paragraph", "children": [{"text": "Çin'in ulusal tatili üretimi ve limanları kısmen durdurur; tatil öncesi/sonrası yeniden bir zirve oluşturur (A.P. Moller - Maersk, 2025).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Black Friday ve Cyber Monday (Kasım sonu)"},
-    {"type": "paragraph", "children": [{"text": "E-ticaret kampanyaları koli ve palet hacimlerini artırır. Son kilometre ağları ve ayrıştırma merkezleri zorlanır; taşıyıcılar yüksek marjlı gönderileri öne alır.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Yıl sonu tatilleri (Aralık)"},
-    {"type": "paragraph", "children": [{"text": "Perakende, Noel ve Yılbaşı için rafları doldurur. Alan kıtlığı, liman yoğunluğu ve son kilometre kısıtları artar.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Zirvelerin etkileri"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Kapasite darlığı ve fiyat artışları. Artan talep kara taşımacılığı, depolar ve limanları zorlar; spot fiyatlar yükselir.", "bold": false}],
-      [{"text": "Daha uzun transit ve gecikmeler. Sürüş/dinlenme kuralları, sınırlı personel ve dolu ağlar teslimatı yavaşlatır.", "bold": false}],
-      [{"text": "Stok zorlukları. Yanlış tahminlerde stok yokluğu veya aşırısı oluşur.", "bold": false}],
-      [{"text": "Operasyonel stres. Depolarda işgücü eksikliği ve son kilometre darboğazları hataları ve talepleri artırır.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Planlama stratejileri"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Kapasiteyi erken ayırtın. Zirvelerden haftalar önce taşıma ve depo slotlarını güvenceye alın.", "bold": false}],
-      [{"text": "Mod ve rotaları çeşitlendirin. Demiryolu, short-sea veya hava ile tıkalı koridorları aşın.", "bold": false}],
-      [{"text": "Doğru tahmin yapın. Tedarikçiler/müşterilerle çalışarak tahminleri iyileştirin ve stokları ayarlayın.", "bold": false}],
-      [{"text": "Gönderileri yayarak sevk edin. Taşıyıcıları aşırı yüklememek için siparişleri haftalara yayın.", "bold": false}],
-      [{"text": "Esnek sözleşmeler. Değişken tarifelerle garantili alan; zirve dönemi eklerini dikkate alın.", "bold": false}],
-      [{"text": "Cross-docking ve konsolidasyon. Küçük gönderileri birleştirerek doluluk oranını artırın ve gecikmeleri azaltın.", "bold": false}],
-      [{"text": "Teknoloji. Gerçek zamanlı görünürlük yeniden rotalama ve istisna yönetimini sağlar.", "bold": false}],
-      [{"text": "Şeffaf iletişim. Olası gecikmeleri bildirin ve gerçekçi beklentiler belirleyin.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Sonuç: zirvelere hazırlanın, rekabet gücünü koruyun"},
-    {"type": "paragraph", "children": [{"text": "Mevsimsellik, Avrupa lojistiğinde bir gerçektir. Önden planlayan, dayanıklılık inşa eden ve çevik sağlayıcılarla çalışan şirketler zirveleri fırsata çevirir. Zirvelerin ne zaman/niçin oluştuğunu anlayıp erken rezervasyon, multimodal çözümler ve güvenilir tahminler kullanarak aksaklıkları yönetir ve müşterileri memnun edersiniz.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Kaynaklar"},
-    {"type": "citation", "text": "Peak logistics periods: Chinese New Year, Golden Week and holiday seasons (A.P. Moller - Maersk, 2025) - Beş küresel zirveyi - Çin Yeni Yılı, yaz/okula dönüş, Golden Week, Black Friday/Cyber Monday ve yıl sonu - ve kapasite, süre ve maliyet etkilerini açıklar.", "author": "Maersk", "url": "https://www.maersk.com/news/articles/2025/peak-logistics-periods"},
-    {"type": "citation", "text": "Impact of the summer season on road freight (NTG Nordic Transport Group, 2024) - 29. haftadan itibaren kıta Avrupasında kapasitenin düştüğünü; bazı hatlarda (İspanya, Fransa, İtalya, İsviçre) 32-34. haftalarda düzenlemeler gerektiğini ve 35. hafta civarı normale döndüğünü belirtir.", "author": "NTG Nordic Transport Group", "url": "https://ntg.com/news/summer-season-road-freight-impact/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Mevsimsellik planlamayı zorlaştırır ve maliyetleri etkiler. Bilinen zirve dönemlerini tanıyıp kapasiteyi erken güvenceye almak, stokları ayarlamak ve esneklik eklemek fark yaratır.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "seasonality-visual.png",
+      "alt": "Yoğun sezonda paletler ve çalışanlarla dolu Avrupalı bir depo",
+      "caption": "Aşırı dolu depo alanı, planlamacıların zirve dönemlerde karşılaştığı darboğazları gösterir."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Başlıca zirve dönemleri"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Çin Yeni Yılı (Ocak-Şubat)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Çin'de fabrikalar iki haftaya kadar kapanır ve tatil öncesi/sonrasında sevkiyatlarda artış görülür. Avrupalı ithalatçılar kapasiteyi erken ayırtmalı ve ekipman akışındaki dengesizlikler nedeniyle gecikmeleri öngörmelidir (A.P. Moller - Maersk, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Yaz tatili ve okula dönüş (Temmuz-Ağustos)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Moda, elektronik ve okul gereçlerine talep artar. Aynı anda birçok sürücü ve liman işçisi izindedir; kapasite azalır. 2024'te NTG, Avrupa ana karasında 29. haftadan itibaren kapasitenin azaldığını; bazı hatlarda (İspanya, Fransa, İtalya, İsviçre) 32-34. haftalarda özel düzenlemeler gerektiğini; 35. hafta civarında normalleştiğini bildirdi (NTG, 2024).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Golden Week (1-7 Ekim)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Çin'in ulusal tatili üretimi ve limanları kısmen durdurur; tatil öncesi/sonrası yeniden bir zirve oluşturur (A.P. Moller - Maersk, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Black Friday ve Cyber Monday (Kasım sonu)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "E-ticaret kampanyaları koli ve palet hacimlerini artırır. Son kilometre ağları ve ayrıştırma merkezleri zorlanır; taşıyıcılar yüksek marjlı gönderileri öne alır.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Yıl sonu tatilleri (Aralık)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Perakende, Noel ve Yılbaşı için rafları doldurur. Alan kıtlığı, liman yoğunluğu ve son kilometre kısıtları artar.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Zirvelerin etkileri"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Kapasite darlığı ve fiyat artışları. Artan talep kara taşımacılığı, depolar ve limanları zorlar; spot fiyatlar yükselir.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Daha uzun transit ve gecikmeler. Sürüş/dinlenme kuralları, sınırlı personel ve dolu ağlar teslimatı yavaşlatır.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Stok zorlukları. Yanlış tahminlerde stok yokluğu veya aşırısı oluşur.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Operasyonel stres. Depolarda işgücü eksikliği ve son kilometre darboğazları hataları ve talepleri artırır.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Planlama stratejileri"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Kapasiteyi erken ayırtın. Zirvelerden haftalar önce taşıma ve depo slotlarını güvenceye alın.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Mod ve rotaları çeşitlendirin. Demiryolu, short-sea veya hava ile tıkalı koridorları aşın.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Doğru tahmin yapın. Tedarikçiler/müşterilerle çalışarak tahminleri iyileştirin ve stokları ayarlayın.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Gönderileri yayarak sevk edin. Taşıyıcıları aşırı yüklememek için siparişleri haftalara yayın.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Esnek sözleşmeler. Değişken tarifelerle garantili alan; zirve dönemi eklerini dikkate alın.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Cross-docking ve konsolidasyon. Küçük gönderileri birleştirerek doluluk oranını artırın ve gecikmeleri azaltın.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Teknoloji. Gerçek zamanlı görünürlük yeniden rotalama ve istisna yönetimini sağlar.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Şeffaf iletişim. Olası gecikmeleri bildirin ve gerçekçi beklentiler belirleyin.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sonuç: zirvelere hazırlanın, rekabet gücünü koruyun"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Mevsimsellik, Avrupa lojistiğinde bir gerçektir. Önden planlayan, dayanıklılık inşa eden ve çevik sağlayıcılarla çalışan şirketler zirveleri fırsata çevirir. Zirvelerin ne zaman/niçin oluştuğunu anlayıp erken rezervasyon, multimodal çözümler ve güvenilir tahminler kullanarak aksaklıkları yönetir ve müşterileri memnun edersiniz.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kaynaklar"
+    },
+    {
+      "type": "citation",
+      "text": "Peak logistics periods: Chinese New Year, Golden Week and holiday seasons (A.P. Moller - Maersk, 2025) - Beş küresel zirveyi - Çin Yeni Yılı, yaz/okula dönüş, Golden Week, Black Friday/Cyber Monday ve yıl sonu - ve kapasite, süre ve maliyet etkilerini açıklar.",
+      "author": "Maersk",
+      "url": "https://www.maersk.com/news/articles/2025/peak-logistics-periods"
+    },
+    {
+      "type": "citation",
+      "text": "Impact of the summer season on road freight (NTG Nordic Transport Group, 2024) - 29. haftadan itibaren kıta Avrupasında kapasitenin düştüğünü; bazı hatlarda (İspanya, Fransa, İtalya, İsviçre) 32-34. haftalarda düzenlemeler gerektiğini ve 35. hafta civarı normale döndüğünü belirtir.",
+      "author": "NTG Nordic Transport Group",
+      "url": "https://ntg.com/news/summer-season-road-freight-impact/"
+    }
   ],
   "tags": [
     "mevsimsellik lojistik",
@@ -59,4 +242,3 @@
     "aksaklık yönetimi lojistik avrupa"
   ]
 }
-

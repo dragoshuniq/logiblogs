@@ -1,5 +1,5 @@
 {
-  "id": "digital-freight-forwarding-vs-traditional-forwarding",
+  "id": "digital-freight-forwarding-vs-traditional-forwarding-fi",
   "shortId": "digital-vs-traditional",
   "language": "fi",
   "isVisible": true,
@@ -81,7 +81,12 @@
       "type": "list",
       "ordered": false,
       "items": [
-        [{ "text": "Pikatarjoukset ja varaukset", "bold": false }],
+        [
+          {
+            "text": "Pikatarjoukset ja varaukset",
+            "bold": false
+          }
+        ],
         [
           {
             "text": "Reaaliaikanäkyvyys (IoT/integr aatiot), ennakoidut ETA:t ja hälytykset",
@@ -94,7 +99,12 @@
             "bold": false
           }
         ],
-        [{ "text": "CO2-laskenta lähetystä kohti", "bold": false }],
+        [
+          {
+            "text": "CO2-laskenta lähetystä kohti",
+            "bold": false
+          }
+        ],
         [
           {
             "text": "Avoimet API:t TMS/WMS-integraatioon",
@@ -126,7 +136,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 2, "text": "Trendit" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Trendit"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -163,7 +177,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Yhteenveto" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Yhteenveto"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -174,5 +192,8 @@
       ]
     }
   ],
-  "tags": ["digitaalinen huolinta", "logistiikkateknologia"]
+  "tags": [
+    "digitaalinen huolinta",
+    "logistiikkateknologia"
+  ]
 }

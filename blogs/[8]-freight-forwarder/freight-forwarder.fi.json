@@ -1,5 +1,5 @@
 {
-  "id": "working-with-a-freight-forwarder-what-shippers-should-expect-day-to-day",
+  "id": "working-with-a-freight-forwarder-what-shippers-should-expect-day-to-day-fi",
   "shortId": "working-with-forwarder",
   "language": "fi",
   "isVisible": true,
@@ -16,49 +16,246 @@
   "image": "freight-forwarder-hero.png",
   "imageAlt": "Huolitsijan valvontahuone, jossa on live-kojelautoja, karttoja ja käsiteltäviä asiakirjoja",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Huolitsijat toimivat kuljetuksen arkkitehteina: he orkestroivat monimuotoketjuja ja huolehtivat asiakirjoista, vaatimustenmukaisuudesta ja koordinoinnista, jotta tavarat liikkuvat lähtöpisteestä määränpäähän. Lähettäjälle ymmärrys siitä, mitä huolitsijat tekevät ja miten heidän kanssaan työskennellään, parantaa tehokkuutta ja vähentää stressiä. Tässä artikkelissa kuvataan huolitsijoiden päivittäistä työtä, heidän tuomaansa arvoa sekä kumppanin valintakriteerejä.", "bold": false}]},
-    {"type": "image", "src": "freight-forwarder-visual.png", "alt": "Logistiikkapäällikkö ja huolitsija käyvät yhdessä läpi rahtiasiakirjoja toimistossa", "caption": "Huolitsija ja lähettäjä tarkistavat varauksen asiakirjat ennen kuin kuorma-autot lähtevät varastolta."},
-    {"type": "heading", "level": 2, "text": "Mikä on huolitsija?"},
-    {"type": "paragraph", "children": [{"text": "FIATA (International Federation of Freight Forwarders Associations) määrittelee huolinta- ja logistiikkapalvelut kaikiksi palveluiksi, jotka liittyvät tavaroiden kuljetukseen, konsolidointiin, varastointiin, käsittelyyn, pakkaukseen tai jakeluun sekä oheis- ja neuvontapalveluiksi, kuten tulliin ja verotukseen, vakuutuksiin ja maksujen välitykseen (FIATA, 2004). Huolitsija varmistaa, että tavarat saapuvat oikeaan paikkaan, oikeaan aikaan, hyvässä kunnossa ja kohtuullisin kustannuksin (FIATA, 2004).", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Huolitsijat tuovat osaamista useilla alueilla:", "bold": false}]},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Logistiikan suunnittelu: huolitsijat suunnittelevat reittejä ja valitsevat kuljetusmuodot, neuvottelevat hinnat ja tasapainottavat kustannuksia, nopeutta ja luotettavuutta (FIATA, 2004).", "bold": false}],
-      [{"text": "Sääntelyn noudattaminen: he hoitavat vienti- ja tuontiasiakirjat, tulliselvitykset ja varmistavat vaatimusten täyttymisen (FIATA, 2004).", "bold": false}],
-      [{"text": "Riskienhallinta: neuvovat vakuutuksista, hallitsevat vahinko- ja viiveriskejä ja auttavat korvausprosesseissa (FIATA, 2004).", "bold": false}],
-      [{"text": "Rahoitus ja maksut: helpottavat maksuja ostajan ja myyjän välillä ja järjestävät luotto- tai vakuutusinstrumentteja (FIATA, 2004).", "bold": false}],
-      [{"text": "Poikkitoiminnallinen integraatio: IT:n avulla integroidaan dataa lähettäjien, kuljetusliikkeiden ja viranomaisten välillä näkyvyyden parantamiseksi (FIATA, 2004).", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Arjen yhteistyö huolitsijan kanssa"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Tarjoukset ja varaukset. Lähettäjä ilmoittaa tavaralajin, painon, mitat, nouto- ja toimituspaikan sekä halutun läpimenoajan. Huolitsija tarkistaa kapasiteetin ja laatii tarjouksen, joka sisältää perusrahdin, polttoainelisät, tiemaksut ja lisäkulut. Digitaaliset toimijat antavat usein pikatarjouksia; perinteiset voivat tarvita enemmän aikaa.", "bold": false}],
-      [{"text": "Dokumentointi. Varauksen jälkeen huolitsija kerää kauppalaskut, pakkauslistat sekä tarvittavat luvat/sertifikaatit. Laatii CMR:n, tulliselvitykset ja transit-asiakirjat (T1/T2). ADR-kuljetuksissa tarkistetaan pätevyydet ja käyttöturvallisuustiedotteet.", "bold": false}],
-      [{"text": "Kuljetuksen koordinointi. Huolitsija aikatauluttaa noudon, koordinoi varastojen kanssa ja seuraa lähetyksiä läpivirtaus­terminaalien kautta. Hoitaa rajamuodollisuudet; kuljettajilla on komennusilmoitukset ja ajopiirturitiedot.", "bold": false}],
-      [{"text": "Seuranta ja poikkeamien hallinta. Tilapäivitykset sähköpostilla, puhelimitse tai kojelaudan kautta. Viiveissä (tulli, sää) sovitaan uudelleenreititys tai korjattu ETA.", "bold": false}],
-      [{"text": "Toimitus ja päätös. Toimituksen jälkeen huolitsija hankkii POD:n ja päivittää CMR:n. Sovittaa laskut ja maksut kuljetusliikkeille. DDP:ssä voi hoitaa maahantuontimaksut myyjän puolesta.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Yhteistyön hyödyt"},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Osaaminen ja mittakaava. Huolitsijat neuvottelevat parempia hintoja ja tuntevat sääntelyn.", "bold": false}],
-      [{"text": "Vähemmän hallinnollista työtä. He hoitavat asiakirjat, tullin ja compliance-tehtävät, jotta lähettäjä voi keskittyä ydinliiketoimintaan.", "bold": false}],
-      [{"text": "Läpinäkyvyys ja ohjaus. Digitaaliset huolitsijat tarjoavat reaaliaikaista seurantaa ja kustannusanalytiikkaa.", "bold": false}],
-      [{"text": "Riskien vähentäminen. Neuvonta vakuutusturvasta ja tuki korvausprosesseissa.", "bold": false}],
-      [{"text": "Joustavuus. Häiriöissä voidaan vaihtaa kuljetusliikettä, kuljetusmuotoa tai reittiä.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Näin valitset oikean huolitsijan"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Referenssit ja kokemus. Etsi FIATA-jäsenyyttä tai kansallisia liittoja. Kysy kokemuksesta tavaroidesi ja reittiesi osalta.", "bold": false}],
-      [{"text": "Digitaaliset valmiudet. Modernit huolitsijat tarjoavat verkkovarausta, seurantaa, automatisoituja dokumentteja ja TMS-integraatioita.", "bold": false}],
-      [{"text": "Verkoston vahvuus. Suhteet kuljetusliikkeisiin ja agenteihin lähtö- ja määräpäässä vaikuttavat kapasiteettiin ja palveluun.", "bold": false}],
-      [{"text": "Asiakaspalvelu. Arvioi vasteaika ja ongelmanratkaisukyky.", "bold": false}],
-      [{"text": "Noudattamishistoria. Varmista kilpailu- ja sääntelystandardien noudattaminen.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Johtopäätös: kumppanuus ratkaisee"},
-    {"type": "paragraph", "children": [{"text": "Huolitsijat ovat enemmän kuin välikäsiä; he ovat kumppaneita, jotka suunnittelevat ja johtavat monimutkaisia logistiikkaoperaatioita. Ymmärtämällä heidän roolinsa ja odotukset lähettäjät voivat rakentaa tuottavia suhteita, virtaviivaistaa prosesseja ja varmistaa sujuvan liikkumisen yli rajojen. Kumppani kuten Logifie, joka yhdistää toimialaosaamisen ja digitaaliset työkalut, tuo kilpailuetua nykyisessä dynaamisessa logistiikkaympäristössä.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Lähteet"},
-    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Määrittelee huolinta- ja logistiikkapalvelut: kuljetus, konsolidointi, varastointi, käsittely, pakkaus, jakelu sekä tullit, vakuutukset ja maksujen käsittely.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
-    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Selittää logistiikan suunnittelun: neuvottelut kuljetusliikkeiden kanssa palveluketjuista, jotka tasapainottavat kustannusta, nopeutta ja luotettavuutta.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
-    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Kuvaa roolit compliance-tehtävissä, riskienhallinnassa sekä neuvonnassa vakuutus- ja valuuttariskeistä.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
-    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Toteaa, että huolitsijat hoitavat talousasioita ja IT:n avulla tukevat poikkitoiminnallista integraatiota.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Huolitsijat toimivat kuljetuksen arkkitehteina: he orkestroivat monimuotoketjuja ja huolehtivat asiakirjoista, vaatimustenmukaisuudesta ja koordinoinnista, jotta tavarat liikkuvat lähtöpisteestä määränpäähän. Lähettäjälle ymmärrys siitä, mitä huolitsijat tekevät ja miten heidän kanssaan työskennellään, parantaa tehokkuutta ja vähentää stressiä. Tässä artikkelissa kuvataan huolitsijoiden päivittäistä työtä, heidän tuomaansa arvoa sekä kumppanin valintakriteerejä.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "freight-forwarder-visual.png",
+      "alt": "Logistiikkapäällikkö ja huolitsija käyvät yhdessä läpi rahtiasiakirjoja toimistossa",
+      "caption": "Huolitsija ja lähettäjä tarkistavat varauksen asiakirjat ennen kuin kuorma-autot lähtevät varastolta."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mikä on huolitsija?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "FIATA (International Federation of Freight Forwarders Associations) määrittelee huolinta- ja logistiikkapalvelut kaikiksi palveluiksi, jotka liittyvät tavaroiden kuljetukseen, konsolidointiin, varastointiin, käsittelyyn, pakkaukseen tai jakeluun sekä oheis- ja neuvontapalveluiksi, kuten tulliin ja verotukseen, vakuutuksiin ja maksujen välitykseen (FIATA, 2004). Huolitsija varmistaa, että tavarat saapuvat oikeaan paikkaan, oikeaan aikaan, hyvässä kunnossa ja kohtuullisin kustannuksin (FIATA, 2004).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Huolitsijat tuovat osaamista useilla alueilla:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Logistiikan suunnittelu: huolitsijat suunnittelevat reittejä ja valitsevat kuljetusmuodot, neuvottelevat hinnat ja tasapainottavat kustannuksia, nopeutta ja luotettavuutta (FIATA, 2004).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sääntelyn noudattaminen: he hoitavat vienti- ja tuontiasiakirjat, tulliselvitykset ja varmistavat vaatimusten täyttymisen (FIATA, 2004).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Riskienhallinta: neuvovat vakuutuksista, hallitsevat vahinko- ja viiveriskejä ja auttavat korvausprosesseissa (FIATA, 2004).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Rahoitus ja maksut: helpottavat maksuja ostajan ja myyjän välillä ja järjestävät luotto- tai vakuutusinstrumentteja (FIATA, 2004).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Poikkitoiminnallinen integraatio: IT:n avulla integroidaan dataa lähettäjien, kuljetusliikkeiden ja viranomaisten välillä näkyvyyden parantamiseksi (FIATA, 2004).",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Arjen yhteistyö huolitsijan kanssa"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Tarjoukset ja varaukset. Lähettäjä ilmoittaa tavaralajin, painon, mitat, nouto- ja toimituspaikan sekä halutun läpimenoajan. Huolitsija tarkistaa kapasiteetin ja laatii tarjouksen, joka sisältää perusrahdin, polttoainelisät, tiemaksut ja lisäkulut. Digitaaliset toimijat antavat usein pikatarjouksia; perinteiset voivat tarvita enemmän aikaa.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Dokumentointi. Varauksen jälkeen huolitsija kerää kauppalaskut, pakkauslistat sekä tarvittavat luvat/sertifikaatit. Laatii CMR:n, tulliselvitykset ja transit-asiakirjat (T1/T2). ADR-kuljetuksissa tarkistetaan pätevyydet ja käyttöturvallisuustiedotteet.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kuljetuksen koordinointi. Huolitsija aikatauluttaa noudon, koordinoi varastojen kanssa ja seuraa lähetyksiä läpivirtaus­terminaalien kautta. Hoitaa rajamuodollisuudet; kuljettajilla on komennusilmoitukset ja ajopiirturitiedot.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Seuranta ja poikkeamien hallinta. Tilapäivitykset sähköpostilla, puhelimitse tai kojelaudan kautta. Viiveissä (tulli, sää) sovitaan uudelleenreititys tai korjattu ETA.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Toimitus ja päätös. Toimituksen jälkeen huolitsija hankkii POD:n ja päivittää CMR:n. Sovittaa laskut ja maksut kuljetusliikkeille. DDP:ssä voi hoitaa maahantuontimaksut myyjän puolesta.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Yhteistyön hyödyt"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Osaaminen ja mittakaava. Huolitsijat neuvottelevat parempia hintoja ja tuntevat sääntelyn.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Vähemmän hallinnollista työtä. He hoitavat asiakirjat, tullin ja compliance-tehtävät, jotta lähettäjä voi keskittyä ydinliiketoimintaan.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Läpinäkyvyys ja ohjaus. Digitaaliset huolitsijat tarjoavat reaaliaikaista seurantaa ja kustannusanalytiikkaa.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Riskien vähentäminen. Neuvonta vakuutusturvasta ja tuki korvausprosesseissa.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Joustavuus. Häiriöissä voidaan vaihtaa kuljetusliikettä, kuljetusmuotoa tai reittiä.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Näin valitset oikean huolitsijan"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Referenssit ja kokemus. Etsi FIATA-jäsenyyttä tai kansallisia liittoja. Kysy kokemuksesta tavaroidesi ja reittiesi osalta.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Digitaaliset valmiudet. Modernit huolitsijat tarjoavat verkkovarausta, seurantaa, automatisoituja dokumentteja ja TMS-integraatioita.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Verkoston vahvuus. Suhteet kuljetusliikkeisiin ja agenteihin lähtö- ja määräpäässä vaikuttavat kapasiteettiin ja palveluun.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Asiakaspalvelu. Arvioi vasteaika ja ongelmanratkaisukyky.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Noudattamishistoria. Varmista kilpailu- ja sääntelystandardien noudattaminen.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Johtopäätös: kumppanuus ratkaisee"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Huolitsijat ovat enemmän kuin välikäsiä; he ovat kumppaneita, jotka suunnittelevat ja johtavat monimutkaisia logistiikkaoperaatioita. Ymmärtämällä heidän roolinsa ja odotukset lähettäjät voivat rakentaa tuottavia suhteita, virtaviivaistaa prosesseja ja varmistaa sujuvan liikkumisen yli rajojen. Kumppani kuten Logifie, joka yhdistää toimialaosaamisen ja digitaaliset työkalut, tuo kilpailuetua nykyisessä dynaamisessa logistiikkaympäristössä.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lähteet"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Määrittelee huolinta- ja logistiikkapalvelut: kuljetus, konsolidointi, varastointi, käsittely, pakkaus, jakelu sekä tullit, vakuutukset ja maksujen käsittely.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Selittää logistiikan suunnittelun: neuvottelut kuljetusliikkeiden kanssa palveluketjuista, jotka tasapainottavat kustannusta, nopeutta ja luotettavuutta.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Kuvaa roolit compliance-tehtävissä, riskienhallinnassa sekä neuvonnassa vakuutus- ja valuuttariskeistä.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Toteaa, että huolitsijat hoitavat talousasioita ja IT:n avulla tukevat poikkitoiminnallista integraatiota.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    }
   ],
   "tags": [
     "mitä huolitsija tekee",
@@ -70,4 +267,3 @@
     "kuinka valita huolitsija"
   ]
 }
-

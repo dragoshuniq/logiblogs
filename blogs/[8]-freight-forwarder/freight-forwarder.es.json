@@ -1,5 +1,5 @@
 {
-  "id": "working-with-a-freight-forwarder-what-shippers-should-expect-day-to-day",
+  "id": "working-with-a-freight-forwarder-what-shippers-should-expect-day-to-day-es",
   "shortId": "working-with-forwarder",
   "language": "es",
   "isVisible": true,
@@ -16,49 +16,246 @@
   "image": "freight-forwarder-hero.png",
   "imageAlt": "Centro de control del transitario con paneles en vivo, mapas y documentación en proceso",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Un transitario diseña y gestiona operaciones logísticas complejas. Comprender su aportación y expectativas permite a los cargadores agilizar procesos y evitar fricciones. Este artículo explica las actividades diarias del transitario, el valor que aporta y cómo elegir al socio adecuado.", "bold": false}]},
-    {"type": "image", "src": "freight-forwarder-visual.png", "alt": "Responsable logístico y transitario revisan juntos la documentación de la expedición", "caption": "Transitario y cargador revisan la reserva y sus documentos antes de la salida de los camiones."},
-    {"type": "heading", "level": 2, "text": "¿Qué es un transitario?"},
-    {"type": "paragraph", "children": [{"text": "La FIATA define los servicios de transitario y logística como prestaciones vinculadas al transporte, consolidación, almacenamiento, manipulación, embalaje o distribución, así como servicios conexos y de asesoría (aduanas, fiscalidad, seguros, cobros) (FIATA, 2004). El objetivo: entregar en el lugar y momento adecuados, en buen estado y a un coste razonable (FIATA, 2004).", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Ámbitos de especialidad del transitario:", "bold": false}]},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Planificación logística: diseña rutas y selecciona modos, negociando con transportistas el equilibrio entre coste, rapidez y fiabilidad (FIATA, 2004).", "bold": false}],
-      [{"text": "Cumplimiento normativo: gestiona documentación de exportación/importación, declaraciones aduaneras y requisitos regulatorios (FIATA, 2004).", "bold": false}],
-      [{"text": "Gestión de riesgos: asesora sobre seguros, gestiona el riesgo de pérdida/daño y tramita reclamaciones (FIATA, 2004).", "bold": false}],
-      [{"text": "Finanzas y pagos: facilita pagos entre comprador y vendedor y articula instrumentos de crédito/seguro (FIATA, 2004).", "bold": false}],
-      [{"text": "Integración transversal: mediante TI integra datos entre cargadores, transportistas y aduanas para aumentar la visibilidad (FIATA, 2004).", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Interacciones cotidianas con el transitario"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Cotizaciones y reservas. El cargador indica mercancía, peso, dimensiones, origen/destino y tiempos. El transitario comprueba capacidad y cotiza la tarifa con flete base, recargo de combustible, peajes y extras. Los digitales ofrecen precios instantáneos; los tradicionales tardan más por coordinación manual.", "bold": false}],
-      [{"text": "Documentación. Tras reservar, recopila facturas, listas de empaque y licencias/certificados. Prepara el CMR, declaraciones aduaneras y documentos de tránsito (T1/T2). En ADR verifica certificados y FDS.", "bold": false}],
-      [{"text": "Coordinación del transporte. Agenda la recogida, coordina con almacenes y supervisa la expedición en hubs. Gestiona formalidades transfronterizas; los conductores portan declaraciones de desplazamiento y registros de tacógrafo.", "bold": false}],
-      [{"text": "Seguimiento y gestión de incidencias. Estados por correo/teléfono/dashboards. En retrasos (aduanas, clima), reencamina o ajusta ETAs con las partes.", "bold": false}],
-      [{"text": "Entrega y cierre. A la entrega, obtiene el POD y actualiza el CMR. Cuadra facturas y paga a transportistas. En DDP, puede gestionar el pago de derechos en nombre del vendedor.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Beneficios de colaborar con un transitario"},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Experiencia y escala. Mejores tarifas y dominio normativo.", "bold": false}],
-      [{"text": "Menos carga administrativa. Se ocupan de documentos, aduanas y compliance.", "bold": false}],
-      [{"text": "Visibilidad y control. Los digitales aportan tracking en tiempo real y analítica.", "bold": false}],
-      [{"text": "Mitigación de riesgos. Asesoría en seguros y gestión de siniestros.", "bold": false}],
-      [{"text": "Flexibilidad. Cambian transportista, modo o ruta ante disrupciones.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Cómo elegir al transitario adecuado"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Credenciales y experiencia. Membresía FIATA/asociaciones; experiencia en tus mercancías y lanes.", "bold": false}],
-      [{"text": "Capacidades digitales. Reserva online, tracking, documentación automática, integración TMS.", "bold": false}],
-      [{"text": "Fuerza de red. Relaciones con transportistas y agentes en origen/destino.", "bold": false}],
-      [{"text": "Atención al cliente. Evalúa respuesta y resolución de problemas.", "bold": false}],
-      [{"text": "Historial de cumplimiento. Adhesión a políticas de competencia y normativa.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Conclusión: la clave es la colaboración"},
-    {"type": "paragraph", "children": [{"text": "Un transitario es más que un intermediario: es un socio que diseña y gestiona operaciones logísticas complejas. Entender sus roles permite relaciones productivas, procesos más ágiles y tránsitos transfronterizos fluidos. Un socio como Logifie, que combina experiencia y herramientas digitales, aporta una ventaja competitiva.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Fuentes"},
-    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Define los servicios de transitario y logística: transporte, consolidación, almacenamiento, manipulación, embalaje, distribución y servicios conexos (aduanas, seguros, cobros).", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
-    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Explica la planificación logística negociando con transportistas el equilibrio coste/rapidez/fiabilidad.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
-    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Describe funciones en cumplimiento, gestión de riesgos y asesoría en seguros/moneda.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
-    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Indica la gestión financiera y la integración transversal mediante TI.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Un transitario diseña y gestiona operaciones logísticas complejas. Comprender su aportación y expectativas permite a los cargadores agilizar procesos y evitar fricciones. Este artículo explica las actividades diarias del transitario, el valor que aporta y cómo elegir al socio adecuado.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "freight-forwarder-visual.png",
+      "alt": "Responsable logístico y transitario revisan juntos la documentación de la expedición",
+      "caption": "Transitario y cargador revisan la reserva y sus documentos antes de la salida de los camiones."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Qué es un transitario?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La FIATA define los servicios de transitario y logística como prestaciones vinculadas al transporte, consolidación, almacenamiento, manipulación, embalaje o distribución, así como servicios conexos y de asesoría (aduanas, fiscalidad, seguros, cobros) (FIATA, 2004). El objetivo: entregar en el lugar y momento adecuados, en buen estado y a un coste razonable (FIATA, 2004).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ámbitos de especialidad del transitario:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Planificación logística: diseña rutas y selecciona modos, negociando con transportistas el equilibrio entre coste, rapidez y fiabilidad (FIATA, 2004).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Cumplimiento normativo: gestiona documentación de exportación/importación, declaraciones aduaneras y requisitos regulatorios (FIATA, 2004).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Gestión de riesgos: asesora sobre seguros, gestiona el riesgo de pérdida/daño y tramita reclamaciones (FIATA, 2004).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Finanzas y pagos: facilita pagos entre comprador y vendedor y articula instrumentos de crédito/seguro (FIATA, 2004).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Integración transversal: mediante TI integra datos entre cargadores, transportistas y aduanas para aumentar la visibilidad (FIATA, 2004).",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Interacciones cotidianas con el transitario"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Cotizaciones y reservas. El cargador indica mercancía, peso, dimensiones, origen/destino y tiempos. El transitario comprueba capacidad y cotiza la tarifa con flete base, recargo de combustible, peajes y extras. Los digitales ofrecen precios instantáneos; los tradicionales tardan más por coordinación manual.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Documentación. Tras reservar, recopila facturas, listas de empaque y licencias/certificados. Prepara el CMR, declaraciones aduaneras y documentos de tránsito (T1/T2). En ADR verifica certificados y FDS.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Coordinación del transporte. Agenda la recogida, coordina con almacenes y supervisa la expedición en hubs. Gestiona formalidades transfronterizas; los conductores portan declaraciones de desplazamiento y registros de tacógrafo.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Seguimiento y gestión de incidencias. Estados por correo/teléfono/dashboards. En retrasos (aduanas, clima), reencamina o ajusta ETAs con las partes.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Entrega y cierre. A la entrega, obtiene el POD y actualiza el CMR. Cuadra facturas y paga a transportistas. En DDP, puede gestionar el pago de derechos en nombre del vendedor.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Beneficios de colaborar con un transitario"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Experiencia y escala. Mejores tarifas y dominio normativo.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Menos carga administrativa. Se ocupan de documentos, aduanas y compliance.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Visibilidad y control. Los digitales aportan tracking en tiempo real y analítica.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Mitigación de riesgos. Asesoría en seguros y gestión de siniestros.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Flexibilidad. Cambian transportista, modo o ruta ante disrupciones.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cómo elegir al transitario adecuado"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Credenciales y experiencia. Membresía FIATA/asociaciones; experiencia en tus mercancías y lanes.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Capacidades digitales. Reserva online, tracking, documentación automática, integración TMS.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Fuerza de red. Relaciones con transportistas y agentes en origen/destino.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Atención al cliente. Evalúa respuesta y resolución de problemas.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Historial de cumplimiento. Adhesión a políticas de competencia y normativa.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusión: la clave es la colaboración"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Un transitario es más que un intermediario: es un socio que diseña y gestiona operaciones logísticas complejas. Entender sus roles permite relaciones productivas, procesos más ágiles y tránsitos transfronterizos fluidos. Un socio como Logifie, que combina experiencia y herramientas digitales, aporta una ventaja competitiva.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fuentes"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Define los servicios de transitario y logística: transporte, consolidación, almacenamiento, manipulación, embalaje, distribución y servicios conexos (aduanas, seguros, cobros).",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Explica la planificación logística negociando con transportistas el equilibrio coste/rapidez/fiabilidad.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Describe funciones en cumplimiento, gestión de riesgos y asesoría en seguros/moneda.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Indica la gestión financiera y la integración transversal mediante TI.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    }
   ],
   "tags": [
     "qué hace un transitario",
@@ -70,4 +267,3 @@
     "cómo elegir transitario"
   ]
 }
-

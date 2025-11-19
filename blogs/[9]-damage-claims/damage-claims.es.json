@@ -1,5 +1,5 @@
 {
-  "id": "how-to-reduce-damage-and-claims-in-road-freight",
+  "id": "how-to-reduce-damage-and-claims-in-road-freight-es",
   "shortId": "reduce-damage-claims",
   "language": "es",
   "isVisible": true,
@@ -16,40 +16,205 @@
   "image": "damage-claims-hero.png",
   "imageAlt": "Lista de comprobación que recuerda al conductor revisar el equipo, cargar correctamente y sellar el remolque",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Los daños en la carga y las reclamaciones que generan no solo reducen el beneficio, sino que también perjudican la reputación. La prevención es más eficaz que afrontar las reclamaciones después. Este artículo expone las causas más comunes de daños, clarifica responsabilidades conforme a los convenios internacionales y presenta buenas prácticas para minimizar el riesgo en el transporte por carretera.", "bold": false}]},
-    {"type": "image", "src": "damage-claims-visual.png", "alt": "Un conductor inspecciona las cinchas de la carga dentro del remolque antes de salir para confirmar que todo está sujeto", "caption": "El conductor vuelve a comprobar las cinchas antes de salir para evitar futuras reclamaciones por daños."},
-    {"type": "heading", "level": 2, "text": "Causas de daños y responsabilidad"},
-    {"type": "paragraph", "children": [{"text": "La carga puede dañarse por manipulación brusca, apilado irregular, humedad, contaminación, desviaciones de temperatura, plagas, incendios o robos. La responsabilidad depende de la causa y de los términos del envío:", "bold": false}]},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Responsabilidad del transportista: en general es responsable de los daños debidos a una manipulación inadecuada, una sujeción insuficiente o el incumplimiento del control de temperatura durante el tránsito (Reload Logistics, 2025).", "bold": false}],
-      [{"text": "Responsabilidad del expedidor: debe embalar, etiquetar y documentar la carga correctamente. Si un embalaje deficiente o mercancías peligrosas no declaradas causan daños, puede ser responsable (Reload Logistics, 2025).", "bold": false}],
-      [{"text": "Responsabilidad del consignatario: debe inspeccionar la carga en la entrega y documentar inmediatamente cualquier daño visible para apoyar la reclamación (Reload Logistics, 2025).", "bold": false}],
-      [{"text": "Incoterms y seguro: los Incoterms determinan cuándo el riesgo pasa del vendedor al comprador. El seguro cubre muchos riesgos, pero no sustituye a una manipulación correcta (Reload Logistics, 2025).", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Buenas prácticas para prevenir daños"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Inspecciones previas al viaje. Revisar remolques por fugas, tablas rotas y objetos salientes. Inspeccionar los dispositivos de sujeción y lonas (Northland Insurance Company, 2022).", "bold": false}],
-      [{"text": "Supervisar la carga y descarga. Verificar carga correcta, distribución uniforme y sujeción. Documentar discrepancias antes de salir del muelle (Northland Insurance Company, 2022).", "bold": false}],
-      [{"text": "Documentar discrepancias. Anotar incidencias en los documentos de envío, avisar a la empresa de inmediato y hacer fotos (Northland Insurance Company, 2022).", "bold": false}],
-      [{"text": "Usar shipper load and count (SLC) cuando proceda. Si no puede supervisarse la carga, firmar los documentos como \"shipper load and count\" para limitar la responsabilidad (Northland Insurance Company, 2022).", "bold": false}],
-      [{"text": "Sellar remolques y asegurar el equipo. Usar precintos y candados de calidad para disuadir robos (Northland Insurance Company, 2022).", "bold": false}],
-      [{"text": "Asegurar la carga. Calzar, bloquear y emplear dispositivos de sujeción adecuados para evitar desplazamientos. Sustituir cinchas desgastadas (Northland Insurance Company, 2022).", "bold": false}],
-      [{"text": "Inspeccionar en ruta. Los conductores deben revisar periódicamente la carga y los dispositivos de sujeción, y reajustarlos si es necesario (Northland Insurance Company, 2022).", "bold": false}],
-      [{"text": "Conducir con prudencia. Evitar frenazos bruscos y giros cerrados que puedan desplazar o volcar la carga (Northland Insurance Company, 2022).", "bold": false}],
-      [{"text": "Controlar la temperatura. Preenfriar equipos y carga, calibrar ajustes y mantener los equipos frigoríficos (IAT Insurance Group, 2023).", "bold": false}],
-      [{"text": "Evitar humedad y contaminación. Inspeccionar contenedores por fugas, usar absorbentes de humedad y exigir certificados de limpieza (Reload Logistics, 2025).", "bold": false}],
-      [{"text": "Gestionar riesgos de seguridad. Aparcar en lugares seguros, estar alerta a robos de carga y usar seguimiento GPS.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Gestión de reclamaciones bajo el Convenio CMR"},
-    {"type": "paragraph", "children": [{"text": "El Convenio relativo al contrato de transporte internacional de mercancías por carretera (CMR) regula la responsabilidad en los envíos transfronterizos por carretera. Generalmente limita la responsabilidad del transportista por kilogramo de peso bruto, salvo en caso de dolo o imprudencia temeraria. Para reclamar indemnización, el consignatario debe anotar los daños en la carta de porte CMR en la entrega y notificar por escrito al transportista en siete días para daños aparentes y en 21 días para daños ocultos.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Conclusión: la prevención gana a la reclamación"},
-    {"type": "paragraph", "children": [{"text": "La mayoría de los daños en carretera pueden evitarse con buena preparación, manipulación cuidadosa y documentación sólida. Con inspecciones previas, supervisión del cargue, sujeción adecuada y formación en conducción segura y control de temperatura, expedidores y transportistas reducen la frecuencia y gravedad de las reclamaciones. Conocer las reglas de responsabilidad CMR y documentar a tiempo agiliza el proceso cuando surgen problemas.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Fuentes"},
-    {"type": "citation", "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Explica las responsabilidades por daños: el transportista responde de la manipulación y transporte seguros desde la aceptación; el expedidor de un embalaje y etiquetado adecuados; el consignatario inspecciona y documenta daños a la entrega; el seguro no sustituye a una manipulación correcta.", "author": "Reload Logistics", "url": "https://www.reloadlogistics.com/blog/how-to-prevent-cargo-damage/"},
-    {"type": "citation", "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Consejos para prevenir reclamaciones: inspecciones previas, supervisión de carga/descarga, documentación de discrepancias, SLC, sellado, sujeción, controles en ruta y conducción prudente.", "author": "Northland Insurance Company", "url": "https://www.northlandins.com/resources/preventing-cargo-claims/"},
-    {"type": "citation", "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Destaca la importancia de dispositivos de sujeción adecuados y una conducción cuidadosa para evitar desplazamientos y accidentes.", "author": "Northland Insurance Company", "url": "https://www.northlandins.com/resources/preventing-cargo-claims/"},
-    {"type": "citation", "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Incide en la formación del conductor, el preenfriamiento y el mantenimiento para evitar reclamaciones por temperatura en mercancía refrigerada.", "author": "IAT Insurance Group", "url": "https://www.iatinsurancegroup.com/transportation/blog/trucking-cargo-claims/"},
-    {"type": "citation", "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Recomienda medidas contra humedad y contaminación: comprobar fugas, sellar aberturas y usar absorbentes.", "author": "Reload Logistics", "url": "https://www.reloadlogistics.com/blog/how-to-prevent-cargo-damage/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Los daños en la carga y las reclamaciones que generan no solo reducen el beneficio, sino que también perjudican la reputación. La prevención es más eficaz que afrontar las reclamaciones después. Este artículo expone las causas más comunes de daños, clarifica responsabilidades conforme a los convenios internacionales y presenta buenas prácticas para minimizar el riesgo en el transporte por carretera.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "damage-claims-visual.png",
+      "alt": "Un conductor inspecciona las cinchas de la carga dentro del remolque antes de salir para confirmar que todo está sujeto",
+      "caption": "El conductor vuelve a comprobar las cinchas antes de salir para evitar futuras reclamaciones por daños."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Causas de daños y responsabilidad"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La carga puede dañarse por manipulación brusca, apilado irregular, humedad, contaminación, desviaciones de temperatura, plagas, incendios o robos. La responsabilidad depende de la causa y de los términos del envío:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Responsabilidad del transportista: en general es responsable de los daños debidos a una manipulación inadecuada, una sujeción insuficiente o el incumplimiento del control de temperatura durante el tránsito (Reload Logistics, 2025).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Responsabilidad del expedidor: debe embalar, etiquetar y documentar la carga correctamente. Si un embalaje deficiente o mercancías peligrosas no declaradas causan daños, puede ser responsable (Reload Logistics, 2025).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Responsabilidad del consignatario: debe inspeccionar la carga en la entrega y documentar inmediatamente cualquier daño visible para apoyar la reclamación (Reload Logistics, 2025).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Incoterms y seguro: los Incoterms determinan cuándo el riesgo pasa del vendedor al comprador. El seguro cubre muchos riesgos, pero no sustituye a una manipulación correcta (Reload Logistics, 2025).",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Buenas prácticas para prevenir daños"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Inspecciones previas al viaje. Revisar remolques por fugas, tablas rotas y objetos salientes. Inspeccionar los dispositivos de sujeción y lonas (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Supervisar la carga y descarga. Verificar carga correcta, distribución uniforme y sujeción. Documentar discrepancias antes de salir del muelle (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Documentar discrepancias. Anotar incidencias en los documentos de envío, avisar a la empresa de inmediato y hacer fotos (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Usar shipper load and count (SLC) cuando proceda. Si no puede supervisarse la carga, firmar los documentos como \"shipper load and count\" para limitar la responsabilidad (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sellar remolques y asegurar el equipo. Usar precintos y candados de calidad para disuadir robos (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Asegurar la carga. Calzar, bloquear y emplear dispositivos de sujeción adecuados para evitar desplazamientos. Sustituir cinchas desgastadas (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Inspeccionar en ruta. Los conductores deben revisar periódicamente la carga y los dispositivos de sujeción, y reajustarlos si es necesario (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Conducir con prudencia. Evitar frenazos bruscos y giros cerrados que puedan desplazar o volcar la carga (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Controlar la temperatura. Preenfriar equipos y carga, calibrar ajustes y mantener los equipos frigoríficos (IAT Insurance Group, 2023).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Evitar humedad y contaminación. Inspeccionar contenedores por fugas, usar absorbentes de humedad y exigir certificados de limpieza (Reload Logistics, 2025).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Gestionar riesgos de seguridad. Aparcar en lugares seguros, estar alerta a robos de carga y usar seguimiento GPS.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Gestión de reclamaciones bajo el Convenio CMR"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "El Convenio relativo al contrato de transporte internacional de mercancías por carretera (CMR) regula la responsabilidad en los envíos transfronterizos por carretera. Generalmente limita la responsabilidad del transportista por kilogramo de peso bruto, salvo en caso de dolo o imprudencia temeraria. Para reclamar indemnización, el consignatario debe anotar los daños en la carta de porte CMR en la entrega y notificar por escrito al transportista en siete días para daños aparentes y en 21 días para daños ocultos.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusión: la prevención gana a la reclamación"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La mayoría de los daños en carretera pueden evitarse con buena preparación, manipulación cuidadosa y documentación sólida. Con inspecciones previas, supervisión del cargue, sujeción adecuada y formación en conducción segura y control de temperatura, expedidores y transportistas reducen la frecuencia y gravedad de las reclamaciones. Conocer las reglas de responsabilidad CMR y documentar a tiempo agiliza el proceso cuando surgen problemas.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fuentes"
+    },
+    {
+      "type": "citation",
+      "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Explica las responsabilidades por daños: el transportista responde de la manipulación y transporte seguros desde la aceptación; el expedidor de un embalaje y etiquetado adecuados; el consignatario inspecciona y documenta daños a la entrega; el seguro no sustituye a una manipulación correcta.",
+      "author": "Reload Logistics",
+      "url": "https://www.reloadlogistics.com/blog/how-to-prevent-cargo-damage/"
+    },
+    {
+      "type": "citation",
+      "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Consejos para prevenir reclamaciones: inspecciones previas, supervisión de carga/descarga, documentación de discrepancias, SLC, sellado, sujeción, controles en ruta y conducción prudente.",
+      "author": "Northland Insurance Company",
+      "url": "https://www.northlandins.com/resources/preventing-cargo-claims/"
+    },
+    {
+      "type": "citation",
+      "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Destaca la importancia de dispositivos de sujeción adecuados y una conducción cuidadosa para evitar desplazamientos y accidentes.",
+      "author": "Northland Insurance Company",
+      "url": "https://www.northlandins.com/resources/preventing-cargo-claims/"
+    },
+    {
+      "type": "citation",
+      "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Incide en la formación del conductor, el preenfriamiento y el mantenimiento para evitar reclamaciones por temperatura en mercancía refrigerada.",
+      "author": "IAT Insurance Group",
+      "url": "https://www.iatinsurancegroup.com/transportation/blog/trucking-cargo-claims/"
+    },
+    {
+      "type": "citation",
+      "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Recomienda medidas contra humedad y contaminación: comprobar fugas, sellar aberturas y usar absorbentes.",
+      "author": "Reload Logistics",
+      "url": "https://www.reloadlogistics.com/blog/how-to-prevent-cargo-damage/"
+    }
   ],
   "tags": [
     "reducir daños de transporte",
@@ -61,4 +226,3 @@
     "buenas prácticas de sujeción"
   ]
 }
-

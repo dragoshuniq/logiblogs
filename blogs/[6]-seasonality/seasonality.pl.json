@@ -1,5 +1,5 @@
 {
-  "id": "seasonality-in-european-logistics-planning-for-peaks-and-disruptions",
+  "id": "seasonality-in-european-logistics-planning-for-peaks-and-disruptions-pl",
   "shortId": "seasonality-logistics",
   "language": "pl",
   "isVisible": true,
@@ -8,46 +8,229 @@
   "description": "Od Chińskiego Nowego Roku po końcówkę roku kalendarz logistyczny w Europie wyznaczają piki popytu, które obciążają moce, podnoszą stawki i testują odporność łańcucha dostaw. Nadawcy, którzy rozumieją te wzorce sezonowe...",
   "publishedAt": "2024-12-22T00:00:00Z",
   "category": "Planowanie",
-  "author": {"name": "Logifie Team", "role": "Eksperci technologii logistycznych", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperci technologii logistycznych",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "seasonality-hero.png",
   "imageAlt": "Kalendarz Europy podkreślający główne piki logistyczne jak Chiński Nowy Rok, wakacje letnie i wyprzedaże świąteczne",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Sezonowość utrudnia planowanie i wpływa na koszty. Znajomość okresów szczytowych pozwala z wyprzedzeniem zabezpieczyć moce, dostosować zapasy i wbudować elastyczność w procesy.", "bold": false}]},
-    {"type": "image", "src": "seasonality-visual.png", "alt": "Zajęty europejski magazyn wypełniony paletami i pracownikami w szczycie sezonu", "caption": "Przepełniona powierzchnia magazynu obrazuje zatory, z jakimi mierzą się planiści w szczycie sezonu."},
-    {"type": "heading", "level": 2, "text": "Kluczowe okresy szczytowe"},
-    {"type": "heading", "level": 3, "text": "Chiński Nowy Rok (styczeń-luty)"},
-    {"type": "paragraph", "children": [{"text": "Fabryki w Chinach wstrzymują produkcję nawet na dwa tygodnie, co powoduje wzrost wysyłek przed i po świętach. Europejscy importerzy powinni rezerwować miejsce z wyprzedzeniem i liczyć się z opóźnieniami wynikającymi z niezrównoważonych przepływów sprzętu (A.P. Moller - Maersk, 2025).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Wakacje letnie i powrót do szkoły (lipiec-sierpień)"},
-    {"type": "paragraph", "children": [{"text": "Rośnie popyt na modę, elektronikę i artykuły szkolne, a jednocześnie wielu kierowców i dokersów przebywa na urlopie, co ogranicza moce. W 2024 r. NTG raportowało obniżoną przepustowość od tygodnia 29, a wybrane trasy (Hiszpania, Francja, Włochy, Szwajcaria) wymagają uzgodnień w tygodniach 32-34; normalizacja około tygodnia 35 (NTG, 2024).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Golden Week (1-7 października)"},
-    {"type": "paragraph", "children": [{"text": "Chińskie święto narodowe zatrzymuje produkcję i porty, wywołując kolejny pik przed i po tygodniu (A.P. Moller - Maersk, 2025).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Black Friday i Cyber Monday (koniec listopada)"},
-    {"type": "paragraph", "children": [{"text": "Promocje e-commerce generują skok wolumenów paczek i palet. Sieci ostatniej mili i sortownie się korkują; przewoźnicy priorytetyzują przesyłki o wyższej marży.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Święta na koniec roku (grudzień)"},
-    {"type": "paragraph", "children": [{"text": "Detaliści uzupełniają półki na Boże Narodzenie i Nowy Rok. Braki przestrzeni, zatory portowe i ograniczenia ostatniej mili nasilają się.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Wpływ sezonowości"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Niedobór mocy i wzrost stawek. Zwiększony popyt obciąża transport drogowy, magazyny i porty, podbijając stawki spot.", "bold": false}],
-      [{"text": "Dłuższe czasy tranzytu i opóźnienia. Przepisy czasu pracy kierowców, mniejsza dostępność kadr i zatłoczone sieci spowalniają dostawy.", "bold": false}],
-      [{"text": "Wyzwania zapasów. Braki lub nadmiar zapasów przy nietrafionych prognozach.", "bold": false}],
-      [{"text": "Stres operacyjny. Niedobory pracowników w magazynach i wąskie gardła ostatniej mili zwiększają liczbę błędów i reklamacji.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Strategie planowania"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Wcześnie rezerwuj moce. Zabezpiecz transport i sloty magazynowe na tygodnie przed pikami.", "bold": false}],
-      [{"text": "Dywersyfikuj środki i trasy. Kolej, short-sea lub lotniczy, aby omijać zatłoczone korytarze.", "bold": false}],
-      [{"text": "Precyzyjne prognozy. Współpracuj z dostawcami i klientami, doprecyzuj prognozy i dostosuj zapasy.", "bold": false}],
-      [{"text": "Rozłóż wysyłki w czasie. Rozdziel zamówienia na kilka tygodni, aby nie przeciążać przewoźników.", "bold": false}],
-      [{"text": "Elastyczne kontrakty. Zapewnij gwarantowaną przestrzeń z taryfami zmiennymi; rozważ dopłaty sezonowe.", "bold": false}],
-      [{"text": "Cross-docking i konsolidacja. Grupuj drobne przesyłki, by poprawić wykorzystanie i ograniczyć opóźnienia.", "bold": false}],
-      [{"text": "Technologia. Widoczność w czasie rzeczywistym umożliwia zmianę tras i zarządzanie wyjątkami.", "bold": false}],
-      [{"text": "Transparentna komunikacja. Informuj o możliwych opóźnieniach i ustawiaj realistyczne oczekiwania.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Wniosek: przygotuj się na piki, aby pozostać konkurencyjnym"},
-    {"type": "paragraph", "children": [{"text": "Sezonowość to codzienność w logistyce europejskiej. Firmy, które planują z wyprzedzeniem, budują odporność i współpracują z zwinnymi operatorami, zamieniają piki w szanse. Rozumiejąc, kiedy i dlaczego się pojawiają oraz stosując wczesną rezerwację, rozwiązania multimodalne i trafne prognozowanie, można łagodzić zakłócenia i zadowalać klientów.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Źródła"},
-    {"type": "citation", "text": "Peak logistics periods: Chinese New Year, Golden Week and holiday seasons (A.P. Moller - Maersk, 2025) - Wskazuje pięć okresów szczytowych - CNY, lato/powrót do szkoły, Golden Week, Black Friday/Cyber Monday i koniec roku - oraz ich wpływ na moce, czasy i koszty.", "author": "Maersk", "url": "https://www.maersk.com/news/articles/2025/peak-logistics-periods"},
-    {"type": "citation", "text": "Impact of the summer season on road freight (NTG Nordic Transport Group, 2024) - Informuje o obniżonej przepustowości od tygodnia 29 w Europie kontynentalnej; trasy (Hiszpania, Francja, Włochy, Szwajcaria) wymagają uzgodnień w tygodniach 32-34; normalizacja około 35 tygodnia.", "author": "NTG Nordic Transport Group", "url": "https://ntg.com/news/summer-season-road-freight-impact/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sezonowość utrudnia planowanie i wpływa na koszty. Znajomość okresów szczytowych pozwala z wyprzedzeniem zabezpieczyć moce, dostosować zapasy i wbudować elastyczność w procesy.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "seasonality-visual.png",
+      "alt": "Zajęty europejski magazyn wypełniony paletami i pracownikami w szczycie sezonu",
+      "caption": "Przepełniona powierzchnia magazynu obrazuje zatory, z jakimi mierzą się planiści w szczycie sezonu."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Kluczowe okresy szczytowe"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Chiński Nowy Rok (styczeń-luty)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Fabryki w Chinach wstrzymują produkcję nawet na dwa tygodnie, co powoduje wzrost wysyłek przed i po świętach. Europejscy importerzy powinni rezerwować miejsce z wyprzedzeniem i liczyć się z opóźnieniami wynikającymi z niezrównoważonych przepływów sprzętu (A.P. Moller - Maersk, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Wakacje letnie i powrót do szkoły (lipiec-sierpień)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Rośnie popyt na modę, elektronikę i artykuły szkolne, a jednocześnie wielu kierowców i dokersów przebywa na urlopie, co ogranicza moce. W 2024 r. NTG raportowało obniżoną przepustowość od tygodnia 29, a wybrane trasy (Hiszpania, Francja, Włochy, Szwajcaria) wymagają uzgodnień w tygodniach 32-34; normalizacja około tygodnia 35 (NTG, 2024).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Golden Week (1-7 października)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Chińskie święto narodowe zatrzymuje produkcję i porty, wywołując kolejny pik przed i po tygodniu (A.P. Moller - Maersk, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Black Friday i Cyber Monday (koniec listopada)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Promocje e-commerce generują skok wolumenów paczek i palet. Sieci ostatniej mili i sortownie się korkują; przewoźnicy priorytetyzują przesyłki o wyższej marży.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Święta na koniec roku (grudzień)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Detaliści uzupełniają półki na Boże Narodzenie i Nowy Rok. Braki przestrzeni, zatory portowe i ograniczenia ostatniej mili nasilają się.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Wpływ sezonowości"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Niedobór mocy i wzrost stawek. Zwiększony popyt obciąża transport drogowy, magazyny i porty, podbijając stawki spot.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Dłuższe czasy tranzytu i opóźnienia. Przepisy czasu pracy kierowców, mniejsza dostępność kadr i zatłoczone sieci spowalniają dostawy.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Wyzwania zapasów. Braki lub nadmiar zapasów przy nietrafionych prognozach.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Stres operacyjny. Niedobory pracowników w magazynach i wąskie gardła ostatniej mili zwiększają liczbę błędów i reklamacji.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Strategie planowania"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Wcześnie rezerwuj moce. Zabezpiecz transport i sloty magazynowe na tygodnie przed pikami.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Dywersyfikuj środki i trasy. Kolej, short-sea lub lotniczy, aby omijać zatłoczone korytarze.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Precyzyjne prognozy. Współpracuj z dostawcami i klientami, doprecyzuj prognozy i dostosuj zapasy.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Rozłóż wysyłki w czasie. Rozdziel zamówienia na kilka tygodni, aby nie przeciążać przewoźników.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Elastyczne kontrakty. Zapewnij gwarantowaną przestrzeń z taryfami zmiennymi; rozważ dopłaty sezonowe.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Cross-docking i konsolidacja. Grupuj drobne przesyłki, by poprawić wykorzystanie i ograniczyć opóźnienia.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Technologia. Widoczność w czasie rzeczywistym umożliwia zmianę tras i zarządzanie wyjątkami.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Transparentna komunikacja. Informuj o możliwych opóźnieniach i ustawiaj realistyczne oczekiwania.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Wniosek: przygotuj się na piki, aby pozostać konkurencyjnym"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sezonowość to codzienność w logistyce europejskiej. Firmy, które planują z wyprzedzeniem, budują odporność i współpracują z zwinnymi operatorami, zamieniają piki w szanse. Rozumiejąc, kiedy i dlaczego się pojawiają oraz stosując wczesną rezerwację, rozwiązania multimodalne i trafne prognozowanie, można łagodzić zakłócenia i zadowalać klientów.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Źródła"
+    },
+    {
+      "type": "citation",
+      "text": "Peak logistics periods: Chinese New Year, Golden Week and holiday seasons (A.P. Moller - Maersk, 2025) - Wskazuje pięć okresów szczytowych - CNY, lato/powrót do szkoły, Golden Week, Black Friday/Cyber Monday i koniec roku - oraz ich wpływ na moce, czasy i koszty.",
+      "author": "Maersk",
+      "url": "https://www.maersk.com/news/articles/2025/peak-logistics-periods"
+    },
+    {
+      "type": "citation",
+      "text": "Impact of the summer season on road freight (NTG Nordic Transport Group, 2024) - Informuje o obniżonej przepustowości od tygodnia 29 w Europie kontynentalnej; trasy (Hiszpania, Francja, Włochy, Szwajcaria) wymagają uzgodnień w tygodniach 32-34; normalizacja około 35 tygodnia.",
+      "author": "NTG Nordic Transport Group",
+      "url": "https://ntg.com/news/summer-season-road-freight-impact/"
+    }
   ],
   "tags": [
     "sezonowość logistyka",
@@ -59,4 +242,3 @@
     "zarządzanie zakłóceniami logistyka europa"
   ]
 }
-

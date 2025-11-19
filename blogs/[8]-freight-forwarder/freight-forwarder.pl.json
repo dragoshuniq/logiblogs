@@ -1,5 +1,5 @@
 {
-  "id": "working-with-a-freight-forwarder-what-shippers-should-expect-day-to-day",
+  "id": "working-with-a-freight-forwarder-what-shippers-should-expect-day-to-day-pl",
   "shortId": "working-with-forwarder",
   "language": "pl",
   "isVisible": true,
@@ -59,19 +59,34 @@
       "ordered": false,
       "items": [
         [
-          { "text": "Planowanie logistyki: spedytorzy projektują trasy i dobierają środki transportu, negocjując stawki z przewoźnikami, aby zrównoważyć koszt, szybkość i niezawodność (FIATA, 2004).", "bold": false }
+          {
+            "text": "Planowanie logistyki: spedytorzy projektują trasy i dobierają środki transportu, negocjując stawki z przewoźnikami, aby zrównoważyć koszt, szybkość i niezawodność (FIATA, 2004).",
+            "bold": false
+          }
         ],
         [
-          { "text": "Zgodność regulacyjna: przygotowują dokumenty eksportowe i importowe, zgłoszenia celne oraz dbają o spełnienie wymogów prawnych (FIATA, 2004).", "bold": false }
+          {
+            "text": "Zgodność regulacyjna: przygotowują dokumenty eksportowe i importowe, zgłoszenia celne oraz dbają o spełnienie wymogów prawnych (FIATA, 2004).",
+            "bold": false
+          }
         ],
         [
-          { "text": "Zarządzanie ryzykiem: doradzają w zakresie ubezpieczeń, zarządzają ryzykiem utraty lub uszkodzenia i pomagają w obsłudze roszczeń (FIATA, 2004).", "bold": false }
+          {
+            "text": "Zarządzanie ryzykiem: doradzają w zakresie ubezpieczeń, zarządzają ryzykiem utraty lub uszkodzenia i pomagają w obsłudze roszczeń (FIATA, 2004).",
+            "bold": false
+          }
         ],
         [
-          { "text": "Finanse i płatności: ułatwiają rozliczenia między kupującym i sprzedającym oraz aranżują instrumenty kredytowe lub ubezpieczeniowe (FIATA, 2004).", "bold": false }
+          {
+            "text": "Finanse i płatności: ułatwiają rozliczenia między kupującym i sprzedającym oraz aranżują instrumenty kredytowe lub ubezpieczeniowe (FIATA, 2004).",
+            "bold": false
+          }
         ],
         [
-          { "text": "Integracja międzyfunkcyjna: dzięki technologiom IT integrują dane między nadawcami, przewoźnikami i organami, zwiększając przejrzystość łańcucha dostaw (FIATA, 2004).", "bold": false }
+          {
+            "text": "Integracja międzyfunkcyjna: dzięki technologiom IT integrują dane między nadawcami, przewoźnikami i organami, zwiększając przejrzystość łańcucha dostaw (FIATA, 2004).",
+            "bold": false
+          }
         ]
       ]
     },
@@ -85,19 +100,34 @@
       "ordered": true,
       "items": [
         [
-          { "text": "Oferty i rezerwacje. Nadawca podaje rodzaj ładunku, wagę, wymiary, miejsce załadunku i dostawy oraz oczekiwany czas tranzytu. Spedytor sprawdza dostępność i przygotowuje wycenę obejmującą stawkę bazową, dopłaty paliwowe, opłaty drogowe i koszty dodatkowe. Cyfrowi spedytorzy często dają oferty od ręki; tradycyjni potrzebują zwykle więcej czasu.", "bold": false }
+          {
+            "text": "Oferty i rezerwacje. Nadawca podaje rodzaj ładunku, wagę, wymiary, miejsce załadunku i dostawy oraz oczekiwany czas tranzytu. Spedytor sprawdza dostępność i przygotowuje wycenę obejmującą stawkę bazową, dopłaty paliwowe, opłaty drogowe i koszty dodatkowe. Cyfrowi spedytorzy często dają oferty od ręki; tradycyjni potrzebują zwykle więcej czasu.",
+            "bold": false
+          }
         ],
         [
-          { "text": "Dokumentacja. Po rezerwacji spedytor zbiera faktury handlowe, listy pakunkowe oraz wymagane pozwolenia i certyfikaty. Wystawia list CMR, przygotowuje zgłoszenia celne i dokumenty tranzytowe (np. T1/T2). W przypadku ADR weryfikuje uprawnienia i karty charakterystyki.", "bold": false }
+          {
+            "text": "Dokumentacja. Po rezerwacji spedytor zbiera faktury handlowe, listy pakunkowe oraz wymagane pozwolenia i certyfikaty. Wystawia list CMR, przygotowuje zgłoszenia celne i dokumenty tranzytowe (np. T1/T2). W przypadku ADR weryfikuje uprawnienia i karty charakterystyki.",
+            "bold": false
+          }
         ],
         [
-          { "text": "Koordynacja transportu. Spedytor planuje odbiór, koordynuje z magazynami i monitoruje przesyłki przez punkty przeładunkowe. Zarządza formalnościami granicznymi; kierowcy mają przy sobie zgłoszenia delegowania i dane z tachografu.", "bold": false }
+          {
+            "text": "Koordynacja transportu. Spedytor planuje odbiór, koordynuje z magazynami i monitoruje przesyłki przez punkty przeładunkowe. Zarządza formalnościami granicznymi; kierowcy mają przy sobie zgłoszenia delegowania i dane z tachografu.",
+            "bold": false
+          }
         ],
         [
-          { "text": "Śledzenie i zarządzanie wyjątkami. Aktualizacje statusu przez e-mail, telefon lub pulpit. W razie opóźnień (np. postój celny, pogoda) spedytor uzgadnia objazdy lub koryguje ETA.", "bold": false }
+          {
+            "text": "Śledzenie i zarządzanie wyjątkami. Aktualizacje statusu przez e-mail, telefon lub pulpit. W razie opóźnień (np. postój celny, pogoda) spedytor uzgadnia objazdy lub koryguje ETA.",
+            "bold": false
+          }
         ],
         [
-          { "text": "Dostawa i zamknięcie. Po dostawie spedytor pozyskuje potwierdzenie doręczenia (POD) i aktualizuje CMR. Rozlicza faktury i płatności dla przewoźników. Przy DDP może opłacać należności importowe w imieniu sprzedawcy.", "bold": false }
+          {
+            "text": "Dostawa i zamknięcie. Po dostawie spedytor pozyskuje potwierdzenie doręczenia (POD) i aktualizuje CMR. Rozlicza faktury i płatności dla przewoźników. Przy DDP może opłacać należności importowe w imieniu sprzedawcy.",
+            "bold": false
+          }
         ]
       ]
     },
@@ -110,11 +140,36 @@
       "type": "list",
       "ordered": false,
       "items": [
-        [ { "text": "Know-how i skala. Spedytorzy negocjują lepsze stawki i znają złożone przepisy.", "bold": false } ],
-        [ { "text": "Mniej administracji. Przejmują dokumenty, odprawy i zgodność, aby nadawca mógł skupić się na core biznesie.", "bold": false } ],
-        [ { "text": "Przejrzystość i kontrola. Cyfrowi spedytorzy oferują tracking w czasie rzeczywistym i analitykę kosztów.", "bold": false } ],
-        [ { "text": "Redukcja ryzyka. Doradzają w zakresie ubezpieczeń i pomagają przy roszczeniach.", "bold": false } ],
-        [ { "text": "Elastyczność. W razie zakłóceń można zmienić przewoźnika, środek transportu lub trasę.", "bold": false } ]
+        [
+          {
+            "text": "Know-how i skala. Spedytorzy negocjują lepsze stawki i znają złożone przepisy.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Mniej administracji. Przejmują dokumenty, odprawy i zgodność, aby nadawca mógł skupić się na core biznesie.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Przejrzystość i kontrola. Cyfrowi spedytorzy oferują tracking w czasie rzeczywistym i analitykę kosztów.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Redukcja ryzyka. Doradzają w zakresie ubezpieczeń i pomagają przy roszczeniach.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Elastyczność. W razie zakłóceń można zmienić przewoźnika, środek transportu lub trasę.",
+            "bold": false
+          }
+        ]
       ]
     },
     {
@@ -126,11 +181,36 @@
       "type": "list",
       "ordered": true,
       "items": [
-        [ { "text": "Referencje i doświadczenie. Szukaj członkostwa w FIATA lub krajowych związkach. Zapytaj o doświadczenie z Twoim towarem i trasami.", "bold": false } ],
-        [ { "text": "Kompetencje cyfrowe. Nowocześni spedytorzy oferują rezerwacje online, tracking, automatyczne dokumenty i integracje TMS.", "bold": false } ],
-        [ { "text": "Siła sieci. Relacje z przewoźnikami i agentami u źródła i w miejscu docelowym wpływają na dostępność i jakość usług.", "bold": false } ],
-        [ { "text": "Obsługa klienta. Oceń responsywność komunikacji i umiejętność rozwiązywania problemów.", "bold": false } ],
-        [ { "text": "Historia zgodności. Sprawdź przestrzeganie zasad antymonopolowych i standardów regulacyjnych.", "bold": false } ]
+        [
+          {
+            "text": "Referencje i doświadczenie. Szukaj członkostwa w FIATA lub krajowych związkach. Zapytaj o doświadczenie z Twoim towarem i trasami.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kompetencje cyfrowe. Nowocześni spedytorzy oferują rezerwacje online, tracking, automatyczne dokumenty i integracje TMS.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Siła sieci. Relacje z przewoźnikami i agentami u źródła i w miejscu docelowym wpływają na dostępność i jakość usług.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Obsługa klienta. Oceń responsywność komunikacji i umiejętność rozwiązywania problemów.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Historia zgodności. Sprawdź przestrzeganie zasad antymonopolowych i standardów regulacyjnych.",
+            "bold": false
+          }
+        ]
       ]
     },
     {
@@ -187,4 +267,3 @@
     "jak wybrać spedytora"
   ]
 }
-

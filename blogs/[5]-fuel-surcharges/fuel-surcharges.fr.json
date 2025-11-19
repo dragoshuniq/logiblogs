@@ -1,5 +1,5 @@
 {
-  "id": "how-fuel-surcharges-and-tolls-impact-your-freight-costs-in-europe",
+  "id": "how-fuel-surcharges-and-tolls-impact-your-freight-costs-in-europe-fr",
   "shortId": "fuel-surcharges-tolls",
   "language": "fr",
   "isVisible": true,
@@ -152,7 +152,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Sources" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sources"
+    },
     {
       "type": "citation",
       "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Explique que la surcharge carburant compense la volatilité du diesel; note jusqu'à 30 % en LTL et détaille le calcul.",

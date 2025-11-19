@@ -1,5 +1,5 @@
 {
-  "id": "groupage-vs-full-truck-load-what-s-best-for-your-european-freight",
+  "id": "groupage-vs-full-truck-load-what-s-best-for-your-european-freight-de",
   "shortId": "groupage-vs-ftl",
   "language": "de",
   "isVisible": true,
@@ -134,16 +134,28 @@
       "ordered": false,
       "items": [
         [
-          { "text": "Das Sendungsvolumen etwa 10–13 Paletten erreicht/übersteigt oder > ~2,5 t wiegt.", "bold": false }
+          {
+            "text": "Das Sendungsvolumen etwa 10–13 Paletten erreicht/übersteigt oder > ~2,5 t wiegt.",
+            "bold": false
+          }
         ],
         [
-          { "text": "Die Güter hochwertig, empfindlich oder zeitkritisch sind.", "bold": false }
+          {
+            "text": "Die Güter hochwertig, empfindlich oder zeitkritisch sind.",
+            "bold": false
+          }
         ],
         [
-          { "text": "Direktzustellung mit minimalem Handling entscheidend ist.", "bold": false }
+          {
+            "text": "Direktzustellung mit minimalem Handling entscheidend ist.",
+            "bold": false
+          }
         ],
         [
-          { "text": "Sicherheit oder Vertraulichkeit Priorität hat.", "bold": false }
+          {
+            "text": "Sicherheit oder Vertraulichkeit Priorität hat.",
+            "bold": false
+          }
         ]
       ]
     },
@@ -156,10 +168,30 @@
       "type": "list",
       "ordered": false,
       "items": [
-        [ { "text": "Nur wenige Paletten/Pakete versendet werden, die einen vollen Lkw nicht rechtfertigen.", "bold": false } ],
-        [ { "text": "Kostenvorteile wichtiger sind als Geschwindigkeit.", "bold": false } ],
-        [ { "text": "Flexibilität bei der Laufzeit akzeptabel ist.", "bold": false } ],
-        [ { "text": "Nachhaltigkeit und CO2-Reduktion Priorität haben.", "bold": false } ]
+        [
+          {
+            "text": "Nur wenige Paletten/Pakete versendet werden, die einen vollen Lkw nicht rechtfertigen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kostenvorteile wichtiger sind als Geschwindigkeit.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Flexibilität bei der Laufzeit akzeptabel ist.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Nachhaltigkeit und CO2-Reduktion Priorität haben.",
+            "bold": false
+          }
+        ]
       ]
     },
     {
@@ -185,12 +217,42 @@
       "type": "list",
       "ordered": true,
       "items": [
-        [ { "text": "Gewicht und Volumen: Kosten von FTL vs. Groupage für die konkrete Sendungsgröße vergleichen.", "bold": false } ],
-        [ { "text": "Dringlichkeit: Ist Geschwindigkeit kritisch, kann FTL den Aufpreis wert sein.", "bold": false } ],
-        [ { "text": "Wert und Fragilität: Bei hochwertigen/empfindlichen Gütern lohnt der zusätzliche Schutz durch FTL.", "bold": false } ],
-        [ { "text": "Budget: Kleine Unternehmen wählen oft Groupage, um Kosten zu teilen.", "bold": false } ],
-        [ { "text": "Umweltziele: Konsolidierung reduziert Leerkilometer und Emissionen.", "bold": false } ],
-        [ { "text": "Saisonalität und Kapazität: In Peakzeiten ist FTL rar/teuer; Groupage kann flexibler sein.", "bold": false } ]
+        [
+          {
+            "text": "Gewicht und Volumen: Kosten von FTL vs. Groupage für die konkrete Sendungsgröße vergleichen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Dringlichkeit: Ist Geschwindigkeit kritisch, kann FTL den Aufpreis wert sein.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Wert und Fragilität: Bei hochwertigen/empfindlichen Gütern lohnt der zusätzliche Schutz durch FTL.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Budget: Kleine Unternehmen wählen oft Groupage, um Kosten zu teilen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Umweltziele: Konsolidierung reduziert Leerkilometer und Emissionen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Saisonalität und Kapazität: In Peakzeiten ist FTL rar/teuer; Groupage kann flexibler sein.",
+            "bold": false
+          }
+        ]
       ]
     },
     {
@@ -241,4 +303,3 @@
     "wann groupage nutzen"
   ]
 }
-

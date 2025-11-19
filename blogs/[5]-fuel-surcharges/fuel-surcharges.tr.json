@@ -1,5 +1,5 @@
 {
-  "id": "how-fuel-surcharges-and-tolls-impact-your-freight-costs-in-europe",
+  "id": "how-fuel-surcharges-and-tolls-impact-your-freight-costs-in-europe-tr",
   "shortId": "fuel-surcharges-tolls",
   "language": "tr",
   "isVisible": true,
@@ -152,7 +152,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Kaynaklar" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kaynaklar"
+    },
     {
       "type": "citation",
       "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Yakıt ek ücretlerinin dizel oynaklığını telafi ettiğini açıklar; LTL'de %30'a kadar; hesaplamayı anlatır.",

@@ -1,5 +1,5 @@
 {
-  "id": "packaging-and-palletization-best-practices-for-european-road-transport",
+  "id": "packaging-and-palletization-best-practices-for-european-road-transport-se",
   "shortId": "packaging-best-practices",
   "language": "se",
   "isVisible": true,
@@ -8,47 +8,224 @@
   "description": "Rätt förpackning och pallastning skyddar varan och effektiviteten. Även den bästa rutten misslyckas om lasten rör sig, går sönder eller kollapsar på grund av fel stapling eller otillräcklig säkring...",
   "publishedAt": "2024-12-29T00:00:00Z",
   "category": "Drift",
-  "author": {"name": "Logifie Team", "role": "Experter på logistikteknik", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experter på logistikteknik",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "packaging-palletization-hero.png",
   "imageAlt": "Genomskärning av en europall med rekommenderade staplingsmönster och viktfördelning",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Den här guiden sammanfattar bästa praxis för att förbereda pallar, välja material och säkra last för att minska skador och följa EU-standarder.", "bold": false}]},
-    {"type": "image", "src": "packaging-palletization-visual.png", "alt": "Lagerpersonal plastar och surrar en pall med blandad last", "caption": "Stretchfilm och bandning låser en blandad europall före linehaul-lastning."},
-    {"type": "heading", "level": 2, "text": "Europallens specifikationer"},
-    {"type": "paragraph", "children": [{"text": "Europallen (EPAL) är vanligast i Europa. Standardmått 1 200 mm x 800 mm x 144 mm och 0,96 m2 nyttoyta (Across Logistics, 2025). Tomvikt 22-25 kg; bär upp till 1 500 kg dynamiskt, 4 000 kg i stack och 1 000 kg i ställ (Across Logistics, 2025). Kompatibel med europeiska lastbilar och containrar; två tvärs eller tre på längden i standardtrailer (Across Logistics, 2025).", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Tekniker för pallastning"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Använd pallar av god kvalitet. Hela, torra och enligt ISPM-15 (värmebehandling mot skadedjur).", "bold": false}],
-      [{"text": "Fördela vikten jämnt. Tungt nederst, lådor kant i kant, undvik överhäng.", "bold": false}],
-      [{"text": "Stapla i kolumner eller förskjutet. Kolumner maximerar bärighet men är mindre stabila; förskjutet binder skikten och stabiliserar. Vid blandad last, använd förskjutet mönster (Jungheinrich AG, 2024).", "bold": false}],
-      [{"text": "Håll låg tyngdpunkt. Tunga enheter nära pallbasen för att undvika vältning.", "bold": false}],
-      [{"text": "Säkra lasten. Stretch-/krymfilm, bandning eller surrning; hörnskydd fördelar drag.", "bold": false}],
-      [{"text": "Tydlig märkning. Hantering ('fragile', 'this side up'), streckkoder och etiketter på flera sidor.", "bold": false}],
-      [{"text": "Undvik hålrum. Fyll utrymmen i lådor och mellan lager för att förhindra rörelse.", "bold": false}],
-      [{"text": "Pallhuvar. För känsligt gods mot fukt och damm.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Lastsäkring och fordon"},
-    {"type": "paragraph", "children": [{"text": "Otillräcklig lastsäkring bidrar till upp till 25 % av lastbilsolyckor (European Union, 2014). Följ EU-riktlinjer för att skydda förare och medtrafikanter. Nyckelpunkter:", "bold": false}]},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Rätt utrustning. Surrningsband, antihalkmattor, airbags och stoppbalkar fixerar lasten.", "bold": false}],
-      [{"text": "Kontrollera skick. Byt slitna/skadade band.", "bold": false}],
-      [{"text": "Balansera lasten. Fördela vikt över fordonet för att undvika axle overload och förbättra körning.", "bold": false}],
-      [{"text": "Inspektera regelbundet. Föraren kontrollerar last och säkring vid stopp och efter kraftiga manövrar.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Bästa praxis per godstyp"},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Skört: dämpa i lådorna (skum, luftkuddar); dubbelstapla endast med godkända lådor.", "bold": false}],
-      [{"text": "Vätskor: fat upprätt; skott eller IBC mot skvalp.", "bold": false}],
-      [{"text": "Färskvaror: isolerade emballage och kyla enligt ATP. Förkyl last och trailer (IAT Insurance Group, 2023).", "bold": false}],
-      [{"text": "Farligt (ADR): godkänt emballage och märkning med faroklasser; förare med ADR-intyg.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Slutsats: packa rätt för trygg leverans"},
-    {"type": "paragraph", "children": [{"text": "Rätt packad och pallastad last reser säkert, minskar skador och höjer effektiviteten. Med europall-standarder, robust stapling och korrekt säkring minimerar du skador och levererar intakt. Med Logifie implementerar du bästa praxis konsekvent i hela Europa.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Källor"},
-    {"type": "citation", "text": "European pallet: dimensions, types and logistic uses (Across Logistics, 2025) - Standardmått (1 200 x 800 x 144 mm), bärförmåga (1 500 kg dynamiskt, 4 000 kg statiskt) och EPAL-bakgrund.", "author": "Across Logistics", "url": "https://acrosslogistics.com/blog/en/palet-europeo"},
-    {"type": "citation", "text": "Palletizing and load securing tips (Jungheinrich AG, 2024) - Tips: viktdistribution, ingen överhäng, förskjuten stapling, säkring med film/band.", "author": "Jungheinrich ProfiGuide", "url": "https://profi-guide.jungheinrich.com/palletizing-best-practices"},
-    {"type": "citation", "text": "European best practice guidelines on cargo securing (European Union, 2014) - Upp till 25 % olyckor pga bristfällig säkring; guide till utrustningsval.", "author": "European Commission", "url": "https://ec.europa.eu/transport/road_safety/topics/cargo-securing-guidelines_en"},
-    {"type": "citation", "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Kylkedja: förkylning av last/trailer; regelbundna kontroller.", "author": "IAT Insurance Group", "url": "https://www.iatinsurancegroup.com/media/0sodtctn/230830_cargo_ebook_final.pdf"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Den här guiden sammanfattar bästa praxis för att förbereda pallar, välja material och säkra last för att minska skador och följa EU-standarder.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "packaging-palletization-visual.png",
+      "alt": "Lagerpersonal plastar och surrar en pall med blandad last",
+      "caption": "Stretchfilm och bandning låser en blandad europall före linehaul-lastning."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Europallens specifikationer"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Europallen (EPAL) är vanligast i Europa. Standardmått 1 200 mm x 800 mm x 144 mm och 0,96 m2 nyttoyta (Across Logistics, 2025). Tomvikt 22-25 kg; bär upp till 1 500 kg dynamiskt, 4 000 kg i stack och 1 000 kg i ställ (Across Logistics, 2025). Kompatibel med europeiska lastbilar och containrar; två tvärs eller tre på längden i standardtrailer (Across Logistics, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tekniker för pallastning"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Använd pallar av god kvalitet. Hela, torra och enligt ISPM-15 (värmebehandling mot skadedjur).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Fördela vikten jämnt. Tungt nederst, lådor kant i kant, undvik överhäng.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Stapla i kolumner eller förskjutet. Kolumner maximerar bärighet men är mindre stabila; förskjutet binder skikten och stabiliserar. Vid blandad last, använd förskjutet mönster (Jungheinrich AG, 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Håll låg tyngdpunkt. Tunga enheter nära pallbasen för att undvika vältning.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Säkra lasten. Stretch-/krymfilm, bandning eller surrning; hörnskydd fördelar drag.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tydlig märkning. Hantering ('fragile', 'this side up'), streckkoder och etiketter på flera sidor.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Undvik hålrum. Fyll utrymmen i lådor och mellan lager för att förhindra rörelse.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Pallhuvar. För känsligt gods mot fukt och damm.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Lastsäkring och fordon"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Otillräcklig lastsäkring bidrar till upp till 25 % av lastbilsolyckor (European Union, 2014). Följ EU-riktlinjer för att skydda förare och medtrafikanter. Nyckelpunkter:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Rätt utrustning. Surrningsband, antihalkmattor, airbags och stoppbalkar fixerar lasten.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kontrollera skick. Byt slitna/skadade band.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Balansera lasten. Fördela vikt över fordonet för att undvika axle overload och förbättra körning.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Inspektera regelbundet. Föraren kontrollerar last och säkring vid stopp och efter kraftiga manövrar.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Bästa praxis per godstyp"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Skört: dämpa i lådorna (skum, luftkuddar); dubbelstapla endast med godkända lådor.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Vätskor: fat upprätt; skott eller IBC mot skvalp.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Färskvaror: isolerade emballage och kyla enligt ATP. Förkyl last och trailer (IAT Insurance Group, 2023).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Farligt (ADR): godkänt emballage och märkning med faroklasser; förare med ADR-intyg.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Slutsats: packa rätt för trygg leverans"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Rätt packad och pallastad last reser säkert, minskar skador och höjer effektiviteten. Med europall-standarder, robust stapling och korrekt säkring minimerar du skador och levererar intakt. Med Logifie implementerar du bästa praxis konsekvent i hela Europa.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Källor"
+    },
+    {
+      "type": "citation",
+      "text": "European pallet: dimensions, types and logistic uses (Across Logistics, 2025) - Standardmått (1 200 x 800 x 144 mm), bärförmåga (1 500 kg dynamiskt, 4 000 kg statiskt) och EPAL-bakgrund.",
+      "author": "Across Logistics",
+      "url": "https://acrosslogistics.com/blog/en/palet-europeo"
+    },
+    {
+      "type": "citation",
+      "text": "Palletizing and load securing tips (Jungheinrich AG, 2024) - Tips: viktdistribution, ingen överhäng, förskjuten stapling, säkring med film/band.",
+      "author": "Jungheinrich ProfiGuide",
+      "url": "https://profi-guide.jungheinrich.com/palletizing-best-practices"
+    },
+    {
+      "type": "citation",
+      "text": "European best practice guidelines on cargo securing (European Union, 2014) - Upp till 25 % olyckor pga bristfällig säkring; guide till utrustningsval.",
+      "author": "European Commission",
+      "url": "https://ec.europa.eu/transport/road_safety/topics/cargo-securing-guidelines_en"
+    },
+    {
+      "type": "citation",
+      "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Kylkedja: förkylning av last/trailer; regelbundna kontroller.",
+      "author": "IAT Insurance Group",
+      "url": "https://www.iatinsurancegroup.com/media/0sodtctn/230830_cargo_ebook_final.pdf"
+    }
   ],
   "tags": [
     "pallastning bästa praxis",
@@ -60,4 +237,3 @@
     "riktlinjer lastning pallar"
   ]
 }
-

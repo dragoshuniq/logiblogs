@@ -1,5 +1,5 @@
 {
-  "id": "seasonality-in-european-logistics-planning-for-peaks-and-disruptions",
+  "id": "seasonality-in-european-logistics-planning-for-peaks-and-disruptions-se",
   "shortId": "seasonality-logistics",
   "language": "se",
   "isVisible": true,
@@ -8,46 +8,229 @@
   "description": "Från kinesiskt nyår till årets slut - Europas logistikkalender präglas av toppar som belastar kapacitet, höjer priser och prövar försörjningskedjans robusthet. Avsändare som förstår mönstren kan...",
   "publishedAt": "2024-12-22T00:00:00Z",
   "category": "Planering",
-  "author": {"name": "Logifie Team", "role": "Experter på logistikteknik", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experter på logistikteknik",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "seasonality-hero.png",
   "imageAlt": "Kalender över Europa med markerade logistiktoppar som kinesiskt nyår, sommarledighet och högtidsförsäljning",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Säsongsvariation gör planeringen svårare och påverkar kostnaderna. Genom att känna till toppperioderna kan du boka kapacitet i tid, justera lager och bygga in flexibilitet.", "bold": false}]},
-    {"type": "image", "src": "seasonality-visual.png", "alt": "Europeiskt lager fullt av pallar och personal under högsäsong", "caption": "En fullbelagd lagergolvyta visar trängseln planerar möter under högsäsong."},
-    {"type": "heading", "level": 2, "text": "Viktiga toppperioder"},
-    {"type": "heading", "level": 3, "text": "Kinesiskt nyår (januari-februari)"},
-    {"type": "paragraph", "children": [{"text": "Kinas fabriker stänger i upp till två veckor, vilket ger en topp i sändningar före och efter helgen. Europeiska importörer bör boka kapacitet tidigt och räkna med förseningar på grund av obalanserade utrustningsflöden (A.P. Moller - Maersk, 2025).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Sommarlov och skolstart (juli-augusti)"},
-    {"type": "paragraph", "children": [{"text": "Efterfrågan på mode, elektronik och skolmaterial ökar, samtidigt som många förare och hamnarbetare har semester, vilket minskar kapaciteten. 2024 rapporterade NTG minskad vägkapacitet från vecka 29; vissa sträckor (Spanien, Frankrike, Italien, Schweiz) kräver särskilda arrangemang vecka 32-34; normalisering kring vecka 35 (NTG, 2024).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Golden Week (1-7 oktober)"},
-    {"type": "paragraph", "children": [{"text": "Kinas nationella helg stoppar delvis produktion och hamnar, vilket skapar en ny topp före/efter perioden (A.P. Moller - Maersk, 2025).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Black Friday och Cyber Monday (slutet av november)"},
-    {"type": "paragraph", "children": [{"text": "E-handelskampanjer ger stora paket- och pallvolymer. Last-mile-nät och sortering belastas; transportörer prioriterar högmarginalflöden.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Högtider (december)"},
-    {"type": "paragraph", "children": [{"text": "Handeln fyller på inför jul och nyår. Brist på utrymme, hamnträngsel och last-mile-begränsningar tilltar.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Effekter av toppar"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Kapacitetsbrist och prisuppgång. Ökad efterfrågan belastar vägtransport, lager och hamnar och höjer spotpriser.", "bold": false}],
-      [{"text": "Längre ledtider och förseningar. Kör- och vilotider, begränsad bemanning och fulla nät bromsar leveranser.", "bold": false}],
-      [{"text": "Lagerutmaningar. Brist eller överskott vid felaktiga prognoser.", "bold": false}],
-      [{"text": "Operativ stress. Lagerbrist på personal och last-mile-flaskhalsar ökar fel och reklamationer.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Planeringsstrategier"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Boka i god tid. Säkerställ transport- och lagerslots veckor före topparna.", "bold": false}],
-      [{"text": "Diversifiera lägen och rutter. Använd järnväg, short-sea eller flyg för att undvika trånga korridorer.", "bold": false}],
-      [{"text": "Prognostisera noggrant. Samarbeta med leverantörer/kunder för att förfina prognoser och justera lager.", "bold": false}],
-      [{"text": "Staggera sändningar. Fördela order över flera veckor för att inte överlasta transportörer.", "bold": false}],
-      [{"text": "Flexibla avtal. Garanterad kapacitet med rörliga priser; beakta högsäsongstillägg.", "bold": false}],
-      [{"text": "Cross-docking och konsolidering. Gruppera små sändningar för bättre fyllnadsgrad och färre förseningar.", "bold": false}],
-      [{"text": "Teknologi. Realtidsvisibilitet möjliggör omdirigering och hantering av avvikelser.", "bold": false}],
-      [{"text": "Tydlig kommunikation. Informera om möjliga förseningar och sätt realistiska förväntningar.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Slutsats: förbered dig för toppar och behåll konkurrenskraft"},
-    {"type": "paragraph", "children": [{"text": "Säsongsvariation är ett faktum i europeisk logistik. Företag som planerar, bygger robusthet och arbetar med agila partners kan vända toppar till möjligheter. Genom att förstå när/varför toppar uppstår och använda tidig bokning, multimodala lösningar och säkra prognoser, hanterar du störningar och nöjer kunder.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Källor"},
-    {"type": "citation", "text": "Peak logistics periods: Chinese New Year, Golden Week and holiday seasons (A.P. Moller - Maersk, 2025) - Anger fem globala toppperioder - kinesiskt nyår, sommar/skolstart, Golden Week, Black Friday/Cyber Monday och årsslut - samt effekt på kapacitet, tider och kostnader.", "author": "Maersk", "url": "https://www.maersk.com/news/articles/2025/peak-logistics-periods"},
-    {"type": "citation", "text": "Impact of the summer season on road freight (NTG Nordic Transport Group, 2024) - Rapporterar minskad kapacitet från vecka 29 i kontinentala Europa; vissa sträckor (Spanien, Frankrike, Italien, Schweiz) kräver arrangemang vecka 32-34; normalisering runt vecka 35.", "author": "NTG Nordic Transport Group", "url": "https://ntg.com/news/summer-season-road-freight-impact/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Säsongsvariation gör planeringen svårare och påverkar kostnaderna. Genom att känna till toppperioderna kan du boka kapacitet i tid, justera lager och bygga in flexibilitet.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "seasonality-visual.png",
+      "alt": "Europeiskt lager fullt av pallar och personal under högsäsong",
+      "caption": "En fullbelagd lagergolvyta visar trängseln planerar möter under högsäsong."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Viktiga toppperioder"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kinesiskt nyår (januari-februari)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kinas fabriker stänger i upp till två veckor, vilket ger en topp i sändningar före och efter helgen. Europeiska importörer bör boka kapacitet tidigt och räkna med förseningar på grund av obalanserade utrustningsflöden (A.P. Moller - Maersk, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sommarlov och skolstart (juli-augusti)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Efterfrågan på mode, elektronik och skolmaterial ökar, samtidigt som många förare och hamnarbetare har semester, vilket minskar kapaciteten. 2024 rapporterade NTG minskad vägkapacitet från vecka 29; vissa sträckor (Spanien, Frankrike, Italien, Schweiz) kräver särskilda arrangemang vecka 32-34; normalisering kring vecka 35 (NTG, 2024).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Golden Week (1-7 oktober)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kinas nationella helg stoppar delvis produktion och hamnar, vilket skapar en ny topp före/efter perioden (A.P. Moller - Maersk, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Black Friday och Cyber Monday (slutet av november)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "E-handelskampanjer ger stora paket- och pallvolymer. Last-mile-nät och sortering belastas; transportörer prioriterar högmarginalflöden.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Högtider (december)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Handeln fyller på inför jul och nyår. Brist på utrymme, hamnträngsel och last-mile-begränsningar tilltar.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Effekter av toppar"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Kapacitetsbrist och prisuppgång. Ökad efterfrågan belastar vägtransport, lager och hamnar och höjer spotpriser.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Längre ledtider och förseningar. Kör- och vilotider, begränsad bemanning och fulla nät bromsar leveranser.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Lagerutmaningar. Brist eller överskott vid felaktiga prognoser.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Operativ stress. Lagerbrist på personal och last-mile-flaskhalsar ökar fel och reklamationer.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Planeringsstrategier"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Boka i god tid. Säkerställ transport- och lagerslots veckor före topparna.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Diversifiera lägen och rutter. Använd järnväg, short-sea eller flyg för att undvika trånga korridorer.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Prognostisera noggrant. Samarbeta med leverantörer/kunder för att förfina prognoser och justera lager.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Staggera sändningar. Fördela order över flera veckor för att inte överlasta transportörer.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Flexibla avtal. Garanterad kapacitet med rörliga priser; beakta högsäsongstillägg.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Cross-docking och konsolidering. Gruppera små sändningar för bättre fyllnadsgrad och färre förseningar.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Teknologi. Realtidsvisibilitet möjliggör omdirigering och hantering av avvikelser.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tydlig kommunikation. Informera om möjliga förseningar och sätt realistiska förväntningar.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Slutsats: förbered dig för toppar och behåll konkurrenskraft"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Säsongsvariation är ett faktum i europeisk logistik. Företag som planerar, bygger robusthet och arbetar med agila partners kan vända toppar till möjligheter. Genom att förstå när/varför toppar uppstår och använda tidig bokning, multimodala lösningar och säkra prognoser, hanterar du störningar och nöjer kunder.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Källor"
+    },
+    {
+      "type": "citation",
+      "text": "Peak logistics periods: Chinese New Year, Golden Week and holiday seasons (A.P. Moller - Maersk, 2025) - Anger fem globala toppperioder - kinesiskt nyår, sommar/skolstart, Golden Week, Black Friday/Cyber Monday och årsslut - samt effekt på kapacitet, tider och kostnader.",
+      "author": "Maersk",
+      "url": "https://www.maersk.com/news/articles/2025/peak-logistics-periods"
+    },
+    {
+      "type": "citation",
+      "text": "Impact of the summer season on road freight (NTG Nordic Transport Group, 2024) - Rapporterar minskad kapacitet från vecka 29 i kontinentala Europa; vissa sträckor (Spanien, Frankrike, Italien, Schweiz) kräver arrangemang vecka 32-34; normalisering runt vecka 35.",
+      "author": "NTG Nordic Transport Group",
+      "url": "https://ntg.com/news/summer-season-road-freight-impact/"
+    }
   ],
   "tags": [
     "säsongsvariation logistik",

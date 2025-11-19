@@ -1,5 +1,5 @@
 {
-  "id": "how-ai-route-optimization-reduces-co2-in-road-freight",
+  "id": "how-ai-route-optimization-reduces-co2-in-road-freight-pt",
   "shortId": "ai-route-optimization",
   "language": "pt",
   "isVisible": true,
@@ -62,7 +62,10 @@
     {
       "type": "paragraph",
       "children": [
-        { "text": "Combina várias componentes:", "bold": false }
+        {
+          "text": "Combina várias componentes:",
+          "bold": false
+        }
       ]
     },
     {
@@ -104,7 +107,12 @@
       "type": "list",
       "ordered": false,
       "items": [
-        [{ "text": "Menos quilómetros em vazio", "bold": false }],
+        [
+          {
+            "text": "Menos quilómetros em vazio",
+            "bold": false
+          }
+        ],
         [
           {
             "text": "Tempos de percurso mais curtos evitando congestionamentos",
@@ -148,7 +156,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 2, "text": "Desafios e cuidados" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Desafios e cuidados"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -190,7 +202,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Fontes" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fontes"
+    },
     {
       "type": "citation",
       "text": "Transport (Global Change Data Lab, 2023) – Estatísticas de emissões; rodoviário ~15 % das emissões globais; camiões ~29 % do transporte.",

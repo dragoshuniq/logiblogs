@@ -1,5 +1,5 @@
 {
-  "id": "working-with-a-freight-forwarder-what-shippers-should-expect-day-to-day",
+  "id": "working-with-a-freight-forwarder-what-shippers-should-expect-day-to-day-it",
   "shortId": "working-with-forwarder",
   "language": "it",
   "isVisible": true,
@@ -8,53 +8,254 @@
   "description": "Gli spedizionieri sono architetti del trasporto: orchestrano catene multimodali e gestiscono documenti, compliance e coordinamento end-to-end. Per i caricatori, comprendere questi ruoli aumenta l'efficienza e riduce lo stress...",
   "publishedAt": "2025-01-05T00:00:00Z",
   "category": "Business",
-  "author": {"name": "Logifie Team", "role": "Esperti di tecnologie per la logistica", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Esperti di tecnologie per la logistica",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "freight-forwarder-hero.png",
   "imageAlt": "Sala operativa dello spedizioniere con dashboard live, mappe e pratiche in lavorazione",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Lo spedizioniere progetta e gestisce operazioni logistiche complesse. Capirne il valore e le aspettative consente ai caricatori di snellire i processi ed evitare frizioni. Questo articolo spiega le attività giornaliere, il valore creato e come scegliere il partner giusto.", "bold": false}]},
-    {"type": "image", "src": "freight-forwarder-visual.png", "alt": "Responsabile logistico e spedizioniere esaminano insieme i documenti di spedizione", "caption": "Spedizioniere e caricatore verificano i documenti di prenotazione prima della partenza dei camion."},
-    {"type": "heading", "level": 2, "text": "Cos'è uno spedizioniere?"},
-    {"type": "paragraph", "children": [{"text": "La FIATA definisce i servizi di spedizione/logistica come attività relative al trasporto, consolidamento, stoccaggio, movimentazione, imballaggio o distribuzione, nonché servizi ancillari e consulenziali (dogana, fiscalità, assicurazioni, incassi) (FIATA, 2004). Obiettivo: luogo/tempo giusti, buone condizioni e costi ragionevoli (FIATA, 2004).", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Ambiti di competenza dello spedizioniere:", "bold": false}]},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Pianificazione logistica: disegna rotte e sceglie i modi, negoziando con i vettori il trade-off costo/velocità/affidabilità (FIATA, 2004).", "bold": false}],
-      [{"text": "Conformità regolatoria: gestisce documenti export/import, dichiarazioni doganali e requisiti normativi (FIATA, 2004).", "bold": false}],
-      [{"text": "Gestione del rischio: consiglia su assicurazioni, gestisce rischi di perdita/danno e i sinistri (FIATA, 2004).", "bold": false}],
-      [{"text": "Finanza e pagamenti: facilita pagamenti e strumenti di credito/assicurazione (FIATA, 2004).", "bold": false}],
-      [{"text": "Integrazione trasversale: tramite IT integra i dati tra caricatori, vettori e autorità per aumentare la visibilità (FIATA, 2004).", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Interazioni quotidiane con lo spedizioniere"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Quotazioni e prenotazioni. Il caricatore indica merce, peso, misure, pick-up/consegna e tempi. Lo spedizioniere verifica capacità e propone una tariffa comprensiva di nolo base, fuel surcharge, pedaggi e oneri accessori. I digitali forniscono prezzi istantanei; i modelli tradizionali richiedono più tempo.", "bold": false}],
-      [{"text": "Documenti. Dopo la prenotazione, raccoglie fatture, packing list e licenze/certificati. Prepara CMR, dichiarazioni doganali e documenti di transito (T1/T2). Per ADR, verifica certificati e SDS.", "bold": false}],
-      [{"text": "Coordinamento del trasporto. Pianifica il ritiro, coordina con i magazzini e monitora tramite hub. Gestisce le formalità di confine; i conducenti portano dichiarazioni di distacco e registri del tachigrafo.", "bold": false}],
-      [{"text": "Tracking e gestione eccezioni. Aggiornamenti via e-mail/telefono/dashboard. In caso di ritardi (dogana, meteo) ricalibra il percorso o l'ETA.", "bold": false}],
-      [{"text": "Consegna e chiusura. All'arrivo, ottiene il POD e aggiorna il CMR. Riconcilia fatture e paga i vettori. In DDP può curare i dazi per conto del venditore.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Benefici della collaborazione"},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Expertise e scala. Migliori tariffe e conoscenza normativa.", "bold": false}],
-      [{"text": "Meno burocrazia. Gestione di documenti, dogana e compliance.", "bold": false}],
-      [{"text": "Visibilità e controllo. I digitali offrono tracking real time e analytics.", "bold": false}],
-      [{"text": "Mitigazione del rischio. Consiglio assicurativo e gestione sinistri.", "bold": false}],
-      [{"text": "Flessibilità. Cambio vettore/modo/rotta in caso di disruption.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Scegliere lo spedizioniere giusto"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Credenziali ed esperienza. Adesione FIATA/associazioni; esperienza sulle vostre commodity e trade lane.", "bold": false}],
-      [{"text": "Capacità digitali. Prenotazione online, tracking, documenti automatici, integrazione TMS.", "bold": false}],
-      [{"text": "Forza del network. Relazioni con vettori/agentI in origine e destinazione.", "bold": false}],
-      [{"text": "Customer service. Valutare reattività e problem solving.", "bold": false}],
-      [{"text": "Track record di compliance. Rispetto di antitrust e norme.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Conclusione: partnership al centro"},
-    {"type": "paragraph", "children": [{"text": "Lo spedizioniere non è un semplice intermediario: è un partner che progetta e governa operazioni complesse. Conoscerne i ruoli permette relazioni produttive, processi snelli e flussi transfrontalieri fluidi. Un partner come Logifie, che unisce esperienza e strumenti digitali, offre un vantaggio competitivo.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Fonti"},
-    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Definisce i servizi di spedizione/logistica: trasporto, consolidamento, stoccaggio, movimentazione, imballaggio, distribuzione e servizi correlati (dogana, assicurazioni, incassi).", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
-    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Spiega la pianificazione logistica attraverso la negoziazione con i vettori per bilanciare costo/velocità/affidabilità.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
-    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Descrive i ruoli in compliance, risk management e consulenza su assicurazioni/valute.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
-    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Nota la gestione finanziaria e l'integrazione trasversale tramite IT.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lo spedizioniere progetta e gestisce operazioni logistiche complesse. Capirne il valore e le aspettative consente ai caricatori di snellire i processi ed evitare frizioni. Questo articolo spiega le attività giornaliere, il valore creato e come scegliere il partner giusto.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "freight-forwarder-visual.png",
+      "alt": "Responsabile logistico e spedizioniere esaminano insieme i documenti di spedizione",
+      "caption": "Spedizioniere e caricatore verificano i documenti di prenotazione prima della partenza dei camion."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cos'è uno spedizioniere?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La FIATA definisce i servizi di spedizione/logistica come attività relative al trasporto, consolidamento, stoccaggio, movimentazione, imballaggio o distribuzione, nonché servizi ancillari e consulenziali (dogana, fiscalità, assicurazioni, incassi) (FIATA, 2004). Obiettivo: luogo/tempo giusti, buone condizioni e costi ragionevoli (FIATA, 2004).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ambiti di competenza dello spedizioniere:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Pianificazione logistica: disegna rotte e sceglie i modi, negoziando con i vettori il trade-off costo/velocità/affidabilità (FIATA, 2004).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Conformità regolatoria: gestisce documenti export/import, dichiarazioni doganali e requisiti normativi (FIATA, 2004).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Gestione del rischio: consiglia su assicurazioni, gestisce rischi di perdita/danno e i sinistri (FIATA, 2004).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Finanza e pagamenti: facilita pagamenti e strumenti di credito/assicurazione (FIATA, 2004).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Integrazione trasversale: tramite IT integra i dati tra caricatori, vettori e autorità per aumentare la visibilità (FIATA, 2004).",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Interazioni quotidiane con lo spedizioniere"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Quotazioni e prenotazioni. Il caricatore indica merce, peso, misure, pick-up/consegna e tempi. Lo spedizioniere verifica capacità e propone una tariffa comprensiva di nolo base, fuel surcharge, pedaggi e oneri accessori. I digitali forniscono prezzi istantanei; i modelli tradizionali richiedono più tempo.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Documenti. Dopo la prenotazione, raccoglie fatture, packing list e licenze/certificati. Prepara CMR, dichiarazioni doganali e documenti di transito (T1/T2). Per ADR, verifica certificati e SDS.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Coordinamento del trasporto. Pianifica il ritiro, coordina con i magazzini e monitora tramite hub. Gestisce le formalità di confine; i conducenti portano dichiarazioni di distacco e registri del tachigrafo.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tracking e gestione eccezioni. Aggiornamenti via e-mail/telefono/dashboard. In caso di ritardi (dogana, meteo) ricalibra il percorso o l'ETA.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Consegna e chiusura. All'arrivo, ottiene il POD e aggiorna il CMR. Riconcilia fatture e paga i vettori. In DDP può curare i dazi per conto del venditore.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Benefici della collaborazione"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Expertise e scala. Migliori tariffe e conoscenza normativa.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Meno burocrazia. Gestione di documenti, dogana e compliance.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Visibilità e controllo. I digitali offrono tracking real time e analytics.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Mitigazione del rischio. Consiglio assicurativo e gestione sinistri.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Flessibilità. Cambio vettore/modo/rotta in caso di disruption.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Scegliere lo spedizioniere giusto"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Credenziali ed esperienza. Adesione FIATA/associazioni; esperienza sulle vostre commodity e trade lane.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Capacità digitali. Prenotazione online, tracking, documenti automatici, integrazione TMS.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Forza del network. Relazioni con vettori/agentI in origine e destinazione.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Customer service. Valutare reattività e problem solving.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Track record di compliance. Rispetto di antitrust e norme.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusione: partnership al centro"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lo spedizioniere non è un semplice intermediario: è un partner che progetta e governa operazioni complesse. Conoscerne i ruoli permette relazioni produttive, processi snelli e flussi transfrontalieri fluidi. Un partner come Logifie, che unisce esperienza e strumenti digitali, offre un vantaggio competitivo.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fonti"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Definisce i servizi di spedizione/logistica: trasporto, consolidamento, stoccaggio, movimentazione, imballaggio, distribuzione e servizi correlati (dogana, assicurazioni, incassi).",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Spiega la pianificazione logistica attraverso la negoziazione con i vettori per bilanciare costo/velocità/affidabilità.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Descrive i ruoli in compliance, risk management e consulenza su assicurazioni/valute.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Nota la gestione finanziaria e l'integrazione trasversale tramite IT.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    }
   ],
   "tags": [
     "cosa fa uno spedizioniere",
@@ -66,4 +267,3 @@
     "come scegliere spedizioniere"
   ]
 }
-

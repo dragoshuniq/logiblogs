@@ -1,5 +1,5 @@
 {
-  "id": "digital-freight-forwarding-vs-traditional-forwarding",
+  "id": "digital-freight-forwarding-vs-traditional-forwarding-dk",
   "shortId": "digital-vs-traditional",
   "language": "dk",
   "isVisible": true,
@@ -81,7 +81,12 @@
       "type": "list",
       "ordered": false,
       "items": [
-        [{ "text": "Øjeblikstilbud og booking", "bold": false }],
+        [
+          {
+            "text": "Øjeblikstilbud og booking",
+            "bold": false
+          }
+        ],
         [
           {
             "text": "Realtids synlighed (IoT/integrationer) med forudsagte ETA'er og alarmer",
@@ -94,7 +99,12 @@
             "bold": false
           }
         ],
-        [{ "text": "CO2-beregning pr. forsendelse", "bold": false }],
+        [
+          {
+            "text": "CO2-beregning pr. forsendelse",
+            "bold": false
+          }
+        ],
         [
           {
             "text": "Åbne API'er til integration med TMS/WMS",
@@ -126,7 +136,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 2, "text": "Tendenser" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tendenser"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -163,7 +177,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Konklusion" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Konklusion"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -174,5 +192,8 @@
       ]
     }
   ],
-  "tags": ["digital spedition", "logistikteknologi"]
+  "tags": [
+    "digital spedition",
+    "logistikteknologi"
+  ]
 }

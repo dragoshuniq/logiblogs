@@ -1,5 +1,5 @@
 {
-  "id": "how-ai-route-optimization-reduces-co2-in-road-freight",
+  "id": "how-ai-route-optimization-reduces-co2-in-road-freight-ro",
   "shortId": "ai-route-optimization",
   "language": "ro",
   "isVisible": true,
@@ -61,7 +61,12 @@
     },
     {
       "type": "paragraph",
-      "children": [{ "text": "Componente cheie:", "bold": false }]
+      "children": [
+        {
+          "text": "Componente cheie:",
+          "bold": false
+        }
+      ]
     },
     {
       "type": "list",
@@ -102,7 +107,12 @@
       "type": "list",
       "ordered": false,
       "items": [
-        [{ "text": "Mai puțini kilometri pe gol", "bold": false }],
+        [
+          {
+            "text": "Mai puțini kilometri pe gol",
+            "bold": false
+          }
+        ],
         [
           {
             "text": "Timpuri mai scurte prin evitarea congestiei",
@@ -192,7 +202,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Surse" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Surse"
+    },
     {
       "type": "citation",
       "text": "Transport (Global Change Data Lab, 2023) – Transportul rutier ~15 % din CO2 global; camioanele ~29 % din emisiile transporturilor.",

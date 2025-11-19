@@ -1,5 +1,5 @@
 {
-  "id": "how-fuel-surcharges-and-tolls-impact-your-freight-costs-in-europe",
+  "id": "how-fuel-surcharges-and-tolls-impact-your-freight-costs-in-europe-fi",
   "shortId": "fuel-surcharges-tolls",
   "language": "fi",
   "isVisible": true,
@@ -54,7 +54,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Miten lisä lasketaan" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Miten lisä lasketaan"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -148,7 +152,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Lähteet" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lähteet"
+    },
     {
       "type": "citation",
       "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Selittää, että lisä kompensoi dieselin volatiliteettia; LTL:ssä jopa 30 % ja kuvaa laskentaa.",

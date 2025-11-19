@@ -1,5 +1,5 @@
 {
-  "id": "seasonality-in-european-logistics-planning-for-peaks-and-disruptions",
+  "id": "seasonality-in-european-logistics-planning-for-peaks-and-disruptions-fr",
   "shortId": "seasonality-logistics",
   "language": "fr",
   "isVisible": true,
@@ -8,46 +8,229 @@
   "description": "Du Nouvel An chinois au rush de fin d'année, le calendrier logistique européen est ponctué de pics qui tendent la capacité, renchérissent les tarifs et testent la résilience des chaînes d'approvisionnement. Les chargeurs qui comprennent ces cycles...",
   "publishedAt": "2024-12-22T00:00:00Z",
   "category": "Planification",
-  "author": {"name": "Logifie Team", "role": "Experts en technologies logistiques", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experts en technologies logistiques",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "seasonality-hero.png",
   "imageAlt": "Calendrier mettant en évidence les principaux pics logistiques européens comme le Nouvel An chinois, l'été et les soldes de fin d'année",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Du Nouvel An chinois au pic de fin d'année, le calendrier logistique européen est jalonné de périodes qui saturent la capacité, font grimper les prix et éprouvent la résilience. Les chargeurs qui anticipent ces schémas saisonniers réservent tôt, ajustent les stocks et intègrent de la flexibilité.", "bold": false}]},
-    {"type": "image", "src": "seasonality-visual.png", "alt": "Entrepôt européen encombré de palettes et d'équipes en pleine haute saison", "caption": "Un plancher d'entrepôt saturé illustre les congestions auxquelles font face les planificateurs en haute saison."},
-    {"type": "heading", "level": 2, "text": "Périodes de pic clés"},
-    {"type": "heading", "level": 3, "text": "Nouvel An chinois (janvier-fevrier)"},
-    {"type": "paragraph", "children": [{"text": "Les usines en Chine ferment jusqu'à deux semaines, entraînant un afflux d'expéditions avant et après la fête. Les importateurs européens doivent réserver tôt et prévoir des retards liés aux flux d'équipement déséquilibrés (A.P. Moller - Maersk, 2025).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Vacances d'ete & rentree (juillet-aout)"},
-    {"type": "paragraph", "children": [{"text": "La demande monte pour la mode, l'électronique et la papeterie scolaire tandis que chauffeurs et dockers prennent leurs congés, réduisant la capacité. En 2024, NTG a signalé une capacité réduite dès la semaine 29 et des liaisons (Espagne, France, Italie, Suisse) nécessitant des arrangements spécifiques en semaines 32-34; normalisation vers la semaine 35 (NTG, 2024).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Golden Week (1er-7 octobre)"},
-    {"type": "paragraph", "children": [{"text": "La Golden Week chinoise interrompt la production et les ports, générant un nouveau pic avant/après (A.P. Moller - Maersk, 2025).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Black Friday & Cyber Monday (fin novembre)"},
-    {"type": "paragraph", "children": [{"text": "Les promotions e-commerce font exploser les volumes colis/palettes. Le dernier kilometre et les trieurs saturent; les transporteurs priorisent les envois a forte marge.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Fêtes de fin d'année (décembre)"},
-    {"type": "paragraph", "children": [{"text": "Les détaillants reconstituent les rayons pour Noël et Nouvel An. Manque d'espace, congestion portuaire et contraintes de dernier kilomètre s'accentuent.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Impacts des périodes de pic"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Pénuries de capacité et flambée des tarifs. La demande tend le transport, l'entreposage et les ports et pousse les spot rates.", "bold": false}],
-      [{"text": "Délais et temps de transit plus longs. Règles de conduite, disponibilité du personnel et réseaux saturés ralentissent les livraisons.", "bold": false}],
-      [{"text": "Problèmes de stock. Ruptures ou surstock en cas de prévisions erronées.", "bold": false}],
-      [{"text": "Tension operationnelle. Penurie de main-d'oeuvre en entrepot et goulets d'etranglement du dernier km augmentent erreurs et litiges.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Stratégies de planification"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Réserver tôt. Garantir des créneaux transport/entrepôt plusieurs semaines avant les pics.", "bold": false}],
-      [{"text": "Diversifier modes et routes. Rail, short-sea ou aerien pour contourner les corridors satures.", "bold": false}],
-      [{"text": "Améliorer les prévisions. Collaborer avec fournisseurs/clients pour affiner les prévisions et ajuster les stocks.", "bold": false}],
-      [{"text": "Échelonner les envois. Étaler les commandes sur plusieurs semaines pour éviter de surcharger les transporteurs.", "bold": false}],
-      [{"text": "Négocier des contrats flexibles. Obtenir de l'espace garanti avec tarifs variables; envisager des surcharges de haute saison.", "bold": false}],
-      [{"text": "Cross-docking et consolidation. Grouper les petits envois pour ameliorer le taux de chargement et reduire les retards.", "bold": false}],
-      [{"text": "Exploiter la technologie. La visibilité temps réel facilite le reroutage et la gestion des aléas.", "bold": false}],
-      [{"text": "Communiquer clairement. Informer des retards possibles et fixer des attentes réalistes.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Conclusion : se préparer aux pics pour rester compétitif"},
-    {"type": "paragraph", "children": [{"text": "La saisonnalité fait partie de la logistique européenne. Les entreprises qui planifient, renforcent leur résilience et s'associent à des prestataires agiles transforment les pics en opportunités. En comprenant quand/pourquoi ils surviennent et via la réservation anticipée, le multimodal et des prévisions fiables, les chargeurs absorbent les aléas et satisfont leurs clients.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Sources"},
-    {"type": "citation", "text": "Peak logistics periods: Chinese New Year, Golden Week and holiday seasons (A.P. Moller - Maersk, 2025) - Identifie cinq périodes de pic - CNY, été/rentrée, Golden Week, Black Friday/Cyber Monday et fêtes - et leurs effets sur capacité, délais et coûts.", "author": "Maersk", "url": "https://www.maersk.com/news/articles/2025/peak-logistics-periods"},
-    {"type": "citation", "text": "Impact of the summer season on road freight (NTG Nordic Transport Group, 2024) - Indique une capacité réduite dès la semaine 29 en Europe continentale; certaines liaisons (Espagne, France, Italie, Suisse) exigent des aménagements en semaines 32-34; normalisation vers la semaine 35.", "author": "NTG Nordic Transport Group", "url": "https://ntg.com/news/summer-season-road-freight-impact/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Du Nouvel An chinois au pic de fin d'année, le calendrier logistique européen est jalonné de périodes qui saturent la capacité, font grimper les prix et éprouvent la résilience. Les chargeurs qui anticipent ces schémas saisonniers réservent tôt, ajustent les stocks et intègrent de la flexibilité.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "seasonality-visual.png",
+      "alt": "Entrepôt européen encombré de palettes et d'équipes en pleine haute saison",
+      "caption": "Un plancher d'entrepôt saturé illustre les congestions auxquelles font face les planificateurs en haute saison."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Périodes de pic clés"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Nouvel An chinois (janvier-fevrier)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Les usines en Chine ferment jusqu'à deux semaines, entraînant un afflux d'expéditions avant et après la fête. Les importateurs européens doivent réserver tôt et prévoir des retards liés aux flux d'équipement déséquilibrés (A.P. Moller - Maersk, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Vacances d'ete & rentree (juillet-aout)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La demande monte pour la mode, l'électronique et la papeterie scolaire tandis que chauffeurs et dockers prennent leurs congés, réduisant la capacité. En 2024, NTG a signalé une capacité réduite dès la semaine 29 et des liaisons (Espagne, France, Italie, Suisse) nécessitant des arrangements spécifiques en semaines 32-34; normalisation vers la semaine 35 (NTG, 2024).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Golden Week (1er-7 octobre)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La Golden Week chinoise interrompt la production et les ports, générant un nouveau pic avant/après (A.P. Moller - Maersk, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Black Friday & Cyber Monday (fin novembre)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Les promotions e-commerce font exploser les volumes colis/palettes. Le dernier kilometre et les trieurs saturent; les transporteurs priorisent les envois a forte marge.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fêtes de fin d'année (décembre)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Les détaillants reconstituent les rayons pour Noël et Nouvel An. Manque d'espace, congestion portuaire et contraintes de dernier kilomètre s'accentuent.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Impacts des périodes de pic"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Pénuries de capacité et flambée des tarifs. La demande tend le transport, l'entreposage et les ports et pousse les spot rates.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Délais et temps de transit plus longs. Règles de conduite, disponibilité du personnel et réseaux saturés ralentissent les livraisons.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Problèmes de stock. Ruptures ou surstock en cas de prévisions erronées.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tension operationnelle. Penurie de main-d'oeuvre en entrepot et goulets d'etranglement du dernier km augmentent erreurs et litiges.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Stratégies de planification"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Réserver tôt. Garantir des créneaux transport/entrepôt plusieurs semaines avant les pics.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Diversifier modes et routes. Rail, short-sea ou aerien pour contourner les corridors satures.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Améliorer les prévisions. Collaborer avec fournisseurs/clients pour affiner les prévisions et ajuster les stocks.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Échelonner les envois. Étaler les commandes sur plusieurs semaines pour éviter de surcharger les transporteurs.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Négocier des contrats flexibles. Obtenir de l'espace garanti avec tarifs variables; envisager des surcharges de haute saison.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Cross-docking et consolidation. Grouper les petits envois pour ameliorer le taux de chargement et reduire les retards.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Exploiter la technologie. La visibilité temps réel facilite le reroutage et la gestion des aléas.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Communiquer clairement. Informer des retards possibles et fixer des attentes réalistes.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusion : se préparer aux pics pour rester compétitif"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La saisonnalité fait partie de la logistique européenne. Les entreprises qui planifient, renforcent leur résilience et s'associent à des prestataires agiles transforment les pics en opportunités. En comprenant quand/pourquoi ils surviennent et via la réservation anticipée, le multimodal et des prévisions fiables, les chargeurs absorbent les aléas et satisfont leurs clients.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sources"
+    },
+    {
+      "type": "citation",
+      "text": "Peak logistics periods: Chinese New Year, Golden Week and holiday seasons (A.P. Moller - Maersk, 2025) - Identifie cinq périodes de pic - CNY, été/rentrée, Golden Week, Black Friday/Cyber Monday et fêtes - et leurs effets sur capacité, délais et coûts.",
+      "author": "Maersk",
+      "url": "https://www.maersk.com/news/articles/2025/peak-logistics-periods"
+    },
+    {
+      "type": "citation",
+      "text": "Impact of the summer season on road freight (NTG Nordic Transport Group, 2024) - Indique une capacité réduite dès la semaine 29 en Europe continentale; certaines liaisons (Espagne, France, Italie, Suisse) exigent des aménagements en semaines 32-34; normalisation vers la semaine 35.",
+      "author": "NTG Nordic Transport Group",
+      "url": "https://ntg.com/news/summer-season-road-freight-impact/"
+    }
   ],
   "tags": [
     "saisonnalité logistique",

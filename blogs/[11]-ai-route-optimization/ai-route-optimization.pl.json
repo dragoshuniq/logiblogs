@@ -1,5 +1,5 @@
 {
-  "id": "how-ai-route-optimization-reduces-co2-in-road-freight",
+  "id": "how-ai-route-optimization-reduces-co2-in-road-freight-pl",
   "shortId": "ai-route-optimization",
   "language": "pl",
   "isVisible": true,
@@ -62,7 +62,10 @@
     {
       "type": "paragraph",
       "children": [
-        { "text": "Składa się z kilku komponentów:", "bold": false }
+        {
+          "text": "Składa się z kilku komponentów:",
+          "bold": false
+        }
       ]
     },
     {
@@ -104,7 +107,12 @@
       "type": "list",
       "ordered": false,
       "items": [
-        [{ "text": "Mniej pustych przebiegów", "bold": false }],
+        [
+          {
+            "text": "Mniej pustych przebiegów",
+            "bold": false
+          }
+        ],
         [
           {
             "text": "Krótsze czasy dzięki omijaniu korków",
@@ -194,7 +202,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Źródła" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Źródła"
+    },
     {
       "type": "citation",
       "text": "Transport (Global Change Data Lab, 2023) – Statystyki emisji; drogowy ~15 % CO2 globalnie; ciężarówki ~29 % emisji transportu.",

@@ -1,5 +1,5 @@
 {
-  "id": "seasonality-in-european-logistics-planning-for-peaks-and-disruptions",
+  "id": "seasonality-in-european-logistics-planning-for-peaks-and-disruptions-de",
   "shortId": "seasonality-logistics",
   "language": "de",
   "isVisible": true,
@@ -8,46 +8,229 @@
   "description": "Vom chinesischen Neujahr bis zum Jahresendgeschäft ist der europäische Logistikkalender von Spitzen geprägt, die Kapazitäten belasten, Raten nach oben treiben und die Resilienz der Lieferkette testen. Verlader, die diese Muster verstehen, können...",
   "publishedAt": "2024-12-22T00:00:00Z",
   "category": "Planung",
-  "author": {"name": "Logifie Team", "role": "Experten für Logistiktechnologie", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experten für Logistiktechnologie",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "seasonality-hero.png",
   "imageAlt": "Kalender mit markierten europäischen Logistikspitzen wie Chinesisches Neujahr, Sommerferien und Aktionsverkäufe",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Vom chinesischen Neujahr bis zum Jahresendgeschäft ist der europäische Logistikkalender von Spitzen geprägt, die Kapazitäten strapazieren, Preise erhöhen und die Resilienz der Lieferkette testen. Verlader, die diese saisonalen Muster verstehen, sichern frühzeitig Kapazitäten, passen Bestände an und bauen Flexibilität in die Supply Chain ein.", "bold": false}]},
-    {"type": "image", "src": "seasonality-visual.png", "alt": "Volles europäisches Lager mit Paletten und Personal während der Hochsaison", "caption": "Überfüllte Lagerflächen zeigen die Engpässe, mit denen Planer in Peakzeiten konfrontiert sind."},
-    {"type": "heading", "level": 2, "text": "Wichtige Peakzeiten"},
-    {"type": "heading", "level": 3, "text": "Chinesisches Neujahr (Januar-Februar)"},
-    {"type": "paragraph", "children": [{"text": "In China stehen Fabriken bis zu zwei Wochen still, was vor und nach dem Fest zu Versandspitzen führt. Europäische Importeure sollten früh buchen und Verzögerungen einkalkulieren, da Carrier unausgeglichene Equipmentflüsse managen (A.P. Moller - Maersk, 2025).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Sommerferien & Schulbeginn (Juli-August)"},
-    {"type": "paragraph", "children": [{"text": "Die Nachfrage nach Konsumgütern wie Mode, Elektronik und Schulbedarf steigt, während viele Fahrer und Hafenmitarbeiter Urlaub machen - Kapazitäten sinken. 2024 meldete NTG, dass der Straßengüterverkehr ab KW 29 mit reduzierter Kapazität läuft und bestimmte Relationen (Spanien, Frankreich, Italien, Schweiz) in KW 32-34 Sonderabsprachen erfordern (NTG Nordic Transport Group, 2024). Ab KW 35 normalisieren sich Kapazitäten, Rückstände bleiben möglich.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Golden Week (1.-7. Oktober)"},
-    {"type": "paragraph", "children": [{"text": "Chinas nationale Golden Week legt Produktion und Hafenbetrieb teilweise lahm und erzeugt vor/nach der Woche einen weiteren Peak (A.P. Moller - Maersk, 2025).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Black Friday & Cyber Monday (Ende November)"},
-    {"type": "paragraph", "children": [{"text": "E-commerce-Aktionen erzeugen Spitzen bei Paket- und Palettenvolumina. Letzte-Meile-Netze und Sortierzentren geraten unter Druck; Carrier priorisieren margenstarke Sendungen.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Feiertage zum Jahresende (Dezember)"},
-    {"type": "paragraph", "children": [{"text": "Der Einzelhandel füllt Regale für Weihnachten und Neujahr. Platzmangel, Hafenstaus und Letzte-Meile-Engpässe spitzen sich zu.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Auswirkungen von Peakzeiten"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Kapazitätsengpässe und Preisspitzen. Höhere Nachfrage belastet Lkw-, Lager- und Hafen-Kapazitäten und treibt Spotraten.", "bold": false}],
-      [{"text": "Längere Laufzeiten und Verzögerungen. Lenkzeiten, Personalknappheit und überlastete Netze verlangsamen Zustellungen.", "bold": false}],
-      [{"text": "Bestandsherausforderungen. Fehlbestände oder Überbestände bei ungenauer Prognose.", "bold": false}],
-      [{"text": "Operativer Stress. Personalmangel im Lager und Letzte-Meile-Engpässe erhöhen Fehlerquoten und Schäden.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Planungsstrategien"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Kapazität früh buchen. Transport- und Lager-Slots Wochen vor Peaks sichern.", "bold": false}],
-      [{"text": "Modi und Routen diversifizieren. Bahn, Short-Sea oder Luftfracht zur Umgehung überlasteter Korridore nutzen.", "bold": false}],
-      [{"text": "Nachfrage genau prognostizieren. Mit Lieferanten/Kunden Forecasts verfeinern und Bestände anpassen.", "bold": false}],
-      [{"text": "Sendungen staffeln. Aufträge auf Wochen verteilen, um Carrier nicht zu überlasten.", "bold": false}],
-      [{"text": "Flexible Verträge verhandeln. Garantierte Kapazität mit variablen Raten; Peak-Season-Zuschläge einplanen.", "bold": false}],
-      [{"text": "Cross-Docking und Konsolidierung. Kleine Sendungen bündeln, Auslastung erhöhen und Verzögerungen reduzieren.", "bold": false}],
-      [{"text": "Technologie nutzen. Echtzeit-Transparenz zur Umroutung und Exception-Steuerung.", "bold": false}],
-      [{"text": "Transparent kommunizieren. Kunden über mögliche Verzögerungen informieren und realistische ETAs setzen.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Fazit: Für Peaks wappnen und wettbewerbsfähig bleiben"},
-    {"type": "paragraph", "children": [{"text": "Saisonalität ist Realität in der europäischen Logistik. Unternehmen, die vorausplanen, Resilienz aufbauen und mit agilen Dienstleistern kooperieren, machen aus Peaks Chancen. Wer weiß, wann und warum Spitzen auftreten, und früh buchen, multimodal plant und genau prognostiziert, meistert Störungen und begeistert Kunden.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Quellen"},
-    {"type": "citation", "text": "Peak logistics periods: Chinese New Year, Golden Week and holiday seasons (A.P. Moller - Maersk, 2025) - Identifiziert fünf Peakperioden - CNY, Sommer/Back-to-School, Golden Week, Black Friday/Cyber Monday und Jahresende - und erklärt Auswirkungen auf Kapazität, Laufzeiten und Kosten.", "author": "Maersk", "url": "https://www.maersk.com/news/articles/2025/peak-logistics-periods"},
-    {"type": "citation", "text": "Impact of the summer season on road freight (NTG Nordic Transport Group, 2024) - Meldet reduzierte Kapazitäten ab KW 29 in Kontinentaleuropa; bestimmte Relationen (Spanien, Frankreich, Italien, Schweiz) brauchen in KW 32-34 Sonderabstimmungen, Normalisierung um KW 35.", "author": "NTG Nordic Transport Group", "url": "https://ntg.com/news/summer-season-road-freight-impact/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Vom chinesischen Neujahr bis zum Jahresendgeschäft ist der europäische Logistikkalender von Spitzen geprägt, die Kapazitäten strapazieren, Preise erhöhen und die Resilienz der Lieferkette testen. Verlader, die diese saisonalen Muster verstehen, sichern frühzeitig Kapazitäten, passen Bestände an und bauen Flexibilität in die Supply Chain ein.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "seasonality-visual.png",
+      "alt": "Volles europäisches Lager mit Paletten und Personal während der Hochsaison",
+      "caption": "Überfüllte Lagerflächen zeigen die Engpässe, mit denen Planer in Peakzeiten konfrontiert sind."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Wichtige Peakzeiten"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Chinesisches Neujahr (Januar-Februar)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In China stehen Fabriken bis zu zwei Wochen still, was vor und nach dem Fest zu Versandspitzen führt. Europäische Importeure sollten früh buchen und Verzögerungen einkalkulieren, da Carrier unausgeglichene Equipmentflüsse managen (A.P. Moller - Maersk, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sommerferien & Schulbeginn (Juli-August)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Die Nachfrage nach Konsumgütern wie Mode, Elektronik und Schulbedarf steigt, während viele Fahrer und Hafenmitarbeiter Urlaub machen - Kapazitäten sinken. 2024 meldete NTG, dass der Straßengüterverkehr ab KW 29 mit reduzierter Kapazität läuft und bestimmte Relationen (Spanien, Frankreich, Italien, Schweiz) in KW 32-34 Sonderabsprachen erfordern (NTG Nordic Transport Group, 2024). Ab KW 35 normalisieren sich Kapazitäten, Rückstände bleiben möglich.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Golden Week (1.-7. Oktober)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Chinas nationale Golden Week legt Produktion und Hafenbetrieb teilweise lahm und erzeugt vor/nach der Woche einen weiteren Peak (A.P. Moller - Maersk, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Black Friday & Cyber Monday (Ende November)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "E-commerce-Aktionen erzeugen Spitzen bei Paket- und Palettenvolumina. Letzte-Meile-Netze und Sortierzentren geraten unter Druck; Carrier priorisieren margenstarke Sendungen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Feiertage zum Jahresende (Dezember)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Der Einzelhandel füllt Regale für Weihnachten und Neujahr. Platzmangel, Hafenstaus und Letzte-Meile-Engpässe spitzen sich zu.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Auswirkungen von Peakzeiten"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Kapazitätsengpässe und Preisspitzen. Höhere Nachfrage belastet Lkw-, Lager- und Hafen-Kapazitäten und treibt Spotraten.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Längere Laufzeiten und Verzögerungen. Lenkzeiten, Personalknappheit und überlastete Netze verlangsamen Zustellungen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Bestandsherausforderungen. Fehlbestände oder Überbestände bei ungenauer Prognose.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Operativer Stress. Personalmangel im Lager und Letzte-Meile-Engpässe erhöhen Fehlerquoten und Schäden.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Planungsstrategien"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Kapazität früh buchen. Transport- und Lager-Slots Wochen vor Peaks sichern.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Modi und Routen diversifizieren. Bahn, Short-Sea oder Luftfracht zur Umgehung überlasteter Korridore nutzen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Nachfrage genau prognostizieren. Mit Lieferanten/Kunden Forecasts verfeinern und Bestände anpassen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sendungen staffeln. Aufträge auf Wochen verteilen, um Carrier nicht zu überlasten.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Flexible Verträge verhandeln. Garantierte Kapazität mit variablen Raten; Peak-Season-Zuschläge einplanen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Cross-Docking und Konsolidierung. Kleine Sendungen bündeln, Auslastung erhöhen und Verzögerungen reduzieren.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Technologie nutzen. Echtzeit-Transparenz zur Umroutung und Exception-Steuerung.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Transparent kommunizieren. Kunden über mögliche Verzögerungen informieren und realistische ETAs setzen.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fazit: Für Peaks wappnen und wettbewerbsfähig bleiben"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Saisonalität ist Realität in der europäischen Logistik. Unternehmen, die vorausplanen, Resilienz aufbauen und mit agilen Dienstleistern kooperieren, machen aus Peaks Chancen. Wer weiß, wann und warum Spitzen auftreten, und früh buchen, multimodal plant und genau prognostiziert, meistert Störungen und begeistert Kunden.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Quellen"
+    },
+    {
+      "type": "citation",
+      "text": "Peak logistics periods: Chinese New Year, Golden Week and holiday seasons (A.P. Moller - Maersk, 2025) - Identifiziert fünf Peakperioden - CNY, Sommer/Back-to-School, Golden Week, Black Friday/Cyber Monday und Jahresende - und erklärt Auswirkungen auf Kapazität, Laufzeiten und Kosten.",
+      "author": "Maersk",
+      "url": "https://www.maersk.com/news/articles/2025/peak-logistics-periods"
+    },
+    {
+      "type": "citation",
+      "text": "Impact of the summer season on road freight (NTG Nordic Transport Group, 2024) - Meldet reduzierte Kapazitäten ab KW 29 in Kontinentaleuropa; bestimmte Relationen (Spanien, Frankreich, Italien, Schweiz) brauchen in KW 32-34 Sonderabstimmungen, Normalisierung um KW 35.",
+      "author": "NTG Nordic Transport Group",
+      "url": "https://ntg.com/news/summer-season-road-freight-impact/"
+    }
   ],
   "tags": [
     "saisonalität logistik",

@@ -1,5 +1,5 @@
 {
-  "id": "how-fuel-surcharges-and-tolls-impact-your-freight-costs-in-europe",
+  "id": "how-fuel-surcharges-and-tolls-impact-your-freight-costs-in-europe-es",
   "shortId": "fuel-surcharges-tolls",
   "language": "es",
   "isVisible": true,
@@ -16,32 +16,171 @@
   "image": "fuel-surcharges-hero.png",
   "imageAlt": "Diagrama que explica cómo el precio base del combustible, los índices y los porcentajes de recargo se combinan en una factura de transporte",
   "content": [
-    {"type": "paragraph", "children": [{"text": "El aumento del diésel, los impuestos al carbono y la ampliación de peajes hacen que los costes de transporte cambien notablemente de un mes a otro. Los recargos por combustible y los peajes son dos factores clave de coste en el transporte por carretera europeo. Entender cómo se calculan y cómo gestionarlos ayuda a los cargadores a controlar presupuestos y negociar tarifas justas.", "bold": false}]},
-    {"type": "image", "src": "fuel-surcharges-visual.png", "alt": "Un camión se aproxima a una cabina de peaje europea; paneles digitales muestran tarifas y recargos de CO2", "caption": "Las cabinas de peaje y las señales de precio del CO2 muestran cómo los costes de infraestructura alimentan la línea de recargo de combustible."},
-    {"type": "heading", "level": 2, "text": "¿Qué es un recargo por combustible?"},
-    {"type": "paragraph", "children": [{"text": "Es un cargo variable añadido a las facturas de transporte para compensar los cambios en el precio del diésel. Los transportistas lo calculan según la diferencia entre el precio actual y un precio base, a menudo usando índices públicos. Si sube el diésel, sube el recargo; si baja, disminuye.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "En Estados Unidos, en LTL, el recargo puede llegar al 30 % del coste del transporte (Zero Down Supply Chain Solutions, 2025). En Europa, varía por país. Blue Water Shipping informó en noviembre de 2025 de 27,40 % en transporte doméstico en Dinamarca, 25 % en Suecia y 60,30 % para flujos con Dinamarca y el resto de Europa (Blue Water Shipping A/S, 2025). Estas cifras reflejan su volatilidad y especificidad regional.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Cómo se calcula el recargo"},
-    {"type": "paragraph", "children": [{"text": "Suele basarse en: (1) un precio base del combustible (p. ej., EUR 1.00 por litro); (2) un índice de precio (p. ej., Weekly Oil Bulletin de la Comisión Europea); y (3) una fórmula que convierte la desviación en recargo por km o en porcentaje. Por ejemplo, aplicar 0,5 % por cada EUR 0.01 sobre el precio base. Algunos publican tablas de recargo; otros lo negocian como partida separada.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Peajes y cargos medioambientales"},
-    {"type": "paragraph", "children": [{"text": "Además del recargo por combustible, hay que contar con peajes y tasas ambientales. Investigación de Transport Intelligence, Upply y la IRU halló que los peajes suponen en torno al 14 % del coste de transporte en Europa y hasta el 23 % en ciertas rutas (Logistics Business, 2025). Con la Directiva Eurovignette revisada, los Estados de la UE sustituyen viñetas temporales por peajes por distancia vinculados a emisiones de CO2 (Logistics Business, 2025). Alemania introdujo en diciembre de 2023 un componente de CO2 de EUR 200 por tonelada de CO2, casi doblando los peajes (NOSTA Group, 2023).", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Las zonas de bajas emisiones en ciudades como París, Berlín y Milán imponen cargos adicionales para vehículos antiguos. No pagar peajes o incumplir normas de emisiones genera multas e interrupciones.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Cómo mitigar costes de combustible y peaje"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Optimice rutas y cargas. El enrutado y la consolidación con IA reducen kilómetros en vacío y ahorran combustible. ORION (UPS) ha eliminado 100 millones de millas y ahorrado 10 millones de galones al año, recortando emisiones y costes.", "bold": false}],
-      [{"text": "Supervise índices de combustible. Siga los índices y negocie fórmulas de recargo con los transportistas. Algunos cargadores cubren combustible con futuros.", "bold": false}],
-      [{"text": "Use vehículos eficientes. Invertir en camiones Euro 6 o eléctricos reduce consumo y evita penalizaciones en zonas de bajas emisiones.", "bold": false}],
-      [{"text": "Planifique cambios de peaje. Manténgase al día de nuevos sistemas y recargos de CO2; inclúyalos en presupuestos y rutas.", "bold": false}],
-      [{"text": "Consolide envíos. Groupage o soluciones intermodales reparten combustible y peajes entre varios envíos y bajan el coste unitario.", "bold": false}],
-      [{"text": "Considere alternativas multimodales. Ferrocarril o short-sea pueden ofrecer costes más predecibles en larga distancia.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Conclusión: visibilidad y planificación"},
-    {"type": "paragraph", "children": [{"text": "Los recargos por combustible y los peajes pueden hacer o deshacer la rentabilidad de un envío por carretera. Entendiendo su cálculo, siguiendo la evolución del combustible y anticipando cambios de peaje, los cargadores gestionan costes de forma proactiva. Proveedores como Logifie usan analítica para optimizar rutas y cargas y mitigar recargos y tasas ambientales.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Fuentes"},
-    {"type": "citation", "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Explica que el recargo compensa la volatilidad del diésel; en LTL puede llegar al 30 % y detalla el cálculo.", "author": "Zero Down Supply Chain Solutions", "url": "https://zerodownsc.com/2025/09/fuel-surcharges/"},
-    {"type": "citation", "text": "Road transport surcharges and fees (November 2025) (Blue Water Shipping A/S, 2025) - Enumera recargos de noviembre de 2025: 27,40 % doméstico en Dinamarca, 25 % en Suecia y 60,30 % en flujos con Europa.", "author": "Blue Water Shipping", "url": "https://www.bws.dk/surcharges-and-fees/"},
-    {"type": "citation", "text": "Tolls drive up European road transport prices (Logistics Business, 2025) - Indica que los peajes suponen ~14 % y hasta 23 % en algunas rutas; la UE sustituye viñetas temporales por peajes por distancia ligados al CO2 (Directiva Eurovignette).", "author": "Logistics Business Magazine", "url": "https://logisticsbusiness.com/transport-management/tolls-drive-up-european-road-transport-prices/"},
-    {"type": "citation", "text": "Germany introduces CO2 component to truck toll (NOSTA Group, 2023) - Señala que la reforma alemana añadió ~EUR 200/tonelada de CO2 desde el 1/12/2023, casi duplicando los peajes.", "author": "NOSTA Group", "url": "https://www.nosta-group.com/en/news/truck-toll-co2/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "El aumento del diésel, los impuestos al carbono y la ampliación de peajes hacen que los costes de transporte cambien notablemente de un mes a otro. Los recargos por combustible y los peajes son dos factores clave de coste en el transporte por carretera europeo. Entender cómo se calculan y cómo gestionarlos ayuda a los cargadores a controlar presupuestos y negociar tarifas justas.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "fuel-surcharges-visual.png",
+      "alt": "Un camión se aproxima a una cabina de peaje europea; paneles digitales muestran tarifas y recargos de CO2",
+      "caption": "Las cabinas de peaje y las señales de precio del CO2 muestran cómo los costes de infraestructura alimentan la línea de recargo de combustible."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Qué es un recargo por combustible?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Es un cargo variable añadido a las facturas de transporte para compensar los cambios en el precio del diésel. Los transportistas lo calculan según la diferencia entre el precio actual y un precio base, a menudo usando índices públicos. Si sube el diésel, sube el recargo; si baja, disminuye.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "En Estados Unidos, en LTL, el recargo puede llegar al 30 % del coste del transporte (Zero Down Supply Chain Solutions, 2025). En Europa, varía por país. Blue Water Shipping informó en noviembre de 2025 de 27,40 % en transporte doméstico en Dinamarca, 25 % en Suecia y 60,30 % para flujos con Dinamarca y el resto de Europa (Blue Water Shipping A/S, 2025). Estas cifras reflejan su volatilidad y especificidad regional.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Cómo se calcula el recargo"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Suele basarse en: (1) un precio base del combustible (p. ej., EUR 1.00 por litro); (2) un índice de precio (p. ej., Weekly Oil Bulletin de la Comisión Europea); y (3) una fórmula que convierte la desviación en recargo por km o en porcentaje. Por ejemplo, aplicar 0,5 % por cada EUR 0.01 sobre el precio base. Algunos publican tablas de recargo; otros lo negocian como partida separada.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Peajes y cargos medioambientales"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Además del recargo por combustible, hay que contar con peajes y tasas ambientales. Investigación de Transport Intelligence, Upply y la IRU halló que los peajes suponen en torno al 14 % del coste de transporte en Europa y hasta el 23 % en ciertas rutas (Logistics Business, 2025). Con la Directiva Eurovignette revisada, los Estados de la UE sustituyen viñetas temporales por peajes por distancia vinculados a emisiones de CO2 (Logistics Business, 2025). Alemania introdujo en diciembre de 2023 un componente de CO2 de EUR 200 por tonelada de CO2, casi doblando los peajes (NOSTA Group, 2023).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Las zonas de bajas emisiones en ciudades como París, Berlín y Milán imponen cargos adicionales para vehículos antiguos. No pagar peajes o incumplir normas de emisiones genera multas e interrupciones.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cómo mitigar costes de combustible y peaje"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Optimice rutas y cargas. El enrutado y la consolidación con IA reducen kilómetros en vacío y ahorran combustible. ORION (UPS) ha eliminado 100 millones de millas y ahorrado 10 millones de galones al año, recortando emisiones y costes.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Supervise índices de combustible. Siga los índices y negocie fórmulas de recargo con los transportistas. Algunos cargadores cubren combustible con futuros.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Use vehículos eficientes. Invertir en camiones Euro 6 o eléctricos reduce consumo y evita penalizaciones en zonas de bajas emisiones.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Planifique cambios de peaje. Manténgase al día de nuevos sistemas y recargos de CO2; inclúyalos en presupuestos y rutas.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Consolide envíos. Groupage o soluciones intermodales reparten combustible y peajes entre varios envíos y bajan el coste unitario.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Considere alternativas multimodales. Ferrocarril o short-sea pueden ofrecer costes más predecibles en larga distancia.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusión: visibilidad y planificación"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Los recargos por combustible y los peajes pueden hacer o deshacer la rentabilidad de un envío por carretera. Entendiendo su cálculo, siguiendo la evolución del combustible y anticipando cambios de peaje, los cargadores gestionan costes de forma proactiva. Proveedores como Logifie usan analítica para optimizar rutas y cargas y mitigar recargos y tasas ambientales.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fuentes"
+    },
+    {
+      "type": "citation",
+      "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Explica que el recargo compensa la volatilidad del diésel; en LTL puede llegar al 30 % y detalla el cálculo.",
+      "author": "Zero Down Supply Chain Solutions",
+      "url": "https://zerodownsc.com/2025/09/fuel-surcharges/"
+    },
+    {
+      "type": "citation",
+      "text": "Road transport surcharges and fees (November 2025) (Blue Water Shipping A/S, 2025) - Enumera recargos de noviembre de 2025: 27,40 % doméstico en Dinamarca, 25 % en Suecia y 60,30 % en flujos con Europa.",
+      "author": "Blue Water Shipping",
+      "url": "https://www.bws.dk/surcharges-and-fees/"
+    },
+    {
+      "type": "citation",
+      "text": "Tolls drive up European road transport prices (Logistics Business, 2025) - Indica que los peajes suponen ~14 % y hasta 23 % en algunas rutas; la UE sustituye viñetas temporales por peajes por distancia ligados al CO2 (Directiva Eurovignette).",
+      "author": "Logistics Business Magazine",
+      "url": "https://logisticsbusiness.com/transport-management/tolls-drive-up-european-road-transport-prices/"
+    },
+    {
+      "type": "citation",
+      "text": "Germany introduces CO2 component to truck toll (NOSTA Group, 2023) - Señala que la reforma alemana añadió ~EUR 200/tonelada de CO2 desde el 1/12/2023, casi duplicando los peajes.",
+      "author": "NOSTA Group",
+      "url": "https://www.nosta-group.com/en/news/truck-toll-co2/"
+    }
   ],
   "tags": [
     "recargo combustible transporte por carretera",

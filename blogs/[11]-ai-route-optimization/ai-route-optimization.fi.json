@@ -1,5 +1,5 @@
 {
-  "id": "how-ai-route-optimization-reduces-co2-in-road-freight",
+  "id": "how-ai-route-optimization-reduces-co2-in-road-freight-fi",
   "shortId": "ai-route-optimization",
   "language": "fi",
   "isVisible": true,
@@ -61,7 +61,12 @@
     },
     {
       "type": "paragraph",
-      "children": [{ "text": "Keskeiset osat:", "bold": false }]
+      "children": [
+        {
+          "text": "Keskeiset osat:",
+          "bold": false
+        }
+      ]
     },
     {
       "type": "list",
@@ -93,12 +98,21 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Hyödyt käytännössä" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hyödyt käytännössä"
+    },
     {
       "type": "list",
       "ordered": false,
       "items": [
-        [{ "text": "Vähemmän tyhjiä kilometrejä", "bold": false }],
+        [
+          {
+            "text": "Vähemmän tyhjiä kilometrejä",
+            "bold": false
+          }
+        ],
         [
           {
             "text": "Lyhyemmät ajoajat ruuhkien välttämisellä",
@@ -188,7 +202,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Lähteet" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lähteet"
+    },
     {
       "type": "citation",
       "text": "Transport (Global Change Data Lab, 2023) – Tieliikenne ~15 % CO2:sta; kuorma-autot ~29 % liikenteen päästöistä.",

@@ -1,5 +1,5 @@
 {
-  "id": "eu-cabotage-rules-and-the-mobility-package-navigating-cooling-off-periods-and-vehicle-return-requirements",
+  "id": "eu-cabotage-rules-and-the-mobility-package-navigating-cooling-off-periods-and-vehicle-return-requirements-de",
   "shortId": "eu-cabotage-rules",
   "language": "de",
   "isVisible": true,
@@ -31,7 +31,11 @@
       "alt": "Foto eines europäischen Lkw, der bei Sonnenuntergang zum Heimatdepot zurückkehrt; Lagerhalle im Hintergrund",
       "caption": "Ein Lkw kehrt zum Heimatdepot zurück – die Rückkehrpflicht ist Bestandteil des EU-Mobilitätspakets."
     },
-    { "type": "heading", "level": 2, "text": "Was ist Kabotage?" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Was ist Kabotage?"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -119,7 +123,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 2, "text": "Praxisempfehlungen" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Praxisempfehlungen"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -150,7 +158,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Fazit" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fazit"
+    },
     {
       "type": "paragraph",
       "children": [

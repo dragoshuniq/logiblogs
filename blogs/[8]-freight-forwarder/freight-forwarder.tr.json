@@ -1,5 +1,5 @@
 {
-  "id": "working-with-a-freight-forwarder-what-shippers-should-expect-day-to-day",
+  "id": "working-with-a-freight-forwarder-what-shippers-should-expect-day-to-day-tr",
   "shortId": "working-with-forwarder",
   "language": "tr",
   "isVisible": true,
@@ -227,7 +227,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Kaynaklar" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kaynaklar"
+    },
     {
       "type": "citation",
       "text": "About Freight Forwarding (FIATA, 2004) - Spedyasyon ve lojistik hizmetlerinin kapsamını açıklar: taşıma, konsolidasyon, depolama, elleçleme, paketleme, dağıtım ve gümrük, sigorta, tahsilat gibi yardımcı hizmetler.",

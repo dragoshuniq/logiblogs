@@ -1,5 +1,5 @@
 {
-  "id": "how-ai-route-optimization-reduces-co2-in-road-freight",
+  "id": "how-ai-route-optimization-reduces-co2-in-road-freight-ua",
   "shortId": "ai-route-optimization",
   "language": "ua",
   "isVisible": true,
@@ -61,7 +61,12 @@
     },
     {
       "type": "paragraph",
-      "children": [{ "text": "Ключові складові:", "bold": false }]
+      "children": [
+        {
+          "text": "Ключові складові:",
+          "bold": false
+        }
+      ]
     },
     {
       "type": "list",
@@ -102,7 +107,12 @@
       "type": "list",
       "ordered": false,
       "items": [
-        [{ "text": "Менше порожніх рейсів", "bold": false }],
+        [
+          {
+            "text": "Менше порожніх рейсів",
+            "bold": false
+          }
+        ],
         [
           {
             "text": "Коротші поїздки завдяки обходу заторів",
@@ -192,7 +202,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Джерела" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Джерела"
+    },
     {
       "type": "citation",
       "text": "Transport (Global Change Data Lab, 2023) – Дорожній транспорт ~15 % глобального CO2; вантажівки ~29 % викидів транспорту.",

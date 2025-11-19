@@ -1,5 +1,5 @@
 {
-  "id": "groupage-vs-full-truck-load-what-s-best-for-your-european-freight",
+  "id": "groupage-vs-full-truck-load-what-s-best-for-your-european-freight-fi",
   "shortId": "groupage-vs-ftl",
   "language": "fi",
   "isVisible": true,
@@ -124,7 +124,11 @@
       "level": 2,
       "text": "Milloin groupage ja milloin FTL"
     },
-    { "type": "heading", "level": 3, "text": "Valitse FTL, kun:" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Valitse FTL, kun:"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -177,7 +181,10 @@
           }
         ],
         [
-          { "text": "Joustavat läpimenoajat sopivat.", "bold": false }
+          {
+            "text": "Joustavat läpimenoajat sopivat.",
+            "bold": false
+          }
         ],
         [
           {
@@ -187,7 +194,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Hybridivaihtoehdot" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hybridivaihtoehdot"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -197,7 +208,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 2, "text": "Huomioitavat tekijät" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Huomioitavat tekijät"
+    },
     {
       "type": "list",
       "ordered": true,
@@ -254,7 +269,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Lähteet" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lähteet"
+    },
     {
       "type": "citation",
       "text": "European road freight options explained (Uniserve Group, 2025) - Määrittelee FTL:n ja LTL/groupagen: FTL käyttää koko ajoneuvon (nopeampi, vähemmän käsittelyä); groupage yhdistää pienet erät alemmalla kustannuksella mutta pidemmällä ajalla.",

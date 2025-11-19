@@ -1,5 +1,5 @@
 {
-  "id": "choose-right-incoterms-european-shipments",
+  "id": "choose-right-incoterms-european-shipments-pt",
   "shortId": "incoterms-road-freight",
   "language": "pt",
   "isVisible": true,
@@ -259,7 +259,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Fontes" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fontes"
+    },
     {
       "type": "citation",
       "text": "Know Your Incoterms (International Trade Administration, 2024) - apresenta as regras Incoterms 2020 e as responsabilidades de compradores e vendedores para todos os modos de transporte.",

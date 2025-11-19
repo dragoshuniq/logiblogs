@@ -1,5 +1,5 @@
 {
-  "id": "packaging-and-palletization-best-practices-for-european-road-transport",
+  "id": "packaging-and-palletization-best-practices-for-european-road-transport-it",
   "shortId": "packaging-best-practices",
   "language": "it",
   "isVisible": true,
@@ -8,47 +8,224 @@
   "description": "Un imballaggio e una pallettizzazione corretti sono fondamentali. Anche la miglior tratta fallisce se la merce si sposta, si rompe o collassa per impilamento errato o fissaggio insufficiente...",
   "publishedAt": "2024-12-29T00:00:00Z",
   "category": "Operazioni",
-  "author": {"name": "Logifie Team", "role": "Esperti di tecnologie per la logistica", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Esperti di tecnologie per la logistica",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "packaging-palletization-hero.png",
   "imageAlt": "Schema in sezione di una euro-pallet con schemi di impilamento consigliati e ripartizione dei pesi",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Imballaggio e pallettizzazione corretti proteggono la merce e l'efficienza. Questo articolo riassume le best practice per preparare i pallet, scegliere i materiali e fissare i carichi per ridurre i danni e rispettare gli standard europei.", "bold": false}]},
-    {"type": "image", "src": "packaging-palletization-visual.png", "alt": "Operatori di magazzino avvolgono e cingono un pallet di carico misto prima del trasporto", "caption": "Film estensibile e reggette bloccano un euro-pallet misto prima del linehaul."},
-    {"type": "heading", "level": 2, "text": "Specifiche della euro-pallet"},
-    {"type": "paragraph", "children": [{"text": "La euro-pallet (EPAL) è la più usata in Europa. Misure standard 1.200 mm x 800 mm x 144 mm e 0,96 m2 di area utile (Across Logistics, 2025). A vuoto pesa 22-25 kg a seconda dell'umidità; portata fino a 1.500 kg in dinamico, 4.000 kg in pila e 1.000 kg a scaffale (Across Logistics, 2025). Compatibile con camion e container europei; su semirimorchio standard entrano due di traverso o tre in longitudine (Across Logistics, 2025).", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Tecniche di pallettizzazione"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Usare pallet di qualità. Intatti, asciutti e conformi a ISPM-15 (trattamento termico anti-parassiti).", "bold": false}],
-      [{"text": "Distribuire il peso uniformemente. Pesante in basso, scatole a filo bordo, no sporgenze.", "bold": false}],
-      [{"text": "Impilare a colonne o a quinconce. Le colonne massimizzano la resistenza ma sono meno stabili; la quinconce lega gli strati e stabilizza. Con carichi misti, preferire la quinconce (Jungheinrich AG, 2024).", "bold": false}],
-      [{"text": "Centro di gravità basso. Elementi pesanti vicino alla base del pallet per evitare ribaltamenti.", "bold": false}],
-      [{"text": "Fissare il carico. Film estensibile/retrattile, reggette o cinghie; angolari e protezioni ripartiscono la trazione.", "bold": false}],
-      [{"text": "Etichettare chiaramente. Istruzioni di maneggio ('fragile', 'alto'), codici a barre ed etichette su più lati.", "bold": false}],
-      [{"text": "Evitare vuoti. Riempire spazi interni e tra strati con materiale di riempimento.", "bold": false}],
-      [{"text": "Coperture. Per merci sensibili, teli/plastiche contro umidità e polvere.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Fissaggio del carico e veicolo"},
-    {"type": "paragraph", "children": [{"text": "Un fissaggio inadeguato contribuisce fino al 25 % degli incidenti con camion (European Union, 2014). Seguire le linee guida UE tutela conducenti e utenti. Punti chiave:", "bold": false}]},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Usare dispositivi idonei. Cinghie a cricchetto, tappeti antiscivolo, airbag e traverse bloccano il carico.", "bold": false}],
-      [{"text": "Verificare le attrezzature. Sostituire cinghie usurate o danneggiate.", "bold": false}],
-      [{"text": "Bilanciare il carico. Ripartire il peso sul veicolo per evitare sovraccarico sugli assi e migliorare la guida.", "bold": false}],
-      [{"text": "Ispezionare regolarmente. Il conducente controlla carico e fissaggi a ogni sosta e dopo manovre brusche.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Best practice per tipologia di merce"},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Fragili: imbottire all'interno (schiuma, cuscini d'aria); doppio impilamento solo con scatole certificate.", "bold": false}],
-      [{"text": "Liquidi: fusti in verticale; paratie o IBC per evitare sballottamenti.", "bold": false}],
-      [{"text": "Deperibili: contenitori isolati e freddo secondo ATP. Pre-raffreddare merce e semirimorchio alla temperatura richiesta (IAT Insurance Group, 2023).", "bold": false}],
-      [{"text": "Pericolosi (ADR): imballi omologati ed etichettatura con classi di pericolo; conducenti con attestato ADR.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Conclusione: ben imballato, ben consegnato"},
-    {"type": "paragraph", "children": [{"text": "Un carico correttamente imballato e pallettizzato viaggia sicuro, riduce i sinistri e migliora l'efficienza. Seguendo gli standard euro-pallet, tecniche di impilamento solide e un fissaggio adeguato, si minimizzano i danni e si garantisce integrità in consegna. Con un partner come Logifie, queste best practice si applicano in modo coerente in tutta Europa.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Fonti"},
-    {"type": "citation", "text": "European pallet: dimensions, types and logistic uses (Across Logistics, 2025) - Misure standard (1.200 x 800 x 144 mm), portate (1.500 kg dinamica, 4.000 kg statica) e background EPAL.", "author": "Across Logistics", "url": "https://acrosslogistics.com/blog/en/palet-europeo"},
-    {"type": "citation", "text": "Palletizing and load securing tips (Jungheinrich AG, 2024) - Suggerimenti: distribuzione pesi, niente sporgenze, impilamento a quinconce, fissaggio con film o reggette.", "author": "Jungheinrich ProfiGuide", "url": "https://profi-guide.jungheinrich.com/palletizing-best-practices"},
-    {"type": "citation", "text": "European best practice guidelines on cargo securing (European Union, 2014) - Fino al 25 % incidenti legati a fissaggio carente; guida alla scelta dei dispositivi.", "author": "European Commission", "url": "https://ec.europa.eu/transport/road_safety/topics/cargo-securing-guidelines_en"},
-    {"type": "citation", "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Catena del freddo: pre-raffreddare merce e semirimorchio; controlli e manutenzione regolari.", "author": "IAT Insurance Group", "url": "https://www.iatinsurancegroup.com/media/0sodtctn/230830_cargo_ebook_final.pdf"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Imballaggio e pallettizzazione corretti proteggono la merce e l'efficienza. Questo articolo riassume le best practice per preparare i pallet, scegliere i materiali e fissare i carichi per ridurre i danni e rispettare gli standard europei.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "packaging-palletization-visual.png",
+      "alt": "Operatori di magazzino avvolgono e cingono un pallet di carico misto prima del trasporto",
+      "caption": "Film estensibile e reggette bloccano un euro-pallet misto prima del linehaul."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Specifiche della euro-pallet"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La euro-pallet (EPAL) è la più usata in Europa. Misure standard 1.200 mm x 800 mm x 144 mm e 0,96 m2 di area utile (Across Logistics, 2025). A vuoto pesa 22-25 kg a seconda dell'umidità; portata fino a 1.500 kg in dinamico, 4.000 kg in pila e 1.000 kg a scaffale (Across Logistics, 2025). Compatibile con camion e container europei; su semirimorchio standard entrano due di traverso o tre in longitudine (Across Logistics, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tecniche di pallettizzazione"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Usare pallet di qualità. Intatti, asciutti e conformi a ISPM-15 (trattamento termico anti-parassiti).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Distribuire il peso uniformemente. Pesante in basso, scatole a filo bordo, no sporgenze.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Impilare a colonne o a quinconce. Le colonne massimizzano la resistenza ma sono meno stabili; la quinconce lega gli strati e stabilizza. Con carichi misti, preferire la quinconce (Jungheinrich AG, 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Centro di gravità basso. Elementi pesanti vicino alla base del pallet per evitare ribaltamenti.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Fissare il carico. Film estensibile/retrattile, reggette o cinghie; angolari e protezioni ripartiscono la trazione.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Etichettare chiaramente. Istruzioni di maneggio ('fragile', 'alto'), codici a barre ed etichette su più lati.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Evitare vuoti. Riempire spazi interni e tra strati con materiale di riempimento.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Coperture. Per merci sensibili, teli/plastiche contro umidità e polvere.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fissaggio del carico e veicolo"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Un fissaggio inadeguato contribuisce fino al 25 % degli incidenti con camion (European Union, 2014). Seguire le linee guida UE tutela conducenti e utenti. Punti chiave:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Usare dispositivi idonei. Cinghie a cricchetto, tappeti antiscivolo, airbag e traverse bloccano il carico.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Verificare le attrezzature. Sostituire cinghie usurate o danneggiate.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Bilanciare il carico. Ripartire il peso sul veicolo per evitare sovraccarico sugli assi e migliorare la guida.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ispezionare regolarmente. Il conducente controlla carico e fissaggi a ogni sosta e dopo manovre brusche.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Best practice per tipologia di merce"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Fragili: imbottire all'interno (schiuma, cuscini d'aria); doppio impilamento solo con scatole certificate.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Liquidi: fusti in verticale; paratie o IBC per evitare sballottamenti.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Deperibili: contenitori isolati e freddo secondo ATP. Pre-raffreddare merce e semirimorchio alla temperatura richiesta (IAT Insurance Group, 2023).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Pericolosi (ADR): imballi omologati ed etichettatura con classi di pericolo; conducenti con attestato ADR.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusione: ben imballato, ben consegnato"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Un carico correttamente imballato e pallettizzato viaggia sicuro, riduce i sinistri e migliora l'efficienza. Seguendo gli standard euro-pallet, tecniche di impilamento solide e un fissaggio adeguato, si minimizzano i danni e si garantisce integrità in consegna. Con un partner come Logifie, queste best practice si applicano in modo coerente in tutta Europa.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fonti"
+    },
+    {
+      "type": "citation",
+      "text": "European pallet: dimensions, types and logistic uses (Across Logistics, 2025) - Misure standard (1.200 x 800 x 144 mm), portate (1.500 kg dinamica, 4.000 kg statica) e background EPAL.",
+      "author": "Across Logistics",
+      "url": "https://acrosslogistics.com/blog/en/palet-europeo"
+    },
+    {
+      "type": "citation",
+      "text": "Palletizing and load securing tips (Jungheinrich AG, 2024) - Suggerimenti: distribuzione pesi, niente sporgenze, impilamento a quinconce, fissaggio con film o reggette.",
+      "author": "Jungheinrich ProfiGuide",
+      "url": "https://profi-guide.jungheinrich.com/palletizing-best-practices"
+    },
+    {
+      "type": "citation",
+      "text": "European best practice guidelines on cargo securing (European Union, 2014) - Fino al 25 % incidenti legati a fissaggio carente; guida alla scelta dei dispositivi.",
+      "author": "European Commission",
+      "url": "https://ec.europa.eu/transport/road_safety/topics/cargo-securing-guidelines_en"
+    },
+    {
+      "type": "citation",
+      "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Catena del freddo: pre-raffreddare merce e semirimorchio; controlli e manutenzione regolari.",
+      "author": "IAT Insurance Group",
+      "url": "https://www.iatinsurancegroup.com/media/0sodtctn/230830_cargo_ebook_final.pdf"
+    }
   ],
   "tags": [
     "pallettizzazione best practice",
@@ -60,4 +237,3 @@
     "linee guida caricamento pallet"
   ]
 }
-

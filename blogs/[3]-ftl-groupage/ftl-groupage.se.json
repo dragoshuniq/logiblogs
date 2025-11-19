@@ -1,5 +1,5 @@
 {
-  "id": "groupage-vs-full-truck-load-what-s-best-for-your-european-freight",
+  "id": "groupage-vs-full-truck-load-what-s-best-for-your-european-freight-se",
   "shortId": "groupage-vs-ftl",
   "language": "se",
   "isVisible": true,
@@ -124,7 +124,11 @@
       "level": 2,
       "text": "När groupage och när FTL"
     },
-    { "type": "heading", "level": 3, "text": "Välj FTL när:" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Välj FTL när:"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -155,7 +159,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 3, "text": "Välj groupage när:" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Välj groupage när:"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -186,7 +194,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Hybridalternativ" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hybridalternativ"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -196,7 +208,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 2, "text": "Faktorer att beakta" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Faktorer att beakta"
+    },
     {
       "type": "list",
       "ordered": true,
@@ -253,7 +269,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Källor" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Källor"
+    },
     {
       "type": "citation",
       "text": "European road freight options explained (Uniserve Group, 2025) - Definierar FTL och LTL/groupage: FTL använder hela fordonet (snabbare, mindre hantering); groupage konsoliderar mindre sändningar för lägre kostnad men längre tid.",

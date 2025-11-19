@@ -1,5 +1,5 @@
 {
-  "id": "packaging-and-palletization-best-practices-for-european-road-transport",
+  "id": "packaging-and-palletization-best-practices-for-european-road-transport-es",
   "shortId": "packaging-best-practices",
   "language": "es",
   "isVisible": true,
@@ -8,47 +8,224 @@
   "description": "Un buen embalaje y una paletización correcta son clave para un transporte por carretera exitoso. Incluso la mejor ruta falla si la carga se desplaza, se rompe o colapsa por un apilado deficiente o una sujeción inadecuada...",
   "publishedAt": "2024-12-29T00:00:00Z",
   "category": "Operaciones",
-  "author": {"name": "Logifie Team", "role": "Expertos en tecnología logística", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Expertos en tecnología logística",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "packaging-palletization-hero.png",
   "imageAlt": "Esquema de una europalé con patrones de apilado recomendados y reparto de pesos",
   "content": [
-    {"type": "paragraph", "children": [{"text": "El embalaje y la paletización adecuados protegen la mercancía y la eficiencia. Este artículo resume buenas prácticas para preparar palets, elegir materiales y sujetar cargas para minimizar daños y cumplir normas europeas.", "bold": false}]},
-    {"type": "image", "src": "packaging-palletization-visual.png", "alt": "Operarios de almacén envuelven y cinchan un palet de carga mixta antes del transporte", "caption": "El film estirable y el cinchado fijan un palet europeo mixto antes del linehaul."},
-    {"type": "heading", "level": 2, "text": "Especificaciones del europalet"},
-    {"type": "paragraph", "children": [{"text": "El palet europeo (EPAL) es el más utilizado en Europa. Dimensiones estándar: 1.200 mm x 800 mm x 144 mm y 0,96 m2 útiles (Across Logistics, 2025). Peso en vacío 22-25 kg según humedad; capacidad hasta 1.500 kg dinámica, 4.000 kg en apilado y 1.000 kg en estantería (Across Logistics, 2025). Compatible con camiones y contenedores europeos; en un semirremolque estándar caben dos en sentido transversal o tres longitudinales (Across Logistics, 2025).", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Técnicas de paletización"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Usar palets de calidad. Sin daños, secos y conformes a ISPM-15 (tratamiento térmico contra plagas).", "bold": false}],
-      [{"text": "Repartir el peso de forma uniforme. Pesado abajo, cajas alineadas a los bordes y sin voladizos. Los voladizos pueden engancharse y son más vulnerables a impactos.", "bold": false}],
-      [{"text": "Apilar en columnas o en sierra. La columna maximiza resistencia pero es menos estable; el encastre (cajas alternadas) aumenta estabilidad. Para carga mixta, usar patrón en sierra (Jungheinrich AG, 2024).", "bold": false}],
-      [{"text": "Centro de gravedad bajo. Los elementos pesados cerca de la base del palet para evitar vuelcos.", "bold": false}],
-      [{"text": "Asegurar la carga. Film estirable, retractilado, cinchas o amarres; esquineras y protecciones reparten la tensión.", "bold": false}],
-      [{"text": "Etiquetado claro. Instrucciones de manejo ('frágil', 'este lado arriba'), códigos de barras y etiquetas en varias caras.", "bold": false}],
-      [{"text": "Evitar huecos. Rellenar vacíos internos e intercapas con material de relleno para impedir movimientos.", "bold": false}],
-      [{"text": "Cubrir si procede. Fundas o lonas para proteger de humedad y polvo.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Sujeción de carga y consideraciones del vehículo"},
-    {"type": "paragraph", "children": [{"text": "Una sujeción deficiente contribuye hasta en el 25 % de los accidentes de camión (European Union, 2014). Seguir las guías UE protege a conductores y usuarios. Puntos clave:", "bold": false}]},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Usar medios adecuados. Carracas, alfombrillas antideslizantes, airbags y travesaños bloquean la carga.", "bold": false}],
-      [{"text": "Revisar el estado. Sustituir cinchas desgastadas o dañadas.", "bold": false}],
-      [{"text": "Balancear la carga. Repartir el peso en el camión para evitar sobrecargar ejes y mejorar el manejo.", "bold": false}],
-      [{"text": "Inspecciones periódicas. El conductor revisa carga y sujeción en cada parada y tras maniobras bruscas.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Buenas prácticas por tipo de mercancía"},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Frágil: acolchar dentro de cajas (espuma, cojines de aire); apilar doble solo si las cajas lo permiten.", "bold": false}],
-      [{"text": "Líquidos: bidones en vertical; mamparos o IBC para evitar cabeceo.", "bold": false}],
-      [{"text": "Perecederos: embalajes aislantes y frío según ATP. Preenfriar mercancía y remolque a la temperatura requerida (IAT Insurance Group, 2023).", "bold": false}],
-      [{"text": "Peligrosos (ADR): embalaje homologado y etiquetado con clases de peligro; conductores con certificado ADR.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Conclusión: embalar bien para entregar bien"},
-    {"type": "paragraph", "children": [{"text": "Una carga bien embalada y paletizada viaja segura, reduce siniestros y mejora la eficiencia. Siguiendo estándares de europalet, técnicas de apilado sólidas y una sujeción adecuada, los cargadores minimizan daños y aseguran entregas íntegras. Con un partner como Logifie, estas prácticas se aplican de forma consistente en Europa.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Fuentes"},
-    {"type": "citation", "text": "European pallet: dimensions, types and logistic uses (Across Logistics, 2025) - Dimensiones estándar (1.200 x 800 x 144 mm), capacidades (1.500 kg dinámica, 4.000 kg estática) e historia EPAL.", "author": "Across Logistics", "url": "https://acrosslogistics.com/blog/en/palet-europeo"},
-    {"type": "citation", "text": "Palletizing and load securing tips (Jungheinrich AG, 2024) - Consejos: reparto de peso, evitar voladizos, apilado en sierra, sujeción con film o cinchas.", "author": "Jungheinrich ProfiGuide", "url": "https://profi-guide.jungheinrich.com/palletizing-best-practices"},
-    {"type": "citation", "text": "European best practice guidelines on cargo securing (European Union, 2014) - Hasta el 25 % de accidentes ligados a sujeción deficiente; guía de equipos adecuados.", "author": "European Commission", "url": "https://ec.europa.eu/transport/road_safety/topics/cargo-securing-guidelines_en"},
-    {"type": "citation", "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Frío: preenfriar mercancía y remolque; revisar y mantener el equipo de refrigeración.", "author": "IAT Insurance Group", "url": "https://www.iatinsurancegroup.com/media/0sodtctn/230830_cargo_ebook_final.pdf"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "El embalaje y la paletización adecuados protegen la mercancía y la eficiencia. Este artículo resume buenas prácticas para preparar palets, elegir materiales y sujetar cargas para minimizar daños y cumplir normas europeas.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "packaging-palletization-visual.png",
+      "alt": "Operarios de almacén envuelven y cinchan un palet de carga mixta antes del transporte",
+      "caption": "El film estirable y el cinchado fijan un palet europeo mixto antes del linehaul."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Especificaciones del europalet"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "El palet europeo (EPAL) es el más utilizado en Europa. Dimensiones estándar: 1.200 mm x 800 mm x 144 mm y 0,96 m2 útiles (Across Logistics, 2025). Peso en vacío 22-25 kg según humedad; capacidad hasta 1.500 kg dinámica, 4.000 kg en apilado y 1.000 kg en estantería (Across Logistics, 2025). Compatible con camiones y contenedores europeos; en un semirremolque estándar caben dos en sentido transversal o tres longitudinales (Across Logistics, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Técnicas de paletización"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Usar palets de calidad. Sin daños, secos y conformes a ISPM-15 (tratamiento térmico contra plagas).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Repartir el peso de forma uniforme. Pesado abajo, cajas alineadas a los bordes y sin voladizos. Los voladizos pueden engancharse y son más vulnerables a impactos.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Apilar en columnas o en sierra. La columna maximiza resistencia pero es menos estable; el encastre (cajas alternadas) aumenta estabilidad. Para carga mixta, usar patrón en sierra (Jungheinrich AG, 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Centro de gravedad bajo. Los elementos pesados cerca de la base del palet para evitar vuelcos.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Asegurar la carga. Film estirable, retractilado, cinchas o amarres; esquineras y protecciones reparten la tensión.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Etiquetado claro. Instrucciones de manejo ('frágil', 'este lado arriba'), códigos de barras y etiquetas en varias caras.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Evitar huecos. Rellenar vacíos internos e intercapas con material de relleno para impedir movimientos.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Cubrir si procede. Fundas o lonas para proteger de humedad y polvo.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sujeción de carga y consideraciones del vehículo"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Una sujeción deficiente contribuye hasta en el 25 % de los accidentes de camión (European Union, 2014). Seguir las guías UE protege a conductores y usuarios. Puntos clave:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Usar medios adecuados. Carracas, alfombrillas antideslizantes, airbags y travesaños bloquean la carga.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Revisar el estado. Sustituir cinchas desgastadas o dañadas.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Balancear la carga. Repartir el peso en el camión para evitar sobrecargar ejes y mejorar el manejo.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Inspecciones periódicas. El conductor revisa carga y sujeción en cada parada y tras maniobras bruscas.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Buenas prácticas por tipo de mercancía"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Frágil: acolchar dentro de cajas (espuma, cojines de aire); apilar doble solo si las cajas lo permiten.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Líquidos: bidones en vertical; mamparos o IBC para evitar cabeceo.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Perecederos: embalajes aislantes y frío según ATP. Preenfriar mercancía y remolque a la temperatura requerida (IAT Insurance Group, 2023).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Peligrosos (ADR): embalaje homologado y etiquetado con clases de peligro; conductores con certificado ADR.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusión: embalar bien para entregar bien"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Una carga bien embalada y paletizada viaja segura, reduce siniestros y mejora la eficiencia. Siguiendo estándares de europalet, técnicas de apilado sólidas y una sujeción adecuada, los cargadores minimizan daños y aseguran entregas íntegras. Con un partner como Logifie, estas prácticas se aplican de forma consistente en Europa.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fuentes"
+    },
+    {
+      "type": "citation",
+      "text": "European pallet: dimensions, types and logistic uses (Across Logistics, 2025) - Dimensiones estándar (1.200 x 800 x 144 mm), capacidades (1.500 kg dinámica, 4.000 kg estática) e historia EPAL.",
+      "author": "Across Logistics",
+      "url": "https://acrosslogistics.com/blog/en/palet-europeo"
+    },
+    {
+      "type": "citation",
+      "text": "Palletizing and load securing tips (Jungheinrich AG, 2024) - Consejos: reparto de peso, evitar voladizos, apilado en sierra, sujeción con film o cinchas.",
+      "author": "Jungheinrich ProfiGuide",
+      "url": "https://profi-guide.jungheinrich.com/palletizing-best-practices"
+    },
+    {
+      "type": "citation",
+      "text": "European best practice guidelines on cargo securing (European Union, 2014) - Hasta el 25 % de accidentes ligados a sujeción deficiente; guía de equipos adecuados.",
+      "author": "European Commission",
+      "url": "https://ec.europa.eu/transport/road_safety/topics/cargo-securing-guidelines_en"
+    },
+    {
+      "type": "citation",
+      "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Frío: preenfriar mercancía y remolque; revisar y mantener el equipo de refrigeración.",
+      "author": "IAT Insurance Group",
+      "url": "https://www.iatinsurancegroup.com/media/0sodtctn/230830_cargo_ebook_final.pdf"
+    }
   ],
   "tags": [
     "paletización buenas prácticas",
@@ -60,4 +237,3 @@
     "directrices carga palets"
   ]
 }
-

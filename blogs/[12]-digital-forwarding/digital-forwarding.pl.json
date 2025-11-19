@@ -1,5 +1,5 @@
 {
-  "id": "digital-freight-forwarding-vs-traditional-forwarding",
+  "id": "digital-freight-forwarding-vs-traditional-forwarding-pl",
   "shortId": "digital-vs-traditional",
   "language": "pl",
   "isVisible": true,
@@ -99,7 +99,12 @@
             "bold": false
           }
         ],
-        [{ "text": "Raportowanie CO2 na przesyłkę", "bold": false }],
+        [
+          {
+            "text": "Raportowanie CO2 na przesyłkę",
+            "bold": false
+          }
+        ],
         [
           {
             "text": "Otwarte API do integracji z TMS/WMS",
@@ -131,7 +136,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 2, "text": "Trendy" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Trendy"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -168,7 +177,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Wnioski" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Wnioski"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -179,5 +192,8 @@
       ]
     }
   ],
-  "tags": ["spedycja cyfrowa", "technologie logistyczne"]
+  "tags": [
+    "spedycja cyfrowa",
+    "technologie logistyczne"
+  ]
 }

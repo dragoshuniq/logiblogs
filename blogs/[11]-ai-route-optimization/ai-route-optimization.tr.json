@@ -1,5 +1,5 @@
 {
-  "id": "how-ai-route-optimization-reduces-co2-in-road-freight",
+  "id": "how-ai-route-optimization-reduces-co2-in-road-freight-tr",
   "shortId": "ai-route-optimization",
   "language": "tr",
   "isVisible": true,
@@ -61,7 +61,12 @@
     },
     {
       "type": "paragraph",
-      "children": [{ "text": "Temel bileşenler:", "bold": false }]
+      "children": [
+        {
+          "text": "Temel bileşenler:",
+          "bold": false
+        }
+      ]
     },
     {
       "type": "list",
@@ -93,12 +98,21 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Somut kazanımlar" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Somut kazanımlar"
+    },
     {
       "type": "list",
       "ordered": false,
       "items": [
-        [{ "text": "Daha az boş sefer", "bold": false }],
+        [
+          {
+            "text": "Daha az boş sefer",
+            "bold": false
+          }
+        ],
         [
           {
             "text": "Sıkışıklığı atlayarak daha kısa süreler",
@@ -188,7 +202,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Kaynaklar" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kaynaklar"
+    },
     {
       "type": "citation",
       "text": "Transport (Global Change Data Lab, 2023) – Karayolu ~küresel CO2'nin %15'i; kamyonlar ulaştırmanın ~%29'u.",

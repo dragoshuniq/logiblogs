@@ -1,5 +1,5 @@
 {
-  "id": "choose-right-incoterms-european-shipments",
+  "id": "choose-right-incoterms-european-shipments-fr",
   "shortId": "incoterms-road-freight",
   "language": "fr",
   "isVisible": true,
@@ -123,8 +123,18 @@
       "type": "list",
       "ordered": false,
       "items": [
-        [ { "text": "Utiliser EXW lorsque l'acheteur dispose d'un réseau logistique solide dans le pays du vendeur et souhaite contrôler le transport, la consolidation et les procédures d'export.", "bold": false } ],
-        [ { "text": "Utiliser FCA pour la plupart des envois routiers internationaux, car le vendeur gère le dédouanement export et le chargement, réduisant les risques douaniers tandis que l'acheteur gère le transport principal.", "bold": false } ]
+        [
+          {
+            "text": "Utiliser EXW lorsque l'acheteur dispose d'un réseau logistique solide dans le pays du vendeur et souhaite contrôler le transport, la consolidation et les procédures d'export.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Utiliser FCA pour la plupart des envois routiers internationaux, car le vendeur gère le dédouanement export et le chargement, réduisant les risques douaniers tandis que l'acheteur gère le transport principal.",
+            "bold": false
+          }
+        ]
       ]
     },
     {
@@ -136,8 +146,18 @@
       "type": "list",
       "ordered": false,
       "items": [
-        [ { "text": "Utiliser DAP lorsque l'acheteur souhaite gérer le dédouanement import, récupérer la TVA et contrôler le dernier kilomètre.", "bold": false } ],
-        [ { "text": "Utiliser DDP pour des livraisons B2C ou lorsque l'acheteur exige un prix rendu droits acquittés - sous réserve que le vendeur dispose des immatriculations et partenaires pour les formalités d'importation.", "bold": false } ]
+        [
+          {
+            "text": "Utiliser DAP lorsque l'acheteur souhaite gérer le dédouanement import, récupérer la TVA et contrôler le dernier kilomètre.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Utiliser DDP pour des livraisons B2C ou lorsque l'acheteur exige un prix rendu droits acquittés - sous réserve que le vendeur dispose des immatriculations et partenaires pour les formalités d'importation.",
+            "bold": false
+          }
+        ]
       ]
     },
     {
@@ -148,16 +168,34 @@
     {
       "type": "paragraph",
       "children": [
-        { "text": "Si EXW, FCA, DAP et DDP dominent les discussions en fret routier européen, d'autres règles peuvent mieux convenir selon la marchandise et le besoin de contrôle.", "bold": false }
+        {
+          "text": "Si EXW, FCA, DAP et DDP dominent les discussions en fret routier européen, d'autres règles peuvent mieux convenir selon la marchandise et le besoin de contrôle.",
+          "bold": false
+        }
       ]
     },
     {
       "type": "list",
       "ordered": false,
       "items": [
-        [ { "text": "CPT (Carriage Paid To) : le vendeur paie le fret jusqu'au lieu convenu mais le risque passe à l'acheteur lors de la remise au premier transporteur - utile pour colis et groupage.", "bold": false } ],
-        [ { "text": "CIP (Carriage and Insurance Paid To) : similaire à CPT mais le vendeur doit aussi fournir une assurance conforme aux exigences de l'acheteur.", "bold": false } ],
-        [ { "text": "DPU (Delivered at Place Unloaded) : le vendeur livre et décharge au lieu convenu, ce qui peut simplifier le transfert dans des hubs cross-dock européens.", "bold": false } ]
+        [
+          {
+            "text": "CPT (Carriage Paid To) : le vendeur paie le fret jusqu'au lieu convenu mais le risque passe à l'acheteur lors de la remise au premier transporteur - utile pour colis et groupage.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "CIP (Carriage and Insurance Paid To) : similaire à CPT mais le vendeur doit aussi fournir une assurance conforme aux exigences de l'acheteur.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "DPU (Delivered at Place Unloaded) : le vendeur livre et décharge au lieu convenu, ce qui peut simplifier le transfert dans des hubs cross-dock européens.",
+            "bold": false
+          }
+        ]
       ]
     },
     {
@@ -169,12 +207,42 @@
       "type": "list",
       "ordered": true,
       "items": [
-        [ { "text": "Contrôle logistique : des acheteurs avec un réseau performant préfèrent EXW ou FCA pour piloter le routage et la consolidation.", "bold": false } ],
-        [ { "text": "Compétence douanière : des vendeurs expérimentés en export choisiront FCA ou DAP pour sécuriser le dédouanement.", "bold": false } ],
-        [ { "text": "Tolérance au risque : définir la partie la mieux placée pour gérer assurance, avaries et retards.", "bold": false } ],
-        [ { "text": "Impacts fiscaux : récupération de TVA et droits varient selon le pays; choisir des termes cohérents avec la stratégie fiscale.", "bold": false } ],
-        [ { "text": "Nature des marchandises : des cargaisons de valeur ou fragiles exigent souvent plus de responsabilité du vendeur et une assurance plus élevée (p. ex. CIP ou DDP).", "bold": false } ],
-        [ { "text": "Relation acheteur-vendeur : des partenariats longs favorisent des termes pro-vendeur, des relations nouvelles favorisent la protection de l'acheteur.", "bold": false } ]
+        [
+          {
+            "text": "Contrôle logistique : des acheteurs avec un réseau performant préfèrent EXW ou FCA pour piloter le routage et la consolidation.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Compétence douanière : des vendeurs expérimentés en export choisiront FCA ou DAP pour sécuriser le dédouanement.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tolérance au risque : définir la partie la mieux placée pour gérer assurance, avaries et retards.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Impacts fiscaux : récupération de TVA et droits varient selon le pays; choisir des termes cohérents avec la stratégie fiscale.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Nature des marchandises : des cargaisons de valeur ou fragiles exigent souvent plus de responsabilité du vendeur et une assurance plus élevée (p. ex. CIP ou DDP).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Relation acheteur-vendeur : des partenariats longs favorisent des termes pro-vendeur, des relations nouvelles favorisent la protection de l'acheteur.",
+            "bold": false
+          }
+        ]
       ]
     },
     {
@@ -185,7 +253,10 @@
     {
       "type": "paragraph",
       "children": [
-        { "text": "Choisir les bons Incoterms pour le fret routier européen consiste à équilibrer contrôle, coût et risque. EXW confère une responsabilité maximale à l'acheteur, mais FCA est souvent plus adapté aux transports transfrontaliers car le vendeur gère les formalités d'exportation. DAP et DDP offrent des solutions livrées - DAP laisse les droits d'importation à l'acheteur tandis que DDP fournit un service porte à porte au risque du vendeur. Évaluez vos capacités logistiques, votre expertise douanière et vos objectifs commerciaux avant d'arrêter les termes, et appuyez-vous sur un transitaire de confiance pour une documentation et une exécution rigoureuses.", "bold": false }
+        {
+          "text": "Choisir les bons Incoterms pour le fret routier européen consiste à équilibrer contrôle, coût et risque. EXW confère une responsabilité maximale à l'acheteur, mais FCA est souvent plus adapté aux transports transfrontaliers car le vendeur gère les formalités d'exportation. DAP et DDP offrent des solutions livrées - DAP laisse les droits d'importation à l'acheteur tandis que DDP fournit un service porte à porte au risque du vendeur. Évaluez vos capacités logistiques, votre expertise douanière et vos objectifs commerciaux avant d'arrêter les termes, et appuyez-vous sur un transitaire de confiance pour une documentation et une exécution rigoureuses.",
+          "bold": false
+        }
       ]
     },
     {
@@ -220,4 +291,3 @@
     "logistique export"
   ]
 }
-

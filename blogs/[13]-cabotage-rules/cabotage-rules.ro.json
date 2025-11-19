@@ -1,5 +1,5 @@
 {
-  "id": "eu-cabotage-rules-and-the-mobility-package-navigating-cooling-off-periods-and-vehicle-return-requirements",
+  "id": "eu-cabotage-rules-and-the-mobility-package-navigating-cooling-off-periods-and-vehicle-return-requirements-ro",
   "shortId": "eu-cabotage-rules",
   "language": "ro",
   "isVisible": true,
@@ -31,7 +31,11 @@
       "alt": "Fotografie cu un camion european care se întoarce la bază la apus, cu un depozit în fundal",
       "caption": "Înapoi la bază: obligația de returnare a vehiculului face parte din Pachetul de Mobilitate."
     },
-    { "type": "heading", "level": 2, "text": "Ce este cabotajul?" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ce este cabotajul?"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -119,7 +123,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 2, "text": "Recomandări" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Recomandări"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -150,7 +158,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Concluzie" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Concluzie"
+    },
     {
       "type": "paragraph",
       "children": [

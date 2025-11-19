@@ -1,5 +1,5 @@
 {
-  "id": "how-fuel-surcharges-and-tolls-impact-your-freight-costs-in-europe",
+  "id": "how-fuel-surcharges-and-tolls-impact-your-freight-costs-in-europe-ua",
   "shortId": "fuel-surcharges-tolls",
   "language": "ua",
   "isVisible": true,
@@ -152,7 +152,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Джерела" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Джерела"
+    },
     {
       "type": "citation",
       "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Пояснює, що паливні надбавки компенсують волатильність дизеля; у LTL можуть сягати 30 %; описує розрахунок.",

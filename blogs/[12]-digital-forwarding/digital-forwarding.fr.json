@@ -1,5 +1,5 @@
 {
-  "id": "digital-freight-forwarding-vs-traditional-forwarding",
+  "id": "digital-freight-forwarding-vs-traditional-forwarding-fr",
   "shortId": "digital-vs-traditional",
   "language": "fr",
   "isVisible": true,
@@ -136,7 +136,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 2, "text": "Tendances à venir" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tendances à venir"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -173,7 +177,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Conclusion" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusion"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -184,5 +192,8 @@
       ]
     }
   ],
-  "tags": ["commission digitale", "technologie logistique"]
+  "tags": [
+    "commission digitale",
+    "technologie logistique"
+  ]
 }

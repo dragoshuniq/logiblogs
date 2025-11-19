@@ -1,5 +1,5 @@
 {
-  "id": "sustainability-in-european-road-freight-practical-steps-without-high-tech-solutions",
+  "id": "sustainability-in-european-road-freight-practical-steps-without-high-tech-solutions-ro",
   "shortId": "sustainability-road-freight",
   "language": "ro",
   "isVisible": true,
@@ -153,7 +153,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Surse" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Surse"
+    },
     {
       "type": "citation",
       "text": "Why is Reducing Carbon Emissions in Transportation and Logistics Important? (Ct Global Freight Audit, 2023) - Arată că până la 90 % din emisii pot proveni din lanțul de aprovizionare și că transportul/logistica însumează aproape 25 % din emisiile globale. Enumeră pași: eco-driving, planificare rute, intermodal, carburanți alternativi și eficiență de flotă.",

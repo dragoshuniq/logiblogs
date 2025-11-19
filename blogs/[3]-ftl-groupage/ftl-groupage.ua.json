@@ -1,5 +1,5 @@
 {
-  "id": "groupage-vs-full-truck-load-what-s-best-for-your-european-freight",
+  "id": "groupage-vs-full-truck-load-what-s-best-for-your-european-freight-ua",
   "shortId": "groupage-vs-ftl",
   "language": "ua",
   "isVisible": true,
@@ -124,7 +124,11 @@
       "level": 2,
       "text": "Коли обирати групаж, а коли FTL"
     },
-    { "type": "heading", "level": 3, "text": "Обирайте FTL, коли:" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Обирайте FTL, коли:"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -190,7 +194,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Гібридні варіанти" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Гібридні варіанти"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -200,7 +208,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 2, "text": "Фактори для розгляду" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Фактори для розгляду"
+    },
     {
       "type": "list",
       "ordered": true,
@@ -257,7 +269,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Джерела" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Джерела"
+    },
     {
       "type": "citation",
       "text": "European road freight options explained (Uniserve Group, 2025) - Визначає FTL і LTL/групаж: FTL використовує цілий транспорт (швидше, менше обробок), групаж консолідує малі партії, зменшуючи вартість за рахунок більшого часу.",

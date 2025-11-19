@@ -1,5 +1,5 @@
 {
-  "id": "choose-right-incoterms-european-shipments",
+  "id": "choose-right-incoterms-european-shipments-de",
   "shortId": "incoterms-road-freight",
   "language": "de",
   "isVisible": true,
@@ -124,10 +124,16 @@
       "ordered": false,
       "items": [
         [
-          { "text": "EXW nutzen, wenn der Käufer im Land des Verkäufers ein starkes Logistiknetz hat und Transport, Konsolidierung und Ausfuhrprozesse voll steuern will.", "bold": false }
+          {
+            "text": "EXW nutzen, wenn der Käufer im Land des Verkäufers ein starkes Logistiknetz hat und Transport, Konsolidierung und Ausfuhrprozesse voll steuern will.",
+            "bold": false
+          }
         ],
         [
-          { "text": "FCA für die meisten internationalen Straßensendungen, weil der Verkäufer Ausfuhrabfertigung und Verladung übernimmt und so Zollrisiken senkt, während der Käufer die Hauptbeförderung steuert.", "bold": false }
+          {
+            "text": "FCA für die meisten internationalen Straßensendungen, weil der Verkäufer Ausfuhrabfertigung und Verladung übernimmt und so Zollrisiken senkt, während der Käufer die Hauptbeförderung steuert.",
+            "bold": false
+          }
         ]
       ]
     },
@@ -141,10 +147,16 @@
       "ordered": false,
       "items": [
         [
-          { "text": "DAP wählen, wenn der Käufer die Einfuhrzollabfertigung steuern, Vorsteuer erstattungsfähig machen und die letzte Meile organisieren möchte.", "bold": false }
+          {
+            "text": "DAP wählen, wenn der Käufer die Einfuhrzollabfertigung steuern, Vorsteuer erstattungsfähig machen und die letzte Meile organisieren möchte.",
+            "bold": false
+          }
         ],
         [
-          { "text": "DDP für Endkundenzustellungen oder wenn der Käufer einen verzollten Endpreis verlangt - vorausgesetzt, der Verkäufer ist registriert und hat Partner für die Einfuhrabfertigung.", "bold": false }
+          {
+            "text": "DDP für Endkundenzustellungen oder wenn der Käufer einen verzollten Endpreis verlangt - vorausgesetzt, der Verkäufer ist registriert und hat Partner für die Einfuhrabfertigung.",
+            "bold": false
+          }
         ]
       ]
     },
@@ -167,13 +179,22 @@
       "ordered": false,
       "items": [
         [
-          { "text": "CPT (Carriage Paid To): Der Verkäufer zahlt die Fracht bis zum benannten Bestimmungsort, das Risiko geht jedoch bei Übergabe an den ersten Frachtführer auf den Käufer über - nützlich für Pakete und Sammelladung.", "bold": false }
+          {
+            "text": "CPT (Carriage Paid To): Der Verkäufer zahlt die Fracht bis zum benannten Bestimmungsort, das Risiko geht jedoch bei Übergabe an den ersten Frachtführer auf den Käufer über - nützlich für Pakete und Sammelladung.",
+            "bold": false
+          }
         ],
         [
-          { "text": "CIP (Carriage and Insurance Paid To): ähnlich wie CPT, aber der Verkäufer muss zusätzlich eine Versicherung stellen, die die Anforderungen des Käufers erfüllt.", "bold": false }
+          {
+            "text": "CIP (Carriage and Insurance Paid To): ähnlich wie CPT, aber der Verkäufer muss zusätzlich eine Versicherung stellen, die die Anforderungen des Käufers erfüllt.",
+            "bold": false
+          }
         ],
         [
-          { "text": "DPU (Delivered at Place Unloaded): Der Verkäufer liefert und entlädt die Ware am vereinbarten Ort, was die Übergabe an europäischen Cross-Dock-Standorten vereinfachen kann.", "bold": false }
+          {
+            "text": "DPU (Delivered at Place Unloaded): Der Verkäufer liefert und entlädt die Ware am vereinbarten Ort, was die Übergabe an europäischen Cross-Dock-Standorten vereinfachen kann.",
+            "bold": false
+          }
         ]
       ]
     },
@@ -186,12 +207,42 @@
       "type": "list",
       "ordered": true,
       "items": [
-        [ { "text": "Steuerung der Logistik: Käufer mit ausgereiften Netzen bevorzugen EXW oder FCA, um Routing und Konsolidierung direkt zu steuern.", "bold": false } ],
-        [ { "text": "Zollkompetenz: Verkäufer mit Erfahrung in Exportdokumenten wählen eher FCA oder DAP, um eine korrekte Abfertigung sicherzustellen.", "bold": false } ],
-        [ { "text": "Risikotoleranz: Legen Sie fest, welche Partei Versicherung, Schaden- und Verzögerungsrisiken am besten tragen kann.", "bold": false } ],
-        [ { "text": "Steuerliche Auswirkungen: Vorsteuererstattung und Zollsätze variieren; wählen Sie Klauseln, die zu Ihrer Steuerstrategie passen.", "bold": false } ],
-        [ { "text": "Art der Güter: Hochwertige oder empfindliche Waren erfordern oft mehr Verkäuferverantwortung und Versicherung (z. B. CIP oder DDP).", "bold": false } ],
-        [ { "text": "Beziehung Käufer-Verkäufer: Langjährige Partnerschaften stützen verkäuferfreundliche Klauseln, neue Beziehungen eher Käuferschutz.", "bold": false } ]
+        [
+          {
+            "text": "Steuerung der Logistik: Käufer mit ausgereiften Netzen bevorzugen EXW oder FCA, um Routing und Konsolidierung direkt zu steuern.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Zollkompetenz: Verkäufer mit Erfahrung in Exportdokumenten wählen eher FCA oder DAP, um eine korrekte Abfertigung sicherzustellen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Risikotoleranz: Legen Sie fest, welche Partei Versicherung, Schaden- und Verzögerungsrisiken am besten tragen kann.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Steuerliche Auswirkungen: Vorsteuererstattung und Zollsätze variieren; wählen Sie Klauseln, die zu Ihrer Steuerstrategie passen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Art der Güter: Hochwertige oder empfindliche Waren erfordern oft mehr Verkäuferverantwortung und Versicherung (z. B. CIP oder DDP).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Beziehung Käufer-Verkäufer: Langjährige Partnerschaften stützen verkäuferfreundliche Klauseln, neue Beziehungen eher Käuferschutz.",
+            "bold": false
+          }
+        ]
       ]
     },
     {
@@ -240,4 +291,3 @@
     "exportlogistik"
   ]
 }
-

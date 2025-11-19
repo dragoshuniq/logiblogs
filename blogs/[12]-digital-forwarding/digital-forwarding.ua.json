@@ -1,5 +1,5 @@
 {
-  "id": "digital-freight-forwarding-vs-traditional-forwarding",
+  "id": "digital-freight-forwarding-vs-traditional-forwarding-ua",
   "shortId": "digital-vs-traditional",
   "language": "ua",
   "isVisible": true,
@@ -99,7 +99,12 @@
             "bold": false
           }
         ],
-        [{ "text": "Розрахунок CO2 на відправлення", "bold": false }],
+        [
+          {
+            "text": "Розрахунок CO2 на відправлення",
+            "bold": false
+          }
+        ],
         [
           {
             "text": "Відкриті API для інтеграцій TMS/WMS",
@@ -131,7 +136,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 2, "text": "Тренди" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Тренди"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -168,7 +177,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Висновок" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Висновок"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -179,5 +192,8 @@
       ]
     }
   ],
-  "tags": ["цифрова експедиція", "логістичні технології"]
+  "tags": [
+    "цифрова експедиція",
+    "логістичні технології"
+  ]
 }

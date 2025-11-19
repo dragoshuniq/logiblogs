@@ -1,5 +1,5 @@
 {
-  "id": "how-fuel-surcharges-and-tolls-impact-your-freight-costs-in-europe",
+  "id": "how-fuel-surcharges-and-tolls-impact-your-freight-costs-in-europe-no",
   "shortId": "fuel-surcharges-tolls",
   "language": "no",
   "isVisible": true,
@@ -152,7 +152,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Kilder" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kilder"
+    },
     {
       "type": "citation",
       "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Forklarer at tillegget kompenserer for dieselvolatilitet; i LTL opptil 30 % og beskriver beregning.",

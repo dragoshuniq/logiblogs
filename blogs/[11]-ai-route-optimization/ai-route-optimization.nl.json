@@ -1,5 +1,5 @@
 {
-  "id": "how-ai-route-optimization-reduces-co2-in-road-freight",
+  "id": "how-ai-route-optimization-reduces-co2-in-road-freight-nl",
   "shortId": "ai-route-optimization",
   "language": "nl",
   "isVisible": true,
@@ -61,7 +61,12 @@
     },
     {
       "type": "paragraph",
-      "children": [{ "text": "Kerncomponenten:", "bold": false }]
+      "children": [
+        {
+          "text": "Kerncomponenten:",
+          "bold": false
+        }
+      ]
     },
     {
       "type": "list",
@@ -102,7 +107,12 @@
       "type": "list",
       "ordered": false,
       "items": [
-        [{ "text": "Minder lege kilometers", "bold": false }],
+        [
+          {
+            "text": "Minder lege kilometers",
+            "bold": false
+          }
+        ],
         [
           {
             "text": "Kortere reistijden door files te vermijden",
@@ -192,7 +202,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Bronnen" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Bronnen"
+    },
     {
       "type": "citation",
       "text": "Transport (Global Change Data Lab, 2023) – Wegverkeer ~15 % van mondiale CO2; vrachtwagens ~29 % van transportemissies.",

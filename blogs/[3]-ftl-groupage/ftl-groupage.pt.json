@@ -1,5 +1,5 @@
 {
-  "id": "groupage-vs-full-truck-load-what-s-best-for-your-european-freight",
+  "id": "groupage-vs-full-truck-load-what-s-best-for-your-european-freight-pt",
   "shortId": "groupage-vs-ftl",
   "language": "pt",
   "isVisible": true,
@@ -124,7 +124,11 @@
       "level": 2,
       "text": "Quando usar groupage e quando FTL"
     },
-    { "type": "heading", "level": 3, "text": "Escolha FTL quando:" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Escolha FTL quando:"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -190,7 +194,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Opções híbridas" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Opções híbridas"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -200,7 +208,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 2, "text": "Fatores a considerar" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fatores a considerar"
+    },
     {
       "type": "list",
       "ordered": true,
@@ -257,7 +269,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Fontes" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fontes"
+    },
     {
       "type": "citation",
       "text": "European road freight options explained (Uniserve Group, 2025) - Define FTL e LTL/groupage: FTL usa o veículo inteiro (prazos curtos, menos manuseio); o groupage consolida para reduzir custos, com prazos mais longos.",

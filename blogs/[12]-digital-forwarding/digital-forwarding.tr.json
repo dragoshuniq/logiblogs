@@ -1,5 +1,5 @@
 {
-  "id": "digital-freight-forwarding-vs-traditional-forwarding",
+  "id": "digital-freight-forwarding-vs-traditional-forwarding-tr",
   "shortId": "digital-vs-traditional",
   "language": "tr",
   "isVisible": true,
@@ -81,7 +81,12 @@
       "type": "list",
       "ordered": false,
       "items": [
-        [{ "text": "Anlık fiyat ve rezervasyon", "bold": false }],
+        [
+          {
+            "text": "Anlık fiyat ve rezervasyon",
+            "bold": false
+          }
+        ],
         [
           {
             "text": "Gerçek zamanlı görünürlük (IoT, entegrasyonlar), tahmini ETA ve istisna uyarıları",
@@ -131,7 +136,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 2, "text": "Trendler" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Trendler"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -168,7 +177,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Sonuç" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sonuç"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -179,5 +192,8 @@
       ]
     }
   ],
-  "tags": ["dijital forwarder", "lojistik teknolojisi"]
+  "tags": [
+    "dijital forwarder",
+    "lojistik teknolojisi"
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "packaging-and-palletization-best-practices-for-european-road-transport",
+  "id": "packaging-and-palletization-best-practices-for-european-road-transport-pl",
   "shortId": "packaging-best-practices",
   "language": "pl",
   "isVisible": true,
@@ -8,47 +8,224 @@
   "description": "Właściwe pakowanie i paletyzacja chronią towar i efektywność. Nawet najlepsza trasa zawiedzie, jeśli ładunek przesunie się, pęknie lub zapadnie przez złe układanie lub niewystarczające mocowanie...",
   "publishedAt": "2024-12-29T00:00:00Z",
   "category": "Operacje",
-  "author": {"name": "Logifie Team", "role": "Eksperci technologii logistycznych", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperci technologii logistycznych",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "packaging-palletization-hero.png",
   "imageAlt": "Przekrój europalety z zalecanymi wzorami układania i rozkładem masy",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Artykuł podsumowuje dobre praktyki przygotowania palet, doboru materiałów i mocowania ładunków, by ograniczyć szkody i spełnić normy UE.", "bold": false}]},
-    {"type": "image", "src": "packaging-palletization-visual.png", "alt": "Załoga magazynu owija i opasuje paletę z ładunkiem mieszanym przed transportem", "caption": "Folia stretch i opasanie unieruchamiają mieszaną europaletę przed załadunkiem linehaul."},
-    {"type": "heading", "level": 2, "text": "Specyfikacja europalety"},
-    {"type": "paragraph", "children": [{"text": "Europaleta (EPAL) to najpopularniejsza paleta w Europie. Wymiary 1.200 mm x 800 mm x 144 mm, powierzchnia użytkowa 0,96 m2 (Across Logistics, 2025). Masa pustej 22-25 kg; nośność do 1.500 kg dynamicznie, 4.000 kg w stosie i 1.000 kg na regałach (Across Logistics, 2025). Kompatybilna z europejskimi ciężarówkami i kontenerami; w naczepie standardowej mieszczą się dwie w poprzek lub trzy wzdłuż (Across Logistics, 2025).", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Techniki paletyzacji"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Używaj palet dobrej jakości. Niezniszczone, suche i zgodne z ISPM-15 (obróbka cieplna przeciw szkodnikom).", "bold": false}],
-      [{"text": "Równomiernie rozkładaj masę. Ciężkie na dół, kartony równo z krawędziami, bez nawisu.", "bold": false}],
-      [{"text": "Układaj w kolumny lub na zakładkę. Kolumny maksymalizują nośność, lecz są mniej stabilne; układ na zakładkę łączy warstwy i stabilizuje. Dla ładunków mieszanych stosuj układ na zakładkę (Jungheinrich AG, 2024).", "bold": false}],
-      [{"text": "Nisko utrzymuj środek ciężkości. Ciężkie sztuki blisko podstawy palety, by uniknąć wywrotu.", "bold": false}],
-      [{"text": "Zabezpieczaj ładunek. Folia stretch, termokurczliwa, opasanie lub pasy; narożniki i ochraniacze rozkładają siły.", "bold": false}],
-      [{"text": "Czytelne etykiety. Instrukcje ('fragile', 'góra'), kody kreskowe i etykiety na kilku bokach.", "bold": false}],
-      [{"text": "Wypełniaj puste przestrzenie. Między warstwami i w kartonach stosuj wypełniacze.", "bold": false}],
-      [{"text": "Osłony palet. Dla wrażliwych towarów przeciw wilgoci i kurzowi.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Mocowanie ładunku i pojazd"},
-    {"type": "paragraph", "children": [{"text": "Niewłaściwe mocowanie odpowiada nawet za 25 % wypadków z udziałem ciężarówek (European Union, 2014). Stosuj wytyczne UE, by chronić kierowców i innych. Kluczowe punkty:", "bold": false}]},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Dobieraj właściwe środki. Pasy, maty antypoślizgowe, poduszki powietrzne i listwy blokujące.", "bold": false}],
-      [{"text": "Kontroluj stan. Wymieniaj zużyte/uszkodzone pasy.", "bold": false}],
-      [{"text": "Równoważ ładunek. Rozkładaj masę na pojeździe, unikaj przeciążeń osi i poprawiaj prowadzenie.", "bold": false}],
-      [{"text": "Regularne inspekcje. Kierowca sprawdza ładunek i mocowanie na postojach i po gwałtownych manewrach.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Dobre praktyki dla typów towarów"},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Delikatne: amortyzacja w kartonach (pianka, poduszki powietrzne); podwójny stos tylko dla kartonów przystosowanych.", "bold": false}],
-      [{"text": "Ciecze: beczki w pionie; grodzie lub IBC przeciw kołysaniu.", "bold": false}],
-      [{"text": "Łatwo psujące: izolowane opakowania i chłodzenie zgodnie z ATP. Wstępnie schłódź ładunek i naczepę (IAT Insurance Group, 2023).", "bold": false}],
-      [{"text": "Niebezpieczne (ADR): atestowane opakowania, etykiety klas zagrożenia; kierowca z uprawnieniami ADR.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Wniosek: dobrze spakowane to dobrze dostarczone"},
-    {"type": "paragraph", "children": [{"text": "Poprawnie spakowany i spaletyzowany ładunek podróżuje bezpieczniej, zmniejsza szkody i podnosi efektywność. Stosując standardy europalety, solidne techniki układania i właściwe zabezpieczenie, minimalizujesz szkody i dostarczasz w całości. Z partnerem jak Logifie wdrożysz praktyki spójnie w całej Europie.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Źródła"},
-    {"type": "citation", "text": "European pallet: dimensions, types and logistic uses (Across Logistics, 2025) - Wymiary (1.200 x 800 x 144 mm), nośności (1.500 kg dynamicznie, 4.000 kg statycznie) i tło EPAL.", "author": "Across Logistics", "url": "https://acrosslogistics.com/blog/en/palet-europeo"},
-    {"type": "citation", "text": "Palletizing and load securing tips (Jungheinrich AG, 2024) - Wskazówki: rozkład masy, brak nawisu, układ na zakładkę, mocowanie folią lub pasami.", "author": "Jungheinrich ProfiGuide", "url": "https://profi-guide.jungheinrich.com/palletizing-best-practices"},
-    {"type": "citation", "text": "European best practice guidelines on cargo securing (European Union, 2014) - Do 25 % wypadków z winy złego mocowania; przewodnik po doborze środków.", "author": "European Commission", "url": "https://ec.europa.eu/transport/road_safety/topics/cargo-securing-guidelines_en"},
-    {"type": "citation", "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Chłodnicze: wstępne schłodzenie ładunku i naczepy; regularne przeglądy chłodzenia.", "author": "IAT Insurance Group", "url": "https://www.iatinsurancegroup.com/media/0sodtctn/230830_cargo_ebook_final.pdf"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Artykuł podsumowuje dobre praktyki przygotowania palet, doboru materiałów i mocowania ładunków, by ograniczyć szkody i spełnić normy UE.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "packaging-palletization-visual.png",
+      "alt": "Załoga magazynu owija i opasuje paletę z ładunkiem mieszanym przed transportem",
+      "caption": "Folia stretch i opasanie unieruchamiają mieszaną europaletę przed załadunkiem linehaul."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Specyfikacja europalety"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Europaleta (EPAL) to najpopularniejsza paleta w Europie. Wymiary 1.200 mm x 800 mm x 144 mm, powierzchnia użytkowa 0,96 m2 (Across Logistics, 2025). Masa pustej 22-25 kg; nośność do 1.500 kg dynamicznie, 4.000 kg w stosie i 1.000 kg na regałach (Across Logistics, 2025). Kompatybilna z europejskimi ciężarówkami i kontenerami; w naczepie standardowej mieszczą się dwie w poprzek lub trzy wzdłuż (Across Logistics, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Techniki paletyzacji"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Używaj palet dobrej jakości. Niezniszczone, suche i zgodne z ISPM-15 (obróbka cieplna przeciw szkodnikom).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Równomiernie rozkładaj masę. Ciężkie na dół, kartony równo z krawędziami, bez nawisu.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Układaj w kolumny lub na zakładkę. Kolumny maksymalizują nośność, lecz są mniej stabilne; układ na zakładkę łączy warstwy i stabilizuje. Dla ładunków mieszanych stosuj układ na zakładkę (Jungheinrich AG, 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Nisko utrzymuj środek ciężkości. Ciężkie sztuki blisko podstawy palety, by uniknąć wywrotu.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Zabezpieczaj ładunek. Folia stretch, termokurczliwa, opasanie lub pasy; narożniki i ochraniacze rozkładają siły.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Czytelne etykiety. Instrukcje ('fragile', 'góra'), kody kreskowe i etykiety na kilku bokach.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Wypełniaj puste przestrzenie. Między warstwami i w kartonach stosuj wypełniacze.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Osłony palet. Dla wrażliwych towarów przeciw wilgoci i kurzowi.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mocowanie ładunku i pojazd"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Niewłaściwe mocowanie odpowiada nawet za 25 % wypadków z udziałem ciężarówek (European Union, 2014). Stosuj wytyczne UE, by chronić kierowców i innych. Kluczowe punkty:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Dobieraj właściwe środki. Pasy, maty antypoślizgowe, poduszki powietrzne i listwy blokujące.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kontroluj stan. Wymieniaj zużyte/uszkodzone pasy.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Równoważ ładunek. Rozkładaj masę na pojeździe, unikaj przeciążeń osi i poprawiaj prowadzenie.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Regularne inspekcje. Kierowca sprawdza ładunek i mocowanie na postojach i po gwałtownych manewrach.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dobre praktyki dla typów towarów"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Delikatne: amortyzacja w kartonach (pianka, poduszki powietrzne); podwójny stos tylko dla kartonów przystosowanych.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ciecze: beczki w pionie; grodzie lub IBC przeciw kołysaniu.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Łatwo psujące: izolowane opakowania i chłodzenie zgodnie z ATP. Wstępnie schłódź ładunek i naczepę (IAT Insurance Group, 2023).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Niebezpieczne (ADR): atestowane opakowania, etykiety klas zagrożenia; kierowca z uprawnieniami ADR.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Wniosek: dobrze spakowane to dobrze dostarczone"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Poprawnie spakowany i spaletyzowany ładunek podróżuje bezpieczniej, zmniejsza szkody i podnosi efektywność. Stosując standardy europalety, solidne techniki układania i właściwe zabezpieczenie, minimalizujesz szkody i dostarczasz w całości. Z partnerem jak Logifie wdrożysz praktyki spójnie w całej Europie.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Źródła"
+    },
+    {
+      "type": "citation",
+      "text": "European pallet: dimensions, types and logistic uses (Across Logistics, 2025) - Wymiary (1.200 x 800 x 144 mm), nośności (1.500 kg dynamicznie, 4.000 kg statycznie) i tło EPAL.",
+      "author": "Across Logistics",
+      "url": "https://acrosslogistics.com/blog/en/palet-europeo"
+    },
+    {
+      "type": "citation",
+      "text": "Palletizing and load securing tips (Jungheinrich AG, 2024) - Wskazówki: rozkład masy, brak nawisu, układ na zakładkę, mocowanie folią lub pasami.",
+      "author": "Jungheinrich ProfiGuide",
+      "url": "https://profi-guide.jungheinrich.com/palletizing-best-practices"
+    },
+    {
+      "type": "citation",
+      "text": "European best practice guidelines on cargo securing (European Union, 2014) - Do 25 % wypadków z winy złego mocowania; przewodnik po doborze środków.",
+      "author": "European Commission",
+      "url": "https://ec.europa.eu/transport/road_safety/topics/cargo-securing-guidelines_en"
+    },
+    {
+      "type": "citation",
+      "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Chłodnicze: wstępne schłodzenie ładunku i naczepy; regularne przeglądy chłodzenia.",
+      "author": "IAT Insurance Group",
+      "url": "https://www.iatinsurancegroup.com/media/0sodtctn/230830_cargo_ebook_final.pdf"
+    }
   ],
   "tags": [
     "paletyzacja dobre praktyki",
@@ -60,4 +237,3 @@
     "wytyczne załadunku palet"
   ]
 }
-

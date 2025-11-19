@@ -1,5 +1,5 @@
 {
-  "id": "packaging-and-palletization-best-practices-for-european-road-transport",
+  "id": "packaging-and-palletization-best-practices-for-european-road-transport-ro",
   "shortId": "packaging-best-practices",
   "language": "ro",
   "isVisible": true,
@@ -8,47 +8,224 @@
   "description": "Ambalarea și paletizarea corectă protejează marfa și eficiența. Chiar și cea mai bună rută eșuează dacă marfa se deplasează, se sparge sau se prăbușește din cauza unui stivuiri greșite sau a fixării insuficiente...",
   "publishedAt": "2024-12-29T00:00:00Z",
   "category": "Operațiuni",
-  "author": {"name": "Logifie Team", "role": "Experți în tehnologii pentru logistică", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experți în tehnologii pentru logistică",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "packaging-palletization-hero.png",
   "imageAlt": "Secțiune a unei europalete cu modele de stivuire recomandate și distribuția greutății",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Acest ghid sintetizează bune practici pentru pregătirea paletelor, alegerea materialelor și fixarea încărcăturii, pentru a reduce daunele și a respecta standardele europene.", "bold": false}]},
-    {"type": "image", "src": "packaging-palletization-visual.png", "alt": "Echipă de depozit înfoliază și fixează cu chingi o paletă cu marfă mixtă", "caption": "Folia stretch și chingile blochează o europaletă mixtă înainte de încărcarea pe cursă."},
-    {"type": "heading", "level": 2, "text": "Specificații ale europaletei"},
-    {"type": "paragraph", "children": [{"text": "Europaleta (EPAL) este cea mai folosită în Europa. Dimensiuni standard 1.200 mm x 800 mm x 144 mm și 0,96 m2 utili (Across Logistics, 2025). Masa la gol 22-25 kg; capacitate până la 1.500 kg dinamic, 4.000 kg în stivă și 1.000 kg pe raft (Across Logistics, 2025). Compatibilă cu camioane și containere europene; într-un semiremorcă standard intră două transversal sau trei pe lung (Across Logistics, 2025).", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Tehnici de paletizare"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Folosește palete de calitate. Integritate, uscate și conforme ISPM-15 (tratament termic anti-dăunători).", "bold": false}],
-      [{"text": "Distribuie uniform greutatea. Greul jos, cutiile aliniate la margini, fără depășiri.", "bold": false}],
-      [{"text": "Stivuire pe coloane sau în dinti. Coloanele maximizează rezistența, dar sunt mai puțin stabile; stivuirea în dinti leagă straturile și stabilizează. Pentru încărcături mixte, preferă stivuirea în dinti (Jungheinrich AG, 2024).", "bold": false}],
-      [{"text": "Centru de greutate jos. Elemente grele aproape de baza paletului pentru a evita răsturnarea.", "bold": false}],
-      [{"text": "Fixează încărcătura. Folie stretch/retractabilă, chingi sau ancorare; protecții de colț distribuie tensiunea.", "bold": false}],
-      [{"text": "Etichete clare. Instrucțiuni ('fragil', 'sus'), coduri de bare și etichete pe mai multe laturi.", "bold": false}],
-      [{"text": "Evită golurile. Umple spațiile din cutii și dintre straturi pentru a preveni mișcarea.", "bold": false}],
-      [{"text": "Huse pentru palete. Pentru sensibile, împotriva umezelii și prafului.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Fixarea încărcăturii și vehiculul"},
-    {"type": "paragraph", "children": [{"text": "Fixarea precară contribuie până la 25 % din accidentele cu camioane (European Union, 2014). Respectă ghidurile UE pentru siguranța șoferilor și a celorlalți. Puncte cheie:", "bold": false}]},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Folosește dispozitive adecvate. Chingi cu clichet, covorașe anti-alunecare, perne de aer și bare de blocare.", "bold": false}],
-      [{"text": "Verifică starea echipamentului. Înlocuiește chingile uzate/deteriorate.", "bold": false}],
-      [{"text": "Echilibrează încărcătura. Distribuie greutatea pe camion pentru a evita suprasarcina pe osii și a îmbunătăți manevrabilitatea.", "bold": false}],
-      [{"text": "Inspectează regulat. Șoferul verifică la opriri și după manevre bruște.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Bune practici pe tipuri de marfă"},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Fragile: amortizare în interior (spumă, perne de aer); dublă stivuire doar cu cutii certificate.", "bold": false}],
-      [{"text": "Lichide: butoaie în picioare; pereți despărțitori sau IBC pentru a preveni balansul.", "bold": false}],
-      [{"text": "Perisabile: ambalaje izolate și refrigerare conform ATP. Pre-răcește marfa și semiremorca (IAT Insurance Group, 2023).", "bold": false}],
-      [{"text": "Periculoase (ADR): ambalaje omologate, etichetare cu clase de pericol; șoferi cu certificat ADR.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Concluzie: ambalează bine ca să livrezi bine"},
-    {"type": "paragraph", "children": [{"text": "O încărcătură ambalată și paletizată corect circulă în siguranță, reduce daunele și crește eficiența. Respectând standardele europaletei, tehnici solide de stivuire și fixare adecvată, minimizezi daunele și asiguri integritatea la livrare. Cu Logifie, aplici aceste practici consecvent în toată Europa.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Surse"},
-    {"type": "citation", "text": "European pallet: dimensions, types and logistic uses (Across Logistics, 2025) - Dimensiuni (1.200 x 800 x 144 mm), capacități (1.500 kg dinamic, 4.000 kg static) și EPAL.", "author": "Across Logistics", "url": "https://acrosslogistics.com/blog/en/palet-europeo"},
-    {"type": "citation", "text": "Palletizing and load securing tips (Jungheinrich AG, 2024) - Recomandări: distribuția greutății, evitarea depășirilor, stivuire în dinți, fixare cu folie sau chingi.", "author": "Jungheinrich ProfiGuide", "url": "https://profi-guide.jungheinrich.com/palletizing-best-practices"},
-    {"type": "citation", "text": "European best practice guidelines on cargo securing (European Union, 2014) - Până la 25 % din accidente cauzate de fixare precară; ghid de echipamente adecvate.", "author": "European Commission", "url": "https://ec.europa.eu/transport/road_safety/topics/cargo-securing-guidelines_en"},
-    {"type": "citation", "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Lanțul frigorific: pre-răcire marfă/semiremorcă; verificări/mentenanță periodice.", "author": "IAT Insurance Group", "url": "https://www.iatinsurancegroup.com/media/0sodtctn/230830_cargo_ebook_final.pdf"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Acest ghid sintetizează bune practici pentru pregătirea paletelor, alegerea materialelor și fixarea încărcăturii, pentru a reduce daunele și a respecta standardele europene.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "packaging-palletization-visual.png",
+      "alt": "Echipă de depozit înfoliază și fixează cu chingi o paletă cu marfă mixtă",
+      "caption": "Folia stretch și chingile blochează o europaletă mixtă înainte de încărcarea pe cursă."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Specificații ale europaletei"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Europaleta (EPAL) este cea mai folosită în Europa. Dimensiuni standard 1.200 mm x 800 mm x 144 mm și 0,96 m2 utili (Across Logistics, 2025). Masa la gol 22-25 kg; capacitate până la 1.500 kg dinamic, 4.000 kg în stivă și 1.000 kg pe raft (Across Logistics, 2025). Compatibilă cu camioane și containere europene; într-un semiremorcă standard intră două transversal sau trei pe lung (Across Logistics, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tehnici de paletizare"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Folosește palete de calitate. Integritate, uscate și conforme ISPM-15 (tratament termic anti-dăunători).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Distribuie uniform greutatea. Greul jos, cutiile aliniate la margini, fără depășiri.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Stivuire pe coloane sau în dinti. Coloanele maximizează rezistența, dar sunt mai puțin stabile; stivuirea în dinti leagă straturile și stabilizează. Pentru încărcături mixte, preferă stivuirea în dinti (Jungheinrich AG, 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Centru de greutate jos. Elemente grele aproape de baza paletului pentru a evita răsturnarea.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Fixează încărcătura. Folie stretch/retractabilă, chingi sau ancorare; protecții de colț distribuie tensiunea.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Etichete clare. Instrucțiuni ('fragil', 'sus'), coduri de bare și etichete pe mai multe laturi.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Evită golurile. Umple spațiile din cutii și dintre straturi pentru a preveni mișcarea.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Huse pentru palete. Pentru sensibile, împotriva umezelii și prafului.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fixarea încărcăturii și vehiculul"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Fixarea precară contribuie până la 25 % din accidentele cu camioane (European Union, 2014). Respectă ghidurile UE pentru siguranța șoferilor și a celorlalți. Puncte cheie:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Folosește dispozitive adecvate. Chingi cu clichet, covorașe anti-alunecare, perne de aer și bare de blocare.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Verifică starea echipamentului. Înlocuiește chingile uzate/deteriorate.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Echilibrează încărcătura. Distribuie greutatea pe camion pentru a evita suprasarcina pe osii și a îmbunătăți manevrabilitatea.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Inspectează regulat. Șoferul verifică la opriri și după manevre bruște.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Bune practici pe tipuri de marfă"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Fragile: amortizare în interior (spumă, perne de aer); dublă stivuire doar cu cutii certificate.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Lichide: butoaie în picioare; pereți despărțitori sau IBC pentru a preveni balansul.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Perisabile: ambalaje izolate și refrigerare conform ATP. Pre-răcește marfa și semiremorca (IAT Insurance Group, 2023).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Periculoase (ADR): ambalaje omologate, etichetare cu clase de pericol; șoferi cu certificat ADR.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Concluzie: ambalează bine ca să livrezi bine"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "O încărcătură ambalată și paletizată corect circulă în siguranță, reduce daunele și crește eficiența. Respectând standardele europaletei, tehnici solide de stivuire și fixare adecvată, minimizezi daunele și asiguri integritatea la livrare. Cu Logifie, aplici aceste practici consecvent în toată Europa.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Surse"
+    },
+    {
+      "type": "citation",
+      "text": "European pallet: dimensions, types and logistic uses (Across Logistics, 2025) - Dimensiuni (1.200 x 800 x 144 mm), capacități (1.500 kg dinamic, 4.000 kg static) și EPAL.",
+      "author": "Across Logistics",
+      "url": "https://acrosslogistics.com/blog/en/palet-europeo"
+    },
+    {
+      "type": "citation",
+      "text": "Palletizing and load securing tips (Jungheinrich AG, 2024) - Recomandări: distribuția greutății, evitarea depășirilor, stivuire în dinți, fixare cu folie sau chingi.",
+      "author": "Jungheinrich ProfiGuide",
+      "url": "https://profi-guide.jungheinrich.com/palletizing-best-practices"
+    },
+    {
+      "type": "citation",
+      "text": "European best practice guidelines on cargo securing (European Union, 2014) - Până la 25 % din accidente cauzate de fixare precară; ghid de echipamente adecvate.",
+      "author": "European Commission",
+      "url": "https://ec.europa.eu/transport/road_safety/topics/cargo-securing-guidelines_en"
+    },
+    {
+      "type": "citation",
+      "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Lanțul frigorific: pre-răcire marfă/semiremorcă; verificări/mentenanță periodice.",
+      "author": "IAT Insurance Group",
+      "url": "https://www.iatinsurancegroup.com/media/0sodtctn/230830_cargo_ebook_final.pdf"
+    }
   ],
   "tags": [
     "paletizare bune practici",
@@ -60,4 +237,3 @@
     "ghid de încărcare palete"
   ]
 }
-

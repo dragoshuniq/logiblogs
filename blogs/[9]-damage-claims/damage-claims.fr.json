@@ -1,5 +1,5 @@
 {
-  "id": "how-to-reduce-damage-and-claims-in-road-freight",
+  "id": "how-to-reduce-damage-and-claims-in-road-freight-fr",
   "shortId": "reduce-damage-claims",
   "language": "fr",
   "isVisible": true,
@@ -16,40 +16,205 @@
   "image": "damage-claims-hero.png",
   "imageAlt": "Visuel de liste de contrôle rappelant au conducteur d'inspecter l'équipement, de charger correctement et de sceller la remorque",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Les avaries de marchandise et les réclamations qui s'ensuivent érodent non seulement les bénéfices, mais aussi la réputation. Prévenir les avaries est plus efficace que traiter les réclamations a posteriori. Cet article expose les causes courantes des avaries, précise les responsabilités prévues par les conventions internationales et présente des bonnes pratiques pour minimiser les risques en transport routier.", "bold": false}]},
-    {"type": "image", "src": "damage-claims-visual.png", "alt": "Un conducteur vérifie les sangles de la cargaison à l'intérieur d'une remorque avant le départ pour s'assurer que tout est bien arrimé", "caption": "Le conducteur vérifie une seconde fois les sangles avant le départ pour éviter des réclamations ultérieures."},
-    {"type": "heading", "level": 2, "text": "Causes des avaries et responsabilité"},
-    {"type": "paragraph", "children": [{"text": "La marchandise peut être endommagée par une manutention brutale, un empilage irrégulier, l'humidité, la contamination, des écarts de température, des infestations, un incendie ou un vol. La responsabilité dépend de la cause et des conditions d'expédition :", "bold": false}]},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Responsabilité du transporteur : il est généralement responsable des dommages dus à une manutention inadéquate, un arrimage insuffisant ou un défaut de maintien de la température pendant le transport (Reload Logistics, 2025).", "bold": false}],
-      [{"text": "Responsabilité de l'expéditeur : il doit emballer, étiqueter et documenter correctement la marchandise. Si un emballage défaillant ou des matières dangereuses non déclarées causent des dommages, sa responsabilité peut être engagée (Reload Logistics, 2025).", "bold": false}],
-      [{"text": "Responsabilité du destinataire : il doit inspecter la marchandise à la livraison et consigner immédiatement tout dommage apparent pour appuyer une réclamation valable (Reload Logistics, 2025).", "bold": false}],
-      [{"text": "Incoterms et assurance : les Incoterms déterminent le transfert de risques du vendeur à l'acheteur. L'assurance couvre de nombreux risques mais ne remplace pas une manutention correcte (Reload Logistics, 2025).", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Bonnes pratiques pour prévenir les avaries"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Contrôles avant départ. Vérifier les remorques (fuites, planches cassées, pièces saillantes). Inspecter les dispositifs d'arrimage et les bâches (Northland Insurance Company, 2022).", "bold": false}],
-      [{"text": "Superviser le chargement et le déchargement. Confirmer une répartition homogène et un arrimage correct. Consigner toute anomalie avant de quitter le quai (Northland Insurance Company, 2022).", "bold": false}],
-      [{"text": "Documenter les écarts. Noter les anomalies sur les documents d'expédition, prévenir immédiatement l'entreprise et prendre des photos (Northland Insurance Company, 2022).", "bold": false}],
-      [{"text": "Utiliser la mention shipper load and count (SLC) si approprié. Si vous ne pouvez pas superviser le chargement, signer avec la mention \"shipper load and count\" pour limiter la responsabilité (Northland Insurance Company, 2022).", "bold": false}],
-      [{"text": "Sceller la remorque et sécuriser l'équipement. Utiliser des scellés et des cadenas de qualité pour dissuader le vol (Northland Insurance Company, 2022).", "bold": false}],
-      [{"text": "Arrimer la charge. Caler, bloquer et utiliser des dispositifs d'arrimage adaptés pour éviter les déplacements. Remplacer les sangles usées (Northland Insurance Company, 2022).", "bold": false}],
-      [{"text": "Contrôler en cours de route. Les conducteurs doivent vérifier périodiquement la charge et l'arrimage et retendre si nécessaire (Northland Insurance Company, 2022).", "bold": false}],
-      [{"text": "Conduire prudemment. Éviter les freinages brusques et les virages serrés qui déplacent ou renversent la marchandise (Northland Insurance Company, 2022).", "bold": false}],
-      [{"text": "Maîtriser la température. Préréfrigérer l'unité frigorifique et la cargaison, calibrer la consigne et entretenir le matériel (IAT Insurance Group, 2023).", "bold": false}],
-      [{"text": "Prévenir l'humidité et la contamination. Vérifier l'étanchéité des contenants, utiliser des absorbeurs d'humidité et demander des certificats de propreté (Reload Logistics, 2025).", "bold": false}],
-      [{"text": "Gérer les risques de sûreté. Stationner dans des lieux sécurisés, rester vigilant face aux vols et utiliser le suivi GPS.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Traitement des réclamations selon la CMR"},
-    {"type": "paragraph", "children": [{"text": "La Convention relative au contrat de transport international de marchandises par route (CMR) régit la responsabilité pour les envois transfrontaliers routiers. Elle limite généralement la responsabilité du transporteur par kilogramme de poids brut, sauf en cas de faute intentionnelle ou téméraire. Pour être indemnisé, le destinataire doit mentionner les dommages sur la lettre de voiture CMR à la livraison, notifier le transporteur par écrit dans les sept jours pour un dommage apparent et dans les 21 jours pour un dommage non apparent.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Conclusion : la prévention avant tout"},
-    {"type": "paragraph", "children": [{"text": "La plupart des avaries routières peuvent être évitées grâce à une bonne préparation, une manutention soignée et une documentation solide. En réalisant des contrôles avant départ, en supervisant le chargement, en arrimant correctement et en formant les conducteurs à une conduite sûre et à la gestion de la température, expéditeurs et transporteurs réduisent la fréquence et la gravité des sinistres. La compréhension des règles de responsabilité CMR et une documentation rapide facilitent le traitement des réclamations lorsqu'elles surviennent.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Sources"},
-    {"type": "citation", "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Explique les responsabilités en cas d'avarie : le transporteur est responsable de la manutention et du transport sûrs après acceptation, l'expéditeur de l'emballage et de l'étiquetage corrects ; le destinataire inspecte et documente les dommages à la livraison ; l'assurance ne remplace pas une bonne manutention.", "author": "Reload Logistics", "url": "https://www.reloadlogistics.com/blog/how-to-prevent-cargo-damage/"},
-    {"type": "citation", "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Conseils pour prévenir les réclamations : contrôles avant départ, supervision du chargement/déchargement, documentation des écarts, mention SLC, scellement, arrimage, contrôles en route et conduite prudente.", "author": "Northland Insurance Company", "url": "https://www.northlandins.com/resources/preventing-cargo-claims/"},
-    {"type": "citation", "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Souligne l'importance d'un arrimage adapté et d'une conduite prudente pour éviter les déplacements de marchandise et les accidents.", "author": "Northland Insurance Company", "url": "https://www.northlandins.com/resources/preventing-cargo-claims/"},
-    {"type": "citation", "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Met en avant la formation des conducteurs, le prérefroidissement et l'entretien régulier pour éviter les sinistres liés à la température des charges frigorifiques.", "author": "IAT Insurance Group", "url": "https://www.iatinsurancegroup.com/transportation/blog/trucking-cargo-claims/"},
-    {"type": "citation", "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Recommande des mesures contre l'humidité et la contamination : vérification d'étanchéité, scellement des ouvertures et absorbeurs d'humidité.", "author": "Reload Logistics", "url": "https://www.reloadlogistics.com/blog/how-to-prevent-cargo-damage/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Les avaries de marchandise et les réclamations qui s'ensuivent érodent non seulement les bénéfices, mais aussi la réputation. Prévenir les avaries est plus efficace que traiter les réclamations a posteriori. Cet article expose les causes courantes des avaries, précise les responsabilités prévues par les conventions internationales et présente des bonnes pratiques pour minimiser les risques en transport routier.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "damage-claims-visual.png",
+      "alt": "Un conducteur vérifie les sangles de la cargaison à l'intérieur d'une remorque avant le départ pour s'assurer que tout est bien arrimé",
+      "caption": "Le conducteur vérifie une seconde fois les sangles avant le départ pour éviter des réclamations ultérieures."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Causes des avaries et responsabilité"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La marchandise peut être endommagée par une manutention brutale, un empilage irrégulier, l'humidité, la contamination, des écarts de température, des infestations, un incendie ou un vol. La responsabilité dépend de la cause et des conditions d'expédition :",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Responsabilité du transporteur : il est généralement responsable des dommages dus à une manutention inadéquate, un arrimage insuffisant ou un défaut de maintien de la température pendant le transport (Reload Logistics, 2025).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Responsabilité de l'expéditeur : il doit emballer, étiqueter et documenter correctement la marchandise. Si un emballage défaillant ou des matières dangereuses non déclarées causent des dommages, sa responsabilité peut être engagée (Reload Logistics, 2025).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Responsabilité du destinataire : il doit inspecter la marchandise à la livraison et consigner immédiatement tout dommage apparent pour appuyer une réclamation valable (Reload Logistics, 2025).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Incoterms et assurance : les Incoterms déterminent le transfert de risques du vendeur à l'acheteur. L'assurance couvre de nombreux risques mais ne remplace pas une manutention correcte (Reload Logistics, 2025).",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Bonnes pratiques pour prévenir les avaries"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Contrôles avant départ. Vérifier les remorques (fuites, planches cassées, pièces saillantes). Inspecter les dispositifs d'arrimage et les bâches (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Superviser le chargement et le déchargement. Confirmer une répartition homogène et un arrimage correct. Consigner toute anomalie avant de quitter le quai (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Documenter les écarts. Noter les anomalies sur les documents d'expédition, prévenir immédiatement l'entreprise et prendre des photos (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Utiliser la mention shipper load and count (SLC) si approprié. Si vous ne pouvez pas superviser le chargement, signer avec la mention \"shipper load and count\" pour limiter la responsabilité (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sceller la remorque et sécuriser l'équipement. Utiliser des scellés et des cadenas de qualité pour dissuader le vol (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Arrimer la charge. Caler, bloquer et utiliser des dispositifs d'arrimage adaptés pour éviter les déplacements. Remplacer les sangles usées (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Contrôler en cours de route. Les conducteurs doivent vérifier périodiquement la charge et l'arrimage et retendre si nécessaire (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Conduire prudemment. Éviter les freinages brusques et les virages serrés qui déplacent ou renversent la marchandise (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Maîtriser la température. Préréfrigérer l'unité frigorifique et la cargaison, calibrer la consigne et entretenir le matériel (IAT Insurance Group, 2023).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Prévenir l'humidité et la contamination. Vérifier l'étanchéité des contenants, utiliser des absorbeurs d'humidité et demander des certificats de propreté (Reload Logistics, 2025).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Gérer les risques de sûreté. Stationner dans des lieux sécurisés, rester vigilant face aux vols et utiliser le suivi GPS.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Traitement des réclamations selon la CMR"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La Convention relative au contrat de transport international de marchandises par route (CMR) régit la responsabilité pour les envois transfrontaliers routiers. Elle limite généralement la responsabilité du transporteur par kilogramme de poids brut, sauf en cas de faute intentionnelle ou téméraire. Pour être indemnisé, le destinataire doit mentionner les dommages sur la lettre de voiture CMR à la livraison, notifier le transporteur par écrit dans les sept jours pour un dommage apparent et dans les 21 jours pour un dommage non apparent.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusion : la prévention avant tout"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La plupart des avaries routières peuvent être évitées grâce à une bonne préparation, une manutention soignée et une documentation solide. En réalisant des contrôles avant départ, en supervisant le chargement, en arrimant correctement et en formant les conducteurs à une conduite sûre et à la gestion de la température, expéditeurs et transporteurs réduisent la fréquence et la gravité des sinistres. La compréhension des règles de responsabilité CMR et une documentation rapide facilitent le traitement des réclamations lorsqu'elles surviennent.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sources"
+    },
+    {
+      "type": "citation",
+      "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Explique les responsabilités en cas d'avarie : le transporteur est responsable de la manutention et du transport sûrs après acceptation, l'expéditeur de l'emballage et de l'étiquetage corrects ; le destinataire inspecte et documente les dommages à la livraison ; l'assurance ne remplace pas une bonne manutention.",
+      "author": "Reload Logistics",
+      "url": "https://www.reloadlogistics.com/blog/how-to-prevent-cargo-damage/"
+    },
+    {
+      "type": "citation",
+      "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Conseils pour prévenir les réclamations : contrôles avant départ, supervision du chargement/déchargement, documentation des écarts, mention SLC, scellement, arrimage, contrôles en route et conduite prudente.",
+      "author": "Northland Insurance Company",
+      "url": "https://www.northlandins.com/resources/preventing-cargo-claims/"
+    },
+    {
+      "type": "citation",
+      "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Souligne l'importance d'un arrimage adapté et d'une conduite prudente pour éviter les déplacements de marchandise et les accidents.",
+      "author": "Northland Insurance Company",
+      "url": "https://www.northlandins.com/resources/preventing-cargo-claims/"
+    },
+    {
+      "type": "citation",
+      "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Met en avant la formation des conducteurs, le prérefroidissement et l'entretien régulier pour éviter les sinistres liés à la température des charges frigorifiques.",
+      "author": "IAT Insurance Group",
+      "url": "https://www.iatinsurancegroup.com/transportation/blog/trucking-cargo-claims/"
+    },
+    {
+      "type": "citation",
+      "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Recommande des mesures contre l'humidité et la contamination : vérification d'étanchéité, scellement des ouvertures et absorbeurs d'humidité.",
+      "author": "Reload Logistics",
+      "url": "https://www.reloadlogistics.com/blog/how-to-prevent-cargo-damage/"
+    }
   ],
   "tags": [
     "réduire les avaries",
@@ -61,4 +226,3 @@
     "bonnes pratiques d'arrimage"
   ]
 }
-

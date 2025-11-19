@@ -1,5 +1,5 @@
 {
-  "id": "understanding-transit-times-in-european-road-freight",
+  "id": "understanding-transit-times-in-european-road-freight-ro",
   "shortId": "transit-times-road-freight",
   "language": "ro",
   "isVisible": true,
@@ -16,39 +16,190 @@
   "image": "transit-times-hero.png",
   "imageAlt": "Hartă a Europei cu principalele coridoare rutiere și timpi de tranzit tipici, cu pictograme de ceasuri și popasuri",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Livrarea la timp este fundamentală, dar estimarea timpilor de tranzit pe rețeaua rutieră europeană este dificilă. Distanțele, regulile privind orele de conducere și odihnă, aglomerația și formalitățile de frontieră determină durata livrării. Acest articol explică factorii care influențează timpii de tranzit, oferă ferestre de livrare tipice și recomandări pentru gestionarea așteptărilor în transportul rutier european.", "bold": false}]},
-    {"type": "image", "src": "transit-times-visual.png", "alt": "Un camion traversează un pasaj montan înzăpezit, ilustrând cum vremea și relieful prelungesc timpul de tranzit", "caption": "Coridorul montan înzăpezit evidențiază cum geografia și vremea întind programele de tranzit."},
-    {"type": "heading", "level": 2, "text": "Factori care influențează timpul de tranzit"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Distanța și geografia. Evident, dar crucial: o expediere Varșovia-Berlin (600 km) ajunge mai repede decât Varșovia-Lisabona (3.100 km). Regiunile montane, trecerile cu feribotul și drumurile cu taxă pot încetini tranzitul.", "bold": false}],
-      [{"text": "Orele de condus și perioadele de odihnă. Regulile UE limitează conducerea la 9 ore/zi (10 ore de două ori pe săptămână) și 56 ore/săptămână, cu pauză de 45 de minute după 4,5 ore și odihnă zilnică/săptămânală (European Union, 2024). Aceste limite împiedică conducerea continuă pe tot continentul.", "bold": false}],
-      [{"text": "Tipul de serviciu (FTL vs grupaj). FTL dedicat merge direct de la origine la destinație. Van-urile până la 3,5 tone acoperă până la 700 km/zi (livrare a doua zi), 700-1.500 km în două zile și peste 1.500 km în 3-4 zile (Visline Sp. z o.o., 2024). Camioanele FTL (până la 24 tone) acoperă 550 km a doua zi, 550-1.300 km în două zile și 1.500 km în 3-4 zile (Visline Sp. z o.o., 2024). Încărcăturile parțiale și grupajul durează adesea 3-6 zile, indiferent de distanță (Visline Sp. z o.o., 2024).", "bold": false}],
-      [{"text": "Control la frontieră și vamă. Chiar și în UE, trecerea către țări non-Schengen (ex. Polonia-Ucraina sau Spania-Maroc) poate implica controale care adaugă ore sau zile.", "bold": false}],
-      [{"text": "Trafic și infrastructură. Congestia din jurul centrelor urbane, lucrările rutiere, închiderile sezoniere (ex. trecători alpine iarna) și orarele feriboturilor influențează timpii.", "bold": false}],
-      [{"text": "Vreme și perturbări. Ninsori, inundații, greve sau evenimente geopolitice pot provoca întârzieri semnificative. Planurile de contingență sunt esențiale.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Exemple tipice de timp de tranzit"},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Van dedicat intra-UE: până la 700 km - a doua zi; 700-1.500 km - două zile; peste 1.500 km - 3-4 zile (Visline Sp. z o.o., 2024).", "bold": false}],
-      [{"text": "Camion FTL intra-UE: până la 550 km - a doua zi; 550-1.300 km - două zile; peste 1.500 km - 3-4 zile (Visline Sp. z o.o., 2024).", "bold": false}],
-      [{"text": "Grupaj/încărcături parțiale: de obicei 3-6 zile indiferent de distanță (Visline Sp. z o.o., 2024).", "bold": false}]
-    ]},
-    {"type": "paragraph", "children": [{"text": "Acestea sunt repere; timpii reali variază în funcție de factorii de mai sus.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Gestionarea așteptărilor și creșterea fiabilității"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Comunică termene realiste. Folosește tabelele publicate ca bază, ținând cont de odihna șoferilor, întârzierile la frontieră și perioadele de vârf.", "bold": false}],
-      [{"text": "Planifică în jurul vârfurilor și sărbătorilor. Vacanțele de vară, Golden Week și vârful de sfârșit de an încarcă rețelele; rezervă capacitate din timp.", "bold": false}],
-      [{"text": "Monitorizează expedierile în timp real. Urmărirea și GPS-ul oferă vizibilitate și permit intervenția proactivă.", "bold": false}],
-      [{"text": "Consolidează inteligent. Pentru volume mici, grupajul este eficient la cost, dar adaugă zile; combină încărcăturile urgente în FTL când este posibil.", "bold": false}],
-      [{"text": "Folosește soluții multimodale. Combinațiile feroviar/feribot pot fi mai rapide/fiabile pe anumite rute (ex. peste Alpi sau Canalul Mânecii).", "bold": false}],
-      [{"text": "Colaborează cu expeditori experimentați. Cunoașterea Logifie a rețelelor și reglementărilor europene ajută la planuri realiste și gestionarea excepțiilor.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Concluzie: planifică pentru previzibilitate"},
-    {"type": "paragraph", "children": [{"text": "Timpul de tranzit în transportul rutier european depinde de mai mult decât kilometri. Orele de condus, modelele de consolidare, infrastructura și factorii externi modelează programele de livrare. Înțelegând variabilele și lucrând strâns cu partenerii logistici, expeditorii stabilesc așteptări realiste, evită penalități și mențin lanțul de aprovizionare stabil.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Surse"},
-    {"type": "citation", "text": "Road transport workers: driving and rest time rules (European Union, 2024) - Explică regulile UE privind orele de conducere și odihnă, inclusiv limitele zilnice/săptămânale și pauzele obligatorii.", "author": "European Commission", "url": "https://europa.eu/youreurope/business/dealing-with-customers/transport/road-transport-workers/index_en.htm"},
-    {"type": "citation", "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Prezintă repere pentru van-uri dedicate și camioane FTL: până la 700 km a doua zi, 700-1.500 km în două zile, peste 1.500 km în 3-4 zile; până la 550 km a doua zi și 550-1.300 km în două zile pentru FTL.", "author": "Visline Sp. z o.o.", "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"},
-    {"type": "citation", "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Menționează că încărcăturile parțiale/grupaj durează de regulă 3-6 zile indiferent de distanță din cauza punctelor de (de)consolidare.", "author": "Visline Sp. z o.o.", "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Livrarea la timp este fundamentală, dar estimarea timpilor de tranzit pe rețeaua rutieră europeană este dificilă. Distanțele, regulile privind orele de conducere și odihnă, aglomerația și formalitățile de frontieră determină durata livrării. Acest articol explică factorii care influențează timpii de tranzit, oferă ferestre de livrare tipice și recomandări pentru gestionarea așteptărilor în transportul rutier european.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "transit-times-visual.png",
+      "alt": "Un camion traversează un pasaj montan înzăpezit, ilustrând cum vremea și relieful prelungesc timpul de tranzit",
+      "caption": "Coridorul montan înzăpezit evidențiază cum geografia și vremea întind programele de tranzit."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Factori care influențează timpul de tranzit"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Distanța și geografia. Evident, dar crucial: o expediere Varșovia-Berlin (600 km) ajunge mai repede decât Varșovia-Lisabona (3.100 km). Regiunile montane, trecerile cu feribotul și drumurile cu taxă pot încetini tranzitul.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Orele de condus și perioadele de odihnă. Regulile UE limitează conducerea la 9 ore/zi (10 ore de două ori pe săptămână) și 56 ore/săptămână, cu pauză de 45 de minute după 4,5 ore și odihnă zilnică/săptămânală (European Union, 2024). Aceste limite împiedică conducerea continuă pe tot continentul.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tipul de serviciu (FTL vs grupaj). FTL dedicat merge direct de la origine la destinație. Van-urile până la 3,5 tone acoperă până la 700 km/zi (livrare a doua zi), 700-1.500 km în două zile și peste 1.500 km în 3-4 zile (Visline Sp. z o.o., 2024). Camioanele FTL (până la 24 tone) acoperă 550 km a doua zi, 550-1.300 km în două zile și 1.500 km în 3-4 zile (Visline Sp. z o.o., 2024). Încărcăturile parțiale și grupajul durează adesea 3-6 zile, indiferent de distanță (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Control la frontieră și vamă. Chiar și în UE, trecerea către țări non-Schengen (ex. Polonia-Ucraina sau Spania-Maroc) poate implica controale care adaugă ore sau zile.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Trafic și infrastructură. Congestia din jurul centrelor urbane, lucrările rutiere, închiderile sezoniere (ex. trecători alpine iarna) și orarele feriboturilor influențează timpii.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Vreme și perturbări. Ninsori, inundații, greve sau evenimente geopolitice pot provoca întârzieri semnificative. Planurile de contingență sunt esențiale.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Exemple tipice de timp de tranzit"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Van dedicat intra-UE: până la 700 km - a doua zi; 700-1.500 km - două zile; peste 1.500 km - 3-4 zile (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Camion FTL intra-UE: până la 550 km - a doua zi; 550-1.300 km - două zile; peste 1.500 km - 3-4 zile (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Grupaj/încărcături parțiale: de obicei 3-6 zile indiferent de distanță (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Acestea sunt repere; timpii reali variază în funcție de factorii de mai sus.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Gestionarea așteptărilor și creșterea fiabilității"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Comunică termene realiste. Folosește tabelele publicate ca bază, ținând cont de odihna șoferilor, întârzierile la frontieră și perioadele de vârf.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Planifică în jurul vârfurilor și sărbătorilor. Vacanțele de vară, Golden Week și vârful de sfârșit de an încarcă rețelele; rezervă capacitate din timp.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Monitorizează expedierile în timp real. Urmărirea și GPS-ul oferă vizibilitate și permit intervenția proactivă.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Consolidează inteligent. Pentru volume mici, grupajul este eficient la cost, dar adaugă zile; combină încărcăturile urgente în FTL când este posibil.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Folosește soluții multimodale. Combinațiile feroviar/feribot pot fi mai rapide/fiabile pe anumite rute (ex. peste Alpi sau Canalul Mânecii).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Colaborează cu expeditori experimentați. Cunoașterea Logifie a rețelelor și reglementărilor europene ajută la planuri realiste și gestionarea excepțiilor.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Concluzie: planifică pentru previzibilitate"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Timpul de tranzit în transportul rutier european depinde de mai mult decât kilometri. Orele de condus, modelele de consolidare, infrastructura și factorii externi modelează programele de livrare. Înțelegând variabilele și lucrând strâns cu partenerii logistici, expeditorii stabilesc așteptări realiste, evită penalități și mențin lanțul de aprovizionare stabil.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Surse"
+    },
+    {
+      "type": "citation",
+      "text": "Road transport workers: driving and rest time rules (European Union, 2024) - Explică regulile UE privind orele de conducere și odihnă, inclusiv limitele zilnice/săptămânale și pauzele obligatorii.",
+      "author": "European Commission",
+      "url": "https://europa.eu/youreurope/business/dealing-with-customers/transport/road-transport-workers/index_en.htm"
+    },
+    {
+      "type": "citation",
+      "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Prezintă repere pentru van-uri dedicate și camioane FTL: până la 700 km a doua zi, 700-1.500 km în două zile, peste 1.500 km în 3-4 zile; până la 550 km a doua zi și 550-1.300 km în două zile pentru FTL.",
+      "author": "Visline Sp. z o.o.",
+      "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"
+    },
+    {
+      "type": "citation",
+      "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Menționează că încărcăturile parțiale/grupaj durează de regulă 3-6 zile indiferent de distanță din cauza punctelor de (de)consolidare.",
+      "author": "Visline Sp. z o.o.",
+      "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"
+    }
   ],
   "tags": [
     "timp de tranzit transport rutier europa",
@@ -59,4 +210,3 @@
     "promisiuni realiste de livrare logistică"
   ]
 }
-

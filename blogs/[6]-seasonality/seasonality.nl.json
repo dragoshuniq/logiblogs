@@ -1,5 +1,5 @@
 {
-  "id": "seasonality-in-european-logistics-planning-for-peaks-and-disruptions",
+  "id": "seasonality-in-european-logistics-planning-for-peaks-and-disruptions-nl",
   "shortId": "seasonality-logistics",
   "language": "nl",
   "isVisible": true,
@@ -8,46 +8,229 @@
   "description": "Van Chinees Nieuwjaar tot de eindejaarsdrukte: de Europese logistieke kalender kent pieken die capaciteit belasten, tarieven opdrijven en de veerkracht van de keten testen. Verladers die deze seizoenspatronen begrijpen...",
   "publishedAt": "2024-12-22T00:00:00Z",
   "category": "Planning",
-  "author": {"name": "Logifie Team", "role": "Experts in logistieke technologie", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experts in logistieke technologie",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "seasonality-hero.png",
   "imageAlt": "Kalender van Europa met markering van belangrijke logistieke piekperiodes zoals Chinees Nieuwjaar, zomervakantie en eindejaarsverkopen",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Tijdig leveren is cruciaal, maar seizoensinvloeden maken planning uitdagend. Door bekende pieken te kennen kunnen verladers vroegtijdig capaciteit vastleggen, voorraden aanpassen en flexibiliteit inbouwen in de keten.", "bold": false}]},
-    {"type": "image", "src": "seasonality-visual.png", "alt": "Drukke Europese opslag met pallets en medewerkers tijdens het hoogseizoen", "caption": "Een overvolle magazijnvloer laat de congestie zien waarmee planners in piekperiodes te maken hebben."},
-    {"type": "heading", "level": 2, "text": "Belangrijkste piekperiodes"},
-    {"type": "heading", "level": 3, "text": "Chinees Nieuwjaar (januari-februari)"},
-    {"type": "paragraph", "children": [{"text": "Fabrieken in China liggen tot twee weken stil, wat leidt tot een piek in zendingen voor en na de feestweek. Europese importeurs doen er goed aan tijdig te boeken en rekening te houden met vertragingen door onevenwichtige equipmentstromen (A.P. Moller - Maersk, 2025).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Zomervakantie & back-to-school (juli-augustus)"},
-    {"type": "paragraph", "children": [{"text": "De vraag naar mode, elektronica en schoolspullen stijgt, terwijl veel chauffeurs en havenmedewerkers vakantie nemen, waardoor capaciteit afneemt. In 2024 meldde NTG verminderde wegcapaciteit vanaf week 29; voor sommige routes (Spanje, Frankrijk, Italië, Zwitserland) zijn in weken 32-34 speciale afspraken nodig; normalisatie rond week 35 (NTG, 2024).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Golden Week (1-7 oktober)"},
-    {"type": "paragraph", "children": [{"text": "De Chinese Golden Week legt productie en havens deels stil en veroorzaakt opnieuw een piek voor en na de week (A.P. Moller - Maersk, 2025).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Black Friday & Cyber Monday (eind november)"},
-    {"type": "paragraph", "children": [{"text": "E-commerceacties zorgen voor hoge pakket- en palletvolumes. Last-mile netwerken en sorteercentra lopen vol; vervoerders prioriteren zendingen met hogere marge.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Feestdagen (december)"},
-    {"type": "paragraph", "children": [{"text": "Retailers vullen schappen voor Kerst en Nieuwjaar. Ruimtegebrek, havencongestie en last-mile beperkingen nemen toe.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Effecten van piekperiodes"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Capaciteitstekorten en tariefstijgingen. Hogere vraag belast wegvervoer, opslag en havens en drijft spot rates op.", "bold": false}],
-      [{"text": "Langere doorlooptijden en vertragingen. Rijtijdregels, minder personeel en volle netwerken vertragen leveringen.", "bold": false}],
-      [{"text": "Voorraadrisico's. Out-of-stocks of overstock bij onjuiste forecasts.", "bold": false}],
-      [{"text": "Operationele druk. Personeelstekort in magazijnen en last-mile knelpunten verhogen fouten en claims.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Planningsstrategieën"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Boek capaciteit vroeg. Reserveer transport- en magazijnslots weken voor de piek.", "bold": false}],
-      [{"text": "Diversifieer modaliteiten en routes. Gebruik spoor, short-sea of luchtvracht om drukke corridors te mijden.", "bold": false}],
-      [{"text": "Forecast nauwkeurig. Werk met leveranciers en klanten om vraag te verfijnen en voorraden aan te passen.", "bold": false}],
-      [{"text": "Spreid zendingen. Verspreid orders over meerdere weken om vervoerders niet te overbelasten.", "bold": false}],
-      [{"text": "Onderhandel flexibele contracten. Zekerheid over capaciteit met variabele tarieven; houd rekening met piektoeslagen.", "bold": false}],
-      [{"text": "Cross-docking en consolidatie. Bundel kleine zendingen om bezettingsgraad te verhogen en vertragingen te beperken.", "bold": false}],
-      [{"text": "Benut technologie. Realtime zichtbaarheid maakt herrouteren en exception management mogelijk.", "bold": false}],
-      [{"text": "Communiceer transparant. Informeer klanten over mogelijke vertragingen en stel realistische verwachtingen.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Conclusie: bereid je voor op pieken en blijf concurrerend"},
-    {"type": "paragraph", "children": [{"text": "Seizoensinvloeden horen bij Europese logistiek. Wie vooruit plant, veerkracht opbouwt en met wendbare dienstverleners werkt, maakt van pieken kansen. Door te begrijpen wanneer en waarom pieken optreden en door vroeg te boeken, multimodaal te plannen en goed te forecasten, vang je verstoringen op en houd je klanten tevreden.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Bronnen"},
-    {"type": "citation", "text": "Peak logistics periods: Chinese New Year, Golden Week and holiday seasons (A.P. Moller - Maersk, 2025) - Benoemt vijf wereldwijde piekperiodes - Chinees Nieuwjaar, zomer/schoolstart, Golden Week, Black Friday/Cyber Monday en eindejaar - en effecten op capaciteit, looptijden en kosten.", "author": "Maersk", "url": "https://www.maersk.com/news/articles/2025/peak-logistics-periods"},
-    {"type": "citation", "text": "Impact of the summer season on road freight (NTG Nordic Transport Group, 2024) - Meldt verminderde wegcapaciteit vanaf week 29 in continentaal Europa; voor sommige routes (Spanje, Frankrijk, Italië, Zwitserland) zijn in weken 32-34 speciale afspraken nodig, normalisatie rond week 35.", "author": "NTG Nordic Transport Group", "url": "https://ntg.com/news/summer-season-road-freight-impact/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Tijdig leveren is cruciaal, maar seizoensinvloeden maken planning uitdagend. Door bekende pieken te kennen kunnen verladers vroegtijdig capaciteit vastleggen, voorraden aanpassen en flexibiliteit inbouwen in de keten.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "seasonality-visual.png",
+      "alt": "Drukke Europese opslag met pallets en medewerkers tijdens het hoogseizoen",
+      "caption": "Een overvolle magazijnvloer laat de congestie zien waarmee planners in piekperiodes te maken hebben."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Belangrijkste piekperiodes"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Chinees Nieuwjaar (januari-februari)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Fabrieken in China liggen tot twee weken stil, wat leidt tot een piek in zendingen voor en na de feestweek. Europese importeurs doen er goed aan tijdig te boeken en rekening te houden met vertragingen door onevenwichtige equipmentstromen (A.P. Moller - Maersk, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Zomervakantie & back-to-school (juli-augustus)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "De vraag naar mode, elektronica en schoolspullen stijgt, terwijl veel chauffeurs en havenmedewerkers vakantie nemen, waardoor capaciteit afneemt. In 2024 meldde NTG verminderde wegcapaciteit vanaf week 29; voor sommige routes (Spanje, Frankrijk, Italië, Zwitserland) zijn in weken 32-34 speciale afspraken nodig; normalisatie rond week 35 (NTG, 2024).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Golden Week (1-7 oktober)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "De Chinese Golden Week legt productie en havens deels stil en veroorzaakt opnieuw een piek voor en na de week (A.P. Moller - Maersk, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Black Friday & Cyber Monday (eind november)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "E-commerceacties zorgen voor hoge pakket- en palletvolumes. Last-mile netwerken en sorteercentra lopen vol; vervoerders prioriteren zendingen met hogere marge.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Feestdagen (december)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Retailers vullen schappen voor Kerst en Nieuwjaar. Ruimtegebrek, havencongestie en last-mile beperkingen nemen toe.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Effecten van piekperiodes"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Capaciteitstekorten en tariefstijgingen. Hogere vraag belast wegvervoer, opslag en havens en drijft spot rates op.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Langere doorlooptijden en vertragingen. Rijtijdregels, minder personeel en volle netwerken vertragen leveringen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Voorraadrisico's. Out-of-stocks of overstock bij onjuiste forecasts.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Operationele druk. Personeelstekort in magazijnen en last-mile knelpunten verhogen fouten en claims.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Planningsstrategieën"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Boek capaciteit vroeg. Reserveer transport- en magazijnslots weken voor de piek.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Diversifieer modaliteiten en routes. Gebruik spoor, short-sea of luchtvracht om drukke corridors te mijden.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Forecast nauwkeurig. Werk met leveranciers en klanten om vraag te verfijnen en voorraden aan te passen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Spreid zendingen. Verspreid orders over meerdere weken om vervoerders niet te overbelasten.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Onderhandel flexibele contracten. Zekerheid over capaciteit met variabele tarieven; houd rekening met piektoeslagen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Cross-docking en consolidatie. Bundel kleine zendingen om bezettingsgraad te verhogen en vertragingen te beperken.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Benut technologie. Realtime zichtbaarheid maakt herrouteren en exception management mogelijk.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Communiceer transparant. Informeer klanten over mogelijke vertragingen en stel realistische verwachtingen.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusie: bereid je voor op pieken en blijf concurrerend"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Seizoensinvloeden horen bij Europese logistiek. Wie vooruit plant, veerkracht opbouwt en met wendbare dienstverleners werkt, maakt van pieken kansen. Door te begrijpen wanneer en waarom pieken optreden en door vroeg te boeken, multimodaal te plannen en goed te forecasten, vang je verstoringen op en houd je klanten tevreden.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Bronnen"
+    },
+    {
+      "type": "citation",
+      "text": "Peak logistics periods: Chinese New Year, Golden Week and holiday seasons (A.P. Moller - Maersk, 2025) - Benoemt vijf wereldwijde piekperiodes - Chinees Nieuwjaar, zomer/schoolstart, Golden Week, Black Friday/Cyber Monday en eindejaar - en effecten op capaciteit, looptijden en kosten.",
+      "author": "Maersk",
+      "url": "https://www.maersk.com/news/articles/2025/peak-logistics-periods"
+    },
+    {
+      "type": "citation",
+      "text": "Impact of the summer season on road freight (NTG Nordic Transport Group, 2024) - Meldt verminderde wegcapaciteit vanaf week 29 in continentaal Europa; voor sommige routes (Spanje, Frankrijk, Italië, Zwitserland) zijn in weken 32-34 speciale afspraken nodig, normalisatie rond week 35.",
+      "author": "NTG Nordic Transport Group",
+      "url": "https://ntg.com/news/summer-season-road-freight-impact/"
+    }
   ],
   "tags": [
     "seizoensinvloeden logistiek",
@@ -59,4 +242,3 @@
     "verstoring logistiek europa"
   ]
 }
-

@@ -1,5 +1,5 @@
 {
-  "id": "groupage-vs-full-truck-load-what-s-best-for-your-european-freight",
+  "id": "groupage-vs-full-truck-load-what-s-best-for-your-european-freight-dk",
   "shortId": "groupage-vs-ftl",
   "language": "dk",
   "isVisible": true,
@@ -124,7 +124,11 @@
       "level": 2,
       "text": "Hvornår bruge groupage og hvornår FTL"
     },
-    { "type": "heading", "level": 3, "text": "Vælg FTL når:" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Vælg FTL når:"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -155,7 +159,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 3, "text": "Vælg groupage når:" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Vælg groupage når:"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -186,7 +194,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Hybridløsninger" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hybridløsninger"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -196,7 +208,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 2, "text": "Faktorer at vurdere" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Faktorer at vurdere"
+    },
     {
       "type": "list",
       "ordered": true,
@@ -253,7 +269,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Kilder" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kilder"
+    },
     {
       "type": "citation",
       "text": "European road freight options explained (Uniserve Group, 2025) - Definerer FTL og LTL/groupage: FTL udnytter hele køretøjet (hurtigere, mindre håndtering); groupage konsoliderer mindre partier til lavere pris men længere transit.",

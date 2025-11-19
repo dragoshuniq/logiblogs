@@ -1,5 +1,5 @@
 {
-  "id": "how-to-reduce-damage-and-claims-in-road-freight",
+  "id": "how-to-reduce-damage-and-claims-in-road-freight-de",
   "shortId": "reduce-damage-claims",
   "language": "de",
   "isVisible": true,
@@ -16,40 +16,205 @@
   "image": "damage-claims-hero.png",
   "imageAlt": "Checkliste erinnert Fahrer daran, Ausrüstung zu prüfen, korrekt zu laden und den Auflieger zu verplomben",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Ladungsschäden und daraus resultierende Ansprüche schmälern nicht nur den Gewinn, sondern schaden auch der Reputation. Schäden zu vermeiden ist effektiver, als Ansprüche im Nachgang zu bearbeiten. Dieser Artikel skizziert die häufigsten Ursachen für Transportschäden, erläutert Verantwortlichkeiten nach internationalen Konventionen und präsentiert Best Practices zur Risikominimierung im Straßengüterverkehr.", "bold": false}]},
-    {"type": "image", "src": "damage-claims-visual.png", "alt": "Fahrer kontrolliert vor Abfahrt Zurrgurte im Trailer, um sicheren Sitz der Ladung zu bestätigen", "caption": "Der Fahrer prüft die Zurrgurte ein zweites Mal, um spätere Schadenansprüche zu vermeiden."},
-    {"type": "heading", "level": 2, "text": "Ursachen für Ladungsschäden und Haftung"},
-    {"type": "paragraph", "children": [{"text": "Schäden entstehen durch unsachgemäße Handhabung, ungleichmäßiges Stapeln, Feuchtigkeit, Verunreinigung, Temperaturabweichungen, Schädlingsbefall, Brand oder Diebstahl. Die Haftung richtet sich nach Ursache und Versandbedingungen:", "bold": false}]},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Verantwortung des Frachtführers: In der Regel haftet der Carrier für Schäden durch unsachgemäße Handhabung, unzureichende Sicherung oder mangelnde Temperaturhaltung während des Transports (Reload Logistics, 2025).", "bold": false}],
-      [{"text": "Verantwortung des Versenders: Der Versender muss Ware ordnungsgemäß verpacken, kennzeichnen und dokumentieren. Bei mangelhafter Verpackung oder nicht deklarierten Gefahrgütern kann der Versender haften (Reload Logistics, 2025).", "bold": false}],
-      [{"text": "Verantwortung des Empfängers: Der Empfänger hat die Ware bei Zustellung zu prüfen und sichtbare Schäden sofort zu dokumentieren, um Ansprüche zu stützen (Reload Logistics, 2025).", "bold": false}],
-      [{"text": "Incoterms und Versicherung: Incoterms legen fest, wann das Risiko vom Verkäufer auf den Käufer übergeht. Versicherungen decken viele Risiken ab, ersetzen jedoch keine ordnungsgemäße Handhabung (Reload Logistics, 2025).", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Best Practices zur Schadensprävention"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Vorabkontrolle. Trailer auf Undichtigkeiten, gebrochene Bretter und hervorstehende Teile prüfen. Zurrmittel und Planen inspizieren (Northland Insurance Company, 2022).", "bold": false}],
-      [{"text": "Be- und Entladung beaufsichtigen. Sicherstellen, dass die Ladung korrekt geladen, gleichmäßig verteilt und gesichert ist. Abweichungen vor Abfahrt dokumentieren (Northland Insurance Company, 2022).", "bold": false}],
-      [{"text": "Abweichungen dokumentieren. Offene Punkte in Versandpapieren vermerken und das Unternehmen umgehend informieren; Schäden fotografieren (Northland Insurance Company, 2022).", "bold": false}],
-      [{"text": "Shipper Load and Count (SLC) nutzen, wenn sinnvoll. Wenn die Beladung nicht überwacht werden kann, Versandpapiere mit \"shipper load and count\" zeichnen, um Haftung zu begrenzen (Northland Insurance Company, 2022).", "bold": false}],
-      [{"text": "Trailer verplomben und Ausrüstung sichern. Plomben und hochwertige Schlösser verwenden, um Diebstahl zu erschweren (Northland Insurance Company, 2022).", "bold": false}],
-      [{"text": "Ladung sichern. Blockieren, verstauen und geeignete Sicherungsmittel einsetzen, um Verrutschen zu verhindern. Abgenutzte Gurte ersetzen (Northland Insurance Company, 2022).", "bold": false}],
-      [{"text": "Unterwegs prüfen. Fahrer sollten Ladung und Sicherungsmittel regelmäßig kontrollieren und bei Bedarf nachspannen (Northland Insurance Company, 2022).", "bold": false}],
-      [{"text": "Vorsichtig fahren. Starkes Bremsen und enge Kurven vermeiden, um ein Verrutschen oder Umkippen zu verhindern (Northland Insurance Company, 2022).", "bold": false}],
-      [{"text": "Temperatur steuern. Kühlaggregate und Ware vorkühlen, Temperatureinstellungen kalibrieren und Kühltechnik warten (IAT Insurance Group, 2023).", "bold": false}],
-      [{"text": "Feuchtigkeit und Verunreinigung vermeiden. Container auf Lecks prüfen, Feuchtigkeitsabsorber nutzen und Reinheitszertifikate anfordern (Reload Logistics, 2025).", "bold": false}],
-      [{"text": "Sicherheitsrisiken adressieren. An sicheren Orten parken, auf Diebstahlschemata achten und GPS-Tracking nutzen.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Schadensabwicklung nach CMR"},
-    {"type": "paragraph", "children": [{"text": "Das Übereinkommen über den Beförderungsvertrag im internationalen Straßengüterverkehr (CMR) regelt die Haftung bei grenzüberschreitenden Straßensendungen. Die Haftung des Frachtführers ist grundsätzlich je Kilogramm Bruttogewicht begrenzt, außer bei vorsätzlichem oder leichtfertigem Verhalten. Für Entschädigungsansprüche müssen Schäden bei Zustellung im CMR-Frachtbrief vermerkt, der Frachtführer bei sichtbaren Schäden innerhalb von sieben Tagen und bei verdeckten Schäden innerhalb von 21 Tagen schriftlich benachrichtigt werden.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Fazit: Prävention schlägt Anspruch"},
-    {"type": "paragraph", "children": [{"text": "Die meisten Schäden im Straßengüterverkehr lassen sich durch gute Vorbereitung, sorgfältige Handhabung und belastbare Dokumentation vermeiden. Mit Vorabkontrollen, beaufsichtigter Beladung, korrekter Ladungssicherung und Schulungen zu sicherer Fahrweise und Temperaturführung senken Versender und Frachtführer Häufigkeit und Schwere von Schadenfällen. Wer die Haftungsregeln nach CMR kennt und Abweichungen zeitnah dokumentiert, vereinfacht die Abwicklung, wenn es doch zu Problemen kommt.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Quellen"},
-    {"type": "citation", "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Erklärt Verantwortlichkeiten bei Ladungsschäden: Carrier sind für sichere Handhabung und Transport ab Annahme verantwortlich, Versender für ordnungsgemäße Verpackung und Kennzeichnung; Empfänger prüfen und dokumentieren Schäden bei Zustellung; Versicherung ersetzt keine sachgemäße Handhabung.", "author": "Reload Logistics", "url": "https://www.reloadlogistics.com/blog/how-to-prevent-cargo-damage/"},
-    {"type": "citation", "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Tipps zur Vermeidung von Schadenfällen: Vorabkontrollen, Überwachung von Be- und Entladung, Dokumentation von Abweichungen, SLC-Vermerk, Verplomben, Ladungssicherung, Kontrollen unterwegs und vorsichtige Fahrweise.", "author": "Northland Insurance Company", "url": "https://www.northlandins.com/resources/preventing-cargo-claims/"},
-    {"type": "citation", "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Betont die Bedeutung geeigneter Sicherungsmittel und defensiver Fahrweise zur Vermeidung von Verrutschen und Unfällen.", "author": "Northland Insurance Company", "url": "https://www.northlandins.com/resources/preventing-cargo-claims/"},
-    {"type": "citation", "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Hebt Fahrerschulungen, Vorkühlung und regelmäßige Wartung zur Vermeidung temperaturbedingter Schäden bei Kühlgut hervor.", "author": "IAT Insurance Group", "url": "https://www.iatinsurancegroup.com/transportation/blog/trucking-cargo-claims/"},
-    {"type": "citation", "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Rät zu Maßnahmen gegen Feuchtigkeit und Verunreinigung wie Lecktests, Abdichtungen und Feuchtigkeitsabsorbern.", "author": "Reload Logistics", "url": "https://www.reloadlogistics.com/blog/how-to-prevent-cargo-damage/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ladungsschäden und daraus resultierende Ansprüche schmälern nicht nur den Gewinn, sondern schaden auch der Reputation. Schäden zu vermeiden ist effektiver, als Ansprüche im Nachgang zu bearbeiten. Dieser Artikel skizziert die häufigsten Ursachen für Transportschäden, erläutert Verantwortlichkeiten nach internationalen Konventionen und präsentiert Best Practices zur Risikominimierung im Straßengüterverkehr.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "damage-claims-visual.png",
+      "alt": "Fahrer kontrolliert vor Abfahrt Zurrgurte im Trailer, um sicheren Sitz der Ladung zu bestätigen",
+      "caption": "Der Fahrer prüft die Zurrgurte ein zweites Mal, um spätere Schadenansprüche zu vermeiden."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ursachen für Ladungsschäden und Haftung"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Schäden entstehen durch unsachgemäße Handhabung, ungleichmäßiges Stapeln, Feuchtigkeit, Verunreinigung, Temperaturabweichungen, Schädlingsbefall, Brand oder Diebstahl. Die Haftung richtet sich nach Ursache und Versandbedingungen:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Verantwortung des Frachtführers: In der Regel haftet der Carrier für Schäden durch unsachgemäße Handhabung, unzureichende Sicherung oder mangelnde Temperaturhaltung während des Transports (Reload Logistics, 2025).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Verantwortung des Versenders: Der Versender muss Ware ordnungsgemäß verpacken, kennzeichnen und dokumentieren. Bei mangelhafter Verpackung oder nicht deklarierten Gefahrgütern kann der Versender haften (Reload Logistics, 2025).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Verantwortung des Empfängers: Der Empfänger hat die Ware bei Zustellung zu prüfen und sichtbare Schäden sofort zu dokumentieren, um Ansprüche zu stützen (Reload Logistics, 2025).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Incoterms und Versicherung: Incoterms legen fest, wann das Risiko vom Verkäufer auf den Käufer übergeht. Versicherungen decken viele Risiken ab, ersetzen jedoch keine ordnungsgemäße Handhabung (Reload Logistics, 2025).",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Best Practices zur Schadensprävention"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Vorabkontrolle. Trailer auf Undichtigkeiten, gebrochene Bretter und hervorstehende Teile prüfen. Zurrmittel und Planen inspizieren (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Be- und Entladung beaufsichtigen. Sicherstellen, dass die Ladung korrekt geladen, gleichmäßig verteilt und gesichert ist. Abweichungen vor Abfahrt dokumentieren (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Abweichungen dokumentieren. Offene Punkte in Versandpapieren vermerken und das Unternehmen umgehend informieren; Schäden fotografieren (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Shipper Load and Count (SLC) nutzen, wenn sinnvoll. Wenn die Beladung nicht überwacht werden kann, Versandpapiere mit \"shipper load and count\" zeichnen, um Haftung zu begrenzen (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Trailer verplomben und Ausrüstung sichern. Plomben und hochwertige Schlösser verwenden, um Diebstahl zu erschweren (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ladung sichern. Blockieren, verstauen und geeignete Sicherungsmittel einsetzen, um Verrutschen zu verhindern. Abgenutzte Gurte ersetzen (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Unterwegs prüfen. Fahrer sollten Ladung und Sicherungsmittel regelmäßig kontrollieren und bei Bedarf nachspannen (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Vorsichtig fahren. Starkes Bremsen und enge Kurven vermeiden, um ein Verrutschen oder Umkippen zu verhindern (Northland Insurance Company, 2022).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Temperatur steuern. Kühlaggregate und Ware vorkühlen, Temperatureinstellungen kalibrieren und Kühltechnik warten (IAT Insurance Group, 2023).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Feuchtigkeit und Verunreinigung vermeiden. Container auf Lecks prüfen, Feuchtigkeitsabsorber nutzen und Reinheitszertifikate anfordern (Reload Logistics, 2025).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sicherheitsrisiken adressieren. An sicheren Orten parken, auf Diebstahlschemata achten und GPS-Tracking nutzen.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Schadensabwicklung nach CMR"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Das Übereinkommen über den Beförderungsvertrag im internationalen Straßengüterverkehr (CMR) regelt die Haftung bei grenzüberschreitenden Straßensendungen. Die Haftung des Frachtführers ist grundsätzlich je Kilogramm Bruttogewicht begrenzt, außer bei vorsätzlichem oder leichtfertigem Verhalten. Für Entschädigungsansprüche müssen Schäden bei Zustellung im CMR-Frachtbrief vermerkt, der Frachtführer bei sichtbaren Schäden innerhalb von sieben Tagen und bei verdeckten Schäden innerhalb von 21 Tagen schriftlich benachrichtigt werden.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fazit: Prävention schlägt Anspruch"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Die meisten Schäden im Straßengüterverkehr lassen sich durch gute Vorbereitung, sorgfältige Handhabung und belastbare Dokumentation vermeiden. Mit Vorabkontrollen, beaufsichtigter Beladung, korrekter Ladungssicherung und Schulungen zu sicherer Fahrweise und Temperaturführung senken Versender und Frachtführer Häufigkeit und Schwere von Schadenfällen. Wer die Haftungsregeln nach CMR kennt und Abweichungen zeitnah dokumentiert, vereinfacht die Abwicklung, wenn es doch zu Problemen kommt.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Quellen"
+    },
+    {
+      "type": "citation",
+      "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Erklärt Verantwortlichkeiten bei Ladungsschäden: Carrier sind für sichere Handhabung und Transport ab Annahme verantwortlich, Versender für ordnungsgemäße Verpackung und Kennzeichnung; Empfänger prüfen und dokumentieren Schäden bei Zustellung; Versicherung ersetzt keine sachgemäße Handhabung.",
+      "author": "Reload Logistics",
+      "url": "https://www.reloadlogistics.com/blog/how-to-prevent-cargo-damage/"
+    },
+    {
+      "type": "citation",
+      "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Tipps zur Vermeidung von Schadenfällen: Vorabkontrollen, Überwachung von Be- und Entladung, Dokumentation von Abweichungen, SLC-Vermerk, Verplomben, Ladungssicherung, Kontrollen unterwegs und vorsichtige Fahrweise.",
+      "author": "Northland Insurance Company",
+      "url": "https://www.northlandins.com/resources/preventing-cargo-claims/"
+    },
+    {
+      "type": "citation",
+      "text": "Preventing Cargo Claims (Northland Insurance Company, 2022) - Betont die Bedeutung geeigneter Sicherungsmittel und defensiver Fahrweise zur Vermeidung von Verrutschen und Unfällen.",
+      "author": "Northland Insurance Company",
+      "url": "https://www.northlandins.com/resources/preventing-cargo-claims/"
+    },
+    {
+      "type": "citation",
+      "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Hebt Fahrerschulungen, Vorkühlung und regelmäßige Wartung zur Vermeidung temperaturbedingter Schäden bei Kühlgut hervor.",
+      "author": "IAT Insurance Group",
+      "url": "https://www.iatinsurancegroup.com/transportation/blog/trucking-cargo-claims/"
+    },
+    {
+      "type": "citation",
+      "text": "How to Prevent Cargo Damage: Causes, Types and Best Practices (Reload Logistics, 2025) - Rät zu Maßnahmen gegen Feuchtigkeit und Verunreinigung wie Lecktests, Abdichtungen und Feuchtigkeitsabsorbern.",
+      "author": "Reload Logistics",
+      "url": "https://www.reloadlogistics.com/blog/how-to-prevent-cargo-damage/"
+    }
   ],
   "tags": [
     "transportschäden reduzieren",
@@ -61,4 +226,3 @@
     "best practices ladungssicherung"
   ]
 }
-

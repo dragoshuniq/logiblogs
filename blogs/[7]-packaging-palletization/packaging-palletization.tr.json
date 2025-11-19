@@ -1,5 +1,5 @@
 {
-  "id": "packaging-and-palletization-best-practices-for-european-road-transport",
+  "id": "packaging-and-palletization-best-practices-for-european-road-transport-tr",
   "shortId": "packaging-best-practices",
   "language": "tr",
   "isVisible": true,
@@ -8,47 +8,224 @@
   "description": "Doğru ambalaj ve paletleme yükü ve verimliliği korur. Yanlış istif veya yetersiz sabitleme nedeniyle yük kayar, kırılır ya da çökerse en iyi rota bile başarısız olur...",
   "publishedAt": "2024-12-29T00:00:00Z",
   "category": "Operasyonlar",
-  "author": {"name": "Logifie Team", "role": "Lojistik teknolojileri uzmanları", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Lojistik teknolojileri uzmanları",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "packaging-palletization-hero.png",
   "imageAlt": "Önerilen istif desenleri ve ağırlık dağılımını gösteren bir europalet kesiti",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Bu rehber, palet hazırlama, malzeme seçimi ve yük sabitleme için en iyi uygulamaları özetleyerek hasarı azaltmayı ve Avrupa standartlarına uyumu açıklar.", "bold": false}]},
-    {"type": "image", "src": "packaging-palletization-visual.png", "alt": "Depo çalışanları taşıma öncesi karışık yükü palete streçleyip kayışla sabitliyor", "caption": "Streç film ve çemberleme, linehaul yükleme öncesi karışık bir europaleti kilitler."},
-    {"type": "heading", "level": 2, "text": "Europalet teknik özellikleri"},
-    {"type": "paragraph", "children": [{"text": "Europalet (EPAL) Avrupa'da en yaygın palettir. Standart ölçüler 1.200 mm x 800 mm x 144 mm ve 0,96 m2 kullanılabilir alan (Across Logistics, 2025). Boş ağırlık nem durumuna göre 22-25 kg; taşıma kapasitesi dinamikte 1.500 kg'a, istifte 4.000 kg'a ve raflarda 1.000 kg'a kadar (Across Logistics, 2025). Avrupa kamyon ve konteynerleriyle uyumludur; standart dorseye iki adet enine veya üç adet boyuna yerleşir (Across Logistics, 2025).", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Paletleme teknikleri"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Kaliteli palet kullanın. Hasarsız, kuru ve ISPM-15'e uygun (haşereye karşı ısıl işlem).", "bold": false}],
-      [{"text": "Ağırlığı eşit dağıtın. Ağır parçalar alta, kutular kenara sıfır ve taşma yok.", "bold": false}],
-      [{"text": "Kolon veya şaşırtmalı istif. Kolon istif taşıma gücünü maksimize eder fakat daha az stabildir; şaşırtma katları bağlar ve stabilize eder. Karışık yükte şaşırtmalı desen kullanın (Jungheinrich AG, 2024).", "bold": false}],
-      [{"text": "Ağırlık merkezini düşük tutun. Ağır öğeleri palet tabanına yakın konumlandırın.", "bold": false}],
-      [{"text": "Yükü sabitleyin. Streç/kısma film, çember veya sapanlar; köşe koruyucular çekişi dağıtır.", "bold": false}],
-      [{"text": "Net etiketleme. Elleçleme ('fragile', 'this side up'), barkod ve etiketleri birden çok yüze yerleştirin.", "bold": false}],
-      [{"text": "Boşlukları önleyin. Kutular içinde ve katlar arasında dolgu kullanın.", "bold": false}],
-      [{"text": "Palet kılıfları. Hassas ürünler için nem ve toza karşı koruma.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Yük sabitleme ve araç hususları"},
-    {"type": "paragraph", "children": [{"text": "Yetersiz sabitleme, kamyon kazalarının %25'ine kadar katkıda bulunur (European Union, 2014). AB kılavuzlarına uymak sürücüleri ve yol kullanıcılarını korur. Temel noktalar:", "bold": false}]},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Uygun ekipman. Gergi kayışları, kaymaz matlar, hava yastıkları ve blokaj kirişleri yükü sabitler.", "bold": false}],
-      [{"text": "Ekipman durumu. Aşınmış/hasarlı kayışları değiştirin.", "bold": false}],
-      [{"text": "Yük dengeleme. Ağırlığı araç genelinde dağıtın; aks aşırı yükünü önleyin ve sürüşü iyileştirin.", "bold": false}],
-      [{"text": "Düzenli kontrol. Her durakta ve sert manevralardan sonra yük ve sabitleme kontrol edilir.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Yük türlerine göre en iyi uygulamalar"},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Kırılgan: kutu içinde yastıklama (sünger, hava yastığı); kutular uygunsa çift istif.", "bold": false}],
-      [{"text": "Sıvılar: variller dik; bölmeler veya IBC ile savrulmayı önleyin.", "bold": false}],
-      [{"text": "Bozulabilir: yalıtımlı ambalaj ve ATP'ye uygun soğutma. Yükü ve dorseleri önceden soğutun (IAT Insurance Group, 2023).", "bold": false}],
-      [{"text": "Tehlikeli (ADR): onaylı ambalaj ve tehlike sınıfı etiketleri; sürücüler ADR sertifikalı olmalı.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Sonuç: doğru ambalaj, doğru teslimat"},
-    {"type": "paragraph", "children": [{"text": "Doğru ambalajlanmış ve paletlenmiş yük güvenli taşınır, talepleri azaltır ve verimliliği artırır. Europalet standartları, sağlam istif teknikleri ve uygun ekipmanla sabitleme hasarı en aza indirir ve bütünlük sağlar. Logifie ile bu uygulamalar Avrupa genelinde tutarlı uygulanır.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Kaynaklar"},
-    {"type": "citation", "text": "European pallet: dimensions, types and logistic uses (Across Logistics, 2025) - Ölçüler (1.200 x 800 x 144 mm), taşıma kapasitesi (1.500 kg dinamik, 4.000 kg statik) ve EPAL geçmişi.", "author": "Across Logistics", "url": "https://acrosslogistics.com/blog/en/palet-europeo"},
-    {"type": "citation", "text": "Palletizing and load securing tips (Jungheinrich AG, 2024) - İpuçları: ağırlık dağılımı, taşma yok, şaşırtmalı istif, film veya çemberle sabitleme.", "author": "Jungheinrich ProfiGuide", "url": "https://profi-guide.jungheinrich.com/palletizing-best-practices"},
-    {"type": "citation", "text": "European best practice guidelines on cargo securing (European Union, 2014) - Yetersiz sabitleme kazaların %25'ine kadar neden olur; uygun ekipman rehberi.", "author": "European Commission", "url": "https://ec.europa.eu/transport/road_safety/topics/cargo-securing-guidelines_en"},
-    {"type": "citation", "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Soğuk zincir: yük/dorse ön soğutma; düzenli kontrol/bakım.", "author": "IAT Insurance Group", "url": "https://www.iatinsurancegroup.com/media/0sodtctn/230830_cargo_ebook_final.pdf"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Bu rehber, palet hazırlama, malzeme seçimi ve yük sabitleme için en iyi uygulamaları özetleyerek hasarı azaltmayı ve Avrupa standartlarına uyumu açıklar.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "packaging-palletization-visual.png",
+      "alt": "Depo çalışanları taşıma öncesi karışık yükü palete streçleyip kayışla sabitliyor",
+      "caption": "Streç film ve çemberleme, linehaul yükleme öncesi karışık bir europaleti kilitler."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Europalet teknik özellikleri"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Europalet (EPAL) Avrupa'da en yaygın palettir. Standart ölçüler 1.200 mm x 800 mm x 144 mm ve 0,96 m2 kullanılabilir alan (Across Logistics, 2025). Boş ağırlık nem durumuna göre 22-25 kg; taşıma kapasitesi dinamikte 1.500 kg'a, istifte 4.000 kg'a ve raflarda 1.000 kg'a kadar (Across Logistics, 2025). Avrupa kamyon ve konteynerleriyle uyumludur; standart dorseye iki adet enine veya üç adet boyuna yerleşir (Across Logistics, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Paletleme teknikleri"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Kaliteli palet kullanın. Hasarsız, kuru ve ISPM-15'e uygun (haşereye karşı ısıl işlem).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ağırlığı eşit dağıtın. Ağır parçalar alta, kutular kenara sıfır ve taşma yok.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kolon veya şaşırtmalı istif. Kolon istif taşıma gücünü maksimize eder fakat daha az stabildir; şaşırtma katları bağlar ve stabilize eder. Karışık yükte şaşırtmalı desen kullanın (Jungheinrich AG, 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ağırlık merkezini düşük tutun. Ağır öğeleri palet tabanına yakın konumlandırın.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Yükü sabitleyin. Streç/kısma film, çember veya sapanlar; köşe koruyucular çekişi dağıtır.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Net etiketleme. Elleçleme ('fragile', 'this side up'), barkod ve etiketleri birden çok yüze yerleştirin.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Boşlukları önleyin. Kutular içinde ve katlar arasında dolgu kullanın.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Palet kılıfları. Hassas ürünler için nem ve toza karşı koruma.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Yük sabitleme ve araç hususları"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Yetersiz sabitleme, kamyon kazalarının %25'ine kadar katkıda bulunur (European Union, 2014). AB kılavuzlarına uymak sürücüleri ve yol kullanıcılarını korur. Temel noktalar:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Uygun ekipman. Gergi kayışları, kaymaz matlar, hava yastıkları ve blokaj kirişleri yükü sabitler.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ekipman durumu. Aşınmış/hasarlı kayışları değiştirin.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Yük dengeleme. Ağırlığı araç genelinde dağıtın; aks aşırı yükünü önleyin ve sürüşü iyileştirin.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Düzenli kontrol. Her durakta ve sert manevralardan sonra yük ve sabitleme kontrol edilir.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Yük türlerine göre en iyi uygulamalar"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Kırılgan: kutu içinde yastıklama (sünger, hava yastığı); kutular uygunsa çift istif.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sıvılar: variller dik; bölmeler veya IBC ile savrulmayı önleyin.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Bozulabilir: yalıtımlı ambalaj ve ATP'ye uygun soğutma. Yükü ve dorseleri önceden soğutun (IAT Insurance Group, 2023).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tehlikeli (ADR): onaylı ambalaj ve tehlike sınıfı etiketleri; sürücüler ADR sertifikalı olmalı.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sonuç: doğru ambalaj, doğru teslimat"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Doğru ambalajlanmış ve paletlenmiş yük güvenli taşınır, talepleri azaltır ve verimliliği artırır. Europalet standartları, sağlam istif teknikleri ve uygun ekipmanla sabitleme hasarı en aza indirir ve bütünlük sağlar. Logifie ile bu uygulamalar Avrupa genelinde tutarlı uygulanır.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kaynaklar"
+    },
+    {
+      "type": "citation",
+      "text": "European pallet: dimensions, types and logistic uses (Across Logistics, 2025) - Ölçüler (1.200 x 800 x 144 mm), taşıma kapasitesi (1.500 kg dinamik, 4.000 kg statik) ve EPAL geçmişi.",
+      "author": "Across Logistics",
+      "url": "https://acrosslogistics.com/blog/en/palet-europeo"
+    },
+    {
+      "type": "citation",
+      "text": "Palletizing and load securing tips (Jungheinrich AG, 2024) - İpuçları: ağırlık dağılımı, taşma yok, şaşırtmalı istif, film veya çemberle sabitleme.",
+      "author": "Jungheinrich ProfiGuide",
+      "url": "https://profi-guide.jungheinrich.com/palletizing-best-practices"
+    },
+    {
+      "type": "citation",
+      "text": "European best practice guidelines on cargo securing (European Union, 2014) - Yetersiz sabitleme kazaların %25'ine kadar neden olur; uygun ekipman rehberi.",
+      "author": "European Commission",
+      "url": "https://ec.europa.eu/transport/road_safety/topics/cargo-securing-guidelines_en"
+    },
+    {
+      "type": "citation",
+      "text": "The Most Common Trucking Cargo Claims and How to Avoid Them (IAT Insurance Group, 2023) - Soğuk zincir: yük/dorse ön soğutma; düzenli kontrol/bakım.",
+      "author": "IAT Insurance Group",
+      "url": "https://www.iatinsurancegroup.com/media/0sodtctn/230830_cargo_ebook_final.pdf"
+    }
   ],
   "tags": [
     "paletleme en iyi uygulamalar",
@@ -60,4 +237,3 @@
     "palet yükleme kuralları"
   ]
 }
-

@@ -1,5 +1,5 @@
 {
-  "id": "digital-freight-forwarding-vs-traditional-forwarding",
+  "id": "digital-freight-forwarding-vs-traditional-forwarding-no",
   "shortId": "digital-vs-traditional",
   "language": "no",
   "isVisible": true,
@@ -81,7 +81,12 @@
       "type": "list",
       "ordered": false,
       "items": [
-        [{ "text": "Strakstilbud og booking", "bold": false }],
+        [
+          {
+            "text": "Strakstilbud og booking",
+            "bold": false
+          }
+        ],
         [
           {
             "text": "Sporing i sanntid (IoT/integrasjoner) med prediktiv ETA og avviksvarsler",
@@ -94,7 +99,12 @@
             "bold": false
           }
         ],
-        [{ "text": "CO2-beregning per sending", "bold": false }],
+        [
+          {
+            "text": "CO2-beregning per sending",
+            "bold": false
+          }
+        ],
         [
           {
             "text": "Åpne API-er for TMS/WMS-integrasjon",
@@ -103,7 +113,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Velg riktig speditør" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Velg riktig speditør"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -122,7 +136,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 2, "text": "Trender" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Trender"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -159,7 +177,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Konklusjon" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Konklusjon"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -170,5 +192,8 @@
       ]
     }
   ],
-  "tags": ["digital spedisjon", "logistikkteknologi"]
+  "tags": [
+    "digital spedisjon",
+    "logistikkteknologi"
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "how-fuel-surcharges-and-tolls-impact-your-freight-costs-in-europe",
+  "id": "how-fuel-surcharges-and-tolls-impact-your-freight-costs-in-europe-ro",
   "shortId": "fuel-surcharges-tolls",
   "language": "ro",
   "isVisible": true,
@@ -8,36 +8,179 @@
   "description": "Creșterea prețului motorinei, taxele pe carbon și extinderea sistemelor de taxare determină variații mari ale costurilor de transport de la o lună la alta. Suprataxa de combustibil și taxele de drum sunt doi factori majori de cost în transportul rutier european...",
   "publishedAt": "2024-12-15T00:00:00Z",
   "category": "Finanțe",
-  "author": {"name": "Logifie Team", "role": "Experți în tehnologii pentru logistică", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experți în tehnologii pentru logistică",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "fuel-surcharges-hero.png",
   "imageAlt": "Diagramă care arată cum prețul de bază al combustibilului, indicii și procentele de suprataxă se reflectă pe factura de transport",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Creșterea prețului motorinei, taxele pe CO2 și extinderea taxelor de drum fac ca costurile de transport să fie foarte volatile. Suprataxa de combustibil și taxele rutiere sunt doi factori cheie de cost în transportul rutier european. Înțelegerea modului de calcul și a modalităților de control ajută expeditorii să gestioneze bugetele și să negocieze tarife corecte.", "bold": false}]},
-    {"type": "image", "src": "fuel-surcharges-visual.png", "alt": "Un camion se apropie de o poartă de taxare europeană; panouri digitale afișează tarife și suprataxe CO2", "caption": "Porțile de taxare și semnalele de preț pentru CO2 arată cum taxele de infrastructură intră în linia de suprataxă de combustibil."},
-    {"type": "heading", "level": 2, "text": "Ce este suprataxa de combustibil?"},
-    {"type": "paragraph", "children": [{"text": "Este o taxă variabilă adăugată facturilor de transport pentru a compensa variațiile prețului motorinei. Transportatorii o calculează pe baza diferenței dintre prețul curent și un preț de bază, folosind adesea indici publici. Când prețul crește, suprataxa crește; când scade, suprataxa scade.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "În SUA, pentru LTL, suprataxa poate reprezenta până la 30 % din costul transportului (Zero Down Supply Chain Solutions, 2025). În Europa, nivelul variază pe țări. Blue Water Shipping a raportat în noiembrie 2025: 27,40 % pe transport intern în Danemarca, 25 % în Suedia și 60,30 % pentru fluxuri din/spre Danemarca și restul Europei (Blue Water Shipping A/S, 2025).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Cum se calculează suprataxa"},
-    {"type": "paragraph", "children": [{"text": "De regulă, pe baza: (1) unui preț de bază (ex.: EUR 1.00/litru); (2) unui indice al prețului la combustibil (ex.: Weekly Oil Bulletin al Comisiei Europene); (3) unei formule care convertește abaterea în suprataxă/km sau procent. De pildă, 0,5 % pentru fiecare EUR 0.01 peste prețul de bază. Unii publică tabele; alții negociază o linie separată.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Taxe de drum și taxe de mediu"},
-    {"type": "paragraph", "children": [{"text": "Pe lângă suprataxa de combustibil, expeditorii se confruntă cu taxe de drum și taxe de mediu. Cercetări Transport Intelligence, Upply și IRU arată că taxele reprezintă circa 14 % din costurile de transport în Europa, ajungând la 23 % pe unele rute (Logistics Business, 2025). Conform Directivei Eurovignette revizuite, statele UE înlocuiesc vinietele temporale cu taxe pe distanță legate de emisiile de CO2 (Logistics Business, 2025). Germania a introdus din decembrie 2023 o componentă CO2 de EUR 200/tona de CO2, aproape dublând costurile (NOSTA Group, 2023).", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Zonele cu emisii reduse din orașe precum Paris, Berlin și Milano impun costuri suplimentare pentru vehiculele vechi. Neplata taxelor sau nerespectarea standardelor de emisii atrage amenzi și perturbări.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Cum reduci costurile de combustibil și taxele"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Optimizează rutele și încărcarea. Rutele și consolidarea asistate de AI reduc kilometrii goi și economisesc combustibil. ORION (UPS) a eliminat 100 mil. mile și a economisit 10 mil. galoane/an.", "bold": false}],
-      [{"text": "Monitorizează indicii de combustibil. Urmărește indicii și negociază formulele de suprataxă cu transportatorii. Unii expeditori se protejează cu contracte futures.", "bold": false}],
-      [{"text": "Folosește vehicule eficiente. Investițiile în camioane Euro 6 sau electrice reduc consumul și evită penalități în zonele cu emisii reduse.", "bold": false}],
-      [{"text": "Planifică schimbările de taxare. Fii la curent cu noile sisteme și suprataxe CO2; include-le în bugete și rute.", "bold": false}],
-      [{"text": "Consolidează expedierile. Grupajul sau soluțiile intermodale repartizează costurile de combustibil și taxe între mai multe expedieri și reduc costul unitar.", "bold": false}],
-      [{"text": "Ia în calcul multimodalul. Calea ferată sau short-sea pot oferi costuri mai previzibile pe distanțe lungi.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Concluzie: vizibilitate și planificare"},
-    {"type": "paragraph", "children": [{"text": "Suprataxele de combustibil și taxele de drum pot face diferența în profitabilitatea unui transport rutier. Înțelegând calculul, urmărind evoluția prețurilor și anticipând schimbările de taxare, expeditorii își pot gestiona proactiv costurile. Logifie folosește analitica pentru a optimiza rutele și gradul de încărcare și a reduce suprataxele și taxele de mediu.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Surse"},
-    {"type": "citation", "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Explică faptul că suprataxa compensează volatilitatea motorinei; în LTL poate ajunge la 30 %; descrie calculul.", "author": "Zero Down Supply Chain Solutions", "url": "https://zerodownsc.com/2025/09/fuel-surcharges/"},
-    {"type": "citation", "text": "Road transport surcharges and fees (November 2025) (Blue Water Shipping A/S, 2025) - Listează suprataxe pentru noiembrie 2025: 27,40 % în DK, 25 % în SE și 60,30 % pentru fluxuri cu Europa.", "author": "Blue Water Shipping", "url": "https://www.bws.dk/surcharges-and-fees/"},
-    {"type": "citation", "text": "Tolls drive up European road transport prices (Logistics Business, 2025) - Arată că taxele de drum reprezintă ~14 %, până la 23 %; statele UE trec la taxarea pe distanță legată de CO2 (Directiva Eurovignette).", "author": "Logistics Business Magazine", "url": "https://logisticsbusiness.com/transport-management/tolls-drive-up-european-road-transport-prices/"},
-    {"type": "citation", "text": "Germany introduces CO2 component to truck toll (NOSTA Group, 2023) - Anunță introducerea în DE a ~EUR 200/tonă CO2 de la 1/12/2023, aproape dublând taxele.", "author": "NOSTA Group", "url": "https://www.nosta-group.com/en/news/truck-toll-co2/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Creșterea prețului motorinei, taxele pe CO2 și extinderea taxelor de drum fac ca costurile de transport să fie foarte volatile. Suprataxa de combustibil și taxele rutiere sunt doi factori cheie de cost în transportul rutier european. Înțelegerea modului de calcul și a modalităților de control ajută expeditorii să gestioneze bugetele și să negocieze tarife corecte.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "fuel-surcharges-visual.png",
+      "alt": "Un camion se apropie de o poartă de taxare europeană; panouri digitale afișează tarife și suprataxe CO2",
+      "caption": "Porțile de taxare și semnalele de preț pentru CO2 arată cum taxele de infrastructură intră în linia de suprataxă de combustibil."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ce este suprataxa de combustibil?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Este o taxă variabilă adăugată facturilor de transport pentru a compensa variațiile prețului motorinei. Transportatorii o calculează pe baza diferenței dintre prețul curent și un preț de bază, folosind adesea indici publici. Când prețul crește, suprataxa crește; când scade, suprataxa scade.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "În SUA, pentru LTL, suprataxa poate reprezenta până la 30 % din costul transportului (Zero Down Supply Chain Solutions, 2025). În Europa, nivelul variază pe țări. Blue Water Shipping a raportat în noiembrie 2025: 27,40 % pe transport intern în Danemarca, 25 % în Suedia și 60,30 % pentru fluxuri din/spre Danemarca și restul Europei (Blue Water Shipping A/S, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Cum se calculează suprataxa"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "De regulă, pe baza: (1) unui preț de bază (ex.: EUR 1.00/litru); (2) unui indice al prețului la combustibil (ex.: Weekly Oil Bulletin al Comisiei Europene); (3) unei formule care convertește abaterea în suprataxă/km sau procent. De pildă, 0,5 % pentru fiecare EUR 0.01 peste prețul de bază. Unii publică tabele; alții negociază o linie separată.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Taxe de drum și taxe de mediu"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Pe lângă suprataxa de combustibil, expeditorii se confruntă cu taxe de drum și taxe de mediu. Cercetări Transport Intelligence, Upply și IRU arată că taxele reprezintă circa 14 % din costurile de transport în Europa, ajungând la 23 % pe unele rute (Logistics Business, 2025). Conform Directivei Eurovignette revizuite, statele UE înlocuiesc vinietele temporale cu taxe pe distanță legate de emisiile de CO2 (Logistics Business, 2025). Germania a introdus din decembrie 2023 o componentă CO2 de EUR 200/tona de CO2, aproape dublând costurile (NOSTA Group, 2023).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Zonele cu emisii reduse din orașe precum Paris, Berlin și Milano impun costuri suplimentare pentru vehiculele vechi. Neplata taxelor sau nerespectarea standardelor de emisii atrage amenzi și perturbări.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cum reduci costurile de combustibil și taxele"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Optimizează rutele și încărcarea. Rutele și consolidarea asistate de AI reduc kilometrii goi și economisesc combustibil. ORION (UPS) a eliminat 100 mil. mile și a economisit 10 mil. galoane/an.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Monitorizează indicii de combustibil. Urmărește indicii și negociază formulele de suprataxă cu transportatorii. Unii expeditori se protejează cu contracte futures.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Folosește vehicule eficiente. Investițiile în camioane Euro 6 sau electrice reduc consumul și evită penalități în zonele cu emisii reduse.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Planifică schimbările de taxare. Fii la curent cu noile sisteme și suprataxe CO2; include-le în bugete și rute.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Consolidează expedierile. Grupajul sau soluțiile intermodale repartizează costurile de combustibil și taxe între mai multe expedieri și reduc costul unitar.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ia în calcul multimodalul. Calea ferată sau short-sea pot oferi costuri mai previzibile pe distanțe lungi.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Concluzie: vizibilitate și planificare"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Suprataxele de combustibil și taxele de drum pot face diferența în profitabilitatea unui transport rutier. Înțelegând calculul, urmărind evoluția prețurilor și anticipând schimbările de taxare, expeditorii își pot gestiona proactiv costurile. Logifie folosește analitica pentru a optimiza rutele și gradul de încărcare și a reduce suprataxele și taxele de mediu.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Surse"
+    },
+    {
+      "type": "citation",
+      "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Explică faptul că suprataxa compensează volatilitatea motorinei; în LTL poate ajunge la 30 %; descrie calculul.",
+      "author": "Zero Down Supply Chain Solutions",
+      "url": "https://zerodownsc.com/2025/09/fuel-surcharges/"
+    },
+    {
+      "type": "citation",
+      "text": "Road transport surcharges and fees (November 2025) (Blue Water Shipping A/S, 2025) - Listează suprataxe pentru noiembrie 2025: 27,40 % în DK, 25 % în SE și 60,30 % pentru fluxuri cu Europa.",
+      "author": "Blue Water Shipping",
+      "url": "https://www.bws.dk/surcharges-and-fees/"
+    },
+    {
+      "type": "citation",
+      "text": "Tolls drive up European road transport prices (Logistics Business, 2025) - Arată că taxele de drum reprezintă ~14 %, până la 23 %; statele UE trec la taxarea pe distanță legată de CO2 (Directiva Eurovignette).",
+      "author": "Logistics Business Magazine",
+      "url": "https://logisticsbusiness.com/transport-management/tolls-drive-up-european-road-transport-prices/"
+    },
+    {
+      "type": "citation",
+      "text": "Germany introduces CO2 component to truck toll (NOSTA Group, 2023) - Anunță introducerea în DE a ~EUR 200/tonă CO2 de la 1/12/2023, aproape dublând taxele.",
+      "author": "NOSTA Group",
+      "url": "https://www.nosta-group.com/en/news/truck-toll-co2/"
+    }
   ],
   "tags": [
     "suprataxa combustibil transport rutier",

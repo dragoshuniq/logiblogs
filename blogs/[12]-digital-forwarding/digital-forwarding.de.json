@@ -1,5 +1,5 @@
 {
-  "id": "digital-freight-forwarding-vs-traditional-forwarding",
+  "id": "digital-freight-forwarding-vs-traditional-forwarding-de",
   "shortId": "digital-vs-traditional",
   "language": "de",
   "isVisible": true,
@@ -161,7 +161,12 @@
     },
     {
       "type": "paragraph",
-      "children": [{ "text": "Wichtige Kriterien:", "bold": false }]
+      "children": [
+        {
+          "text": "Wichtige Kriterien:",
+          "bold": false
+        }
+      ]
     },
     {
       "type": "list",
@@ -264,7 +269,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Fazit" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fazit"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -275,5 +284,8 @@
       ]
     }
   ],
-  "tags": ["digitale spedition", "logistiktechnologie"]
+  "tags": [
+    "digitale spedition",
+    "logistiktechnologie"
+  ]
 }

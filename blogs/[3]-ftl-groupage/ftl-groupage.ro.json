@@ -1,5 +1,5 @@
 {
-  "id": "groupage-vs-full-truck-load-what-s-best-for-your-european-freight",
+  "id": "groupage-vs-full-truck-load-what-s-best-for-your-european-freight-ro",
   "shortId": "groupage-vs-ftl",
   "language": "ro",
   "isVisible": true,
@@ -124,7 +124,11 @@
       "level": 2,
       "text": "Când să alegi groupage și când FTL"
     },
-    { "type": "heading", "level": 3, "text": "Alege FTL când:" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Alege FTL când:"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -155,7 +159,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 3, "text": "Alege groupage când:" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Alege groupage când:"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -186,7 +194,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Opțiuni hibride" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Opțiuni hibride"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -257,7 +269,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Surse" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Surse"
+    },
     {
       "type": "citation",
       "text": "European road freight options explained (Uniserve Group, 2025) - Definește FTL și LTL/groupage: FTL folosește întregul vehicul (timp mai scurt, manipulare redusă); groupage consolidează loturi mici pentru cost mai mic, dar timpi mai lungi.",

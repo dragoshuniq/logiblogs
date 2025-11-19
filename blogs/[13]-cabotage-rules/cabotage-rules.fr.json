@@ -1,5 +1,5 @@
 {
-  "id": "eu-cabotage-rules-and-the-mobility-package-navigating-cooling-off-periods-and-vehicle-return-requirements",
+  "id": "eu-cabotage-rules-and-the-mobility-package-navigating-cooling-off-periods-and-vehicle-return-requirements-fr",
   "shortId": "eu-cabotage-rules",
   "language": "fr",
   "isVisible": true,
@@ -123,7 +123,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 2, "text": "Recommandations" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Recommandations"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -154,7 +158,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Conclusion" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusion"
+    },
     {
       "type": "paragraph",
       "children": [

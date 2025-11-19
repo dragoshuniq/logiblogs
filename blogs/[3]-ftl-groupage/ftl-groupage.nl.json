@@ -1,5 +1,5 @@
 {
-  "id": "groupage-vs-full-truck-load-what-s-best-for-your-european-freight",
+  "id": "groupage-vs-full-truck-load-what-s-best-for-your-european-freight-nl",
   "shortId": "groupage-vs-ftl",
   "language": "nl",
   "isVisible": true,
@@ -124,7 +124,11 @@
       "level": 2,
       "text": "Wanneer groupage en wanneer FTL"
     },
-    { "type": "heading", "level": 3, "text": "Kies FTL wanneer:" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kies FTL wanneer:"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -190,7 +194,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Hybride opties" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hybride opties"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -200,7 +208,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 2, "text": "Factoren om te wegen" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Factoren om te wegen"
+    },
     {
       "type": "list",
       "ordered": true,
@@ -257,7 +269,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Bronnen" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Bronnen"
+    },
     {
       "type": "citation",
       "text": "European road freight options explained (Uniserve Group, 2025) - Definieert FTL en LTL/groupage: FTL gebruikt het volledige voertuig (sneller, minder handling); groupage consolideert kleinere ladingen voor lagere kosten met langere looptijd.",

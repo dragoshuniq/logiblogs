@@ -1,5 +1,5 @@
 {
-  "id": "how-fuel-surcharges-and-tolls-impact-your-freight-costs-in-europe",
+  "id": "how-fuel-surcharges-and-tolls-impact-your-freight-costs-in-europe-nl",
   "shortId": "fuel-surcharges-tolls",
   "language": "nl",
   "isVisible": true,
@@ -68,7 +68,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 2, "text": "Tol en milieukosten" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tol en milieukosten"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -148,7 +152,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 3, "text": "Bronnen" },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Bronnen"
+    },
     {
       "type": "citation",
       "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Legt uit dat brandstoftoeslagen dieselvolatiliteit compenseren; bij LTL tot 30 % en licht berekening toe.",

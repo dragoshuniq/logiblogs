@@ -1,5 +1,5 @@
 {
-  "id": "choose-right-incoterms-european-shipments",
+  "id": "choose-right-incoterms-european-shipments-fi",
   "shortId": "incoterms-road-freight",
   "language": "fi",
   "isVisible": true,
@@ -16,51 +16,272 @@
   "image": "managers-incoterms-orig.png",
   "imageAlt": "Logistiikkapäällikkö tarkastelee näyttöä, joka erittelee Incoterms-vastuut ostajalle ja myyjälle",
   "content": [
-    { "type": "paragraph", "children": [ { "text": "Incoterms (International Commercial Terms) määrittelee ostajan ja myyjän vastuut rajat ylittävässä kaupassa. Ne kertovat, kuka järjestää kuljetuksen, kuka maksaa rahdin ja vakuutuksen ja milloin riski siirtyy viejältä tuojaa kohti.", "bold": false } ] },
-    { "type": "paragraph", "children": [ { "text": "Oikean ehdon valinta on olennaista kustannusten hallinnan, tullauksen ja vastuiden kannalta - erityisesti kun maantiekuljetukset ylittävät useita eurooppalaisia lainkäyttöalueita. Tämä opas vertaa yleisimpiä Incoterms-yhdistelmiä ja näyttää, miten valita logistiikkastrategiaan sopiva vaihtoehto.", "bold": false } ] },
-    { "type": "heading", "level": 2, "text": "Incoterms 2020: pikakatsaus" },
-    { "type": "paragraph", "children": [ { "text": "Vuonna 2020 kansainvälisen kauppakamarin julkaisemissa säännöissä on seitsemän kaikille kuljetusmuodoille soveltuvaa ehtoa - EXW, FCA, CPT, CIP, DAP, DPU ja DDP - sekä neljä merikuljetuksiin. Kukin täsmentää, kuka vastaa vientiluvista, pääkuljetuksesta, vakuutuksesta ja tuontitulleista sekä hetken, jolloin riski siirtyy myyjältä ostajalle (International Trade Administration, 2024).", "bold": false } ] },
-    { "type": "heading", "level": 3, "text": "Miksi Incoterms on tärkeä Euroopassa" },
-    { "type": "paragraph", "children": [ { "text": "Eurooppalaiset lähetykset ylittävät usein useita rajoja sisämarkkinoilla. Vaikka EU-maiden välillä ei ole tulleja, Incoterms määrittää silti, kuka järjestää kuljetuksen, kuka hoitaa transit-ilmoitukset EU:n ulkopuolisten alueiden kohdalla ja kuka vastaa vakuutuksesta. EXW Puolasta Saksaan siirtää lastauksen, vientitullauksen ja riskin ostajalle - epäkäytännöllistä ilman paikallista osaamista (Atradius Collections, 2025).", "bold": false } ] },
-    { "type": "heading", "level": 2, "text": "EXW ja FCA vertailussa" },
-    { "type": "paragraph", "children": [ { "text": "EXW (Ex Works) asettaa myyjälle vähäiset velvoitteet: tavara asetetaan saataville myyjän tiloissa ja ostaja ottaa kaikki kustannukset ja vastuut lastauksesta eteenpäin. Ostaja hoitaa vientitullauksen ja esittää vientiselvityksen arvonlisäveroa varten (Atradius Collections, 2025).", "bold": false } ] },
-    { "type": "paragraph", "children": [ { "text": "FCA (Free Carrier) edellyttää, että myyjä toimittaa tavaran nimettyyn paikkaan - usein huolitsijan terminaaliin - ja tullaa viennin. Myyjä kantaa kustannukset ja riskit luovutukseen saakka; sen jälkeen ostaja ohjaa pääkuljetusta. FCA on käytännöllisempi Euroopan maantiekuljetuksissa, koska myyjä hoitaa lastauksen ja vientiasiakirjat, kun taas ostaja järjestää pääkuljetuksen (Atradius Collections, 2025).", "bold": false } ] },
-    { "type": "image", "src": "exw-fca-orig.png", "alt": "Kaavio vertailee EXW- ja FCA-vastuita esimerkkilähetyksessä Euroopassa", "caption": "Kaavio näyttää, kumpi osapuoli hoitaa lastauksen, vientitullauksen ja pääkuljetuksen EXW:ssä vs FCA:ssa." },
-    { "type": "heading", "level": 2, "text": "DAP ja DDP vertailussa" },
-    { "type": "paragraph", "children": [ { "text": "DAP (Delivered At Place) tarkoittaa, että myyjä kuljettaa tavaran nimettyyn paikkaan ja kantaa kustannukset ja riskit saapumiseen asti, lukuun ottamatta tuontitulleja ja -veroja. Ostaja vastaa tuontitullauksesta ja maksaa mahdolliset tullit tai ALV:n (Atradius Collections, 2025).", "bold": false } ] },
-    { "type": "paragraph", "children": [ { "text": "DDP (Delivered Duty Paid) asettaa suurimman vastuun myyjälle, joka kantaa kaikki kustannukset, riskit, tuontitullit ja -verot toimitukseen saakka ostajan tiloihin. Myyjien on oltava rekisteröityinä ALV:ta ja tullia varten tuontimaassa ja varauduttava tuntemattomiin maksuihin (Atradius Collections, 2025).", "bold": false } ] },
-    { "type": "heading", "level": 3, "text": "Valinta EXW:n ja FCA:n välillä" },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "Käytä EXW:tä, kun ostajalla on vahva logistiikkaverkko myyjän maassa ja hän haluaa täyden hallinnan kuljetuksesta, konsolidoinnista ja vientiprosesseista.", "bold": false } ],
-      [ { "text": "Käytä FCA:ta useimmissa kansainvälisissä maantielähetyksissä, koska myyjä hoitaa vientitullauksen ja lastauksen, pienentäen tulliviiveiden riskiä, kun taas ostaja hoitaa pääkuljetuksen.", "bold": false } ]
-    ] },
-    { "type": "heading", "level": 3, "text": "Valinta DAP:n ja DDP:n välillä" },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "Käytä DAP:ia, kun ostaja haluaa hoitaa tuontitullauksen, hakea ALV-palautusta ja hallita viimeisen osuuden.", "bold": false } ],
-      [ { "text": "Käytä DDP:tä kuluttajatoimituksissa tai kun ostaja vaatii hintaa tullit maksettuina - edellyttäen, että myyjällä on rekisteröinnit ja kumppanit tuontiformaalisuuksiin.", "bold": false } ]
-    ] },
-    { "type": "heading", "level": 2, "text": "Muita harkittavia Incoterms-ehtoja" },
-    { "type": "paragraph", "children": [ { "text": "Vaikka EXW, FCA, DAP ja DDP hallitsevat keskustelua, muut ehdot voivat sopia paremmin tavarasta ja ohjauksen tarpeesta riippuen.", "bold": false } ] },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "CPT (Carriage Paid To): myyjä maksaa rahdin nimettyyn paikkaan, mutta riski siirtyy ostajalle, kun tavara luovutetaan ensimmäiselle kuljettajalle - hyödyllinen paketeille ja yhdistelykuormille.", "bold": false } ],
-      [ { "text": "CIP (Carriage and Insurance Paid To): kuten CPT, mutta myyjän on myös hankittava ostajan vaatimukset täyttävä vakuutus.", "bold": false } ],
-      [ { "text": "DPU (Delivered at Place Unloaded): myyjä toimittaa ja purkaa sovitussa paikassa, mikä voi helpottaa luovutusta eurooppalaisissa cross-dock-pisteissä.", "bold": false } ]
-    ] },
-    { "type": "heading", "level": 2, "text": "Tekijät oikean ehdon valintaan" },
-    { "type": "list", "ordered": true, "items": [
-      [ { "text": "Logistiikan hallinta: kehittyneitä verkkoja omaavat ostajat voivat suosia EXW:tä tai FCA:ta ohjatakseen reititystä ja konsolidointia.", "bold": false } ],
-      [ { "text": "Tullaamisosaaminen: vientiasiakirjoihin tottuneet myyjät valitsevat FCA:n tai DAP:n varmistaakseen oikean käsittelyn.", "bold": false } ],
-      [ { "text": "Riskinsietokyky: määritä, kumpi osapuoli hallitsee parhaiten vakuutuksen, vahingot ja viiveet.", "bold": false } ],
-      [ { "text": "Verovaikutukset: ALV-palautus ja tullit vaihtelevat maittain; valitse strategiaasi sopivat ehdot.", "bold": false } ],
-      [ { "text": "Tavaran luonne: korkea-arvoinen tai herkkä lasti voi vaatia enemmän myyjävastuuta ja vakuutusta (esim. CIP tai DDP).", "bold": false } ],
-      [ { "text": "Ostaja-myyjä -suhde: pitkät kumppanuudet tukevat myyjäystävällisiä ehtoja, uudet suhteet ostajansuojaa.", "bold": false } ]
-    ] },
-    { "type": "heading", "level": 2, "text": "Yhteenveto: sovita ehdot logistiikkastrategiaasi" },
-    { "type": "paragraph", "children": [ { "text": "Oikeiden Incoterms-ehtojen valinta Euroopan maantiekuljetuksiin on tasapainoilua hallinnan, kustannusten ja riskin välillä. EXW antaa ostajalle suurimman vastuun, mutta FCA sopii usein paremmin rajat ylittäviin kuljetuksiin, koska myyjä hoitaa vientiformaalisuudet. DAP ja DDP tarjoavat toimitusratkaisuja - DAP jättää tuontitullit ostajalle, DDP toimittaa ovelta ovelle myyjän riskillä. Arvioi logistiikkakyvykkyydet, tullaamisosaaminen ja tavoitteet ennen ehtojen sopimista ja tukeudu luotettavaan huolitsijaan dokumentaation ja toteutuksen varmistamiseksi.", "bold": false } ] },
-    { "type": "heading", "level": 3, "text": "Lähteet" },
-    { "type": "citation", "text": "Know Your Incoterms (International Trade Administration, 2024) - esittelee Incoterms 2020 -säännöt ja ostajan sekä myyjän vastuut kaikissa kuljetusmuodoissa.", "author": "International Trade Administration", "url": "https://www.trade.gov/know-your-incoterms" },
-    { "type": "citation", "text": "Incoterms: meaning, rules and responsibilities (Atradius Collections, 2025) - selittää, miten EXW ja FCA jakavat kustannukset, lastauksen ja vientimuodollisuudet.", "author": "Atradius Collections", "url": "https://atradiuscollections.com/knowledge/incoterms-explained.html" },
-    { "type": "citation", "text": "Incoterms: meaning, rules and responsibilities (Atradius Collections, 2025) - kuvaa DAP:n ja DDP:n vastuuta, mukaan lukien kuka maksaa tuontitullit ja verot.", "author": "Atradius Collections", "url": "https://atradiuscollections.com/knowledge/incoterms-explained.html" }
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Incoterms (International Commercial Terms) määrittelee ostajan ja myyjän vastuut rajat ylittävässä kaupassa. Ne kertovat, kuka järjestää kuljetuksen, kuka maksaa rahdin ja vakuutuksen ja milloin riski siirtyy viejältä tuojaa kohti.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Oikean ehdon valinta on olennaista kustannusten hallinnan, tullauksen ja vastuiden kannalta - erityisesti kun maantiekuljetukset ylittävät useita eurooppalaisia lainkäyttöalueita. Tämä opas vertaa yleisimpiä Incoterms-yhdistelmiä ja näyttää, miten valita logistiikkastrategiaan sopiva vaihtoehto.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Incoterms 2020: pikakatsaus"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Vuonna 2020 kansainvälisen kauppakamarin julkaisemissa säännöissä on seitsemän kaikille kuljetusmuodoille soveltuvaa ehtoa - EXW, FCA, CPT, CIP, DAP, DPU ja DDP - sekä neljä merikuljetuksiin. Kukin täsmentää, kuka vastaa vientiluvista, pääkuljetuksesta, vakuutuksesta ja tuontitulleista sekä hetken, jolloin riski siirtyy myyjältä ostajalle (International Trade Administration, 2024).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Miksi Incoterms on tärkeä Euroopassa"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Eurooppalaiset lähetykset ylittävät usein useita rajoja sisämarkkinoilla. Vaikka EU-maiden välillä ei ole tulleja, Incoterms määrittää silti, kuka järjestää kuljetuksen, kuka hoitaa transit-ilmoitukset EU:n ulkopuolisten alueiden kohdalla ja kuka vastaa vakuutuksesta. EXW Puolasta Saksaan siirtää lastauksen, vientitullauksen ja riskin ostajalle - epäkäytännöllistä ilman paikallista osaamista (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "EXW ja FCA vertailussa"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "EXW (Ex Works) asettaa myyjälle vähäiset velvoitteet: tavara asetetaan saataville myyjän tiloissa ja ostaja ottaa kaikki kustannukset ja vastuut lastauksesta eteenpäin. Ostaja hoitaa vientitullauksen ja esittää vientiselvityksen arvonlisäveroa varten (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "FCA (Free Carrier) edellyttää, että myyjä toimittaa tavaran nimettyyn paikkaan - usein huolitsijan terminaaliin - ja tullaa viennin. Myyjä kantaa kustannukset ja riskit luovutukseen saakka; sen jälkeen ostaja ohjaa pääkuljetusta. FCA on käytännöllisempi Euroopan maantiekuljetuksissa, koska myyjä hoitaa lastauksen ja vientiasiakirjat, kun taas ostaja järjestää pääkuljetuksen (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "exw-fca-orig.png",
+      "alt": "Kaavio vertailee EXW- ja FCA-vastuita esimerkkilähetyksessä Euroopassa",
+      "caption": "Kaavio näyttää, kumpi osapuoli hoitaa lastauksen, vientitullauksen ja pääkuljetuksen EXW:ssä vs FCA:ssa."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "DAP ja DDP vertailussa"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "DAP (Delivered At Place) tarkoittaa, että myyjä kuljettaa tavaran nimettyyn paikkaan ja kantaa kustannukset ja riskit saapumiseen asti, lukuun ottamatta tuontitulleja ja -veroja. Ostaja vastaa tuontitullauksesta ja maksaa mahdolliset tullit tai ALV:n (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "DDP (Delivered Duty Paid) asettaa suurimman vastuun myyjälle, joka kantaa kaikki kustannukset, riskit, tuontitullit ja -verot toimitukseen saakka ostajan tiloihin. Myyjien on oltava rekisteröityinä ALV:ta ja tullia varten tuontimaassa ja varauduttava tuntemattomiin maksuihin (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Valinta EXW:n ja FCA:n välillä"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Käytä EXW:tä, kun ostajalla on vahva logistiikkaverkko myyjän maassa ja hän haluaa täyden hallinnan kuljetuksesta, konsolidoinnista ja vientiprosesseista.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Käytä FCA:ta useimmissa kansainvälisissä maantielähetyksissä, koska myyjä hoitaa vientitullauksen ja lastauksen, pienentäen tulliviiveiden riskiä, kun taas ostaja hoitaa pääkuljetuksen.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Valinta DAP:n ja DDP:n välillä"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Käytä DAP:ia, kun ostaja haluaa hoitaa tuontitullauksen, hakea ALV-palautusta ja hallita viimeisen osuuden.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Käytä DDP:tä kuluttajatoimituksissa tai kun ostaja vaatii hintaa tullit maksettuina - edellyttäen, että myyjällä on rekisteröinnit ja kumppanit tuontiformaalisuuksiin.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Muita harkittavia Incoterms-ehtoja"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Vaikka EXW, FCA, DAP ja DDP hallitsevat keskustelua, muut ehdot voivat sopia paremmin tavarasta ja ohjauksen tarpeesta riippuen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "CPT (Carriage Paid To): myyjä maksaa rahdin nimettyyn paikkaan, mutta riski siirtyy ostajalle, kun tavara luovutetaan ensimmäiselle kuljettajalle - hyödyllinen paketeille ja yhdistelykuormille.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "CIP (Carriage and Insurance Paid To): kuten CPT, mutta myyjän on myös hankittava ostajan vaatimukset täyttävä vakuutus.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "DPU (Delivered at Place Unloaded): myyjä toimittaa ja purkaa sovitussa paikassa, mikä voi helpottaa luovutusta eurooppalaisissa cross-dock-pisteissä.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tekijät oikean ehdon valintaan"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Logistiikan hallinta: kehittyneitä verkkoja omaavat ostajat voivat suosia EXW:tä tai FCA:ta ohjatakseen reititystä ja konsolidointia.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tullaamisosaaminen: vientiasiakirjoihin tottuneet myyjät valitsevat FCA:n tai DAP:n varmistaakseen oikean käsittelyn.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Riskinsietokyky: määritä, kumpi osapuoli hallitsee parhaiten vakuutuksen, vahingot ja viiveet.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Verovaikutukset: ALV-palautus ja tullit vaihtelevat maittain; valitse strategiaasi sopivat ehdot.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tavaran luonne: korkea-arvoinen tai herkkä lasti voi vaatia enemmän myyjävastuuta ja vakuutusta (esim. CIP tai DDP).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ostaja-myyjä -suhde: pitkät kumppanuudet tukevat myyjäystävällisiä ehtoja, uudet suhteet ostajansuojaa.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Yhteenveto: sovita ehdot logistiikkastrategiaasi"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Oikeiden Incoterms-ehtojen valinta Euroopan maantiekuljetuksiin on tasapainoilua hallinnan, kustannusten ja riskin välillä. EXW antaa ostajalle suurimman vastuun, mutta FCA sopii usein paremmin rajat ylittäviin kuljetuksiin, koska myyjä hoitaa vientiformaalisuudet. DAP ja DDP tarjoavat toimitusratkaisuja - DAP jättää tuontitullit ostajalle, DDP toimittaa ovelta ovelle myyjän riskillä. Arvioi logistiikkakyvykkyydet, tullaamisosaaminen ja tavoitteet ennen ehtojen sopimista ja tukeudu luotettavaan huolitsijaan dokumentaation ja toteutuksen varmistamiseksi.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lähteet"
+    },
+    {
+      "type": "citation",
+      "text": "Know Your Incoterms (International Trade Administration, 2024) - esittelee Incoterms 2020 -säännöt ja ostajan sekä myyjän vastuut kaikissa kuljetusmuodoissa.",
+      "author": "International Trade Administration",
+      "url": "https://www.trade.gov/know-your-incoterms"
+    },
+    {
+      "type": "citation",
+      "text": "Incoterms: meaning, rules and responsibilities (Atradius Collections, 2025) - selittää, miten EXW ja FCA jakavat kustannukset, lastauksen ja vientimuodollisuudet.",
+      "author": "Atradius Collections",
+      "url": "https://atradiuscollections.com/knowledge/incoterms-explained.html"
+    },
+    {
+      "type": "citation",
+      "text": "Incoterms: meaning, rules and responsibilities (Atradius Collections, 2025) - kuvaa DAP:n ja DDP:n vastuuta, mukaan lukien kuka maksaa tuontitullit ja verot.",
+      "author": "Atradius Collections",
+      "url": "https://atradiuscollections.com/knowledge/incoterms-explained.html"
+    }
   ],
   "tags": [
     "incoterms",

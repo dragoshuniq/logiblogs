@@ -1,5 +1,5 @@
 {
-  "id": "choose-right-incoterms-european-shipments",
+  "id": "choose-right-incoterms-european-shipments-it",
   "shortId": "incoterms-road-freight",
   "language": "it",
   "isVisible": true,
@@ -16,51 +16,272 @@
   "image": "managers-incoterms-orig.png",
   "imageAlt": "Responsabile logistico consulta uno schermo che dettaglia le responsabilità Incoterms di acquirenti e venditori",
   "content": [
-    { "type": "paragraph", "children": [ { "text": "Gli Incoterms (International Commercial Terms) definiscono le responsabilità di acquirenti e venditori nel commercio transfrontaliero. Indicano chi organizza il trasporto, chi paga nolo e assicurazione e quando il rischio passa dall'esportatore all'importatore.", "bold": false } ] },
-    { "type": "paragraph", "children": [ { "text": "Scegliere la clausola corretta è essenziale per controllare costi, sdoganamento e responsabilità - soprattutto quando il trasporto su strada attraversa più giurisdizioni europee. Questa guida confronta le combinazioni di Incoterms più comuni e mostra come selezionare l'opzione che si allinea alla tua strategia logistica.", "bold": false } ] },
-    { "type": "heading", "level": 2, "text": "Incoterms 2020: panoramica rapida" },
-    { "type": "paragraph", "children": [ { "text": "Le regole 2020 pubblicate dalla Camera di Commercio Internazionale elencano sette clausole applicabili a ogni modalità - EXW, FCA, CPT, CIP, DAP, DPU e DDP - più quattro marittime. Ciascuna chiarisce chi è responsabile per licenze di esportazione, trasporto principale, assicurazione e dazi d'importazione e quando esattamente il rischio passa dal venditore all'acquirente (International Trade Administration, 2024).", "bold": false } ] },
-    { "type": "heading", "level": 3, "text": "Perché gli Incoterms contano in Europa" },
-    { "type": "paragraph", "children": [ { "text": "Le spedizioni europee attraversano spesso più frontiere nel mercato unico. Sebbene tra i membri UE non vi siano dazi, gli Incoterms determinano chi organizza il trasporto, chi gestisce le dichiarazioni di transito quando si varcano territori extra UE e chi è responsabile dell'assicurazione. Scegliere EXW per una spedizione dalla Polonia alla Germania trasferisce carico, esportazione e rischio all'acquirente - soluzione poco pratica se manca esperienza locale (Atradius Collections, 2025).", "bold": false } ] },
-    { "type": "heading", "level": 2, "text": "Confronto tra EXW e FCA" },
-    { "type": "paragraph", "children": [ { "text": "EXW (Ex Works) impone obblighi minimi al venditore: la merce è resa disponibile presso i suoi locali e l'acquirente assume tutti i costi e le responsabilità dal carico in poi. L'acquirente gestisce lo sdoganamento all'esportazione e deve fornire prova di esportazione ai fini IVA (Atradius Collections, 2025).", "bold": false } ] },
-    { "type": "paragraph", "children": [ { "text": "FCA (Free Carrier) richiede che il venditore consegni la merce in un luogo concordato - spesso il terminal di uno spedizioniere - e la sdogani all'esportazione. Il venditore sostiene costi e rischi fino alla consegna; poi l'acquirente controlla il trasporto principale. FCA è più pratico per il trasporto su strada europeo poiché il venditore gestisce carico e pratiche di export, mentre l'acquirente organizza la trazione principale (Atradius Collections, 2025).", "bold": false } ] },
-    { "type": "image", "src": "exw-fca-orig.png", "alt": "Grafico che confronta le responsabilità EXW e FCA per una spedizione europea di esempio", "caption": "Il diagramma mostra quale parte gestisce carico, sdoganamento export e trasporto principale con EXW rispetto a FCA." },
-    { "type": "heading", "level": 2, "text": "Confronto tra DAP e DDP" },
-    { "type": "paragraph", "children": [ { "text": "DAP (Delivered At Place) significa che il venditore trasporta la merce fino a una destinazione concordata e assume costi e rischi fino all'arrivo, esclusi dazi e tasse di importazione. L'acquirente è responsabile dello sdoganamento all'import e paga eventuali dazi o IVA (Atradius Collections, 2025).", "bold": false } ] },
-    { "type": "paragraph", "children": [ { "text": "DDP (Delivered Duty Paid) attribuisce la massima responsabilità al venditore, che sostiene tutti i costi, rischi, dazi e tasse di importazione fino alla consegna presso la sede dell'acquirente. I venditori devono essere registrati per IVA e dogane nel paese importatore e prevedere dazi incerti (Atradius Collections, 2025).", "bold": false } ] },
-    { "type": "heading", "level": 3, "text": "Scegliere tra EXW e FCA" },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "Usa EXW quando l'acquirente ha una rete logistica forte nel paese del venditore e desidera il pieno controllo su trasporto, consolidamento e procedure di export.", "bold": false } ],
-      [ { "text": "Usa FCA per la maggior parte delle spedizioni stradali internazionali poiché il venditore gestisce export e carico, riducendo il rischio di ritardi doganali, mentre l'acquirente gestisce il trasporto principale.", "bold": false } ]
-    ] },
-    { "type": "heading", "level": 3, "text": "Scegliere tra DAP e DDP" },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "Usa DAP quando l'acquirente vuole gestire lo sdoganamento all'import, recuperare l'IVA e controllare l'ultimo miglio.", "bold": false } ],
-      [ { "text": "Usa DDP per consegne al consumatore o quando l'acquirente richiede un prezzo reso sdoganato - a condizione che il venditore disponga di registrazioni e partner per le formalità d'import.", "bold": false } ]
-    ] },
-    { "type": "heading", "level": 2, "text": "Altri Incoterms da considerare" },
-    { "type": "paragraph", "children": [ { "text": "Sebbene EXW, FCA, DAP e DDP dominino il trasporto stradale europeo, altre clausole possono essere più adatte in base al carico e al livello di controllo richiesto.", "bold": false } ] },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "CPT (Carriage Paid To): il venditore paga il nolo fino al luogo concordato, ma il rischio passa all'acquirente alla consegna al primo vettore - utile per pacchi e groupage.", "bold": false } ],
-      [ { "text": "CIP (Carriage and Insurance Paid To): simile a CPT, ma il venditore deve anche fornire un'assicurazione conforme ai requisiti dell'acquirente.", "bold": false } ],
-      [ { "text": "DPU (Delivered at Place Unloaded): il venditore consegna e scarica nel luogo concordato, semplificando il passaggio in hub cross-dock europei.", "bold": false } ]
-    ] },
-    { "type": "heading", "level": 2, "text": "Fattori per scegliere la clausola corretta" },
-    { "type": "list", "ordered": true, "items": [
-      [ { "text": "Controllo logistico: acquirenti con reti evolute possono preferire EXW o FCA per dirigere instradamento e consolidamento.", "bold": false } ],
-      [ { "text": "Competenza doganale: venditori esperti in documenti di export possono scegliere FCA o DAP per garantire uno sdoganamento corretto.", "bold": false } ],
-      [ { "text": "Tolleranza al rischio: definire quale parte è meglio posizionata per gestire assicurazione, danni e ritardi.", "bold": false } ],
-      [ { "text": "Implicazioni fiscali: regole di rimborso IVA e dazi variano per paese; selezionare termini allineati alla strategia fiscale.", "bold": false } ],
-      [ { "text": "Natura della merce: beni di alto valore o fragili possono richiedere maggior responsabilità del venditore e assicurazione (es. CIP o DDP).", "bold": false } ],
-      [ { "text": "Relazione acquirente-venditore: rapporti di lungo periodo favoriscono clausole pro-venditore, relazioni nuove favoriscono la protezione dell'acquirente.", "bold": false } ]
-    ] },
-    { "type": "heading", "level": 2, "text": "Conclusione: allinea i termini alla tua strategia logistica" },
-    { "type": "paragraph", "children": [ { "text": "Scegliere gli Incoterms giusti per il trasporto stradale europeo significa bilanciare controllo, costo e rischio. EXW attribuisce massima responsabilità all'acquirente, ma FCA spesso si adatta meglio alle spedizioni transfrontaliere poiché il venditore cura le formalità di export. DAP e DDP offrono soluzioni consegnate - DAP lascia i dazi di import a carico dell'acquirente, mentre DDP fornisce servizio porta a porta a rischio del venditore. Valuta capacità logistiche, competenza doganale e obiettivi commerciali prima di accordare i termini e affidati a uno spedizioniere di fiducia per documentazione ed esecuzione impeccabili.", "bold": false } ] },
-    { "type": "heading", "level": 3, "text": "Fonti" },
-    { "type": "citation", "text": "Know Your Incoterms (International Trade Administration, 2024) - illustra le regole Incoterms 2020 e le responsabilità di acquirenti e venditori in tutti i modi di trasporto.", "author": "International Trade Administration", "url": "https://www.trade.gov/know-your-incoterms" },
-    { "type": "citation", "text": "Incoterms: meaning, rules and responsibilities (Atradius Collections, 2025) - spiega come EXW e FCA ripartiscono costi, carico e formalità di export.", "author": "Atradius Collections", "url": "https://atradiuscollections.com/knowledge/incoterms-explained.html" },
-    { "type": "citation", "text": "Incoterms: meaning, rules and responsibilities (Atradius Collections, 2025) - dettaglia gli obblighi in DAP e DDP, incluso chi paga dazi e imposte di importazione.", "author": "Atradius Collections", "url": "https://atradiuscollections.com/knowledge/incoterms-explained.html" }
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Gli Incoterms (International Commercial Terms) definiscono le responsabilità di acquirenti e venditori nel commercio transfrontaliero. Indicano chi organizza il trasporto, chi paga nolo e assicurazione e quando il rischio passa dall'esportatore all'importatore.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Scegliere la clausola corretta è essenziale per controllare costi, sdoganamento e responsabilità - soprattutto quando il trasporto su strada attraversa più giurisdizioni europee. Questa guida confronta le combinazioni di Incoterms più comuni e mostra come selezionare l'opzione che si allinea alla tua strategia logistica.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Incoterms 2020: panoramica rapida"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Le regole 2020 pubblicate dalla Camera di Commercio Internazionale elencano sette clausole applicabili a ogni modalità - EXW, FCA, CPT, CIP, DAP, DPU e DDP - più quattro marittime. Ciascuna chiarisce chi è responsabile per licenze di esportazione, trasporto principale, assicurazione e dazi d'importazione e quando esattamente il rischio passa dal venditore all'acquirente (International Trade Administration, 2024).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Perché gli Incoterms contano in Europa"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Le spedizioni europee attraversano spesso più frontiere nel mercato unico. Sebbene tra i membri UE non vi siano dazi, gli Incoterms determinano chi organizza il trasporto, chi gestisce le dichiarazioni di transito quando si varcano territori extra UE e chi è responsabile dell'assicurazione. Scegliere EXW per una spedizione dalla Polonia alla Germania trasferisce carico, esportazione e rischio all'acquirente - soluzione poco pratica se manca esperienza locale (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Confronto tra EXW e FCA"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "EXW (Ex Works) impone obblighi minimi al venditore: la merce è resa disponibile presso i suoi locali e l'acquirente assume tutti i costi e le responsabilità dal carico in poi. L'acquirente gestisce lo sdoganamento all'esportazione e deve fornire prova di esportazione ai fini IVA (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "FCA (Free Carrier) richiede che il venditore consegni la merce in un luogo concordato - spesso il terminal di uno spedizioniere - e la sdogani all'esportazione. Il venditore sostiene costi e rischi fino alla consegna; poi l'acquirente controlla il trasporto principale. FCA è più pratico per il trasporto su strada europeo poiché il venditore gestisce carico e pratiche di export, mentre l'acquirente organizza la trazione principale (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "exw-fca-orig.png",
+      "alt": "Grafico che confronta le responsabilità EXW e FCA per una spedizione europea di esempio",
+      "caption": "Il diagramma mostra quale parte gestisce carico, sdoganamento export e trasporto principale con EXW rispetto a FCA."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Confronto tra DAP e DDP"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "DAP (Delivered At Place) significa che il venditore trasporta la merce fino a una destinazione concordata e assume costi e rischi fino all'arrivo, esclusi dazi e tasse di importazione. L'acquirente è responsabile dello sdoganamento all'import e paga eventuali dazi o IVA (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "DDP (Delivered Duty Paid) attribuisce la massima responsabilità al venditore, che sostiene tutti i costi, rischi, dazi e tasse di importazione fino alla consegna presso la sede dell'acquirente. I venditori devono essere registrati per IVA e dogane nel paese importatore e prevedere dazi incerti (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Scegliere tra EXW e FCA"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Usa EXW quando l'acquirente ha una rete logistica forte nel paese del venditore e desidera il pieno controllo su trasporto, consolidamento e procedure di export.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Usa FCA per la maggior parte delle spedizioni stradali internazionali poiché il venditore gestisce export e carico, riducendo il rischio di ritardi doganali, mentre l'acquirente gestisce il trasporto principale.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Scegliere tra DAP e DDP"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Usa DAP quando l'acquirente vuole gestire lo sdoganamento all'import, recuperare l'IVA e controllare l'ultimo miglio.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Usa DDP per consegne al consumatore o quando l'acquirente richiede un prezzo reso sdoganato - a condizione che il venditore disponga di registrazioni e partner per le formalità d'import.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Altri Incoterms da considerare"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sebbene EXW, FCA, DAP e DDP dominino il trasporto stradale europeo, altre clausole possono essere più adatte in base al carico e al livello di controllo richiesto.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "CPT (Carriage Paid To): il venditore paga il nolo fino al luogo concordato, ma il rischio passa all'acquirente alla consegna al primo vettore - utile per pacchi e groupage.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "CIP (Carriage and Insurance Paid To): simile a CPT, ma il venditore deve anche fornire un'assicurazione conforme ai requisiti dell'acquirente.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "DPU (Delivered at Place Unloaded): il venditore consegna e scarica nel luogo concordato, semplificando il passaggio in hub cross-dock europei.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fattori per scegliere la clausola corretta"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Controllo logistico: acquirenti con reti evolute possono preferire EXW o FCA per dirigere instradamento e consolidamento.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Competenza doganale: venditori esperti in documenti di export possono scegliere FCA o DAP per garantire uno sdoganamento corretto.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tolleranza al rischio: definire quale parte è meglio posizionata per gestire assicurazione, danni e ritardi.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Implicazioni fiscali: regole di rimborso IVA e dazi variano per paese; selezionare termini allineati alla strategia fiscale.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Natura della merce: beni di alto valore o fragili possono richiedere maggior responsabilità del venditore e assicurazione (es. CIP o DDP).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Relazione acquirente-venditore: rapporti di lungo periodo favoriscono clausole pro-venditore, relazioni nuove favoriscono la protezione dell'acquirente.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusione: allinea i termini alla tua strategia logistica"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Scegliere gli Incoterms giusti per il trasporto stradale europeo significa bilanciare controllo, costo e rischio. EXW attribuisce massima responsabilità all'acquirente, ma FCA spesso si adatta meglio alle spedizioni transfrontaliere poiché il venditore cura le formalità di export. DAP e DDP offrono soluzioni consegnate - DAP lascia i dazi di import a carico dell'acquirente, mentre DDP fornisce servizio porta a porta a rischio del venditore. Valuta capacità logistiche, competenza doganale e obiettivi commerciali prima di accordare i termini e affidati a uno spedizioniere di fiducia per documentazione ed esecuzione impeccabili.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fonti"
+    },
+    {
+      "type": "citation",
+      "text": "Know Your Incoterms (International Trade Administration, 2024) - illustra le regole Incoterms 2020 e le responsabilità di acquirenti e venditori in tutti i modi di trasporto.",
+      "author": "International Trade Administration",
+      "url": "https://www.trade.gov/know-your-incoterms"
+    },
+    {
+      "type": "citation",
+      "text": "Incoterms: meaning, rules and responsibilities (Atradius Collections, 2025) - spiega come EXW e FCA ripartiscono costi, carico e formalità di export.",
+      "author": "Atradius Collections",
+      "url": "https://atradiuscollections.com/knowledge/incoterms-explained.html"
+    },
+    {
+      "type": "citation",
+      "text": "Incoterms: meaning, rules and responsibilities (Atradius Collections, 2025) - dettaglia gli obblighi in DAP e DDP, incluso chi paga dazi e imposte di importazione.",
+      "author": "Atradius Collections",
+      "url": "https://atradiuscollections.com/knowledge/incoterms-explained.html"
+    }
   ],
   "tags": [
     "incoterms",
@@ -70,4 +291,3 @@
     "logistica export"
   ]
 }
-

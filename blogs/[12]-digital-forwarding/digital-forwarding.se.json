@@ -1,5 +1,5 @@
 {
-  "id": "digital-freight-forwarding-vs-traditional-forwarding",
+  "id": "digital-freight-forwarding-vs-traditional-forwarding-se",
   "shortId": "digital-vs-traditional",
   "language": "se",
   "isVisible": true,
@@ -81,7 +81,12 @@
       "type": "list",
       "ordered": false,
       "items": [
-        [{ "text": "Direktofferter och bokning", "bold": false }],
+        [
+          {
+            "text": "Direktofferter och bokning",
+            "bold": false
+          }
+        ],
         [
           {
             "text": "Sikt i realtid: IoT och transportörintegration för kartspårning, ETA och avvikelsevarningar",
@@ -94,7 +99,12 @@
             "bold": false
           }
         ],
-        [{ "text": "CO2-beräkning per sändning", "bold": false }],
+        [
+          {
+            "text": "CO2-beräkning per sändning",
+            "bold": false
+          }
+        ],
         [
           {
             "text": "Öppna API:er för TMS/WMS-integration",
@@ -103,7 +113,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Välj rätt speditör" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Välj rätt speditör"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -122,7 +136,11 @@
         }
       ]
     },
-    { "type": "heading", "level": 2, "text": "Trender" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Trender"
+    },
     {
       "type": "list",
       "ordered": false,
@@ -159,7 +177,11 @@
         ]
       ]
     },
-    { "type": "heading", "level": 2, "text": "Slutsats" },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Slutsats"
+    },
     {
       "type": "paragraph",
       "children": [
@@ -170,5 +192,8 @@
       ]
     }
   ],
-  "tags": ["digital spedition", "logistikteknik"]
+  "tags": [
+    "digital spedition",
+    "logistikteknik"
+  ]
 }

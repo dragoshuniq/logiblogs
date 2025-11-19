@@ -1,5 +1,5 @@
 {
-  "id": "choose-right-incoterms-european-shipments",
+  "id": "choose-right-incoterms-european-shipments-nl",
   "shortId": "incoterms-road-freight",
   "language": "nl",
   "isVisible": true,
@@ -16,51 +16,272 @@
   "image": "managers-incoterms-orig.png",
   "imageAlt": "Logistiek manager bekijkt een scherm dat Incoterms-verantwoordelijkheden van koper en verkoper uitsplitst",
   "content": [
-    { "type": "paragraph", "children": [ { "text": "Incoterms (International Commercial Terms) definiëren de verantwoordelijkheden van kopers en verkopers in grensoverschrijdende handel. Ze leggen vast wie het transport regelt, wie vracht en verzekering betaalt en wanneer het risico van exporteur naar importeur overgaat.", "bold": false } ] },
-    { "type": "paragraph", "children": [ { "text": "De juiste regel is cruciaal voor kostenbeheersing, douaneafhandeling en aansprakelijkheden - zeker als wegvervoer meerdere Europese rechtsgebieden doorkruist. Deze gids vergelijkt de meest gebruikte Incoterms-combinaties en laat zien hoe je de optie kiest die bij je logistieke strategie past.", "bold": false } ] },
-    { "type": "heading", "level": 2, "text": "Incoterms 2020: snel overzicht" },
-    { "type": "paragraph", "children": [ { "text": "De nieuwste regels van 2020, gepubliceerd door de Internationale Kamer van Koophandel, vermelden zeven regels voor alle modaliteiten - EXW, FCA, CPT, CIP, DAP, DPU en DDP - plus vier voor zeevracht. Elke regel verduidelijkt wie verantwoordelijk is voor exportvergunningen, hoofdvervoer, verzekering en invoerrechten en precies wanneer het risico van verkoper naar koper overgaat (International Trade Administration, 2024).", "bold": false } ] },
-    { "type": "heading", "level": 3, "text": "Waarom Incoterms ertoe doen in Europa" },
-    { "type": "paragraph", "children": [ { "text": "Europese zendingen passeren vaak meerdere grenzen binnen de interne markt. Hoewel tussen EU-leden geen douanerechten gelden, bepalen Incoterms toch wie het transport regelt, wie transitdeclaraties verzorgt bij het kruisen van niet-EU-gebieden en wie verantwoordelijk is voor de verzekering. EXW voor een zending van Polen naar Duitsland schuift laden, exportafhandeling en risico naar de koper - onpraktisch als lokale expertise ontbreekt (Atradius Collections, 2025).", "bold": false } ] },
-    { "type": "heading", "level": 2, "text": "EXW en FCA vergeleken" },
-    { "type": "paragraph", "children": [ { "text": "EXW (Ex Works) legt minimale verplichtingen op aan de verkoper: goederen worden beschikbaar gesteld op het terrein van de verkoper en de koper neemt vanaf het laden alle kosten en verantwoordelijkheden over. De koper verzorgt de exportdouane en moet een exportbewijs leveren voor btw-doeleinden (Atradius Collections, 2025).", "bold": false } ] },
-    { "type": "paragraph", "children": [ { "text": "FCA (Free Carrier) vereist dat de verkoper levert op een aangewezen plaats - vaak het terminal van een expediteur - en de export afhandelt. De verkoper draagt kosten en risico's tot aan de overdracht; daarna regelt de koper het hoofdvervoer. FCA is in het Europese wegvervoer praktischer omdat de verkoper laden en exportpapieren regelt, terwijl de koper de hoofdtransportfase organiseert (Atradius Collections, 2025).", "bold": false } ] },
-    { "type": "image", "src": "exw-fca-orig.png", "alt": "Grafiek die verantwoordelijkheden onder EXW en FCA vergelijkt voor een Europese voorbeeldzending", "caption": "Diagram toont welke partij laden, exportafhandeling en hoofdvervoer verzorgt onder EXW versus FCA." },
-    { "type": "heading", "level": 2, "text": "DAP en DDP vergeleken" },
-    { "type": "paragraph", "children": [ { "text": "DAP (Delivered At Place) betekent dat de verkoper de goederen naar een benoemde bestemming vervoert en tot aankomst kosten en risico's draagt, exclusief invoerrechten en -belastingen. De koper is verantwoordelijk voor invoerafhandeling en betaalt eventuele rechten of btw (Atradius Collections, 2025).", "bold": false } ] },
-    { "type": "paragraph", "children": [ { "text": "DDP (Delivered Duty Paid) legt maximale verantwoordelijkheid bij de verkoper, die alle kosten, risico's, invoerrechten en -belastingen draagt tot levering bij de koper. Verkopers moeten voor btw en douane zijn geregistreerd in het invoerland en rekening houden met onbekende rechten (Atradius Collections, 2025).", "bold": false } ] },
-    { "type": "heading", "level": 3, "text": "Kiezen tussen EXW en FCA" },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "Gebruik EXW wanneer de koper in het land van de verkoper een sterk logistiek netwerk heeft en volledige regie wil over transport, consolidatie en exportprocedures.", "bold": false } ],
-      [ { "text": "Gebruik FCA voor de meeste internationale wegzendingen, omdat de verkoper exportafhandeling en laden verzorgt en douanerisico's verlaagt, terwijl de koper het hoofdvervoer regelt.", "bold": false } ]
-    ] },
-    { "type": "heading", "level": 3, "text": "Kiezen tussen DAP en DDP" },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "Kies DAP wanneer de koper de invoerafhandeling wil sturen, btw wil terugvorderen en de last mile wil beheersen.", "bold": false } ],
-      [ { "text": "Kies DDP voor consumentenleveringen of wanneer de koper een prijs franco inclusief rechten verlangt - mits de verkoper geregistreerd is en partners heeft voor importformaliteiten.", "bold": false } ]
-    ] },
-    { "type": "heading", "level": 2, "text": "Andere relevante Incoterms" },
-    { "type": "paragraph", "children": [ { "text": "Hoewel EXW, FCA, DAP en DDP de discussie domineren, kunnen andere regels beter passen afhankelijk van lading en gewenste controle.", "bold": false } ] },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "CPT (Carriage Paid To): de verkoper betaalt vracht tot de benoemde bestemming, maar het risico gaat over op de koper bij overdracht aan de eerste vervoerder - nuttig voor pakketten en groupage.", "bold": false } ],
-      [ { "text": "CIP (Carriage and Insurance Paid To): vergelijkbaar met CPT, maar de verkoper moet ook verzekering leveren die aan de eisen van de koper voldoet.", "bold": false } ],
-      [ { "text": "DPU (Delivered at Place Unloaded): de verkoper levert en lost op de afgesproken plaats, wat de overdracht bij Europese cross-docks kan vereenvoudigen.", "bold": false } ]
-    ] },
-    { "type": "heading", "level": 2, "text": "Factoren voor de juiste keuze" },
-    { "type": "list", "ordered": true, "items": [
-      [ { "text": "Regie over logistiek: kopers met geavanceerde netwerken prefereren EXW of FCA om routing en consolidatie te sturen.", "bold": false } ],
-      [ { "text": "Douanekennis: verkopers met exportervaring kiezen eerder FCA of DAP om zorgvuldige afhandeling te borgen.", "bold": false } ],
-      [ { "text": "Risicotolerantie: bepaal welke partij verzekering, schade- en vertragingrisico's het best beheert.", "bold": false } ],
-      [ { "text": "Fiscale impact: btw-teruggaaf en rechten verschillen per land; kies termen die aansluiten op je fiscale strategie.", "bold": false } ],
-      [ { "text": "Aard van de goederen: hoogwaardige of breekbare lading vereist vaak meer verkopersverantwoordelijkheid en verzekering (bijv. CIP of DDP).", "bold": false } ],
-      [ { "text": "Relatie koper-verkoper: langdurige relaties ondersteunen verkopersvriendelijke termen, nieuwe relaties eerder kopersbescherming.", "bold": false } ]
-    ] },
-    { "type": "heading", "level": 2, "text": "Conclusie: align termen met je logistieke strategie" },
-    { "type": "paragraph", "children": [ { "text": "De juiste Incoterms voor Europees wegvervoer kiezen is een balans tussen regie, kosten en risico. EXW geeft de koper maximale verantwoordelijkheid, maar FCA past vaak beter bij grensoverschrijdende zendingen omdat de verkoper exportformaliteiten regelt. DAP en DDP bieden afleveroplossingen - DAP laat invoerrechten bij de koper, DDP levert deur-tot-deur voor risico van de verkoper. Beoordeel logistieke capaciteiten, douanekennis en commerciële doelen voordat je termen vastlegt en werk met een betrouwbare expediteur voor strakke documentatie en uitvoering.", "bold": false } ] },
-    { "type": "heading", "level": 3, "text": "Bronnen" },
-    { "type": "citation", "text": "Know Your Incoterms (International Trade Administration, 2024) - schetst de Incoterms 2020 en verantwoordelijkheden van koper en verkoper over alle modaliteiten.", "author": "International Trade Administration", "url": "https://www.trade.gov/know-your-incoterms" },
-    { "type": "citation", "text": "Incoterms: meaning, rules and responsibilities (Atradius Collections, 2025) - legt uit hoe EXW en FCA kosten, laden en exportafhandeling verdelen.", "author": "Atradius Collections", "url": "https://atradiuscollections.com/knowledge/incoterms-explained.html" },
-    { "type": "citation", "text": "Incoterms: meaning, rules and responsibilities (Atradius Collections, 2025) - beschrijft verplichtingen onder DAP en DDP, inclusief wie invoerrechten en -belastingen betaalt.", "author": "Atradius Collections", "url": "https://atradiuscollections.com/knowledge/incoterms-explained.html" }
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Incoterms (International Commercial Terms) definiëren de verantwoordelijkheden van kopers en verkopers in grensoverschrijdende handel. Ze leggen vast wie het transport regelt, wie vracht en verzekering betaalt en wanneer het risico van exporteur naar importeur overgaat.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "De juiste regel is cruciaal voor kostenbeheersing, douaneafhandeling en aansprakelijkheden - zeker als wegvervoer meerdere Europese rechtsgebieden doorkruist. Deze gids vergelijkt de meest gebruikte Incoterms-combinaties en laat zien hoe je de optie kiest die bij je logistieke strategie past.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Incoterms 2020: snel overzicht"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "De nieuwste regels van 2020, gepubliceerd door de Internationale Kamer van Koophandel, vermelden zeven regels voor alle modaliteiten - EXW, FCA, CPT, CIP, DAP, DPU en DDP - plus vier voor zeevracht. Elke regel verduidelijkt wie verantwoordelijk is voor exportvergunningen, hoofdvervoer, verzekering en invoerrechten en precies wanneer het risico van verkoper naar koper overgaat (International Trade Administration, 2024).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Waarom Incoterms ertoe doen in Europa"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Europese zendingen passeren vaak meerdere grenzen binnen de interne markt. Hoewel tussen EU-leden geen douanerechten gelden, bepalen Incoterms toch wie het transport regelt, wie transitdeclaraties verzorgt bij het kruisen van niet-EU-gebieden en wie verantwoordelijk is voor de verzekering. EXW voor een zending van Polen naar Duitsland schuift laden, exportafhandeling en risico naar de koper - onpraktisch als lokale expertise ontbreekt (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "EXW en FCA vergeleken"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "EXW (Ex Works) legt minimale verplichtingen op aan de verkoper: goederen worden beschikbaar gesteld op het terrein van de verkoper en de koper neemt vanaf het laden alle kosten en verantwoordelijkheden over. De koper verzorgt de exportdouane en moet een exportbewijs leveren voor btw-doeleinden (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "FCA (Free Carrier) vereist dat de verkoper levert op een aangewezen plaats - vaak het terminal van een expediteur - en de export afhandelt. De verkoper draagt kosten en risico's tot aan de overdracht; daarna regelt de koper het hoofdvervoer. FCA is in het Europese wegvervoer praktischer omdat de verkoper laden en exportpapieren regelt, terwijl de koper de hoofdtransportfase organiseert (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "exw-fca-orig.png",
+      "alt": "Grafiek die verantwoordelijkheden onder EXW en FCA vergelijkt voor een Europese voorbeeldzending",
+      "caption": "Diagram toont welke partij laden, exportafhandeling en hoofdvervoer verzorgt onder EXW versus FCA."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "DAP en DDP vergeleken"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "DAP (Delivered At Place) betekent dat de verkoper de goederen naar een benoemde bestemming vervoert en tot aankomst kosten en risico's draagt, exclusief invoerrechten en -belastingen. De koper is verantwoordelijk voor invoerafhandeling en betaalt eventuele rechten of btw (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "DDP (Delivered Duty Paid) legt maximale verantwoordelijkheid bij de verkoper, die alle kosten, risico's, invoerrechten en -belastingen draagt tot levering bij de koper. Verkopers moeten voor btw en douane zijn geregistreerd in het invoerland en rekening houden met onbekende rechten (Atradius Collections, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kiezen tussen EXW en FCA"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Gebruik EXW wanneer de koper in het land van de verkoper een sterk logistiek netwerk heeft en volledige regie wil over transport, consolidatie en exportprocedures.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Gebruik FCA voor de meeste internationale wegzendingen, omdat de verkoper exportafhandeling en laden verzorgt en douanerisico's verlaagt, terwijl de koper het hoofdvervoer regelt.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kiezen tussen DAP en DDP"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Kies DAP wanneer de koper de invoerafhandeling wil sturen, btw wil terugvorderen en de last mile wil beheersen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kies DDP voor consumentenleveringen of wanneer de koper een prijs franco inclusief rechten verlangt - mits de verkoper geregistreerd is en partners heeft voor importformaliteiten.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Andere relevante Incoterms"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Hoewel EXW, FCA, DAP en DDP de discussie domineren, kunnen andere regels beter passen afhankelijk van lading en gewenste controle.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "CPT (Carriage Paid To): de verkoper betaalt vracht tot de benoemde bestemming, maar het risico gaat over op de koper bij overdracht aan de eerste vervoerder - nuttig voor pakketten en groupage.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "CIP (Carriage and Insurance Paid To): vergelijkbaar met CPT, maar de verkoper moet ook verzekering leveren die aan de eisen van de koper voldoet.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "DPU (Delivered at Place Unloaded): de verkoper levert en lost op de afgesproken plaats, wat de overdracht bij Europese cross-docks kan vereenvoudigen.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Factoren voor de juiste keuze"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Regie over logistiek: kopers met geavanceerde netwerken prefereren EXW of FCA om routing en consolidatie te sturen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Douanekennis: verkopers met exportervaring kiezen eerder FCA of DAP om zorgvuldige afhandeling te borgen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Risicotolerantie: bepaal welke partij verzekering, schade- en vertragingrisico's het best beheert.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Fiscale impact: btw-teruggaaf en rechten verschillen per land; kies termen die aansluiten op je fiscale strategie.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Aard van de goederen: hoogwaardige of breekbare lading vereist vaak meer verkopersverantwoordelijkheid en verzekering (bijv. CIP of DDP).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Relatie koper-verkoper: langdurige relaties ondersteunen verkopersvriendelijke termen, nieuwe relaties eerder kopersbescherming.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusie: align termen met je logistieke strategie"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "De juiste Incoterms voor Europees wegvervoer kiezen is een balans tussen regie, kosten en risico. EXW geeft de koper maximale verantwoordelijkheid, maar FCA past vaak beter bij grensoverschrijdende zendingen omdat de verkoper exportformaliteiten regelt. DAP en DDP bieden afleveroplossingen - DAP laat invoerrechten bij de koper, DDP levert deur-tot-deur voor risico van de verkoper. Beoordeel logistieke capaciteiten, douanekennis en commerciële doelen voordat je termen vastlegt en werk met een betrouwbare expediteur voor strakke documentatie en uitvoering.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Bronnen"
+    },
+    {
+      "type": "citation",
+      "text": "Know Your Incoterms (International Trade Administration, 2024) - schetst de Incoterms 2020 en verantwoordelijkheden van koper en verkoper over alle modaliteiten.",
+      "author": "International Trade Administration",
+      "url": "https://www.trade.gov/know-your-incoterms"
+    },
+    {
+      "type": "citation",
+      "text": "Incoterms: meaning, rules and responsibilities (Atradius Collections, 2025) - legt uit hoe EXW en FCA kosten, laden en exportafhandeling verdelen.",
+      "author": "Atradius Collections",
+      "url": "https://atradiuscollections.com/knowledge/incoterms-explained.html"
+    },
+    {
+      "type": "citation",
+      "text": "Incoterms: meaning, rules and responsibilities (Atradius Collections, 2025) - beschrijft verplichtingen onder DAP en DDP, inclusief wie invoerrechten en -belastingen betaalt.",
+      "author": "Atradius Collections",
+      "url": "https://atradiuscollections.com/knowledge/incoterms-explained.html"
+    }
   ],
   "tags": [
     "incoterms",
@@ -70,4 +291,3 @@
     "exportlogistiek"
   ]
 }
-
