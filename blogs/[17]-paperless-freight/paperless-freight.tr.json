@@ -1,0 +1,215 @@
+{
+  "id": "towards-paperless-freight-efti-and-e-cmr-driving-digitalisation-in-europe",
+  "shortId": "towards-paperless-freight",
+  "language": "tr",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Kağıtsız taşımacılığa doğru: eFTI ve e-CMR Avrupa’da dijitalleşmeyi hızlandırıyor",
+  "description": "Avrupa’da karayolu taşımacılığında kağıt hala çok yaygın. Taşıma senetleri, CMR’ler, gümrük formları ve izinler basılıyor, damgalanıyor ve klasörlere kaldırılıyor; bu da idari yükü ve hata riskini artırıyor. Operasyonları sadeleştirmek ve çevresel hedefleri desteklemek için AB, elektronik taşımacılık bilgisi (eFTI) ve dijital konşimentolara (e-CMR) geçiyor...",
+  "publishedAt": "2025-12-05T00:00:00.000Z",
+  "category": "Teknoloji",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Lojistik teknolojisi uzmanları",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "paperless-freight-hero.png",
+  "imageAlt": "Bir tablette onay işaretleri ve kamyon simgesiyle birlikte elektronik taşıma senedi (e-CMR) görünürken arka planda AB yıldızları.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Avrupa’daki karayolu taşımacılığında süreçlerin büyük kısmı hala kağıda dayanıyor. CMR taşıma senetleri, navlun faturaları, gümrük formları ve izinler basılıyor, imzalanıyor ve dosyalanıyor. Bu, süreçleri yavaşlatıyor, idari maliyetleri artırıyor ve hata riskini büyütüyor. Operasyonları sadeleştirmek ve iklim hedeflerine katkı sağlamak için AB, elektronik taşımacılık bilgisi (eFTI) ve dijital konşimentolara (e-CMR) yöneliyor. Bu yazı, kağıtsız taşımacılığın yasal itici güçlerini, avantajlarını ve zorluklarını özetliyor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "paperless-freight-visual-1.png",
+      "alt": "Bir kamyon şoförü Avrupa’daki bir sınır kapısında el cihazı üzerinden elektronik taşıma belgelerini gösteriyor.",
+      "caption": "Sürücü, sınırda el cihazı üzerinden belgeleri göstererek kağıttan e-CMR ve eFTI’ye geçişi somutlaştırıyor."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Neden dijitalleşme önemli?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Karayolu taşıyıcıları çoğu zaman yanlarında CMR’lerden tehlikeli madde beyannamelerine kadar uzanan kalın kağıt dosyaları taşır. Dijital belgeler için yeknesak bir hukuki çerçevenin olmaması, elektronik veri paylaşımının yaygınlaşmasının önündeki en büyük engellerden biriydi. 2020/1056 sayılı AB Tüzüğü, ekonomik operatörlerin düzenleyici bilgiler sunmak zorunda olduğu durumlarda yetkili makamların elektronik taşımacılık bilgisini kabul etmesini zorunlu kılarak bu engeli kaldırmayı hedefliyor. 2027’ye kadar makamların eFTI sertifikalı platformlar üzerinden gönderilen bilgileri kabul etmesi ve şirketlerle elektronik ortamda iletişim kurması gerekecek.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "eFTI tüzüğü: temel unsurlar"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "eFTI tüzüğü, platformlar, veri setleri ve süreçler için teknik standartları belirler. Üye devletlere dijital portallar kurma yükümlülüğü getirir ve taşımacılık operatörlerine, uygun gördükleri takdirde bilgileri elektronik olarak sunma imkanı tanır. Tüzüğün, özellikle KOBİ’ler için, mükerrer veri girişi ve fiziksel belge işleme ihtiyacını ortadan kaldırarak idari maliyetleri önemli ölçüde azaltması beklenir.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Temel özelliklerden bazıları şunlardır:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Elektronik verinin kabulü: yetkili makamlar, kağıt yerine sertifikalı eFTI platformları üzerinden iletilen verileri kabul etmek zorundadır.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Güvenlik ve birlikte işlerlik: platformlar, siber güvenlik gerekliliklerini karşılamalı ve verilerin sınırlar ötesinde paylaşılmasına imkan tanıyan ortak veri setleri kullanmalıdır.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Uygulama takvimi: üye devletler, teknik şartnameleri 2026’ya kadar benimsemeli ve eFTI belgelerini en geç Temmuz 2027’ye kadar tam olarak kabul etmelidir.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "e-CMR: dijital taşıma senetleri"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "CMR Konvansiyonu uluslararası karayolu yük taşımacılığını düzenler. 2008’den bu yana yürürlükte olan bir protokol, elektronik taşıma senetlerinin, yani e-CMR’nin kullanılmasına izin veriyor. Ancak benimseme hızı yavaş oldu: yaklaşık 36 Avrupa ülkesi e-CMR protokolünü onayladı, fakat kullanım düzeyi ülkeden ülkeye değişiyor. Buna karşın çok sayıda pilot proje ve ulusal sistem geçişi hızlandırıyor. Sektör raporları, ulusal makamların Temmuz 2027’ye kadar sertifikalı eFTI platformları üzerinden dijital taşımacılık belgelerini kabul etmek zorunda olacağını ve e-CMR’nin 2026’ya kadar yaygın biçimde uygulanacağını, 2029’da ise zorunlu hale geleceğini aktarıyor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Dijital taşıma senetlerinin pek çok avantajı vardır: kağıt evrakı ortadan kaldırır, belgelerin kaybolma veya zarar görme riskini azaltır, gönderi durumunun gerçek zamanlı güncellenmesini sağlar ve sınır kapılarında bekleme sürelerini kısaltır. Uluslararası Karayolu Taşımacılığı Birliği (IRU), e-CMR’nin evrak yükünü azalttığını, elleçleme maliyetlerini düşürdüğünü ve kamyonların gereksiz dur-kalkları önlemesine yardımcı olduğunu vurgular.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Zorluklar ve fırsatlar"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Birlikte işlerlik: farklı ülkelerdeki e-CMR sistemleri henüz tam anlamıyla birlikte çalışabilir değil. eFTI tüzüğü veri formatlarını uyumlaştırmayı hedeflese de, sektörün ortak standartlar ve arayüzler üzerinde uzlaşması gerekiyor.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Hukuki netlik: eFTI tüzüğü makamları elektronik veriyi kabul etmeye zorunlu kılsa da, taşıyıcı ve yük sahiplerinin sistemlerinin kimlik doğrulama, bütünlük ve gizlilik gerekliliklerini karşıladığından emin olması gerekir.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Yatırım ihtiyacı: KOBİ’ler için eFTI platformlarına entegrasyon ciddi bir maliyet kalemi olabilir. Ulusal destek programları ve Connecting Europe Facility gibi AB fonları bu yatırımı bir ölçüde hafifletebilir.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Değişim yönetimi: kağıttan dijitale geçiş, ekibin eğitilmesini ve süreçlerin yeniden tasarlanmasını gerektirir. e-CMR’yi rota optimizasyonu, telematik ve otomatik gümrük beyanı ile birlikte kullanmak faydaları daha da artırabilir.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Kağıtsız taşımacılığa hazırlanmak"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lojistik yöneticileri, mevcut belge akışlarını haritalandırarak ve dijital çözümlerin kağıdın yerini alabileceği noktaları belirleyerek işe başlamalıdır. eFTI şartnamelerine göre sertifikalandırılmış dijital platformlarla çalışmak, mevzuata uyumu güvence altına alır. e-CMR’yi erken benimsemek sahada tecrübe kazandırır ve müşteriler için şeffaflığı artırır. Tedarik zinciri boyunca ortakları sürece dahil etmek, birlikte işlerliğin ve veri kalitesinin sağlanması açısından kritiktir.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sonuç"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Avrupa, karayolu taşımacılığında kağıtsız bir geleceğe doğru ilerliyor. eFTI tüzüğü ve e-CMR protokolü, elektronik belgelere yönelik hukuki çerçeveyi oluşturarak daha düşük maliyet, daha hızlı sınır geçişleri ve daha sürdürülebilir operasyonlar vaat ediyor. Dijital platformlara ve işbirliğine dayalı süreçlere yatırım yapan yük sahipleri ve taşıyıcılar, bu dönüşümde öne geçebilir ve belge dijitalleşmesini gerçek bir rekabet avantajına çevirebilir.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kaynaklar"
+    },
+    {
+      "type": "citation",
+      "text": "Regulation (EU) 2020/1056 on electronic freight transport information (European Parliament, Council of the European Union, 2020) - Elektronik taşımacılık bilgisine yönelik hukuki çerçeveyi tanımlar ve yetkili makamları, verileri sertifikalı eFTI platformları üzerinden kabul etmeye zorunlu kılar; dijitalleşme önündeki engelleri adresler ve Temmuz 2027’yi tam kabul için son tarih olarak belirler.",
+      "author": "European Parliament, Council of the European Union",
+      "url": "https://eur-lex.europa.eu/eli/reg/2020/1056/oj"
+    },
+    {
+      "type": "citation",
+      "text": "Paper consignment notes will be phased out, eCMR is coming (Trans.info, 2023) - Ulusal makamların Temmuz 2027’ye kadar sertifikalı eFTI platformları üzerinden dijital taşıma belgelerini kabul etmesi gerektiğini ve e-CMR’nin 2026’ya kadar yaygın biçimde uygulanmasının beklendiğini aktarır.",
+      "author": "Trans.info",
+      "url": "https://trans.info/en/ecmr-replacing-paper-cmr-279235"
+    },
+    {
+      "type": "citation",
+      "text": "UNECE and IRU call for digital consignment notes (International Road Transport Union, 2023) - e-CMR protokolünün 30’dan fazla ülke tarafından onaylandığını ve dijital konşimentoların kağıt işini azalttığını, elleçleme maliyetlerini düşürdüğünü ve kamyonların sınır kapılarında gereksiz duraklamaları önlemesine yardımcı olduğunu açıklar.",
+      "author": "International Road Transport Union",
+      "url": "https://www.iru.org/news-resources/newsroom/unece-and-iru-call-digital-consignment-notes"
+    }
+  ],
+  "tags": [
+    "kağıtsız taşımacılık",
+    "eFTI",
+    "e-CMR",
+    "dijital taşıma senedi",
+    "elektronik taşımacılık bilgisi",
+    "AB lojistiği",
+    "dijitalleşme"
+  ]
+}
+

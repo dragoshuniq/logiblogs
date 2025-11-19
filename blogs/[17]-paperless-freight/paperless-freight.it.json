@@ -1,0 +1,215 @@
+{
+  "id": "towards-paperless-freight-efti-and-e-cmr-driving-digitalisation-in-europe",
+  "shortId": "towards-paperless-freight",
+  "language": "it",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Verso un trasporto senza carta: eFTI ed e-CMR guidano la digitalizzazione in Europa",
+  "description": "La carta domina ancora il trasporto merci in Europa. Lettere di vettura, CMR, documenti doganali e permessi vengono stampati, timbrati e archiviati, creando oneri amministrativi e rischi di errore. Per snellire le operazioni e sostenere gli obiettivi ambientali, l’UE punta verso informazioni elettroniche di trasporto (eFTI) e lettere di vettura digitali (e-CMR)...",
+  "publishedAt": "2025-12-05T00:00:00.000Z",
+  "category": "Tecnologia",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Esperti in tecnologie per la logistica",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "paperless-freight-hero.png",
+  "imageAlt": "Tablet che visualizza una lettera di vettura elettronica (e-CMR) con segni di spunta e un’icona di camion, sullo sfondo le stelle dell’UE.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Nel trasporto merci su strada in Europa la carta è ancora ovunque. Lettere di vettura CMR, documenti di trasporto, formulari doganali e permessi vengono stampati, timbrati e archiviati, aumentando il carico amministrativo e la probabilità di errori. Per snellire i processi e sostenere gli obiettivi climatici, l’UE sta introducendo informazioni elettroniche di trasporto (eFTI) e lettere di vettura digitali (e-CMR). Questo articolo illustra i driver normativi, i vantaggi e le sfide del passaggio al trasporto senza carta.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "paperless-freight-visual-1.png",
+      "alt": "Autista di camion mostra documenti di trasporto elettronici su un dispositivo portatile a un valico di frontiera europeo.",
+      "caption": "Un autista presenta documenti di trasporto elettronici su un dispositivo mobile alla frontiera, simbolo della transizione da carta a e-CMR ed eFTI."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Perché la digitalizzazione conta"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Gli operatori del trasporto stradale spesso viaggiano con fascicoli di documenti cartacei, dalle lettere di vettura CMR alle dichiarazioni per merci pericolose. L’assenza di un quadro giuridico uniforme per i documenti digitali è stata a lungo un ostacolo all’uso sistematico dello scambio elettronico di dati. Il regolamento (UE) 2020/1056 mira a superare questo ostacolo imponendo alle autorità competenti di accettare informazioni elettroniche di trasporto quando gli operatori economici sono tenuti a fornire dati regolamentari. Entro il 2027 le autorità dovranno accettare tali informazioni tramite piattaforme eFTI certificate e comunicare in modalità elettronica.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Regolamento eFTI: elementi chiave"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Il regolamento eFTI definisce standard tecnici per piattaforme, dataset e procedure. Obbliga gli Stati membri a creare portali digitali e consente agli operatori di fornire informazioni di trasporto in forma elettronica, se lo desiderano. Ci si aspetta che il regolamento riduca in modo significativo i costi amministrativi, in particolare per le PMI, eliminando la doppia immissione dei dati e la gestione fisica dei documenti cartacei.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Tra i principali elementi figurano:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Accettazione dei dati elettronici: le autorità competenti devono accettare dati trasmessi tramite piattaforme eFTI certificate al posto dei documenti su carta.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sicurezza e interoperabilità: le piattaforme devono soddisfare requisiti di cybersicurezza e utilizzare dataset comuni, così che le informazioni possano essere condivise oltre confine.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Cronoprogramma di attuazione: gli Stati membri devono adottare le specifiche tecniche entro il 2026 e accettare pienamente i documenti eFTI entro luglio 2027.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "e-CMR: lettere di vettura digitali"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La Convenzione CMR disciplina il trasporto internazionale su strada. Dal 2008 un protocollo consente l’uso di lettere di vettura elettroniche e-CMR. L’adozione è stata lenta: circa 36 paesi europei hanno ratificato il protocollo, ma l’utilizzo è disomogeneo. Allo stesso tempo, numerosi progetti pilota e sistemi nazionali stanno accelerando la transizione; secondo i resoconti, entro luglio 2027 le autorità nazionali dovranno accettare documenti di trasporto digitali tramite piattaforme eFTI certificate e l’implementazione su larga scala è prevista già entro il 2026, con applicazione obbligatoria nel 2029.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Le lettere di vettura digitali offrono diversi vantaggi: eliminano la gestione della carta, riducono il rischio di smarrimento o danneggiamento dei documenti, permettono aggiornamenti di stato in tempo reale e riducono i tempi di attesa alle frontiere. L’Unione internazionale dei trasporti stradali (IRU) sottolinea che e-CMR riduce le pratiche cartacee, abbassa i costi di gestione e consente ai camion di evitare soste superflue per i controlli documentali.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sfide e opportunità"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Interoperabilità: i vari sistemi nazionali di e-CMR non sono ancora pienamente interoperabili. Il regolamento eFTI mira ad armonizzare i formati dei dati, ma operatori e fornitori di piattaforme dovranno adottare standard e interfacce comuni.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Certezza giuridica: sebbene il regolamento eFTI obblighi le autorità ad accettare dati elettronici, spedizionieri e vettori devono garantire che i loro sistemi soddisfino tutti i requisiti di autenticazione, integrità e riservatezza delle informazioni.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Investimenti: per molte PMI l’integrazione con piattaforme eFTI rappresenta un investimento significativo. Programmi nazionali di sostegno e strumenti UE come il Connecting Europe Facility possono contribuire a finanziarlo.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Gestione del cambiamento: passare dal cartaceo al digitale richiede formazione del personale e revisione dei processi. Combinare e-CMR con ottimizzazione delle rotte, telematica e automatizzazione delle pratiche doganali può moltiplicare i benefici.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Prepararsi al trasporto senza carta"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "I responsabili logistici dovrebbero iniziare analizzando i flussi documentali esistenti e identificando dove le soluzioni digitali possono sostituire la carta. Collaborare con piattaforme digitali certificate secondo le specifiche eFTI aiuta a garantire la conformità. L’adozione anticipata di e-CMR offre esperienza pratica e migliora la trasparenza per i clienti. Coinvolgere partner lungo tutta la supply chain è fondamentale per assicurare interoperabilità e qualità dei dati.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusioni"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "L’Europa è alle porte di una trasformazione verso il trasporto senza carta. Il regolamento eFTI e il protocollo e-CMR creano un quadro giuridico per i documenti elettronici, promettendo costi inferiori, controlli di frontiera più rapidi e maggiore sostenibilità. Investendo in piattaforme digitali e processi collaborativi, spedizionieri e vettori possono posizionarsi in prima fila in questo cambiamento e trasformare la digitalizzazione dei documenti in un vantaggio competitivo.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fonti"
+    },
+    {
+      "type": "citation",
+      "text": "Regulation (EU) 2020/1056 on electronic freight transport information (European Parliament, Council of the European Union, 2020) - Definisce il quadro giuridico per le informazioni elettroniche di trasporto e impone alle autorità di accettare dati forniti tramite piattaforme eFTI certificate, affrontando le barriere alla digitalizzazione e fissando luglio 2027 come termine per l’accettazione completa.",
+      "author": "European Parliament, Council of the European Union",
+      "url": "https://eur-lex.europa.eu/eli/reg/2020/1056/oj"
+    },
+    {
+      "type": "citation",
+      "text": "Paper consignment notes will be phased out, eCMR is coming (Trans.info, 2023) - Riporta che entro luglio 2027 le autorità nazionali dovranno accettare documenti di trasporto digitali tramite piattaforme eFTI certificate e che l’implementazione su larga scala di e-CMR è prevista entro il 2026.",
+      "author": "Trans.info",
+      "url": "https://trans.info/en/ecmr-replacing-paper-cmr-279235"
+    },
+    {
+      "type": "citation",
+      "text": "UNECE and IRU call for digital consignment notes (International Road Transport Union, 2023) - Spiega che il protocollo e-CMR è stato ratificato da oltre 30 paesi e che le lettere di vettura digitali riducono la burocrazia, abbassano i costi di gestione e consentono ai camion di evitare soste inutili alle frontiere.",
+      "author": "International Road Transport Union",
+      "url": "https://www.iru.org/news-resources/newsroom/unece-and-iru-call-digital-consignment-notes"
+    }
+  ],
+  "tags": [
+    "trasporto senza carta",
+    "eFTI",
+    "e-CMR",
+    "lettera di vettura digitale",
+    "informazioni elettroniche di trasporto",
+    "logistica UE",
+    "digitalizzazione"
+  ]
+}
+

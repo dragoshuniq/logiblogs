@@ -1,0 +1,215 @@
+{
+  "id": "towards-paperless-freight-efti-and-e-cmr-driving-digitalisation-in-europe",
+  "shortId": "towards-paperless-freight",
+  "language": "fi",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Kohti paperitonta kuljetusta: eFTI ja e-CMR vauhdittavat digitalisaatiota Euroopassa",
+  "description": "Paperi hallitsee yhä tavaraliikennettä Euroopassa. Rahtikirjat, CMR-asiakirjat, tullilomakkeet ja luvat tulostetaan, leimataan ja arkistoidaan, mikä lisää hallinnollista työtä ja virheriskiä. Toiminnan sujuvoittamiseksi ja ilmastotavoitteiden tukemiseksi EU siirtyy sähköiseen kuljetusinformaation (eFTI) ja digitaalisten rahtikirjojen (e-CMR) käyttöön...",
+  "publishedAt": "2025-12-05T00:00:00.000Z",
+  "category": "Teknologia",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistiikkateknologian asiantuntijat",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "paperless-freight-hero.png",
+  "imageAlt": "Tabletti, jossa näkyy sähköinen rahtikirja (e-CMR) valintamerkkeineen ja kuorma-autokuvakkeineen EU-tähtien taustalla.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Paperi on edelleen vahvasti läsnä Euroopan maantiekuljetuksissa. CMR-rahtikirjat, kuljetusasiakirjat, tullilomakkeet ja luvat tulostetaan, allekirjoitetaan ja mapitetaan, mikä hidastaa prosesseja, lisää hallinnollista työtä ja kasvattaa virheiden riskiä. Toiminnan tehostamiseksi ja ilmastotavoitteiden tukemiseksi EU siirtyy sähköiseen kuljetusinformaation (eFTI) ja digitaalisten rahtikirjojen (e-CMR) käyttöön. Tässä artikkelissa käydään läpi sääntelytaustaa, hyötyjä ja haasteita paperittomassa kuljetuksessa.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "paperless-freight-visual-1.png",
+      "alt": "Kuorma-autonkuljettaja näyttää sähköisiä kuljetusasiakirjoja käsilaitteella eurooppalaisella rajatarkastuspisteellä.",
+      "caption": "Kuljettaja esittää sähköisiä kuljetusasiakirjoja rajalla, mikä havainnollistaa siirtymää paperista e-CMR- ja eFTI-ratkaisuihin."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Miksi digitalisaatio on tärkeää"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Maantiekuljetusten operaattorit kuljettavat usein mukanaan nivaskan paperiasiakirjoja, CMR-rahtikirjoista vaarallisten aineiden ilmoituksiin. Yhtenäisen oikeudellisen kehyksen puute digitaalisille asiakirjoille on pitkään hidastanut sähköisen tiedonvaihdon käyttöönottoa. Asetus (EU) 2020/1056 pyrkii poistamaan tämän esteen velvoittamalla viranomaiset hyväksymään sähköisen kuljetusinformaation silloin, kun talouden toimijoiden on toimitettava tietoja viranomaisille. Vuoteen 2027 mennessä viranomaisten on hyväksyttävä tiedot sertifioitujen eFTI-alustojen kautta ja hoidettava asiointi sähköisesti.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "eFTI-asetus: keskeiset piirteet"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "eFTI-asetus määrittää tekniset standardit alustoille, tietokokonaisuuksille ja menettelyille. Se velvoittaa jäsenvaltiot rakentamaan digitaalisia portaaleja ja antaa toimijoille mahdollisuuden toimittaa kuljetustiedot sähköisessä muodossa. Asetuksen odotetaan pienentävän hallinnollisia kustannuksia merkittävästi, erityisesti pk-yrityksissä, poistamalla päällekkäisen tietojen syötön ja paperiasiakirjojen manuaalisen käsittelyn.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Keskeisiä elementtejä ovat muun muassa:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Sähköisten tietojen hyväksyminen: viranomaisten on hyväksyttävä tiedot, jotka toimitetaan sertifioitujen eFTI-alustojen kautta paperin sijaan.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Turvallisuus ja yhteentoimivuus: alustojen on täytettävä kyberturvallisuusvaatimukset ja käytettävä yhteisiä tietomalleja, jotta tietoja voidaan jakaa rajojen yli.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Toteutusaikataulu: jäsenvaltioiden on otettava tekniset eritelmät käyttöön vuoteen 2026 mennessä ja hyväksyttävä eFTI-asiakirjat täysimääräisesti viimeistään heinäkuussa 2027.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "e-CMR: digitaaliset rahtikirjat"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "CMR-yleissopimus säätelee kansainvälistä maantiekuljetusta. Vuodesta 2008 lähtien pöytäkirja on mahdollistanut sähköisten rahtikirjojen, e-CMR:n, käytön. Käyttöönotto on kuitenkin ollut hidasta: noin 36 eurooppalaista maata on ratifioinut e-CMR-pöytäkirjan, mutta käyttötaso vaihtelee. Samaan aikaan pilottihankkeet ja kansalliset järjestelmät vauhdittavat muutosta. Alan raportit kertovat, että kansallisten viranomaisten on viimeistään heinäkuussa 2027 hyväksyttävä digitaaliset kuljetusasiakirjat sertifioitujen eFTI-alustojen kautta ja että e-CMR:n laajamittainen käyttöönotto on odotettavissa vuoteen 2026 mennessä, pakollisen soveltamisen alkaessa vuonna 2029.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Digitaaliset rahtikirjat tarjoavat useita etuja: ne poistavat paperin käsittelyn, vähentävät asiakirjojen katoamisen tai vahingoittumisen riskiä, mahdollistavat tilannetiedon reaaliaikaisesti ja lyhentävät odotusaikoja rajoilla. International Road Transport Unionin mukaan e-CMR vähentää paperityötä, pienentää käsittelykustannuksia ja auttaa kuorma-autoja välttämään turhia pysähdyksiä dokumenttien tarkastusta varten.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Haasteet ja mahdollisuudet"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Yhteentoimivuus: kansalliset e-CMR-järjestelmät eivät vielä ole täysin yhteensopivia keskenään. eFTI-asetuksen on tarkoitus yhdenmukaistaa dataformaatteja, mutta alan toimijoiden on sovittava yhteisistä standardeista ja rajapinnoista.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Oikeudellinen varmuus: vaikka eFTI-asetus velvoittaa viranomaiset hyväksymään sähköiset tiedot, lähettäjien ja kuljetusyritysten on varmistettava, että heidän järjestelmänsä täyttävät aitouteen, eheyteen ja luottamuksellisuuteen liittyvät vaatimukset.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Investoinnit: pienemmille toimijoille integraatio eFTI-alustoihin voi olla merkittävä investointi. Kansalliset tukiohjelmat ja EU-aloitteet, kuten Connecting Europe Facility, voivat helpottaa kustannusten kattamista.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Muutosjohtaminen: siirtymä paperista digitaaliseen edellyttää henkilöstön koulutusta ja prosessien mukauttamista. e-CMR:n yhdistäminen reittioptimointiin, telematiikkaan ja automatisoituihin tullimenettelyihin voi moninkertaistaa hyödyt.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Valmistautuminen paperittomaan kuljetukseen"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Logistiikkapäälliköiden kannattaa aloittaa kartoittamalla nykyiset dokumenttivirrat ja tunnistamalla kohdat, joissa digitaaliset ratkaisut voivat korvata paperin. Yhteistyö sellaisten digitaalisten alustojen kanssa, jotka on sertifioitu eFTI-eritelmien mukaisesti, auttaa varmistamaan säädösten noudattamisen. e-CMR:n varhainen käyttöönotto tarjoaa käytännön kokemusta ja lisää läpinäkyvyyttä asiakkaille. On tärkeää sitouttaa kumppanit koko toimitusketjussa yhteentoimivuuden ja datan laadun varmistamiseksi.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Yhteenveto"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Eurooppa on siirtymässä kohti paperittomia kuljetuksia. eFTI-asetus ja e-CMR-pöytäkirja luovat oikeudellisen perustan sähköisille asiakirjoille ja lupaavat pienemmät kustannukset, nopeammat rajanylitykset ja paremman kestävyyden. Investoimalla digitaalisiin alustoihin ja yhteistyöhön perustuviin prosesseihin lähettäjät ja kuljetusyritykset voivat olla askeleen edellä ja muuttaa dokumenttien digitalisoinnin kilpailueduksi.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lähteet"
+    },
+    {
+      "type": "citation",
+      "text": "Regulation (EU) 2020/1056 on electronic freight transport information (European Parliament, Council of the European Union, 2020) - Määrittää oikeudellisen kehyksen sähköiselle kuljetusinformaatiolle ja velvoittaa viranomaiset hyväksymään tiedot sertifioitujen eFTI-alustojen kautta, poistaen digitalisoinnin esteitä ja asettaen heinäkuun 2027 takarajaksi täysimääräiselle hyväksynnälle.",
+      "author": "European Parliament, Council of the European Union",
+      "url": "https://eur-lex.europa.eu/eli/reg/2020/1056/oj"
+    },
+    {
+      "type": "citation",
+      "text": "Paper consignment notes will be phased out, eCMR is coming (Trans.info, 2023) - Raportoi, että kansallisten viranomaisten on heinäkuuhun 2027 mennessä hyväksyttävä digitaaliset kuljetusasiakirjat sertifioitujen eFTI-alustojen kautta ja että e-CMR otetaan laajasti käyttöön vuoteen 2026 mennessä.",
+      "author": "Trans.info",
+      "url": "https://trans.info/en/ecmr-replacing-paper-cmr-279235"
+    },
+    {
+      "type": "citation",
+      "text": "UNECE and IRU call for digital consignment notes (International Road Transport Union, 2023) - Selittää, että e-CMR-pöytäkirjan on ratifioinut yli 30 maata ja että digitaaliset rahtikirjat vähentävät paperityötä, pienentävät käsittelykustannuksia ja auttavat välttämään turhia pysähdyksiä rajalla.",
+      "author": "International Road Transport Union",
+      "url": "https://www.iru.org/news-resources/newsroom/unece-and-iru-call-digital-consignment-notes"
+    }
+  ],
+  "tags": [
+    "paperiton kuljetus",
+    "eFTI",
+    "e-CMR",
+    "digitaalinen rahtikirja",
+    "sähköinen kuljetusinformaation",
+    "EU-logistiikka",
+    "digitalisaatio"
+  ]
+}
+

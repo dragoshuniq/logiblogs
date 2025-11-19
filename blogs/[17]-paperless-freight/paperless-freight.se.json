@@ -1,0 +1,215 @@
+{
+  "id": "towards-paperless-freight-efti-and-e-cmr-driving-digitalisation-in-europe",
+  "shortId": "towards-paperless-freight",
+  "language": "se",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Mot pappersfri frakt: eFTI och e-CMR driver digitalisering i Europa",
+  "description": "Papper dominerar fortfarande godstransporterna i Europa. Fraktsedlar, CMR-dokument, tulldeklarationer och tillstånd skrivs ut, stämplas och arkiveras, vilket skapar administrativt jobb och felrisk. För att effektivisera flöden och stötta klimatmålen går EU mot elektronisk transportinformation (eFTI) och digitala fraktsedlar (e-CMR)...",
+  "publishedAt": "2025-12-05T00:00:00.000Z",
+  "category": "Teknik",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experter på logistikteknik",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "paperless-freight-hero.png",
+  "imageAlt": "Surfplatta som visar en elektronisk fraktsedel (e-CMR) med bockar och en lastbilsikon mot en bakgrund med EU-stjärnor.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "I europeiska vägtransporter spelar papper fortfarande en stor roll. CMR-fraktsedlar, transportdokument, tulldeklarationer och tillstånd skrivs ut, signeras och läggs i pärmar. Det gör processerna långsamma, ökar den administrativa bördan och risken för misstag. För att förenkla flöden och stötta klimatmålen går EU mot elektronisk transportinformation (eFTI) och digitala fraktsedlar (e-CMR). I den här artikeln går vi igenom regelverken, fördelarna och utmaningarna med pappersfri frakt.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "paperless-freight-visual-1.png",
+      "alt": "Lastbilschaufför visar elektroniska transportdokument på en handhållen enhet vid en europeisk gränskontroll.",
+      "caption": "Chauffören visar elektroniska dokument vid gränsen och illustrerar skiftet från papper till e-CMR och eFTI."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Varför digitalisering är viktig"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Åkerier kör ofta omkring med buntar av papper, från CMR-fraktsedlar till farligt-godsdeklarationer. Avsaknaden av en enhetlig rättslig ram för digitala dokument har länge varit ett hinder för elektroniskt informationsutbyte. Förordning (EU) 2020/1056 syftar till att lösa detta genom att kräva att myndigheter accepterar elektronisk transportinformation när företag är skyldiga att lämna uppgifter för kontroller. Senast 2027 ska myndigheter kunna ta emot information via certifierade eFTI-plattformar och kommunicera digitalt med branschen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "eFTI-förordningen: viktiga byggstenar"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "eFTI-förordningen fastställer tekniska standarder för plattformar, datamodeller och processer. Den ålägger medlemsstaterna att bygga digitala portaler och ger operatörer möjlighet att lämna transportinformation elektroniskt. Förordningen väntas minska de administrativa kostnaderna avsevärt, särskilt för små och medelstora företag, genom att ta bort dubbel datainmatning och manuell hantering av pappersdokument.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Några centrala punkter är:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Acceptans av elektroniska data: behöriga myndigheter ska acceptera data som lämnas via certifierade eFTI-plattformar i stället för på papper.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Säkerhet och interoperabilitet: plattformarna måste uppfylla cybersäkerhetskrav och använda gemensamma datamodeller så att information kan delas över gränser.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tidsplan för införande: medlemsstaterna ska anta de tekniska specifikationerna senast 2026 och fullt ut acceptera eFTI-dokument senast i juli 2027.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "e-CMR: digitala fraktsedlar"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "CMR-konventionen reglerar internationella vägtransporter av gods. Sedan 2008 finns ett protokoll som möjliggör elektroniska fraktsedlar, e-CMR. Införandet har gått långsamt: omkring 36 europeiska länder har ratificerat protokollet, men användningen är ojämn. Samtidigt driver pilotprojekt och nationella system på omställningen. En branschrapport anger att nationella myndigheter senast i juli 2027 ska acceptera digitala transportdokument via certifierade eFTI-plattformar och att bred implementering av e-CMR väntas till 2026, med obligatorisk tillämpning 2029.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Digitala fraktsedlar ger flera fördelar: de eliminerar pappershantering, minskar risken för att dokument försvinner eller skadas, möjliggör statusuppdateringar i realtid och kortar väntetider vid gränser. Enligt International Road Transport Union minskar e-CMR pappersarbetet, sänker hanteringskostnaderna och kan hjälpa lastbilar att slippa onödiga stopp för dokumentkontroller.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Utmaningar och möjligheter"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Interoperabilitet: nationella e-CMR-system är ännu inte fullt ut interoperabla. eFTI-förordningen ska harmonisera dataformat, men branschen behöver enas om gemensamma standarder och gränssnitt.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Rättssäkerhet: även om eFTI-förordningen kräver att myndigheter accepterar elektroniska data, måste avsändare och transportörer se till att deras system uppfyller krav på autenticitet, integritet och konfidentialitet.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Investeringar: integration med eFTI-plattformar kan vara kostsam, särskilt för mindre aktörer. Nationella stödprogram och EU-initiativ som Connecting Europe Facility kan bidra med finansiering.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Förändringsledning: att lämna papper bakom sig kräver utbildning av personal och anpassning av processer. Att kombinera e-CMR med ruttoptimering, telematik och automatiserade tullprocesser kan förstärka nyttan.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Förbereda sig för pappersfri frakt"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Logistikansvariga bör börja med att kartlägga dagens dokumentflöden och identifiera var digitala lösningar kan ersätta papper. Att samarbeta med digitala plattformar som är certifierade enligt eFTI-specifikationerna säkerställer efterlevnad. Tidig användning av e-CMR ger praktisk erfarenhet och bättre transparens mot kunderna. Det är viktigt att involvera partners genom hela försörjningskedjan för att säkra interoperabilitet och god datakvalitet.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Slutsats"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Europa står på tröskeln till en pappersfri framtid för godstransporter. eFTI-förordningen och e-CMR-protokollet skapar en rättslig ram för elektroniska dokument och lovar lägre kostnader, snabbare gränspassager och bättre hållbarhet. Genom att investera i digitala plattformar och samarbetande processer kan avsändare och transportörer ligga steget före och omvandla digitaliseringen av dokument till en konkurrensfördel.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Källor"
+    },
+    {
+      "type": "citation",
+      "text": "Regulation (EU) 2020/1056 on electronic freight transport information (European Parliament, Council of the European Union, 2020) - Fastställer den rättsliga ramen för elektronisk transportinformation och kräver att myndigheter accepterar data som lämnas via certifierade eFTI-plattformar; svarar på hinder mot digitalisering och sätter juli 2027 som deadline för full acceptans.",
+      "author": "European Parliament, Council of the European Union",
+      "url": "https://eur-lex.europa.eu/eli/reg/2020/1056/oj"
+    },
+    {
+      "type": "citation",
+      "text": "Paper consignment notes will be phased out, eCMR is coming (Trans.info, 2023) - Rapporterar att nationella myndigheter senast i juli 2027 måste acceptera digitala transportdokument via certifierade eFTI-plattformar och att bred implementering av e-CMR väntas till 2026.",
+      "author": "Trans.info",
+      "url": "https://trans.info/en/ecmr-replacing-paper-cmr-279235"
+    },
+    {
+      "type": "citation",
+      "text": "UNECE and IRU call for digital consignment notes (International Road Transport Union, 2023) - Förklarar att e-CMR-protokollet har ratificerats av mer än 30 länder och att digitala fraktsedlar minskar pappersarbete, sänker hanteringskostnader och gör det möjligt för lastbilar att undvika onödiga stopp vid gränser.",
+      "author": "International Road Transport Union",
+      "url": "https://www.iru.org/news-resources/newsroom/unece-and-iru-call-digital-consignment-notes"
+    }
+  ],
+  "tags": [
+    "pappersfri frakt",
+    "eFTI",
+    "e-CMR",
+    "digital fraktsedel",
+    "elektronisk transportinformation",
+    "EU-logistik",
+    "digitalisering"
+  ]
+}
+
