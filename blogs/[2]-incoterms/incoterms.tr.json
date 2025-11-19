@@ -13,7 +13,7 @@
     "role": "Lojistik teknolojisi uzmanları",
     "avatar": "/logos/slogo.png"
   },
-  "image": "managers-incoterms-orig.png",
+  "image": "managers-incoterms.png",
   "imageAlt": "Bir lojistik yöneticisi, alıcı ve satıcı için Incoterms sorumluluklarını gösteren ekranı inceliyor",
   "content": [
     {
@@ -87,7 +87,7 @@
     },
     {
       "type": "image",
-      "src": "exw-fca-orig.png",
+      "src": "exw-fca.png",
       "alt": "Örnek bir Avrupa gönderisi için EXW ve FCA sorumluluklarını karşılaştıran grafik",
       "caption": "Diyagram, EXW ve FCA kapsamında hangi tarafın yükleme, ihracat gümrüklemesi ve ana taşımayı yönettiğini gösterir."
     },

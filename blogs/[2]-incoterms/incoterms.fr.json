@@ -13,7 +13,7 @@
     "role": "Experts en technologies logistiques",
     "avatar": "/logos/slogo.png"
   },
-  "image": "managers-incoterms-orig.png",
+  "image": "managers-incoterms.png",
   "imageAlt": "Un responsable logistique consulte un écran détaillant les responsabilités Incoterms des acheteurs et des vendeurs",
   "content": [
     {
@@ -87,7 +87,7 @@
     },
     {
       "type": "image",
-      "src": "exw-fca-orig.png",
+      "src": "exw-fca.png",
       "alt": "Schéma comparant les responsabilités EXW et FCA pour une expédition européenne type",
       "caption": "Le diagramme montre quelle partie gère le chargement, le dédouanement export et le transport principal sous EXW vs FCA."
     },

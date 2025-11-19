@@ -13,7 +13,7 @@
     "role": "Experți în tehnologii pentru logistică",
     "avatar": "/logos/slogo.png"
   },
-  "image": "managers-incoterms-orig.png",
+  "image": "managers-incoterms.png",
   "imageAlt": "Manager de logistică analizează un ecran care detaliază responsabilitățile Incoterms pentru cumpărători și vânzători",
   "content": [
     {
@@ -87,7 +87,7 @@
     },
     {
       "type": "image",
-      "src": "exw-fca-orig.png",
+      "src": "exw-fca.png",
       "alt": "Grafic ce compară responsabilitățile EXW și FCA pentru o expediție europeană exemplu",
       "caption": "Diagrama indică ce parte gestionează încărcarea, vămuirea la export și transportul principal în EXW versus FCA."
     },

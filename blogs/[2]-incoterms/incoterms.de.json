@@ -13,7 +13,7 @@
     "role": "Experten für Logistiktechnologie",
     "avatar": "/logos/slogo.png"
   },
-  "image": "managers-incoterms-orig.png",
+  "image": "managers-incoterms.png",
   "imageAlt": "Logistikmanager bewertet einen Bildschirm, der Incoterms-Verantwortlichkeiten von Käufer und Verkäufer aufschlüsselt",
   "content": [
     {
@@ -87,7 +87,7 @@
     },
     {
       "type": "image",
-      "src": "exw-fca-orig.png",
+      "src": "exw-fca.png",
       "alt": "Grafik vergleicht EXW und FCA Verantwortlichkeiten für eine Beispielsendung in Europa",
       "caption": "Diagramm zeigt, welche Partei Verladung, Ausfuhrabfertigung und Hauptbeförderung bei EXW versus FCA übernimmt."
     },

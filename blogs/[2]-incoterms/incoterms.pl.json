@@ -13,7 +13,7 @@
     "role": "Eksperci ds. technologii logistycznych",
     "avatar": "/logos/slogo.png"
   },
-  "image": "managers-incoterms-orig.png",
+  "image": "managers-incoterms.png",
   "imageAlt": "Kierownik logistyki przegląda ekran przedstawiający podział obowiązków Incoterms po stronie kupującego i sprzedającego",
   "content": [
     {
@@ -87,7 +87,7 @@
     },
     {
       "type": "image",
-      "src": "exw-fca-orig.png",
+      "src": "exw-fca.png",
       "alt": "Wykres porównujący obowiązki EXW i FCA dla przykładowej przesyłki w Europie",
       "caption": "Diagram pokazuje, która strona odpowiada za załadunek, odprawę eksportową i główny przewóz przy EXW i FCA."
     },

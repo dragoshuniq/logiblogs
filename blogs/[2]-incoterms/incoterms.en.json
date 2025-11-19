@@ -13,7 +13,7 @@
     "role": "Logistics Technology Experts",
     "avatar": "/logos/slogo.png"
   },
-  "image": "managers-incoterms-orig.png",
+  "image": "managers-incoterms.png",
   "imageAlt": "Logistics manager reviews a screen that breaks down Incoterms responsibilities for buyers and sellers",
   "content": [
     {
@@ -87,7 +87,7 @@
     },
     {
       "type": "image",
-      "src": "exw-fca-orig.png",
+      "src": "exw-fca.png",
       "alt": "Chart comparing EXW and FCA responsibilities for a sample European shipment",
       "caption": "Diagram shows which party manages loading, export clearance and the main carriage under EXW versus FCA."
     },

@@ -13,7 +13,7 @@
     "role": "Experts in logistieke technologie",
     "avatar": "/logos/slogo.png"
   },
-  "image": "managers-incoterms-orig.png",
+  "image": "managers-incoterms.png",
   "imageAlt": "Logistiek manager bekijkt een scherm dat Incoterms-verantwoordelijkheden van koper en verkoper uitsplitst",
   "content": [
     {
@@ -87,7 +87,7 @@
     },
     {
       "type": "image",
-      "src": "exw-fca-orig.png",
+      "src": "exw-fca.png",
       "alt": "Grafiek die verantwoordelijkheden onder EXW en FCA vergelijkt voor een Europese voorbeeldzending",
       "caption": "Diagram toont welke partij laden, exportafhandeling en hoofdvervoer verzorgt onder EXW versus FCA."
     },

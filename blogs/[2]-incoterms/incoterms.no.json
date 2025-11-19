@@ -13,7 +13,7 @@
     "role": "Eksperter på logistikkteknologi",
     "avatar": "/logos/slogo.png"
   },
-  "image": "managers-incoterms-orig.png",
+  "image": "managers-incoterms.png",
   "imageAlt": "Logistikkleder ser på en skjerm som viser Incoterms-ansvar for kjøpere og selgere",
   "content": [
     {
@@ -87,7 +87,7 @@
     },
     {
       "type": "image",
-      "src": "exw-fca-orig.png",
+      "src": "exw-fca.png",
       "alt": "Diagram som sammenligner EXW og FCA-ansvar for en europeisk eksempelforsendelse",
       "caption": "Diagrammet viser hvilken part som håndterer lasting, eksportklarering og hovedtransport under EXW kontra FCA."
     },

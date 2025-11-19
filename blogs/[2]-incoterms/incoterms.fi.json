@@ -13,7 +13,7 @@
     "role": "Logistiikkateknologian asiantuntijat",
     "avatar": "/logos/slogo.png"
   },
-  "image": "managers-incoterms-orig.png",
+  "image": "managers-incoterms.png",
   "imageAlt": "Logistiikkapäällikkö tarkastelee näyttöä, joka erittelee Incoterms-vastuut ostajalle ja myyjälle",
   "content": [
     {
@@ -87,7 +87,7 @@
     },
     {
       "type": "image",
-      "src": "exw-fca-orig.png",
+      "src": "exw-fca.png",
       "alt": "Kaavio vertailee EXW- ja FCA-vastuita esimerkkilähetyksessä Euroopassa",
       "caption": "Kaavio näyttää, kumpi osapuoli hoitaa lastauksen, vientitullauksen ja pääkuljetuksen EXW:ssä vs FCA:ssa."
     },

@@ -13,7 +13,7 @@
     "role": "Experter på logistikteknik",
     "avatar": "/logos/slogo.png"
   },
-  "image": "managers-incoterms-orig.png",
+  "image": "managers-incoterms.png",
   "imageAlt": "Logistikchef granskar en skärm som visar Incoterms-ansvar för köpare och säljare",
   "content": [
     {
@@ -87,7 +87,7 @@
     },
     {
       "type": "image",
-      "src": "exw-fca-orig.png",
+      "src": "exw-fca.png",
       "alt": "Diagram som jämför ansvar under EXW och FCA för en europeisk exempelsändning",
       "caption": "Diagrammet visar vilken part som hanterar lastning, exportklarering och huvudtransport under EXW respektive FCA."
     },
