@@ -1,0 +1,229 @@
+{
+  "id": "last-mile-delivery-in-european-cities-challenges-and-sustainable-solutions",
+  "shortId": "last-mile-delivery",
+  "language": "pl",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Dostawy last-mile w miastach europejskich: wyzwania i zrównoważone rozwiązania",
+  "description": "Wraz z dynamicznym rozwojem e-commerce ostatnia mila – końcowy odcinek dostawy z miejskiego hubu do klienta – stała się jedną z najbardziej kosztownych i emisyjnych faz łańcucha dostaw. Miasta europejskie odpowiadają na to wyzwanie, wdrażając strategie logistyki miejskiej, nowe regulacje i innowacyjne modele dostaw...",
+  "publishedAt": "2025-12-09T00:00:00.000Z",
+  "category": "Operacje",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperci ds. technologii logistycznych",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "last-mile-hero.png",
+  "imageAlt": "Ilustracja europejskiego miasta z mikro-hubami, rowerami cargo i elektrycznymi vanami dostarczającymi przesyłki w strefach niskiej emisji, z ikonami dynamicznego trasowania.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Rozwój handlu internetowego diametralnie zmienia miejską logistykę. Ostatnia mila – ostatni etap od lokalnego centrum dystrybucji do drzwi klienta – jest dziś jednym z najdroższych i najbardziej obciążających środowisko elementów łańcucha dostaw. Furgonetki i ciężarówki konkurują o ograniczoną przestrzeń uliczną, przyczyniają się do korków i muszą spełniać coraz bardziej rygorystyczne wymogi dotyczące emisji. W odpowiedzi wiele miast europejskich opracowuje strategie logistyki miejskiej, wprowadza nowe strefy regulowane i testuje innowacyjne modele dostaw. W artykule omawiamy skalę wyzwań i przykłady rozwiązań.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "last-mile-visual-1.png",
+      "alt": "Kurier na elektrycznym rowerze cargo w europejskiej strefie pieszej, z zabytkowymi budynkami w tle.",
+      "caption": "Elektryczne rowery cargo pozwalają realizować bezemisyjne dostawy w centrach historycznych i strefach pieszych, gdzie wjazd ciężkich pojazdów jest ograniczony."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Skala problemu"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transport miejski utrzymuje miasta przy życiu, ale generuje też znaczące koszty zewnętrzne. Raport opisujący 16 europejskich inicjatyw logistyki miejskiej wskazuje, że ostatnia mila może odpowiadać za ponad 50 % całkowitych kosztów dostaw. Pojazdy ciężkie stanowią jedynie część ruchu ulicznego, ale są źródłem nawet 25 % emisji CO2 związanych z transportem oraz 30–50 % emisji pyłów i tlenków azotu. W wielu miastach dystrybucja towarów odpowiada w przybliżeniu za 55 % emisji generowanych przez pojazdy.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Do typowych wyzwań należą niedostatek miejsc do załadunku i rozładunku, brak nowoczesnych obiektów logistycznych w granicach miast, co powoduje zjawisko „logistics sprawl”, oraz konflikt o przestrzeń przy krawężniku między dostawami, parkowaniem, transportem publicznym i ruchem rowerowym. Duża część dostaw przypada na godziny szczytu, pogłębiając korki i emisje. Mieszkańcy zgłaszają ponadto problemy z hałasem i bezpieczeństwem, gdy duże pojazdy manewrują w wąskich ulicach.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ramowe polityki i planowanie"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Zrównoważone plany logistyki miejskiej (SULP)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Grupa Ekspertów ds. Mobilności Miejskiej przy Komisji Europejskiej rekomenduje, aby miasta opracowywały Zrównoważone Plany Logistyki Miejskiej (SULP) jako uzupełnienie Planów Zrównoważonej Mobilności Miejskiej. SULP-y mają stanowić ramy strategiczne, w których analizuje się przepływy towarów, definiuje cele środowiskowe i operacyjne oraz dobiera narzędzia i inwestycje. Streszczenie zaleceń z 2024 roku podkreśla potrzebę spójnego podejścia do zbierania danych w całej UE, rozwijania dobrowolnego dzielenia się danymi, aktualizacji wytycznych z wykorzystaniem cyfrowych bliźniaków i narzędzi AI oraz szkoleń dla władz lokalnych. Szczególny nacisk kładzie się na bezpieczne warunki pracy dla kierowców i kurierów, modele logistyki współdzielonej i wspólne huby miejskie, które ograniczają puste przebiegi.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Miejska logistyka bezemisyjna"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Strona Komisji Europejskiej poświęcona logistyce miejskiej wskazuje, że przewozy towarowe w miastach są niezbędne, ale borykają się z przeciążeniem sieci drogowej, brakiem przestrzeni i wysokimi kosztami operacyjnymi. Zaleca się, aby władze miast włączały transport towarów do planów mobilności miejskiej i opracowywały zrównoważone plany logistyki przy współpracy z sektorem prywatnym. Jako priorytety wymienia się pojazdy zeroemisyjne, nowe modele dystrybucji, dynamiczne trasowanie oraz lepsze powiązanie transportu dalekobieżnego – kolei i żeglugi śródlądowej – z dystrybucją ostatniej mili. Projekty badawcze finansowane przez UE służą jako żywe laboratoria do testowania tych rozwiązań.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Innowacyjne rozwiązania"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Miasta i operatorzy logistyczni w całej Europie eksperymentują z różnymi kombinacjami rozwiązań: zmianami w zagospodarowaniu przestrzennym, regulacjami dotyczącymi dostępu do ulic oraz wykorzystaniem technologii cyfrowych. Z doświadczeń tych można wyodrębnić kilka powtarzających się elementów, które każda firma może przełożyć na własną strategię ostatniej mili.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Mikro-huby i konsolidacja: tworzenie małych centrów przeładunkowych bliżej odbiorców, w których ładunki są przeładowywane z cięższych pojazdów na lekkie, ciche środki transportu.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Rowery cargo i lekkie pojazdy elektryczne: wykorzystanie rowerów cargo i małych elektrycznych vanów do obsługi stref niskiej emisji, stref pieszych oraz wąskich ulic, gdzie dostęp ciężarówek jest ograniczony.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Dostawy poza godzinami szczytu: przesuwanie części dostaw na godziny wczesnoporanne lub późnowieczorne, co ogranicza korki, pod warunkiem zachowania wymogów dotyczących hałasu i bezpieczeństwa pracy.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Modele współdzielone: łączenie wolumenów kilku nadawców i przewoźników w ramach wspólnych hubów i tras w celu redukcji pustych przebiegów i lepszego wykorzystania floty.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Połączenia multimodalne: integracja terminali kolejowych, portów morskich i śródlądowych z miejskimi centrami dystrybucyjnymi, tak aby większa część trasy odbywała się przy użyciu niskoemisyjnych środków transportu, a ostatnia mila była możliwie krótka.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Kroki dla menedżerów logistyki"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Mapowanie ograniczeń regulacyjnych: sporządzenie mapy stref niskiej emisji, stref zeroemisyjnych, zakazów wjazdu i ograniczeń czasowych na głównych trasach dostaw oraz ocena, czy flota spełnia wymagane standardy.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Wykorzystanie danych: gromadzenie danych o dostawach (czas obsługi, liczba przystanków, opóźnienia, emisje) i dzielenie się nimi z władzami miejskimi w celu wsparcia planowania, negocjacji okien czasowych i oceny skutków nowych regulacji.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Inwestowanie w nisko- i zeroemisyjne floty: analizowanie zastosowania rowerów cargo, małych vanów elektrycznych i innych alternatywnych pojazdów oraz poszukiwanie programów wsparcia inwestycji w zieloną flotę.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Budowanie partnerstw: uczestnictwo w forach logistyki miejskiej, partnerstwach jakościowych i lokalnych inicjatywach, aby wspólnie z władzami i innymi operatorami testować nowe rozwiązania i dzielić się kosztami infrastruktury.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Pilotaże i skalowanie: uruchamianie pilotażowych projektów na wybranych trasach, systematyczne monitorowanie wyników i stopniowe skalowanie rozwiązań, które przynoszą korzyści pod względem kosztów, jakości obsługi i emisji.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Wnioski"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Dostawy last-mile stanowią poważne wyzwanie operacyjne, ale są też szansą na poprawę jakości życia w miastach i ograniczenie śladu węglowego sektora transportowego. Wdrażając SULP-y, inwestując w pojazdy zeroemisyjne i testując innowacyjne modele dostaw, miasta i przedsiębiorstwa logistyczne mogą zredukować emisje, zmniejszyć korki i podnieść poziom obsługi klienta. Dla menedżerów logistyki oznacza to konieczność traktowania ostatniej mili jako kluczowego elementu strategii operacyjnej, a nie jako końcowego „dodatku” do planowania tras.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Źródła"
+    },
+    {
+      "type": "citation",
+      "text": "European strategies for urban logistics: 16 case studies of innovative initiatives (Alyssa Harris, Laetitia Dablanc, 2023) - Analizuje logistykę miejską w 16 miastach europejskich i wskazuje, że ostatnia mila może odpowiadać za ponad 50 % kosztów dostaw, pojazdy ciężkie mogą generować do 25 % miejskich emisji CO2 oraz 30–50 % emisji pyłów i NOx, a dystrybucja towarów za około 55 % emisji pojazdów.",
+      "author": "Alyssa Harris, Laetitia Dablanc",
+      "url": "https://www.lvmt.fr/wp-content/uploads/2024/05/Harris-and-Dablanc-European-initiatives-of-urban-logistics-report-20231.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Recommendations on Urban Logistics (Expert Group on Urban Mobility, 2024) - Streszczenie rekomenduje dzielenie się danymi w całej UE, aktualizację wytycznych SULP z wykorzystaniem narzędzi cyfrowych, szkolenia dla władz lokalnych, zapewnienie bezpiecznych warunków pracy, rozwój logistyki współdzielonej oraz tworzenie wspólnych hubów w celu ograniczenia pustych przebiegów.",
+      "author": "Expert Group on Urban Mobility",
+      "url": "https://transport.ec.europa.eu/document/download/b818ff86-2463-4949-9413-d3ca559f60b9_en"
+    },
+    {
+      "type": "citation",
+      "text": "Zero-emission urban freight logistics and last-mile delivery (European Commission, 2024) - Podkreśla, że logistyka miejska jest niezbędna, ale zmaga się z korkami, brakiem przestrzeni i wysokimi kosztami, i rekomenduje włączenie przewozów towarowych do planów zrównoważonej mobilności, rozwój SULP-ów, stosowanie pojazdów zeroemisyjnych, nowych modeli dystrybucji, dynamicznego trasowania oraz powiązań multimodalnych.",
+      "author": "European Commission",
+      "url": "https://transport.ec.europa.eu/transport-themes/urban-transport/zero-emission-urban-freight-logistics-and-last-mile-delivery_en"
+    }
+  ],
+  "tags": [
+    "dostawy last-mile",
+    "logistyka miejska",
+    "zrównoważona dostawa",
+    "logistyka miejska w Europie",
+    "SULP",
+    "pojazdy zeroemisyjne",
+    "miejskie huby"
+  ]
+}
+

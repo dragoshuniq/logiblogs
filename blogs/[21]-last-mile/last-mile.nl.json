@@ -1,0 +1,229 @@
+{
+  "id": "last-mile-delivery-in-european-cities-challenges-and-sustainable-solutions",
+  "shortId": "last-mile-delivery",
+  "language": "nl",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Last-mile-bezorging in Europese steden: uitdagingen en duurzame oplossingen",
+  "description": "Door de snelle groei van e-commerce is de last-mile – het laatste traject van een stedelijk distributiecentrum naar de ontvanger – uitgegroeid tot een van de duurste en meest vervuilende schakels in de supply chain. Europese steden reageren met strategieën voor stedelijke logistiek, nieuwe regels en innovatieve oplossingen...",
+  "publishedAt": "2025-12-09T00:00:00.000Z",
+  "category": "Operaties",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experts in logistieke technologie",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "last-mile-hero.png",
+  "imageAlt": "Illustratie van een Europese stad met micro-hubs, cargofietsen en elektrische bestelwagens die pakketten bezorgen in emissiearme zones, met iconen voor dynamische routeplanning.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "De groei van online bestellingen zorgt voor een sterke toename van het aantal leveringen in steden. De last-mile – de laatste kilometers tussen een stedelijke hub en de klant – is daardoor een van de duurste en meest emissie-intensieve onderdelen van de logistieke keten geworden. Bestelwagens en vrachtwagens vechten om schaarse laad- en losplekken, veroorzaken extra files en krijgen te maken met strengere milieuzones. Om dit aan te pakken ontwikkelen veel Europese steden strategieën voor stedelijke logistiek, passen ze regelgeving aan en starten ze pilots met nieuwe bezorgmodellen. In dit artikel bekijken we de omvang van de uitdaging en welke oplossingen in de praktijk opduiken.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "last-mile-visual-1.png",
+      "alt": "Koerier op een elektrische cargofiets in een Europese voetgangerszone, met historische gebouwen op de achtergrond.",
+      "caption": "Elektrische cargofietsen maken stille, emissievrije leveringen mogelijk in drukke winkelstraten en historische binnensteden."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "De schaal van het probleem"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Stedelijke goederenstromen voorzien winkels, horeca en inwoners van noodzakelijke producten, maar brengen ook aanzienlijke kosten voor de leefomgeving met zich mee. Een overzicht van 16 Europese stedelijke logistiek-initiatieven laat zien dat last-mile-bezorging meer dan 50 % van de totale bezorgkosten kan uitmaken. Zware voertuigen vormen slechts een deel van het verkeer, maar zijn goed voor tot 25 % van de CO2-uitstoot van het stedelijk vervoer en 30–50 % van de uitstoot van fijnstof en stikstofoxiden. In veel onderzochte steden is goederenvervoer verantwoordelijk voor ongeveer 55 % van de voertuiggebonden emissies.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Veel steden kampen met een tekort aan laad- en losplaatsen, weinig logistieke voorzieningen binnen de stad en een sterke groei van logistieke activiteiten aan de randen van de agglomeratie (logistics sprawl). De ruimte langs de stoep wordt betwist door pakketdiensten, taxi’s, openbaar vervoer en fietsers. Omdat veel leveringen tijdens de spits plaatsvinden, versterken ze bestaande files. Omwonenden maken zich bovendien zorgen over veiligheid en geluidsoverlast wanneer grote voertuigen in smalle straten manoeuvreren.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Beleidskaders en planning"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sustainable Urban Logistics Plans (SULP)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "De Expert Group on Urban Mobility van de Europese Commissie adviseert steden om naast Sustainable Urban Mobility Plans ook Sustainable Urban Logistics Plans (SULP) op te stellen. Deze plannen vormen een strategisch kader om goederenstromen in kaart te brengen, doelen te formuleren voor emissies, veiligheid en efficiëntie en concrete maatregelen te bundelen. De aanbevelingen uit 2024 benadrukken de noodzaak van een EU-brede aanpak voor dataverzameling en vrijwillige data-sharing, geactualiseerde SULP-richtlijnen met digitale tools zoals digitale tweelingen en AI, en trainingen voor lokale overheden. Daarnaast wordt gepleit voor veilige arbeidsomstandigheden, meer samenwerking tussen logistieke partijen en gedeelde hubs om lege kilometers te verminderen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Stedelijke logistiek met nul emissies"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Op haar pagina over stedelijke logistiek wijst de Europese Commissie erop dat stedelijke goederenlogistiek onmisbaar is, maar dat congestie, gebrek aan ruimte en hoge kosten grote uitdagingen vormen. Steden worden aangemoedigd om goederenvervoer op te nemen in hun mobiliteitsplannen en SULP’s te ontwikkelen in nauwe samenwerking met marktpartijen. Belangrijke hefbomen zijn emissievrije voertuigen, nieuwe distributiemodellen, dynamische routering en betere multimodale verbindingen tussen langeafstandstransport (spoor, binnenvaart) en last-mile-bezorging. Diverse EU-projecten fungeren als living labs om deze oplossingen in het veld te testen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Innovatieve oplossingen"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In de praktijk combineren steden en logistieke dienstverleners fysieke ingrepen, regels en technologie om last-mile-bezorging schoner en efficiënter te maken. Er is geen standaardoplossing, maar in veel Europese steden komen vergelijkbare concepten terug die ook voor andere netwerken interessant zijn.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Micro-hubs en consolidatie: kleinere, wijkgebonden hubs waar zendingen van grote voertuigen worden overgeladen op lichte, emissievrije voertuigen voor de laatste kilometers.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Cargofietsen en lichte elektrische voertuigen: inzet van cargofietsen en compacte elektrische bestelwagens om historische binnensteden, voetgangersgebieden en lage-emissiezones efficiënt te bedienen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Bezorging buiten de spits: leveringen naar daluren verplaatsen verlaagt de druk op het wegennet, mits afspraken met bewoners en duidelijke regels voor geluid en veiligheid worden gemaakt.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Gedeelde logistieke modellen: gezamenlijke hubs en bundeling van volumes tussen meerdere verladers en vervoerders verminderen lege kilometers en verhogen de beladingsgraad per rit.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Multimodale koppelingen: betere koppeling van spoor-, zee- en binnenvaartterminals met stedelijke overslagpunten maakt het mogelijk een groter deel van het traject met koolstofarme modaliteiten af te leggen en de last-mile te beperken tot lokale distributie.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Acties voor logistiek managers"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Breng regels en beperkingen in kaart: identificeer lage-emissiezones, zero-emissiezones, tijdvensters voor leveringen en tonnagebeperkingen op de belangrijkste routes en controleer of de vloot aan de eisen voldoet.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Gebruik data: verzamel data over stops, rijafstanden, punctualiteit en emissies, monitor kengetallen zoals kosten per stop en CO2 per zending en deel waar mogelijk geaggregeerde data met gemeenten om beleid en pilots te ondersteunen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Investeer in schone voertuigen: onderzoek de inzet van elektrische bestelwagens, cargofietsen en andere emissiearme voertuigen en maak gebruik van subsidies of fiscale voordelen voor de vergroening van de vloot.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Zoek samenwerking: neem deel aan stedelijke logistiekplatforms en overlegstructuren, verken samenwerkingsverbanden rond micro-hubs en gedeelde infrastructuur met andere vervoerders en verladers.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Test en schaal op: start met kleinschalige pilots voor nieuwe concepten, meet systematisch de effecten op kosten, dienstverlening en emissies en schaal succesvolle oplossingen gecontroleerd op naar meer gebieden en steden.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusie"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Last-mile-bezorging is een grote uitdaging, maar ook een kans om steden stiller, schoner en leefbaarder te maken. Door SULP’s te ontwikkelen, te investeren in emissievrije voertuigen en innovatieve bezorgmodellen te testen, kunnen steden en logistieke dienstverleners emissies reduceren, congestie beperken en de service aan ontvangers verbeteren. Voor logistiek managers betekent dit dat last-mile niet als bijzaak mag worden gezien, maar als een strategisch onderdeel van de operatie dat gericht wordt ingericht met behulp van data en samenwerking.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Bronnen"
+    },
+    {
+      "type": "citation",
+      "text": "European strategies for urban logistics: 16 case studies of innovative initiatives (Alyssa Harris, Laetitia Dablanc, 2023) - Beschrijft stedelijke logistiek in 16 Europese steden en laat zien dat last-mile-bezorging meer dan 50 % van de bezorgkosten kan vertegenwoordigen, dat zware voertuigen tot 25 % van de stedelijke CO2-emissies en 30–50 % van de fijnstof- en NOx-emissies kunnen veroorzaken en dat goederenvervoer ongeveer 55 % van de voertuigemissies uitmaakt.",
+      "author": "Alyssa Harris, Laetitia Dablanc",
+      "url": "https://www.lvmt.fr/wp-content/uploads/2024/05/Harris-and-Dablanc-European-initiatives-of-urban-logistics-report-20231.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Recommendations on Urban Logistics (Expert Group on Urban Mobility, 2024) - Het overzicht beveelt EU-brede datadeling aan, geactualiseerde SULP-richtlijnen met digitale tools, trainingen voor lokale overheden, veilige arbeidsomstandigheden, collaboratieve logistiek en gedeelde hubs om lege kilometers te reduceren.",
+      "author": "Expert Group on Urban Mobility",
+      "url": "https://transport.ec.europa.eu/document/download/b818ff86-2463-4949-9413-d3ca559f60b9_en"
+    },
+    {
+      "type": "citation",
+      "text": "Zero-emission urban freight logistics and last-mile delivery (European Commission, 2024) - Benadrukt dat stedelijke goederenlogistiek essentieel is maar kampt met congestie, gebrek aan ruimte en hoge kosten en beveelt aan om goederenvervoer te integreren in duurzame mobiliteitsplannen, SULP’s te ontwikkelen, emissievrije voertuigen en nieuwe distributiemodellen te gebruiken en multimodale verbindingen te versterken.",
+      "author": "European Commission",
+      "url": "https://transport.ec.europa.eu/transport-themes/urban-transport/zero-emission-urban-freight-logistics-and-last-mile-delivery_en"
+    }
+  ],
+  "tags": [
+    "last-mile-bezorging",
+    "stedelijke logistiek",
+    "duurzame levering",
+    "stadslogistiek",
+    "SULP",
+    "emissievrije voertuigen",
+    "stedelijke hubs"
+  ]
+}
+

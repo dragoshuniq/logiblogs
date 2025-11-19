@@ -1,0 +1,222 @@
+{
+  "id": "reverse-logistics-and-the-circular-economy-in-europe-turning-returns-into-resources",
+  "shortId": "reverse-logistics-circular",
+  "language": "nl",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Reverse logistics en de circulaire economie in Europa: retouren omzetten in waardevolle grondstoffen",
+  "description": "De groei van e-commerce en strengere milieuregels hebben reverse logistics – het inzamelen van geretourneerde producten en verpakkingen en het opnieuw opnemen daarvan in de toeleveringsketen – centraal gezet. Om duurzaamheidsdoelen te halen, moeten bedrijven hun retourstromen koppelen aan de circulaire strategieën van de EU...",
+  "publishedAt": "2025-12-08T00:00:00.000Z",
+  "category": "Duurzaamheid",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experts in logistieke technologie",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "reverse-logistics-hero.png",
+  "imageAlt": "Illustratie van een circulaire toeleveringsketen met pijlen voor voorwaartse en teruggaande logistieke stromen, hergebruikte containers en recyclingsymbolen in een Europese context.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Door de sterke groei van online bestellingen en aangescherpte milieuregels verschuift de aandacht in de logistiek steeds meer naar reverse logistics. Het gaat om het ophalen en sorteren van retourzendingen en gebruikte verpakkingen en deze opnieuw in de keten opnemen in plaats van ze als afval af te voeren. Om de klimaat- en duurzaamheidsdoelen van de Europese Unie te halen, moeten verladers en vervoerders deze retourstromen verbinden met hun strategie voor een circulaire economie. In dit artikel bespreken we het regelgevend kader en praktische stappen voor logistieke teams.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "reverse-logistics-visual-1.png",
+      "alt": "Magazijn waar geretourneerde pakketten worden gesorteerd voor hergebruik, refurbishment en recycling, met medewerkers en groene borden.",
+      "caption": "Retourcentra vormen een schakel tussen consumenten, retailers en recyclers en zijn daarmee essentieel voor een circulaire logistieke keten."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Waarom reverse logistics steeds belangrijker wordt"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Retouren en producten aan het einde van hun levensduur worden niet langer alleen gezien als kostenpost. Steeds vaker worden ze benaderd als grondstof die kan worden gerepareerd, opgeknapt of gerecycled. Het Europees Milieuagentschap beschrijft hoe de EU stap voor stap afstapt van het lineaire model, waarbij producten na één gebruik worden weggegooid, en toewerkt naar een circulaire economie die draait om hergebruik, reparatie en recycling. Door materialen langer in omloop te houden en ze in nieuwe producten te verwerken, daalt de hoeveelheid afval en de milieubelasting.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Toch verloopt de transitie langzaam. In 2022 was slechts ongeveer 11,5 % van alle in de EU gebruikte materialen afkomstig uit recycling, en het verdubbelen van deze circulaire materiaalgebruikratio tegen 2030 wordt een uitdaging. Tegelijkertijd is het aandeel afval dat op stortplaatsen terechtkomt gedaald van 23 % naar 16 % tussen 2010 en 2020, wat laat zien dat er vooruitgang is. Reverse logistics kan helpen de cirkel te sluiten door producten en verpakkingen terug te halen voor hergebruik en recycling in plaats van ze af te voeren.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Verordening verpakking en verpakkingsafval (PPWR)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "De nieuwe EU-verordening over verpakkingen en verpakkingsafval (PPWR), die op 11 februari 2025 in werking is getreden, stelt ambitieuze doelen voor hergebruik en recycling. Alle verpakkingen op de EU-markt moeten tegen 2030 recyclebaar zijn, het aandeel gerecycled plastic moet omhoog en het gebruik van primaire grondstoffen omlaag. De verordening beperkt ook het gebruik van wegwerpverpakkingen en verplicht afhaal- en bezorgzaken om door klanten meegebrachte herbruikbare verpakkingen te accepteren zonder extra kosten. Verpakkingen zijn goed voor circa 40 % van het plasticverbruik in de EU en de helft van het zwerfafval in zee. In 2022 produceerde elke inwoner gemiddeld 186,5 kilogram verpakkingsafval.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Voor logistiek managers betekent de PPWR meer verantwoordelijkheid voor het organiseren van de retourstroom van verpakkingen en voor de keuze van verwerkers die aan de regels voldoen. Herbruikbare verpakkingssystemen en ontwerp dat gericht is op eenvoudig sorteren en recyclen worden vaste onderdelen van de logistieke strategie.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Netwerken voor reverse logistics ontwerpen"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Bij het opzetten van een efficiënt reverse-logisticsnetwerk kunnen bedrijven onder meer de volgende stappen overwegen:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Retourstromen analyseren: breng productcategorieën met hoge retourpercentages in kaart, zoals elektronica of modeartikelen, en bepaal in hoeverre ze kunnen worden gerepareerd, opgeknapt of gerecycled.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Inzamelpunten en afhaalpunten gebruiken: bundel retouren via pakketpunten, lockers en winkels, zodat de ophaalkosten lager zijn en de drempel voor consumenten om terug te sturen kleiner wordt.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Voorwaartse en retourlogistiek integreren: combineer leveringen en ophalingen op dezelfde route om lege kilometers te vermijden. Route-optimalisatie kan helpen om beide stromen op elkaar af te stemmen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Samenwerken met refurbishers en recyclers: sluit overeenkomsten met gecertificeerde partners die resi beoordelen, repareren, opknappen en recyclen, en leg gegevens vast over de staat waarin producten terugkomen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Herbruikbare verpakkingen invoeren: investeer in robuuste transportverpakkingen, zoals inklapbare kratten, die kunnen worden teruggehaald, gereinigd en opnieuw gebruikt. Dit vermindert afval en verbetert de productbescherming.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Circulaire strategieën in de logistiek"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Reverse logistics moet onderdeel zijn van een bredere circulaire strategie in de logistiek, met onder andere de volgende bouwstenen:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Ontwerp voor demontage: producten en verpakkingen zo ontwerpen dat ze eenvoudig uit elkaar gehaald en per materiaalstroom gescheiden kunnen worden voor reparatie of recycling.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Gedeelde middelen: magazijnruimte, stadsdepots en transportcapaciteit delen met andere partijen om de bezettingsgraad te verhogen en onbenutte capaciteit te verminderen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Data en tracking: systemen introduceren voor het volgen van herbruikbare verpakkingen en andere logistieke dragers, bijvoorbeeld via geavanceerde barcodes, RFID of digitale platforms.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Betrokkenheid van consumenten: consumenten stimuleren om producten en verpakkingen terug te brengen met behulp van statiegeldsystemen, kortingen of terugkoopprogramma’s, gecombineerd met duidelijke communicatie over milieuwinst.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Monitoring en rapportage: indicatoren zoals retourpercentages, hergebruik en recycling nauwkeurig bijhouden om aan rapportageverplichtingen te voldoen en verbeterkansen in kaart te brengen.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusie"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Reverse logistics is een kernonderdeel van de circulaire economie. Door het PPWR actief toe te passen en hun processen af te stemmen op de Europese circulaire doelstellingen kunnen Europese verladers en vervoerders retourstromen omvormen van pure kostenpost tot bron van waarde. Integratie van retourlogistiek in bestaande netwerken, investeringen in herbruikbare verpakkingen en nauwe samenwerking in de hele keten helpen organisaties om duurzaamheidsdoelen te halen en in te spelen op strengere regelgeving en klantverwachtingen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Bronnen"
+    },
+    {
+      "type": "citation",
+      "text": "Circular economy (European Environment Agency, 2024) - Beschrijft de overgang van Europa van lineaire naar circulaire modellen en benadrukt dat in 2022 slechts 11,5 % van de gebruikte materialen in de EU afkomstig was uit recycling, terwijl het aandeel gestort afval tussen 2010 en 2020 daalde van 23 % naar 16 %.",
+      "author": "European Environment Agency",
+      "url": "https://www.eea.europa.eu/en/topics/in-depth/circular-economy"
+    },
+    {
+      "type": "citation",
+      "text": "Packaging waste (European Commission, 2025) - Vat de verordening inzake verpakkingen en verpakkingsafval (2025/40) samen, die voorschrijft dat alle verpakkingen tegen 2030 recyclebaar moeten zijn, het gebruik van gerecycled plastic vergroot, primaire grondstoffen vermindert, wegwerpverpakkingen beperkt en afhaalzaken verplicht herbruikbare verpakkingen van klanten te accepteren.",
+      "author": "European Commission",
+      "url": "https://environment.ec.europa.eu/topics/waste-and-recycling/packaging-waste_en"
+    }
+  ],
+  "tags": [
+    "reverse logistics",
+    "circulaire economie",
+    "verpakkingsregelgeving",
+    "recycling",
+    "hergebruik",
+    "retouren",
+    "EU-logistiek"
+  ]
+}
+

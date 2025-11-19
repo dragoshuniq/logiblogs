@@ -1,0 +1,229 @@
+{
+  "id": "last-mile-delivery-in-european-cities-challenges-and-sustainable-solutions",
+  "shortId": "last-mile-delivery",
+  "language": "tr",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Avrupa şehirlerinde last-mile teslimat: zorluklar ve sürdürülebilir çözümler",
+  "description": "E-ticaret hızla büyürken last-mile – kentsel bir dağıtım merkezinden son müşteriye kadar olan son etap – tedarik zincirinin en maliyetli ve en fazla emisyon üreten aşamalarından biri haline geldi. Avrupa şehirleri bu zorluğa kentsel lojistik stratejileri, yeni düzenlemeler ve yenilikçi çözümlerle yanıt veriyor...",
+  "publishedAt": "2025-12-09T00:00:00.000Z",
+  "category": "Operasyonlar",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Lojistik teknolojisi uzmanları",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "last-mile-hero.png",
+  "imageAlt": "Mikro hub’lar, kargo bisikletleri ve elektrikli vanlarla düşük emisyon bölgelerinde paket teslimatı yapılan bir Avrupa şehrini gösteren illüstrasyon, dinamik güzergah planlamasını gösteren ikonlarla birlikte.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "E-ticaret siparişlerinin artması, özellikle büyük şehirlerde teslimat trafiğini ciddi biçimde artırıyor. Last-mile – şehir içi bir merkezden müşterinin adresine uzanan son etap – bugün çoğu işletme için hem maliyet hem de emisyon açısından en kritik halkalardan biri. Dağıtım araçları dar sokaklarda park yeri ararken hem trafik sıkışıklığını hem de hava kirliliğini büyütüyor. Bu tablo karşısında pek çok Avrupa kenti kentsel lojistik stratejileri geliştiriyor, erişim kurallarını güncelliyor ve yeni teslimat modellerini test ediyor. Bu yazıda sorunun boyutunu ve lojistik yöneticileri için öne çıkan çözüm yollarını ele alıyoruz.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "last-mile-visual-1.png",
+      "alt": "Tarihi binaların bulunduğu bir Avrupa yaya bölgesinde elektrikli kargo bisikleti kullanan bir kurye.",
+      "caption": "Elektrikli kargo bisikletleri, tarihi merkezler ve yaya bölgeleri gibi ağır araçlara kapalı alanlarda sessiz ve sıfır emisyonlu teslimat imkanı sağlıyor."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sorunun ölçeği"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kentsel yük taşımacılığı şehirlerin beslenmesini sağlar; süpermarket rafları, restoran depoları ve konutlar bu sayede dolu kalır. Aynı zamanda, yoğunluk, gürültü ve hava kirliliği açısından önemli bir yük anlamına gelir. 16 Avrupa şehrini inceleyen bir çalışma, last-mile teslimatın toplam teslimat maliyetlerinin yüzde 50’sinden fazlasını oluşturabileceğini gösteriyor. Ağır vasıtalar şehir içi trafiğin yalnızca sınırlı bir bölümünü oluştursa da ulaşım kaynaklı CO2 emisyonlarının yüzde 25’ine ve partikül ile NOx emisyonlarının yüzde 30–50’sine kadar sebep olabiliyor. Pek çok şehirde yük dağıtımının, araç kaynaklı emisyonların yaklaşık yüzde 55’inden sorumlu olduğu tahmin ediliyor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "En sık dile getirilen sorunlar arasında kısıtlı yükleme-boşaltma alanları, şehir merkezinde modern lojistik tesislerinin eksikliği, bu nedenle depoların giderek daha dış bölgelere taşınması ve kaldırımların önünde park, toplu taşıma ve teslimat araçları arasında süren alan mücadelesi yer alıyor. Teslimatların önemli bir kısmı trafik yoğunluğunun en yüksek olduğu saatlere denk geliyor ve mevcut sıkışıklığı daha da kötüleştiriyor. Büyük araçların dar sokaklarda manevra yapması, yaya güvenliği ve gürültü konusunda da ciddi şikayetlere konu oluyor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Politika çerçeveleri ve planlama"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sürdürülebilir kentsel lojistik planları (SULP)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Avrupa Komisyonu’nun Kentsel Hareketlilik Uzman Grubu, şehirlerin Sürdürülebilir Kentsel Lojistik Planları (Sustainable Urban Logistics Plans, SULP) hazırlamasını tavsiye ediyor. Bu planlar, kentsel yük taşımacılığının mevcut durumunu analiz etmeyi, hedefler belirlemeyi ve somut eylem paketleri oluşturarak uygulamaya koymayı amaçlıyor. 2024 tarihli özet, AB genelinde karşılaştırılabilir verilerin ve kamu-özel veri paylaşımının önemini vurguluyor; dijital ikizler ve yapay zeka gibi araçların SULP rehberlerine dahil edilmesini ve yerel otoritelere yönelik eğitim programlarını öneriyor. Ayrıca lojistik çalışanları için güvenli çalışma koşulları, işbirliğine dayalı lojistik modelleri ve boş seferleri azaltan ortak hub yapıları da öne çıkarılıyor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sıfır emisyonlu kentsel lojistik"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Avrupa Komisyonu’nun sıfır emisyonlu kentsel lojistik sayfasında, şehir içi yük taşımacılığının vazgeçilmez olduğu, ancak yoğunluk, alan darlığı ve yüksek maliyetler nedeniyle baskı altında bulunduğu belirtiliyor. Komisyon, yük taşımacılığının sürdürülebilir kentsel hareketlilik planlarına entegre edilmesini, SULP’lerin özel sektörle ortaklaşa geliştirilmesini ve sıfır emisyonlu araçlar, yeni dağıtım modelleri, dinamik rota planlaması ve multimodal bağlantıların kullanılmasını tavsiye ediyor. AB tarafından desteklenen araştırma ve pilot projeler, bu yaklaşımları gerçek şehir ortamlarında test etmek için kullanılıyor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Yenilikçi çözümler"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Pratikte Avrupa şehirleri ve lojistik operatörleri, kentsel planlama, düzenlemeler ve teknoloji kombinasyonlarıyla last-mile teslimatını yeniden tasarlamaya çalışıyor. Her şehir için tek bir doğru model olmasa da farklı örneklerde tekrar eden bazı mekanizmalar göze çarpıyor ve bunlar başka pazarlara da uyarlanabiliyor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Mikro hub ve konsolidasyon: büyük araçlardan gelen yüklerin, mahallelere daha yakın konumlandırılmış mikro hub’larda daha küçük ve çevreci araçlara aktarılması, böylece ağır araçların şehir merkezine giriş ihtiyacının azaltılması.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kargo bisikletleri ve hafif elektrikli araçlar: elektrikli kargo bisikletleri ve kompakt elektrikli vanların, tarihi merkezler, yaya bölgeleri ve düşük emisyonlu alanlar gibi hassas bölgelerde ana dağıtım aracı haline gelmesi.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Yoğun saatler dışında teslimat: belirli güzergahlarda teslimatları sabah erken veya akşam geç saatlere kaydırarak trafik sıkışıklığını azaltmak, ancak bunu yaparken gürültü ve iş sağlığı-güvenliği konularını yerel otoritelerle birlikte yönetmek.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "İşbirliğine dayalı lojistik: birden fazla yük sahibi ve taşıyıcının, kentsel hub’ları ve teslimat rotalarını paylaşarak araç kapasitesini daha iyi kullanması ve boş kilometreleri azaltması.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Multimodal entegrasyon: demiryolu, deniz ve iç su yolu terminallerinin kentsel dağıtım merkezleriyle daha sıkı bağlanması, böylece yolculuğun büyük kısmının düşük karbonlu modlarla, yalnızca son kısmının şehir içi araçlarla yapılması.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Lojistik yöneticileri için adımlar"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Düzenleyici kısıtları haritalandırmak: faaliyet gösterilen şehirlerde düşük ve sıfır emisyon bölgelerini, zaman kısıtlarını, tonaj limitlerini ve diğer erişim kurallarını belirlemek ve filonun bu gerekliliklerle ne kadar uyumlu olduğunu değerlendirmek.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Veriyi etkin kullanmak: durak sayıları, teslimat süreleri, maliyetler ve tahmini emisyonlar gibi operasyonel verileri toplamak, last-mile performansı için metrikler oluşturmak ve bu verileri gerekli olduğunda belediyelerle paylaşarak planlama ve pazarlık süreçlerini güçlendirmek.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Düşük ve sıfır emisyonlu araçlara yatırım yapmak: elektrikli vanlar, kargo bisikletleri ve diğer alternatif araç türleri için iş vakaları hazırlamak, menzil ve altyapı ihtiyaçlarını analiz etmek ve mevcut teşvik, hibe veya vergi avantajlarından yararlanmak.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Yerel ortaklıklar kurmak: kentsel lojistikle ilgili platformlara katılmak, diğer taşıyıcılarla ortak hub veya konsolidasyon projeleri geliştirmek ve belediyelerle birlikte sahada test edilebilecek pilot projeler tasarlamak.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Pilot uygulamalar ve ölçeklendirme: yeni last-mile modellerini önce sınırlı bölgelerde denemek, maliyet, hizmet kalitesi ve emisyon etkilerini ölçmek ve başarı gösteren çözümleri kademeli olarak daha geniş ağlara yaymak.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sonuç"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Last-mile teslimat, hem şehirler hem de lojistik şirketleri için karmaşık bir operasyonel alan, ancak aynı zamanda karbon ayak izini azaltmak ve şehirleri daha yaşanabilir hale getirmek için önemli bir fırsat sunuyor. Güçlü SULP planları, sıfır emisyonlu filolara yatırım ve yenilikçi teslimat modellerinin sahada denenmesi, emisyonları ve trafik sıkışıklığını azaltırken hizmet kalitesini de iyileştirebilir. Lojistik yöneticileri için kilit mesaj, last-mile sürecini uçta çözülmesi gereken bir detay değil, bütünsel operasyon stratejisinin merkezinde yer alan bir konu olarak ele almak.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kaynaklar"
+    },
+    {
+      "type": "citation",
+      "text": "European strategies for urban logistics: 16 case studies of innovative initiatives (Alyssa Harris, Laetitia Dablanc, 2023) - 16 Avrupa şehrindeki kentsel lojistik örneklerini inceliyor ve last-mile teslimatın teslimat maliyetlerinin yüzde 50’sinden fazlasını oluşturabileceğini, ağır araçların kentsel CO2 emisyonlarının yüzde 25’ine ve partikül ile NOx emisyonlarının yüzde 30–50’sine kadar katkıda bulunabileceğini ve yük dağıtımının araç kaynaklı emisyonların yaklaşık yüzde 55’ini oluşturduğunu belirtiyor.",
+      "author": "Alyssa Harris, Laetitia Dablanc",
+      "url": "https://www.lvmt.fr/wp-content/uploads/2024/05/Harris-and-Dablanc-European-initiatives-of-urban-logistics-report-20231.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Recommendations on Urban Logistics (Expert Group on Urban Mobility, 2024) - Özet, AB genelinde veri paylaşımını, dijital araçların dahil edildiği güncellenmiş SULP yönergelerini, yerel otoriteler için eğitim programlarını, güvenli çalışma koşullarını, işbirliğine dayalı lojistiği ve boş seferleri azaltmaya yönelik ortak hub’ları tavsiye ediyor.",
+      "author": "Expert Group on Urban Mobility",
+      "url": "https://transport.ec.europa.eu/document/download/b818ff86-2463-4949-9413-d3ca559f60b9_en"
+    },
+    {
+      "type": "citation",
+      "text": "Zero-emission urban freight logistics and last-mile delivery (European Commission, 2024) - Kentsel yük taşımacılığının zorunlu olmasına rağmen yoğunluk, alan darlığı ve yüksek maliyetlerle mücadele ettiğini vurguluyor ve yük taşımacılığının sürdürülebilir kentsel hareketlilik planlarına entegre edilmesini, SULP geliştirilmesini, sıfır emisyonlu araçlar, yeni dağıtım modelleri, dinamik rota planlaması ve multimodal bağlantıların kullanılmasını öneriyor.",
+      "author": "European Commission",
+      "url": "https://transport.ec.europa.eu/transport-themes/urban-transport/zero-emission-urban-freight-logistics-and-last-mile-delivery_en"
+    }
+  ],
+  "tags": [
+    "last-mile teslimat",
+    "kentsel lojistik",
+    "sürdürülebilir teslimat",
+    "şehir lojistiği",
+    "SULP",
+    "sıfır emisyonlu araçlar",
+    "kentsel hub’lar"
+  ]
+}
+

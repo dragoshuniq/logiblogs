@@ -1,0 +1,210 @@
+{
+  "id": "driver-shortages-in-european-road-transport-causes-impacts-and-solutions",
+  "shortId": "driver-shortages-european",
+  "language": "pt",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Escassez de motoristas no transporte rodoviário europeu: causas, impactos e soluções",
+  "description": "Em toda a Europa, gestores de logística têm dificuldade em encontrar motoristas de pesados qualificados. Envelhecimento da força de trabalho, barreiras de entrada elevadas e más condições de trabalho alimentam uma crise laboral que ameaça a fiabilidade do transporte rodoviário. Este artigo analisa a dimensão e as causas da escassez de motoristas e propõe medidas práticas para atrair e reter talento...",
+  "publishedAt": "2025-12-07T00:00:00.000Z",
+  "category": "Operações",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Especialistas em tecnologia logística",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "driver-shortages-hero.png",
+  "imageAlt": "Fila de camiões articulados estacionados num parque europeu com um cartaz a anunciar vagas para motoristas.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Por toda a Europa, os responsáveis de logística lutam para encontrar motoristas de camiões qualificados em número suficiente. O envelhecimento da força de trabalho, as barreiras de entrada elevadas e as condições de trabalho exigentes alimentam uma crise laboral que ameaça a fiabilidade do transporte rodoviário. Este artigo examina a dimensão e as causas da escassez de motoristas e apresenta medidas concretas para atrair e reter estes profissionais.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "driver-shortages-visual-1.png",
+      "alt": "Ilustração da distribuição demográfica no transporte rodoviário: condutores envelhecidos, jovens a entrar na profissão, custos da carta e diferença de género.",
+      "caption": "O perfil demográfico do setor mostra uma população envelhecida de motoristas, poucos jovens e uma marcada sub-representação feminina."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dimensão da escassez de motoristas"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A International Road Transport Union (IRU) descreve a escassez de motoristas como uma crise global. Na Europa, a IRU estima que centenas de milhares de vagas de motorista de camião, autocarro e autocarro de turismo estejam por preencher e que, à escala mundial, faltem mais de 3,6 milhões de motoristas. Os profissionais jovens são raros: menos de 6,5 % dos motoristas profissionais têm menos de 25 anos, enquanto mais de 40 % têm mais de 55. As mulheres representam menos de 7 % da força de trabalho, refletindo preocupações de segurança e a falta de instalações adequadas.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Um relatório do mercado de trabalho da ELA/EURES indica que o setor do transporte terrestre na UE é composto por cerca de 1,06 milhões de empresas que empregam aproximadamente 5,78 milhões de pessoas e que muitos países reportam escassez aguda de motoristas de pesados e mecânicos. As barreiras de entrada incluem o custo da carta de condução profissional e do Certificado de Aptidão de Motorista (CPC), que em alguns países ultrapassa os 2.000 EUR. O reconhecimento das cartas de condução de países terceiros é complexo e moroso, o que limita o recrutamento fora da UE.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Causas da escassez de motoristas"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Vários fatores contribuem para esta escassez:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Demografia e reforma: a população de motoristas está a envelhecer. Com mais de 40 % dos motoristas acima dos 55 anos, muitos irão reformar-se na próxima década. Poucos jovens veem a condução de pesados como carreira atractiva, criando um vazio na linha de sucessão.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Condições de trabalho: longas jornadas, pernoitas fora de casa, horários irregulares e falta de parques seguros com instalações sanitárias afastam potenciais candidatos. O relatório ELA/EURES destaca que baixos salários e preocupações com a segurança desmotivam em particular mulheres e trabalhadores mais jovens.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Custos da carta e da formação: obter a carta de pesados e o CPC pode custar alguns milhares de euros. Um artigo da Trans.info indica que na Polónia o custo da carta de camião ronda os 10.000 PLN (cerca de 2.340 EUR) e que valores semelhantes existem noutros países. Sem subsídios, muitos jovens não conseguem suportar este investimento inicial.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Complexidade administrativa: o reconhecimento desigual das cartas de condução entre Estados-Membros e os processos de visto e autorização de trabalho para motoristas de países terceiros tornam o recrutamento internacional lento e burocrático.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Concorrência de outros setores: o transporte rodoviário compete com a construção, a logística de armazém e trabalhos na economia das plataformas, que podem oferecer horários mais previsíveis ou outras vantagens percebidas como mais atractivas.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Impactos na logística e na cadeia de abastecimento"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A escassez de motoristas exerce pressão sobre os salários e as tarifas de transporte, contribui para atrasos nas entregas e reduz a flexibilidade operacional. Muitas frotas são obrigadas a manter veículos imobilizados por falta de motoristas, limitando a capacidade disponível nos períodos de pico. Trans.info estima que o défice de motoristas na Europa se aproxima dos 500.000 postos, enquanto na Polónia em particular faltam entre 100.000 e 200.000 motoristas. Sem ação, a IRU alerta que o transporte de bens essenciais pode ficar comprometido.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Soluções e recomendações"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Reduzir as barreiras de entrada: os governos podem subsidiar o custo da carta e da formação ou criar sistemas de vales. Em Itália, por exemplo, existem vales que cobrem até 80 % do custo da carta. Simplificar o reconhecimento de cartas estrangeiras e os processos de visto ajudaria a atrair motoristas de países vizinhos.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Melhorar as condições de trabalho: investir em áreas de serviço seguras com instalações sanitárias, promover horários mais previsíveis, rotas regionais e voltas mais curtas que permitam conciliar melhor a vida profissional e pessoal.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Atrair grupos sub-representados: programas específicos para recrutar mulheres e jovens devem sublinhar a segurança, a igualdade salarial e as oportunidades de progressão. Camiões modernos com cabinas confortáveis e sistemas avançados de assistência ao condutor tornam a profissão mais apelativa.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Investir em automação e intermodalidade: embora a automação não vá substituir motoristas de um dia para o outro, tecnologias como carregamento automático, assistência ao condutor e platooning podem aumentar a produtividade. O transporte intermodal reduz o número de viagens de longa distância que dependem de motoristas, já que um comboio pode substituir 30-40 semi-reboques na estrada.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Melhorar a imagem profissional: comunicar o papel estratégico dos motoristas nas cadeias de abastecimento. Programas de aprendizagem e parcerias com escolas profissionais podem criar um fluxo contínuo de novos talentos para o setor.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusão"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A escassez de motoristas ameaça a resiliência das cadeias de abastecimento europeias. Abordá-la exige uma ação concertada de governos, transportadoras e carregadores para reduzir barreiras de entrada, melhorar as condições de trabalho e modernizar a profissão. Investir em formação, diversidade e tecnologia ajudará a atrair uma nova geração de motoristas e a garantir que o transporte rodoviário consegue responder a uma procura crescente.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fontes"
+    },
+    {
+      "type": "citation",
+      "text": "Global driver shortage reaches crisis point (International Road Transport Union, 2024) - Indica que milhões de postos de motorista estão por preencher em todo o mundo, que menos de 6,5 % dos condutores são menores de 25 anos e mais de 40 % têm mais de 55, e que a escassez ameaça o transporte de bens essenciais.",
+      "author": "International Road Transport Union",
+      "url": "https://www.iru.org/news-resources/newsroom/driver-shortage-global-crisis"
+    },
+    {
+      "type": "citation",
+      "text": "ELA/EURES labour market report 2024 (European Labour Authority, EURES, 2024) - Mostra que o setor do transporte terrestre na UE inclui cerca de 1,06 milhões de empresas com 5,78 milhões de trabalhadores, destaca a escassez de motoristas de pesados e mecânicos, os elevados custos de carta e as más condições de trabalho e sublinha a fraca representação das mulheres.",
+      "author": "European Labour Authority, EURES",
+      "url": "https://ec.europa.eu/social/main.jsp?catId=738&langId=en&pubId=8407"
+    },
+    {
+      "type": "citation",
+      "text": "Driver shortage leaves fleets idle and costs increase for system (Trans.info, 2025) - Refere que a escassez de motoristas na Europa se aproxima dos 500.000 postos; menciona custos de carta elevados (cerca de 2.340 EUR) e o esquema de vales italiano que cobre até 80 % dos custos de formação; sugere que o transporte intermodal pode aliviar a falta de motoristas ao substituir 30-40 semi-reboques por um comboio.",
+      "author": "Trans.info",
+      "url": "https://trans.info/en/driver-shortage-idle-fleets-421938"
+    }
+  ],
+  "tags": [
+    "escassez de motoristas",
+    "motorista de camião",
+    "crise de mão de obra",
+    "custo da carta de condução",
+    "condições de trabalho",
+    "logística europeia",
+    "mercado de trabalho do transporte"
+  ]
+}
+

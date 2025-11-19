@@ -1,0 +1,222 @@
+{
+  "id": "reverse-logistics-and-the-circular-economy-in-europe-turning-returns-into-resources",
+  "shortId": "reverse-logistics-circular",
+  "language": "tr",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Avrupa’da tersine lojistik ve döngüsel ekonomi: iadeleri kaynağa dönüştürmek",
+  "description": "E-ticaretin büyümesi ve sıkılaşan çevre düzenlemeleri, tersine lojistiği – iade edilen ürün ve ambalajların toplanıp tedarik zincirine geri kazandırılması sürecini – gündemin üst sıralarına taşıdı. Sürdürülebilirlik hedeflerine ulaşmak isteyen şirketler, bu ters akışları AB’nin döngüsel ekonomi stratejileriyle uyumlu hale getirmek zorunda...",
+  "publishedAt": "2025-12-08T00:00:00.000Z",
+  "category": "Sürdürülebilirlik",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Lojistik teknolojisi uzmanları",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "reverse-logistics-hero.png",
+  "imageAlt": "Avrupa bağlamında, ileri ve ters lojistik akışlarını gösteren oklarla, yeniden kullanılan konteynerlerle ve geri dönüşüm simgeleriyle tasvir edilen dairesel bir tedarik zinciri illüstrasyonu.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "E-ticaret hacimleri artarken ve çevre mevzuatı sertleşirken, tersine lojistik taşımacılık yöneticileri için kritik bir konu haline geliyor. Tersine lojistik, iade edilen ürün ve ambalajların toplanması, ayrıştırılması ve çöpe gitmek yerine yeniden tedarik zincirine kazandırılması anlamına geliyor. Avrupa Birliği’nin iklim ve sürdürülebilirlik hedeflerine katkı sağlamak için, yük sahiplerinin ve taşıyıcıların bu ters akışları döngüsel ekonomi stratejilerine entegre etmesi gerekiyor. Bu yazı, düzenleyici çerçeveyi özetliyor ve operasyon ekipleri için uygulanabilir adımlar öneriyor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "reverse-logistics-visual-1.png",
+      "alt": "İade edilen paketlerin onarım, yeniden kullanım ve geri dönüşüm için ayrıldığı, çalışanlar ve yeşil tabelalar bulunan bir depo.",
+      "caption": "Tersine lojistik merkezleri, ürün ve ambalajların atık olmak yerine yeniden kullanıma ve geri dönüşüme yönlendirilmesini sağlayan kilit noktalardır."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tersine lojistik neden önemli?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "İade edilen ürünler ve kullanım ömrünün sonuna gelen ekipmanlar artık yalnızca bir maliyet kalemi olarak görülmüyor. Bunlar, onarılarak, yenilenerek veya geri dönüştürülerek değerlendirilebilecek birer kaynak. Avrupa Çevre Ajansı, AB’nin tek kullanımlık mantığına dayanan doğrusal modelden, yeniden kullanım, tamir ve geri dönüşüm odaklı döngüsel bir modele geçişini vurguluyor. Malzemelerin ömrünü uzatmak ve onları yeni ürünlerde hammadde olarak kullanmak, atık miktarını ve çevresel etkileri azaltıyor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Buna rağmen ilerleme yavaş. 2022 yılında AB’de kullanılan malzemelerin yalnızca yaklaşık yüzde 11,5’i geri dönüştürülmüş kaynaklardan geldi ve bu döngüsel malzeme kullanım oranını 2030’a kadar ikiye katlamak zor olacak. Öte yandan, 2010 ile 2020 arasında düzenli depolamaya giden atıkların payı yüzde 23’ten yüzde 16’ya düştü ve bu, geri kazanımda belirli bir başarıya işaret ediyor. Tersine lojistik, ürün ve ambalajları geri toplayarak yeniden kullanım veya geri dönüşüme yönlendirmek suretiyle bu döngüyü tamamlamaya yardımcı oluyor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ambalajlar ve ambalaj atıkları yönetmeliği (PPWR)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "11 Şubat 2025’te yürürlüğe giren yeni AB Ambalajlar ve Ambalaj Atıkları Yönetmeliği (PPWR), geri dönüşüm ve yeniden kullanım için iddialı hedefler belirliyor. 2030 yılına kadar AB pazarına sunulan tüm ambalajların geri dönüştürülebilir olması, geri dönüştürülmüş plastik kullanımının artması ve birincil hammadde kullanımının azalması hedefleniyor. Yönetmelik, tek kullanımlık ambalajları kısıtlıyor ve paket servis işletmelerini, müşterilerin ekstra ücret ödemeden kendi yeniden kullanılabilir kaplarını getirmesine izin vermekle yükümlü kılıyor. Ambalajlar, AB’deki plastik tüketiminin yaklaşık yüzde 40’ını ve deniz çöplerinin yarısını oluşturuyor. 2022’de her bir AB sakini ortalama 186,5 kilogram ambalaj atığı üretti.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lojistik yöneticileri için PPWR, kullanılan ambalajların geri toplanması ve mevzuata uygun tesislerde işlenmesi konusunda daha büyük bir sorumluluk anlamına geliyor. Yeniden kullanılabilir ambalaj sistemleri ve kolay ayrıştırılıp geri dönüştürülebilecek şekilde tasarlanan ambalajlar, taşıma ve depolama planlamasının temel bileşenleri haline geliyor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tersine lojistik ağlarının tasarımı"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Etkili tersine lojistik sistemleri kurmak için işletmeler aşağıdaki alanlara odaklanabilir:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "İade akışlarını analiz etmek: elektronik veya tekstil gibi yüksek iade oranına sahip ürün gruplarını belirlemek ve bunların onarım, yenileme veya geri dönüşüm potansiyelini değerlendirmek.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Toplama noktaları ve kargo dolapları kullanmak: iade ürünleri kargo noktaları, akıllı dolaplar veya mağazalar üzerinden konsolide ederek toplama maliyetlerini düşürmek ve tüketiciler için süreci kolaylaştırmak.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "İleri ve ters akışları entegre etmek: uygun olduğunda aynı hatlarda teslimat ve iade toplama operasyonlarını birleştirerek boş kilometreleri azaltmak. Gelişmiş güzergah optimizasyonu, bu iki akışı dengelemeye yardımcı olur.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Yeniden kullanım ve geri dönüşüm ortaklarıyla çalışmak: iade ürünlerin incelenmesi, tamiri, yenilenmesi ve geri dönüştürülmesi için sertifikalı merkezlerle anlaşmalar yapmak ve kararları desteklemek üzere iade durumu hakkında veri toplamak.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Yeniden kullanılabilir ambalajlara yatırım yapmak: katlanabilir kasalar gibi dayanıklı taşıma ambalajları kullanmak; bu ambalajlar geri getirilebilir, temizlenebilir ve tekrar kullanılabilir. Bu yaklaşım atıkları azaltırken ürünlerin taşınma sırasında daha iyi korunmasını sağlar.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Lojistikte döngüsel ekonomi stratejileri"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Tersine lojistik, daha geniş bir döngüsel ekonomi stratejisinin parçası olmalıdır ve bu strateji şu unsurları içerebilir:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Sökülebilirlik için tasarım: ürün ve ambalajları, bakım, parça değişimi ve geri dönüşüm için kolayca sökülüp malzemelerine ayrılabilecek şekilde tasarlamak.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Paylaşılan kaynaklar: depoları, şehir içi mikro hub’ları ve taşıma kapasitesini diğer aktörlerle paylaşarak kapasite kullanımını artırmak ve atıl kapasiteyi azaltmak.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Veri ve izlenebilirlik: barkodların yeni nesil sürümleri, RFID veya dijital platformlar gibi izleme sistemleri kullanarak yeniden kullanılabilir ambalajların ve diğer taşıyıcıların birkaç döngü boyunca takibini yapmak.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tüketici katılımı: depozito sistemleri, indirimler veya geri alım programları gibi teşviklerle müşterileri ürünleri geri getirmeye teşvik etmek ve bunun çevresel faydalarını açıkça anlatmak.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "İzleme ve uyum: iade oranları, yeniden kullanım oranı ve geri dönüşüm oranı gibi temel göstergeleri takip ederek raporlama yükümlülüklerini yerine getirmek ve operasyonlarda iyileştirme alanlarını tespit etmek.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sonuç"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Tersine lojistik, döngüsel ekonominin temel yapı taşlarından biridir. PPWR hükümlerini hayata geçiren ve operasyonlarını AB’nin döngüsellik hedefleriyle uyumlu hale getiren Avrupalı taşımacılar ve yük sahipleri, iade akışlarını saf bir maliyet kaleminden değer yaratan bir alana dönüştürebilir. Ters akışları ağ planlamasına entegre etmek, yeniden kullanılabilir ambalaj çözümlerine yatırım yapmak ve değer zinciri boyunca işbirliği yapmak, şirketlerin sürdürülebilirlik hedeflerine ulaşmasına ve artan düzenleyici ve müşteri baskısına yanıt vermesine yardımcı olacaktır.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kaynaklar"
+    },
+    {
+      "type": "citation",
+      "text": "Circular economy (European Environment Agency, 2024) - Avrupa’nın doğrusal modellerden döngüsel modellere geçişini anlatıyor ve 2022 yılında AB’de kullanılan malzemelerin yalnızca yüzde 11,5’inin geri dönüştürülmüş kaynaklardan geldiğini, 2010–2020 arasında düzenli depolamaya giden atık oranının ise yüzde 23’ten yüzde 16’ya düştüğünü vurguluyor.",
+      "author": "European Environment Agency",
+      "url": "https://www.eea.europa.eu/en/topics/in-depth/circular-economy"
+    },
+    {
+      "type": "citation",
+      "text": "Packaging waste (European Commission, 2025) - Ambalajlar ve ambalaj atıkları yönetmeliği (2025/40) kapsamında, tüm ambalajların 2030’a kadar geri dönüştürülebilir olmasını, geri dönüştürülmüş plastik kullanımının artmasını, birincil hammadde kullanımının azalmasını, tek kullanımlık ambalajların sınırlandırılmasını ve paket servis işletmelerinin müşterilerin kendi kaplarını kabul etmesini öngörüyor.",
+      "author": "European Commission",
+      "url": "https://environment.ec.europa.eu/topics/waste-and-recycling/packaging-waste_en"
+    }
+  ],
+  "tags": [
+    "tersine lojistik",
+    "döngüsel ekonomi",
+    "ambalaj mevzuatı",
+    "geri dönüşüm",
+    "yeniden kullanım",
+    "iade akışları",
+    "AB lojistiği"
+  ]
+}
+

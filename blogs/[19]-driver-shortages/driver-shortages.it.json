@@ -1,0 +1,210 @@
+{
+  "id": "driver-shortages-in-european-road-transport-causes-impacts-and-solutions",
+  "shortId": "driver-shortages-european",
+  "language": "it",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Carenza di autisti nel trasporto stradale europeo: cause, impatti e soluzioni",
+  "description": "In tutta Europa i responsabili logistici faticano a trovare autisti di camion qualificati in numero sufficiente. L’invecchiamento della forza lavoro, le alte barriere all’ingresso e le condizioni di lavoro difficili alimentano una crisi occupazionale che mette a rischio l’affidabilità del trasporto stradale. Questo articolo analizza le dimensioni e le cause della carenza di autisti e propone misure pratiche per attrarre e trattenere personale...",
+  "publishedAt": "2025-12-07T00:00:00.000Z",
+  "category": "Operazioni",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Esperti in tecnologie per la logistica",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "driver-shortages-hero.png",
+  "imageAlt": "Fila di trattori stradali parcheggiati in un autoporto europeo con un cartello che annuncia la ricerca di autisti.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In tutta Europa i responsabili logistici hanno sempre più difficoltà a reperire autisti di camion qualificati. L’invecchiamento della popolazione di autisti, i costi elevati per entrare nella professione e condizioni di lavoro impegnative alimentano una crisi occupazionale che minaccia l’affidabilità del trasporto stradale. In questo articolo analizziamo l’ampiezza e le cause della carenza di autisti e presentiamo misure pratiche per attrarre e fidelizzare questi professionisti.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "driver-shortages-visual-1.png",
+      "alt": "Illustrazione della distribuzione demografica nel trasporto stradale: autisti anziani, giovani che entrano in professione, costi della patente e divario di genere.",
+      "caption": "La distribuzione per età mostra una popolazione di autisti che invecchia, pochi giovani in ingresso e un marcato divario di genere."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "L’ampiezza della carenza di autisti"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "L’International Road Transport Union (IRU) descrive la carenza di autisti come una crisi globale. In Europa l’IRU stima che centinaia di migliaia di posizioni per autisti di camion, autobus e pullman restino scoperte e che, a livello mondiale, siano vacanti oltre 3,6 milioni di posti. Gli autisti giovani sono rari: meno del 6,5 % dei conducenti professionali ha meno di 25 anni, mentre oltre il 40 % ha più di 55 anni. Le donne rappresentano meno del 7 % della forza lavoro, a causa di preoccupazioni legate alla sicurezza e di infrastrutture inadeguate lungo le rotte.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Un rapporto di ELA/EURES sul mercato del lavoro europeo sottolinea che il settore del trasporto terrestre conta circa 1,06 milioni di imprese e 5,78 milioni di addetti e che molti paesi registrano una forte carenza di autisti di mezzi pesanti e di meccanici. Tra le principali barriere all’ingresso figurano il costo per ottenere la patente per veicoli pesanti e il Certificato di Qualificazione del Conducente (CQC/CPC), che in alcuni paesi può superare i 2.000 euro. Il riconoscimento delle patenti rilasciate da paesi terzi è complesso e richiede tempo, limitando il reclutamento al di fuori dell’UE.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le cause della carenza di autisti"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Alla carenza di autisti contribuisce un insieme di fattori ben noti:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Demografia e pensionamento: la popolazione di autisti invecchia. Con oltre il 40 % dei conducenti oltre i 55 anni, nei prossimi dieci anni molti andranno in pensione. Troppo pochi giovani vedono la guida di mezzi pesanti come una carriera interessante, creando un vuoto nella pipeline dei talenti.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Condizioni di lavoro: orari lunghi, notti fuori casa, turni irregolari e carenza di aree di sosta sicure con servizi adeguati scoraggiano i potenziali candidati. Il rapporto ELA/EURES rileva che salari poco competitivi e timori legati alla sicurezza allontanano in particolare donne e lavoratori più giovani.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Costi della patente e della formazione: ottenere la patente per mezzi pesanti e la qualificazione professionale può costare diverse migliaia di euro. Un articolo di Trans.info cita, per esempio, che in Polonia il costo della patente per camion si aggira attorno ai 10.000 PLN (circa 2.340 EUR) e che valori simili si riscontrano in altri paesi. Senza sovvenzioni, molti giovani non possono permettersi questo investimento iniziale.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Complessità amministrativa: il riconoscimento non armonizzato delle patenti tra Stati membri e procedure di visto onerose rallentano il reclutamento di autisti provenienti da paesi terzi.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Concorrenza di altri settori: il trasporto compete con edilizia, logistica di magazzino e lavori nella gig economy, che spesso offrono orari più prevedibili e condizioni percepite come più attraenti.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Impatto sulla logistica e sulle catene di fornitura"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La carenza di autisti spinge verso l’alto salari e tariffe di trasporto, contribuisce ai ritardi nelle consegne e riduce la flessibilità operativa. Molti operatori sono costretti a tenere fermi i veicoli per mancanza di autisti, riducendo la capacità disponibile nei periodi di picco. Secondo Trans.info, la carenza di autisti in Europa si avvicina alle 500.000 posizioni vacanti e solo in Polonia mancano tra 100.000 e 200.000 autisti. L’IRU avverte che, senza interventi strutturali, potrebbe essere compromesso il trasporto di beni essenziali.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Soluzioni e raccomandazioni operative"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Ridurre le barriere all’ingresso: i governi possono sovvenzionare i costi della patente e della formazione o introdurre voucher. In Italia, ad esempio, esistono voucher che coprono fino all’80 % del costo del conseguimento della patente. Semplificare il riconoscimento delle patenti estere e le procedure di visto potrebbe facilitare l’ingresso di autisti dai paesi vicini.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Migliorare le condizioni di lavoro: investire in aree di sosta sicure con servizi, promuovere orari più prevedibili, rotte regionali e turni più brevi può rendere la professione più compatibile con la vita familiare e più attrattiva per nuovi candidati.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ampliare il bacino di reclutamento: iniziative di recruiting rivolte a donne e giovani dovrebbero enfatizzare la sicurezza, la parità retributiva e le prospettive di carriera. Camion moderni con cabine confortevoli e sistemi avanzati di assistenza alla guida possono migliorare la percezione del lavoro quotidiano.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Investire in automazione e intermodalità: sebbene l’automazione non eliminerà la necessità di autisti nel breve periodo, soluzioni come carico automatico, sistemi di assistenza avanzata e platooning possono aumentare la produttività. Il trasporto intermodale riduce il numero di viaggi di lunga distanza che richiedono autisti, dato che un treno può sostituire 30-40 semirimorchi su strada.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Rafforzare l’immagine professionale: valorizzare il ruolo strategico degli autisti nelle catene di fornitura, sviluppare percorsi di apprendistato e collaborare con istituti tecnici e scuole professionali per creare un flusso costante di nuovi talenti.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusioni"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La carenza di autisti minaccia la resilienza delle catene di fornitura europee. Affrontarla richiede un’azione coordinata da parte di governi, trasportatori e committenti per ridurre le barriere all’ingresso, migliorare le condizioni di lavoro e modernizzare l’immagine della professione. Investimenti in formazione, diversità e tecnologia saranno cruciali per attrarre una nuova generazione di autisti e garantire che il trasporto stradale possa sostenere una domanda in crescita.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fonti"
+    },
+    {
+      "type": "citation",
+      "text": "Global driver shortage reaches crisis point (International Road Transport Union, 2024) - Indica che milioni di posizioni per autisti sono vacanti a livello globale, che meno del 6,5 % dei conducenti ha meno di 25 anni mentre oltre il 40 % ha più di 55 anni e che la carenza minaccia il trasporto di beni essenziali.",
+      "author": "International Road Transport Union",
+      "url": "https://www.iru.org/news-resources/newsroom/driver-shortage-global-crisis"
+    },
+    {
+      "type": "citation",
+      "text": "ELA/EURES labour market report 2024 (European Labour Authority, EURES, 2024) - Riporta che il settore del trasporto terrestre nell’UE comprende circa 1,06 milioni di imprese e 5,78 milioni di lavoratori, evidenzia la carenza di autisti e meccanici, i costi elevati per le patenti e le condizioni di lavoro difficili, e sottolinea la sotto-rappresentazione delle donne nel settore.",
+      "author": "European Labour Authority, EURES",
+      "url": "https://ec.europa.eu/social/main.jsp?catId=738&langId=en&pubId=8407"
+    },
+    {
+      "type": "citation",
+      "text": "Driver shortage leaves fleets idle and costs increase for system (Trans.info, 2025) - Sottolinea che la carenza di autisti in Europa si avvicina a 500.000 posti; cita i costi elevati per la patente (circa 2.340 EUR) e il sistema di voucher italiano che copre fino all’80 % dei costi di formazione; suggerisce che il trasporto intermodale possa attenuare la carenza sostituendo 30-40 semirimorchi con un treno.",
+      "author": "Trans.info",
+      "url": "https://trans.info/en/driver-shortage-idle-fleets-421938"
+    }
+  ],
+  "tags": [
+    "carenza di autisti",
+    "autista di camion",
+    "crisi di manodopera",
+    "costo della patente",
+    "condizioni di lavoro",
+    "logistica europea",
+    "mercato del lavoro nel trasporto"
+  ]
+}
+

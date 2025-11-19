@@ -1,0 +1,222 @@
+{
+  "id": "reverse-logistics-and-the-circular-economy-in-europe-turning-returns-into-resources",
+  "shortId": "reverse-logistics-circular",
+  "language": "it",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Reverse logistics ed economia circolare in Europa: trasformare i resi in risorse",
+  "description": "La crescita dell’e-commerce e l’inasprimento delle normative ambientali hanno portato la reverse logistics – il processo di raccolta dei prodotti e degli imballaggi resi e il loro reinserimento nella catena di fornitura – in primo piano. Per raggiungere gli obiettivi di sostenibilità, le aziende devono allineare questi flussi inversi alle strategie europee di economia circolare...",
+  "publishedAt": "2025-12-08T00:00:00.000Z",
+  "category": "Sostenibilità",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Esperti di tecnologia per la logistica",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "reverse-logistics-hero.png",
+  "imageAlt": "Illustrazione di una catena di fornitura circolare con frecce che indicano flussi di logistica diretta e inversa, container riutilizzati e icone di riciclo in un contesto europeo.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La rapida espansione dell’e-commerce e regole ambientali sempre più severe hanno reso la reverse logistics un tema centrale per spedizionieri e vettori. Si tratta di organizzare la raccolta dei resi e degli imballaggi, il loro controllo e la loro reintroduzione nei flussi logistici invece di inviarli in discarica o all’incenerimento. Per contribuire agli obiettivi climatici dell’Unione europea, le aziende devono collegare questi flussi inversi alle strategie di economia circolare. In questo articolo vengono presentati il quadro normativo e suggerimenti operativi concreti.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "reverse-logistics-visual-1.png",
+      "alt": "Magazzino europeo in cui i pacchi resi vengono smistati per il reimpiego, la riparazione e il riciclo, con operatori e segnaletica verde.",
+      "caption": "I centri di gestione dei resi permettono di recuperare prodotti e imballaggi per la riutilizzazione e il riciclo, elemento chiave di una catena logistica circolare."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Perché la reverse logistics conta"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "I resi e i prodotti a fine vita non sono più visti solo come un costo da assorbire. Sempre più spesso vengono considerati come una risorsa da riparare, rigenerare o trasformare in materie seconde. L’Agenzia europea dell’ambiente sottolinea che l’UE sta passando da un modello lineare, in cui i prodotti vengono scartati dopo un solo utilizzo, a un modello circolare basato su riutilizzo, riparazione e riciclo. Mantenere i materiali in circolazione più a lungo e impiegarli in nuovi prodotti consente di ridurre rifiuti e impatto ambientale.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Nonostante ciò, i progressi sono lenti: nel 2022 i materiali riciclati hanno rappresentato solo circa l’11,5 % dei materiali utilizzati nell’UE, e raddoppiare questo tasso entro il 2030 sarà impegnativo. Nello stesso periodo, la quota di rifiuti conferiti in discarica è scesa dal 23 % al 16 % tra il 2010 e il 2020, segno che una parte dei flussi viene già riallocata. La reverse logistics aiuta a chiudere il cerchio, riportando prodotti e imballaggi nel ciclo economico per un nuovo utilizzo o per la trasformazione in materie prime seconde.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Regolamento sugli imballaggi e sui rifiuti di imballaggio (PPWR)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Il nuovo Regolamento europeo sugli imballaggi e sui rifiuti di imballaggio (PPWR), in vigore dall’11 febbraio 2025, fissa obiettivi ambiziosi in materia di riciclo e riutilizzo. L’obiettivo è che entro il 2030 tutti gli imballaggi immessi sul mercato dell’UE siano riciclabili, aumentando l’impiego di plastica riciclata e riducendo l’utilizzo di materie prime vergini. Il regolamento introduce anche limitazioni agli imballaggi monouso e impone agli operatori di take-away di consentire ai clienti di utilizzare i propri contenitori riutilizzabili senza costi aggiuntivi. Gli imballaggi rappresentano circa il 40 % del consumo di plastica in Europa e metà dei rifiuti marini, e nel 2022 ogni residente ha generato in media 186,5 kg di rifiuti da imballaggio.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Per i responsabili logistici, il PPWR significa maggiore responsabilità nell’organizzare il rientro degli imballaggi usati e nel garantire che vengano trattati in impianti conformi alla normativa. Sistemi di imballaggi riutilizzabili e il design degli imballaggi orientato a facilitare raccolta differenziata e riciclo diventano componenti fondamentali della pianificazione di trasporti e magazzino.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Progettare reti di reverse logistics"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Per costruire reti efficaci di logistica inversa, le aziende possono intervenire su diversi aspetti operativi:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Analizzare i flussi di reso: identificare le categorie con tassi di reso elevati, come elettronica e abbigliamento, e valutare se i prodotti possono essere riparati, rigenerati o riciclati in modo conveniente.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Utilizzare punti di raccolta e locker: concentrare i resi attraverso punti di ritiro pacchi, locker automatici o negozi fisici, così da ridurre i costi di raccolta e rendere i resi più semplici per i clienti finali.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Integrare logistica diretta e inversa: combinare consegne e ritiri sulle stesse tratte quando possibile, riducendo i chilometri percorsi a vuoto. Gli strumenti avanzati di ottimizzazione dei percorsi aiutano a sincronizzare i flussi in entrata e in uscita.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Collaborare con centri di riparazione e riciclatori: stipulare accordi con partner certificati per l’ispezione, la riparazione, il reimpiego e il riciclo dei prodotti resi, basandosi su dati strutturati sullo stato dei resi stessi.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Adottare imballaggi riutilizzabili: investire in imballaggi di trasporto robusti, come casse pieghevoli, che possano essere recuperate, pulite e utilizzate più volte, riducendo i rifiuti e migliorando la protezione dei prodotti lungo il percorso.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Strategie di economia circolare nella logistica"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La reverse logistics dovrebbe inserirsi in una strategia più ampia di economia circolare che includa, tra gli altri, i seguenti elementi:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Progettazione per il disassemblaggio: progettare prodotti e imballaggi in modo che possano essere facilmente smontati e separati per materiali, facilitando riparazione e riciclo.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Condivisione delle risorse: condividere magazzini, hub urbani e capacità di trasporto con altri operatori per aumentare i livelli di utilizzo e ridurre i tempi di inattività delle infrastrutture.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Dati e tracciabilità: implementare sistemi di tracciamento, come codici avanzati o RFID, per seguire il ciclo di vita di imballaggi riutilizzabili e altri asset lungo più cicli di utilizzo.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Coinvolgimento dei consumatori: promuovere la restituzione dei prodotti tramite sistemi cauzionali, sconti o programmi di buy-back, spiegando in modo chiaro i benefici ambientali.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Monitoraggio e conformità: monitorare indicatori chiave come tassi di reso, riutilizzo e riciclo per soddisfare gli obblighi di rendicontazione e individuare aree di miglioramento dei processi.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusioni"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La reverse logistics è un pilastro dell’economia circolare. Le aziende che applicano in modo proattivo il PPWR e allineano le proprie operazioni agli obiettivi europei di circolarità possono trasformare i resi da centro di costo a fonte di valore. Integrare i flussi inversi nel network di trasporto, investire in sistemi di imballaggi riutilizzabili e collaborare lungo l’intera catena del valore aiuterà a raggiungere gli obiettivi di sostenibilità e a rispondere alle crescenti aspettative di clienti e autorità di regolamentazione.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fonti"
+    },
+    {
+      "type": "citation",
+      "text": "Circular economy (European Environment Agency, 2024) - Descrive il passaggio dell’Europa da modelli lineari a modelli circolari e segnala che nel 2022 solo l’11,5 % dei materiali utilizzati nell’UE proveniva dal riciclo, mentre il conferimento in discarica è diminuito dal 23 % al 16 % tra il 2010 e il 2020.",
+      "author": "European Environment Agency",
+      "url": "https://www.eea.europa.eu/en/topics/in-depth/circular-economy"
+    },
+    {
+      "type": "citation",
+      "text": "Packaging waste (European Commission, 2025) - Riassume il Regolamento sugli imballaggi e sui rifiuti di imballaggio (2025/40), che richiede che tutti gli imballaggi siano riciclabili entro il 2030, aumenta l’uso di plastica riciclata, riduce le materie prime vergini, limita gli imballaggi monouso e impone agli operatori di take-away di accettare contenitori riutilizzabili dei clienti.",
+      "author": "European Commission",
+      "url": "https://environment.ec.europa.eu/topics/waste-and-recycling/packaging-waste_en"
+    }
+  ],
+  "tags": [
+    "reverse logistics",
+    "economia circolare",
+    "normativa sugli imballaggi",
+    "riciclo",
+    "riutilizzo",
+    "resi",
+    "logistica UE"
+  ]
+}
+

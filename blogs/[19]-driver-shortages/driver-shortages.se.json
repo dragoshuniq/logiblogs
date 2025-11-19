@@ -1,0 +1,210 @@
+{
+  "id": "driver-shortages-in-european-road-transport-causes-impacts-and-solutions",
+  "shortId": "driver-shortages-european",
+  "language": "se",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Brist på lastbilschaufförer i europeisk vägtransport: orsaker, konsekvenser och lösningar",
+  "description": "I hela Europa kämpar logistikchefer med att hitta tillräckligt många kvalificerade lastbilschaufförer. En åldrande arbetskraft, höga inträdesbarriärer och tuffa arbetsvillkor driver en arbetskraftskris som hotar vägtransportens tillförlitlighet. Den här artikeln analyserar omfattningen och orsakerna till chaufförsbristen och föreslår praktiska åtgärder för att attrahera och behålla chaufförer...",
+  "publishedAt": "2025-12-07T00:00:00.000Z",
+  "category": "Drift",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experter på logistikteknik",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "driver-shortages-hero.png",
+  "imageAlt": "Rad med parkerade dragbilar på en europeisk lastbilsparkering med en tydlig skylt om att chaufförer sökes.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Runt om i Europa har logistikansvariga allt svårare att hitta tillräckligt många kvalificerade lastbilschaufförer. En åldrande chaufförskår, höga kostnader för att ta sig in i yrket och tuffa arbetsvillkor driver på en arbetskraftskris som hotar vägtransporternas tillförlitlighet. I den här artikeln går vi igenom hur omfattande bristen är, vad som orsakar den och vilka praktiska åtgärder som kan bidra till att locka och behålla chaufförer.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "driver-shortages-visual-1.png",
+      "alt": "Illustration som visar den demografiska fördelningen inom vägtransport: äldre chaufförer, unga nykomlingar, kostnader för körkort och könsgap.",
+      "caption": "Den demografiska profilen visar en åldrande chaufförskår, få unga nykomlingar och en tydlig underrepresentation av kvinnor."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hur omfattande är bristen på chaufförer?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "International Road Transport Union (IRU) beskriver chaufförsbristen som en global kris. I Europa uppskattar IRU att hundratusentals tjänster som lastbils-, buss- och coachförare står vakanta och att det globalt saknas över 3,6 miljoner förare. Yngre förare är få: mindre än 6,5 % av yrkeschaufförerna är under 25 år, medan mer än 40 % är över 55. Kvinnor utgör mindre än 7 % av arbetsstyrkan, vilket speglar oro för säkerhet och brist på anpassade faciliteter.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "En arbetsmarknadsrapport från ELA/EURES visar att landtransportsektorn i EU omfattar cirka 1,06 miljoner företag med sammanlagt 5,78 miljoner anställda och att många länder rapporterar en akut brist på tunga lastbilsförare och mekaniker. Bland inträdeshindren finns kostnaden för att ta tungtrafikkörkort och yrkeskompetensbevis (CPC), som i vissa länder kan överstiga 2.000 euro. Erkännande av körkort från tredjeländer är komplicerat och tidskrävande, vilket försvårar rekrytering utanför EU.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Orsaker till chaufförsbristen"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Flera faktorer samverkar och skapar dagens brist:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Demografi och pensioner: chaufförskåren åldras. Med mer än 40 % av förarna över 55 år kommer många att gå i pension under det kommande decenniet. För få unga ser lastbilsyrket som ett attraktivt karriärval, vilket skapar ett inflödesproblem.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Arbetsvillkor: långa arbetsdagar, övernattningar i hytten, oregelbundna arbetstider och brist på säkra parkeringsplatser med toaletter och duschar avskräcker potentiella rekryter. ELA/EURES-rapporten lyfter fram att låg lön och oro för säkerhet särskilt avskräcker kvinnor och yngre arbetstagare.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kostnader för körkort och utbildning: att ta tungtrafikkörkort och yrkeskompetensbevis kan kosta flera tusen euro. En artikel i Trans.info nämner att ett lastbilskörkort i Polen kostar omkring 10.000 PLN (cirka 2.340 EUR) och att liknande nivåer finns på andra marknader. Utan stöd har många unga inte råd med utbildningen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Administrativ komplexitet: olika regler för erkännande av körkort mellan medlemsstater och tidskrävande visumprocesser för förare från tredjeländer försvårar internationell rekrytering.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Konkurrens från andra branscher: vägtransporter konkurrerar med byggsektorn, lagerlogistik och plattformsarbete, som ibland erbjuder mer förutsägbara arbetstider eller attraktivare villkor.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Konsekvenser för logistik och leveranskedjor"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Bristen på chaufförer driver upp löner och fraktrater, bidrar till leveransförseningar och minskar flexibiliteten i nätverken. Åkerier tvingas ibland ställa fordon på grund av förarfel, vilket begränsar kapaciteten i högsäsong. Enligt Trans.info närmar sig Europas chaufförsbrist 500.000 lediga tjänster, och i Polen talar man om ett underskott på 100.000–200.000 förare. IRU varnar för att flödet av samhällsviktiga varor kan äventyras om inget görs.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Lösningar och rekommendationer"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Sänk inträdesbarriärer: stater kan subventionera kostnader för körkort och utbildning eller införa värdecheckar. Italien har till exempel ett voucherprogram som täcker upp till 80 % av körkortskostnaden. Enklare erkännandeprocesser och snabbare visumhantering kan underlätta rekrytering av förare från grannländer.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Förbättra arbetsvillkoren: investera i säkra rastplatser med sanitära faciliteter, skapa mer förutsägbara arbetsscheman och erbjud kortare regionala turer i stället för enbart långa internationella körningar, så att yrket blir lättare att kombinera med familjeliv.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Attrahera underrepresenterade grupper: rekryteringsinsatser riktade mot kvinnor och unga bör lyfta fram säkerhet, lika lön och utvecklingsmöjligheter. Moderna lastbilar med bekväma hytter och avancerade förarassistanssystem kan göra yrket mer attraktivt.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Satsa på automation och intermodalitet: även om automation inte kommer att ersätta chaufförer över en natt, kan tekniker som automatiserad lastning, förarassistans och platooning öka produktiviteten. Intermodala upplägg minskar antalet långa körningar som kräver chaufförer, eftersom ett tåg kan ersätta 30–40 trailers på vägen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Stärk yrkets image: synliggör chaufförernas centrala roll i leveranskedjorna. Lärlingsprogram och samarbeten med gymnasieskolor och yrkeshögskolor kan skapa en stabil tillgång på nya förare.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Slutsats"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Chaufförsbristen hotar motståndskraften i Europas leveranskedjor. För att vända utvecklingen krävs samordnade insatser från myndigheter, transportörer och varuägare för att sänka inträdesbarriärer, förbättra arbetsvillkor och modernisera bilden av yrket. Investeringar i utbildning, mångfald och teknik är avgörande för att locka en ny generation chaufförer och säkerställa att vägtransporten kan möta en växande efterfrågan.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Källor"
+    },
+    {
+      "type": "citation",
+      "text": "Global driver shortage reaches crisis point (International Road Transport Union, 2024) - Konstaterar att miljoner chaufförstjänster står vakanta globalt, att mindre än 6,5 % av förarna är under 25 år medan mer än 40 % är över 55, och att bristen hotar transporten av samhällsviktiga varor.",
+      "author": "International Road Transport Union",
+      "url": "https://www.iru.org/news-resources/newsroom/driver-shortage-global-crisis"
+    },
+    {
+      "type": "citation",
+      "text": "ELA/EURES labour market report 2024 (European Labour Authority, EURES, 2024) - Visar att landtransportsektorn i EU omfattar cirka 1,06 miljoner företag med 5,78 miljoner anställda, lyfter fram bristen på tunga lastbilsförare och mekaniker, höga kostnader för körkort och krävande arbetsvillkor samt den låga andelen kvinnor i yrket.",
+      "author": "European Labour Authority, EURES",
+      "url": "https://ec.europa.eu/social/main.jsp?catId=738&langId=en&pubId=8407"
+    },
+    {
+      "type": "citation",
+      "text": "Driver shortage leaves fleets idle and costs increase for system (Trans.info, 2025) - Rapporten lyfter att chaufförsbristen i Europa närmar sig 500.000 tjänster; nämner höga körkortskostnader (cirka 2.340 EUR) och Italiens voucherprogram som täcker upp till 80 % av utbildningskostnaderna; föreslår att intermodal transport kan lindra bristen genom att ett tåg kan ersätta 30–40 trailers.",
+      "author": "Trans.info",
+      "url": "https://trans.info/en/driver-shortage-idle-fleets-421938"
+    }
+  ],
+  "tags": [
+    "brist på chaufförer",
+    "lastbilschaufför",
+    "arbetskraftskris",
+    "kostnad för körkort",
+    "arbetsvillkor",
+    "europeisk logistik",
+    "arbetsmarknad transport"
+  ]
+}
+

@@ -1,0 +1,210 @@
+{
+  "id": "driver-shortages-in-european-road-transport-causes-impacts-and-solutions",
+  "shortId": "driver-shortages-european",
+  "language": "tr",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Avrupa karayolu taşımacılığında sürücü sıkıntısı: nedenler, etkiler ve çözümler",
+  "description": "Avrupa genelinde lojistik yöneticileri yeterli sayıda nitelikli kamyon şoförü bulmakta zorlanıyor. Yaşlanan iş gücü, yüksek giriş bariyerleri ve zorlu çalışma koşulları, karayolu taşımacılığının güvenilirliğini tehdit eden bir iş gücü krizini körüklüyor. Bu yazı, sürücü açığının boyutunu ve nedenlerini inceliyor ve sürücüleri çekmek ve elde tutmak için pratik öneriler sunuyor...",
+  "publishedAt": "2025-12-07T00:00:00.000Z",
+  "category": "Operasyonlar",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Lojistik teknolojisi uzmanları",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "driver-shortages-hero.png",
+  "imageAlt": "Avrupa’daki bir kamyon garajında, sürücü arandığını belirten bir ilanla birlikte park halinde duran çekiciler.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Avrupa’nın dört bir yanında lojistik yöneticileri, yeterli sayıda nitelikli kamyon şoförü bulmakta zorlanıyor. Yaşlanan sürücü nüfusu, yüksek mesleğe giriş maliyetleri ve zorlu çalışma koşulları, karayolu taşımacılığının güvenilirliğini tehdit eden bir iş gücü krizine yol açıyor. Bu yazıda sürücü açığının boyutunu ve kök nedenlerini ele alıyor ve sürücüleri çekmeye ve elde tutmaya yönelik pratik adımlar öneriyoruz.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "driver-shortages-visual-1.png",
+      "alt": "Karayolu taşımacılığındaki demografik dağılımı gösteren bir illüstrasyon: yaşlanan sürücüler, genç girişler, ehliyet maliyetleri ve cinsiyet açığı.",
+      "caption": "Demografik profil, yaşlanan bir sürücü kitlesi, az sayıda genç sürücü ve belirgin bir cinsiyet dengesizliğine işaret ediyor."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sürücü açığının kapsamı"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Uluslararası Karayolu Taşımacılığı Birliği (IRU), sürücü açığını küresel bir kriz olarak tanımlıyor. IRU’ya göre Avrupa’da yüz binlerce kamyon, otobüs ve turizm aracı sürücüsü pozisyonu boş durumda ve dünya genelinde 3,6 milyondan fazla sürücü açığı var. Genç sürücüler azınlıkta: profesyonel sürücülerin yalnızca %6,5’inden azı 25 yaşın altında, buna karşılık %40’tan fazlası 55 yaşın üzerinde. Kadınlar, güvenlik endişeleri ve uygun tesis eksikliği nedeniyle sürücü kitlesinin %7’sinden azını oluşturuyor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "ELA/EURES’in AB işgücü piyasası raporu, kara taşımacılığı sektörünün yaklaşık 1,06 milyon işletmeden ve 5,78 milyon çalışandan oluştuğunu ve birçok ülkede ağır vasıta sürücüsü ile mekanik teknisyen sıkıntısının yaşandığını gösteriyor. Giriş bariyerleri arasında ağır vasıta ehliyeti ve mesleki yeterlilik belgesi (CPC) için gereken yüksek maliyetler bulunuyor; bu maliyetler bazı ülkelerde 2.000 euroyu aşıyor. Üçüncü ülke ehliyetlerinin tanınmasına ilişkin karmaşık ve uzun prosedürler ise AB dışından sürücü istihdamını zorlaştırıyor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sürücü açığının başlıca nedenleri"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Mevcut açığın arkasında bir dizi yapısal etken bulunuyor:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Demografi ve emeklilik: sürücü nüfusu hızlı biçimde yaşlanıyor. Sürücülerin %40’tan fazlası 55 yaşın üzerinde olduğu için önümüzdeki on yıl içinde önemli bir kesim emekli olacak. Çok az genç, ağır vasıta sürücülüğünü cazip bir kariyer olarak görüyor; bu da tedarik zincirinde kalıcı bir yetenek açığına yol açıyor.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Çalışma koşulları: uzun çalışma saatleri, yolda geçirilen geceler, düzensiz vardiyalar ve güvenli park alanları ile temel tesislerin eksikliği, potansiyel adayları uzaklaştırıyor. ELA/EURES raporu, düşük ücretlerin ve güvenlik kaygılarının özellikle kadınları ve genç işçileri sektörden uzak tuttuğunu vurguluyor.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ehliyet ve eğitim maliyetleri: ağır vasıta ehliyeti ve mesleki yeterlilik belgesi almak binlerce euroya mal olabiliyor. Trans.info, örneğin Polonya’da kamyon ehliyetinin yaklaşık 10.000 PLN (yaklaşık 2.340 EUR) tuttuğunu ve benzer maliyetlerin diğer ülkelerde de görüldüğünü aktarıyor. Kamu desteği olmadan birçok genç bu eğitime maddi olarak erişemiyor.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "İdari karmaşıklık: üye ülkeler arasında ehliyet tanıma kurallarının farklı olması ve üçüncü ülke sürücülerine yönelik vize ve çalışma izni süreçlerinin ağır işlemesi, sınır ötesi işe alımı yavaşlatıyor.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Diğer sektörlerden rekabet: karayolu taşımacılığı, inşaat, depo lojistiği ve gig ekonomisi gibi daha düzenli çalışma saatleri veya daha cazip görünen koşullar sunan sektörlerle rekabet etmek zorunda kalıyor.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Lojistik ve tedarik zincirine etkileri"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sürücü açığı, ücretlerin ve navlun bedellerinin artmasına, teslimat gecikmelerine ve esnekliğin azalmasına neden oluyor. Birçok filo, yeterli sürücü olmadığı için araçlarını park etmek zorunda kalıyor; bu da özellikle yoğun dönemlerde taşımacılık kapasitesini sınırlandırıyor. Trans.info, Avrupa’daki sürücü açığının 500.000 pozisyona yaklaştığını; Polonya’daki filoların ise tek başına 100.000-200.000 sürücü eksiğiyle karşı karşıya olduğunu bildiriyor. IRU, gerekli adımlar atılmazsa temel ürünlerin taşınmasında ciddi aksaklıklar yaşanabileceği konusunda uyarıyor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Çözüm önerileri ve tavsiyeler"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Giriş bariyerlerini azaltmak: hükümetler ehliyet ve eğitim maliyetlerini sübvanse edebilir veya kupon programları geliştirebilir. Örneğin İtalya’da, ehliyet masraflarının %80’ine kadarını karşılayan voucher programı bulunuyor. Ehliyet tanıma ve vize süreçlerini basitleştirmek, komşu ülkelerden sürücü çekmeyi kolaylaştırabilir.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Çalışma koşullarını iyileştirmek: güvenli ve donanımlı dinlenme alanlarına yatırım yapmak, daha öngörülebilir vardiya planları sağlamak, uzun hatlar yerine ya da onlarla birlikte daha kısa bölgesel güzergahlar sunmak, mesleği özellikle aile sorumlulukları olanlar için daha cazip hale getirebilir.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Az temsil edilen grupları çekmek: kadınlara ve gençlere yönelik işe alım kampanyalarında güvenlik, eşit ücret ve kariyer fırsatları vurgulanmalıdır. Konforlu kabinlere ve gelişmiş sürücü destek sistemlerine sahip modern kamyonlar, günlük çalışma deneyimini iyileştirerek mesleğin algısını güçlendirir.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Otomasyon ve intermodaliteye yatırım yapmak: otomasyon sürücü ihtiyacını bir anda ortadan kaldırmayacaktır, ancak otomatik yükleme sistemleri, gelişmiş sürücü destek teknolojileri ve platooning gibi çözümler verimliliği artırabilir. İntermodal taşımacılık ise uzun mesafeli karayolu seferlerinin bir kısmını trenlere kaydırarak sürücü talebini azaltabilir; tek bir tren 30-40 yarı römorkun yerini alabilir.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Mesleğin imajını güçlendirmek: şoförlerin tedarik zincirlerindeki stratejik rolünü vurgulamak, çıraklık ve mesleki eğitim programları geliştirmek ve meslek liseleriyle iş birliği yapmak, sektöre istikrarlı bir genç yetenek akışı sağlayabilir.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sonuç"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sürücü açığı, Avrupa tedarik zincirlerinin dayanıklılığını tehdit ediyor. Bu sorunu çözmek için hükümetlerin, taşıyıcıların ve yük sahiplerinin; giriş bariyerlerini azaltmak, çalışma koşullarını iyileştirmek ve mesleğin imajını modernleştirmek için birlikte hareket etmesi gerekiyor. Eğitime, çeşitliliğe ve teknolojiye yapılacak yatırımlar, yeni bir sürücü kuşağını sektöre kazandırmaya ve karayolu taşımacılığının artan talebe cevap verebilmesini sağlamaya yardımcı olacaktır.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kaynaklar"
+    },
+    {
+      "type": "citation",
+      "text": "Global driver shortage reaches crisis point (International Road Transport Union, 2024) - Dünyada milyonlarca sürücü pozisyonunun boş olduğunu, sürücülerin %6,5’inden azının 25 yaşın altında, %40’tan fazlasının ise 55 yaşın üzerinde olduğunu ve bu açığın temel malların taşınmasını tehdit ettiğini vurgular.",
+      "author": "International Road Transport Union",
+      "url": "https://www.iru.org/news-resources/newsroom/driver-shortage-global-crisis"
+    },
+    {
+      "type": "citation",
+      "text": "ELA/EURES labour market report 2024 (European Labour Authority, EURES, 2024) - AB kara taşımacılığı sektörünün yaklaşık 1,06 milyon işletme ve 5,78 milyon çalışandan oluştuğunu, ağır vasıta sürücüsü ve mekanikçi açığını, yüksek ehliyet maliyetlerini ve zorlu çalışma koşullarını, ayrıca meslekte kadınların düşük payını ortaya koyar.",
+      "author": "European Labour Authority, EURES",
+      "url": "https://ec.europa.eu/social/main.jsp?catId=738&langId=en&pubId=8407"
+    },
+    {
+      "type": "citation",
+      "text": "Driver shortage leaves fleets idle and costs increase for system (Trans.info, 2025) - Avrupa’da sürücü açığının 500.000 pozisyona yaklaştığını; ehliyet maliyetlerinin (yaklaşık 2.340 EUR) yüksek olduğunu ve İtalya’nın eğitim maliyetlerinin %80’ine kadarını karşılayan bir voucher programı bulunduğunu; intermodal taşımacılığın, tek bir trenle 30-40 treyleri ikame ederek sürücü talebini azaltabileceğini belirtir.",
+      "author": "Trans.info",
+      "url": "https://trans.info/en/driver-shortage-idle-fleets-421938"
+    }
+  ],
+  "tags": [
+    "sürücü açığı",
+    "kamyon şoförü",
+    "iş gücü krizi",
+    "ehliyet maliyeti",
+    "çalışma koşulları",
+    "Avrupa lojistiği",
+    "taşımacılık iş gücü piyasası"
+  ]
+}
+

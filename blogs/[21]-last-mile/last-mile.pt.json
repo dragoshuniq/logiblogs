@@ -1,0 +1,229 @@
+{
+  "id": "last-mile-delivery-in-european-cities-challenges-and-sustainable-solutions",
+  "shortId": "last-mile-delivery",
+  "language": "pt",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Entrega de última milha nas cidades europeias: desafios e soluções sustentáveis",
+  "description": "À medida que o comércio eletrónico continua a crescer rapidamente, a última milha – o trajeto final desde um hub urbano até ao cliente – tornou-se uma das fases mais caras e poluentes da cadeia de abastecimento. As cidades europeias estão a responder com estratégias de logística urbana, novas regras e soluções inovadoras...",
+  "publishedAt": "2025-12-09T00:00:00.000Z",
+  "category": "Operações",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Especialistas em tecnologia logística",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "last-mile-hero.png",
+  "imageAlt": "Ilustração de uma cidade europeia com micro-hubs, bicicletas de carga e carrinhas elétricas a entregar encomendas em zonas de baixas emissões, com ícones de planeamento dinâmico de rotas.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "O crescimento acelerado do comércio eletrónico transformou a última milha – o segmento final entre um centro de distribuição urbano e o destinatário – num dos componentes mais caros e intensivos em emissões da cadeia logística. Furgões de distribuição disputam o espaço em ruas saturadas, enfrentam restrições de acesso e são alvo de políticas de qualidade do ar. Em resposta, várias cidades europeias estão a desenvolver estratégias de logística urbana, a reformar as regras de circulação e a incentivar projetos-piloto com modelos de entrega alternativos. Este artigo analisa a dimensão do desafio e apresenta soluções que começam a dar resultados.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "last-mile-visual-1.png",
+      "alt": "Estafeta a utilizar uma bicicleta de carga elétrica numa zona pedonal europeia, com edifícios históricos ao fundo.",
+      "caption": "As bicicletas de carga elétricas permitem entregas silenciosas e sem emissões em centros históricos e zonas pedonais densas."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "A dimensão do problema"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "O transporte urbano de mercadorias mantém as cidades abastecidas, mas contribui para congestionamento, ruído e poluição. Um relatório sobre iniciativas de logística urbana em 16 cidades europeias mostra que a última milha pode representar mais de 50 % do custo total de entrega. Embora os veículos pesados representem apenas uma parte do tráfego urbano, podem contribuir com até 25 % das emissões de CO2 relacionadas com o transporte e entre 30 e 50 % das partículas finas e NOx. Em muitas cidades, a distribuição de mercadorias é responsável por cerca de 55 % das emissões geradas por veículos.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Desafios típicos incluem a escassez de zonas de carga e descarga, a falta de instalações logísticas dentro dos limites da cidade – o que leva à deslocação de armazéns para a periferia – e a disputa pelo espaço junto ao passeio entre estacionamento, transportes públicos e operações de carga. Muitas entregas ocorrem nas horas de ponta, agravando o trânsito. Os residentes também levantam preocupações quanto a ruído e segurança quando veículos de grande dimensão manobram em ruas estreitas.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quadros políticos e planeamento"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Planos de Logística Urbana Sustentável (SULP)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "O Grupo de Peritos em Mobilidade Urbana da Comissão Europeia recomenda que as cidades elaborem Planos de Logística Urbana Sustentável (SULP) como parte dos seus Planos de Mobilidade Urbana Sustentável. Os SULP definem uma visão para o transporte de mercadorias, metas ambientais e de desempenho e um conjunto de medidas para as atingir. O resumo executivo das recomendações de 2024 destaca a necessidade de dados comparáveis a nível europeu, de partilha voluntária de dados entre operadores e autoridades e de orientações atualizadas que integrem ferramentas digitais como gémeos digitais e inteligência artificial. Sublinha ainda a importância de condições de trabalho seguras, modelos colaborativos de logística e hubs partilhados para reduzir viagens em vazio.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Logística urbana de emissões zero"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A página da Comissão Europeia dedicada à logística urbana salienta que o transporte de mercadorias nas cidades é essencial, mas enfrenta grandes dificuldades relacionadas com congestionamento, falta de espaço e custos elevados. As recomendações passam por integrar o transporte de mercadorias nos planos de mobilidade urbana sustentável e desenvolver SULP em parceria com o setor privado. Entre as prioridades estão a adoção de veículos de emissões zero, novos modelos de distribuição, o uso de algoritmos de roteamento dinâmico e melhores ligações multimodais entre o transporte de longa distância (ferrovia, vias navegáveis interiores) e a última milha. Projetos financiados pela UE servem como laboratórios vivos para testar estas soluções.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Soluções inovadoras"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Na prática, as cidades europeias e os operadores logísticos estão a combinar medidas de planeamento urbano, regulação e tecnologia para tornar a última milha mais eficiente e sustentável. Não há uma receita única, mas as experiências recentes apontam para um conjunto de soluções que podem ser adaptadas a diferentes contextos locais.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Micro-hubs e centros de consolidação: pequenos armazéns de proximidade, localizados em bairros ou na periferia do centro, onde a carga é transferida de veículos pesados para modos de distribuição mais leves e limpos.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Bicicletas de carga e veículos elétricos ligeiros: utilização de bicicletas de carga e carrinhas elétricas compactas para servir zonas de baixas emissões, centros históricos e ruas estreitas onde os camiões têm acesso limitado.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Entregas em horários de menor tráfego: deslocar parte das operações para as primeiras horas da manhã ou para a noite pode aliviar a congestão, desde que sejam geridas as questões de ruído e segurança laboral.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Modelos colaborativos: partilha de hubs urbanos, veículos e rotas entre vários carregadores e transportadores para reduzir quilómetros em vazio e aumentar a taxa de ocupação dos veículos.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ligações multimodais: ligação de terminais ferroviários, portos marítimos e fluviais a hubs urbanos para que uma parte significativa do percurso seja realizada com modos de transporte de menor pegada de carbono, limitando a última milha a distâncias curtas.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Passos para gestores de logística"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Mapear restrições regulatórias: identificar zonas de baixas emissões, zonas de emissões zero e janelas horárias nas rotas de entrega e avaliar se a frota atual cumpre os requisitos de acesso e emissões locais.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Explorar dados de operação: recolher dados de entregas (custos por paragem, tempos de serviço, emissões estimadas), monitorizar indicadores-chave de desempenho e partilhar informação agregada com autoridades municipais para apoiar o planeamento da logística urbana.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Investir em veículos de baixas e zero emissões: avaliar o potencial de bicicletas de carga, carrinhas elétricas e outras soluções limpas e procurar incentivos públicos ou programas de apoio à renovação de frotas.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Construir parcerias: participar em fóruns de logística urbana e parcerias público-privadas, colaborando com outras empresas para desenvolver hubs partilhados, pontos de recolha e testes de novos modelos de serviço.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Pilotar e escalar: lançar projetos-piloto em determinados corredores (por exemplo, micro-hubs, novos horários ou novos tipos de veículos), medir resultados em custos, serviço e emissões e, em seguida, escalar as soluções mais eficazes a mais rotas e cidades.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusão"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A última milha é um desafio central para a logística urbana, mas também uma oportunidade para reduzir emissões, melhorar a qualidade do ar e oferecer um serviço mais fiável ao cliente final. Ao adotarem SULP robustos, investirem em frotas de emissões zero e experimentarem modelos de entrega inovadores, cidades e operadores europeus podem compatibilizar eficiência operacional e objetivos de sustentabilidade. Para os gestores de logística, o fundamental é tratar a última milha como parte integrante da estratégia de operações e não como um detalhe a gerir no fim do processo.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fontes"
+    },
+    {
+      "type": "citation",
+      "text": "European strategies for urban logistics: 16 case studies of innovative initiatives (Alyssa Harris, Laetitia Dablanc, 2023) - Analisa a logística urbana em 16 cidades europeias e conclui que a última milha pode representar mais de 50 % dos custos de entrega, que os veículos pesados podem contribuir até 25 % das emissões urbanas de CO2 e entre 30 e 50 % das partículas e NOx, e que a distribuição de mercadorias é responsável por cerca de 55 % das emissões de veículos.",
+      "author": "Alyssa Harris, Laetitia Dablanc",
+      "url": "https://www.lvmt.fr/wp-content/uploads/2024/05/Harris-and-Dablanc-European-initiatives-of-urban-logistics-report-20231.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Recommendations on Urban Logistics (Expert Group on Urban Mobility, 2024) - O resumo executivo recomenda a partilha de dados à escala da UE, a atualização das orientações SULP com ferramentas digitais, programas de formação para autoridades locais, condições de trabalho seguras, logística colaborativa e hubs partilhados para reduzir viagens em vazio.",
+      "author": "Expert Group on Urban Mobility",
+      "url": "https://transport.ec.europa.eu/document/download/b818ff86-2463-4949-9413-d3ca559f60b9_en"
+    },
+    {
+      "type": "citation",
+      "text": "Zero-emission urban freight logistics and last-mile delivery (European Commission, 2024) - Destaca que a logística urbana é essencial mas enfrenta problemas de congestionamento, falta de espaço e custos elevados, recomendando integrar o transporte de mercadorias nos planos de mobilidade urbana sustentável, desenvolver SULP, utilizar veículos de emissões zero, novos modelos de distribuição, roteamento dinâmico e ligações multimodais.",
+      "author": "European Commission",
+      "url": "https://transport.ec.europa.eu/transport-themes/urban-transport/zero-emission-urban-freight-logistics-and-last-mile-delivery_en"
+    }
+  ],
+  "tags": [
+    "última milha",
+    "logística urbana",
+    "entrega sustentável",
+    "logística de cidade",
+    "SULP",
+    "veículos de emissões zero",
+    "hubs urbanos"
+  ]
+}
+

@@ -1,0 +1,210 @@
+{
+  "id": "driver-shortages-in-european-road-transport-causes-impacts-and-solutions",
+  "shortId": "driver-shortages-european",
+  "language": "fi",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Kuljettajapula eurooppalaisessa maantiekuljetuksessa: syyt, vaikutukset ja ratkaisut",
+  "description": "Koko Euroopassa logistiikkapäälliköt kamppailevat löytääkseen riittävästi päteviä rekkakuljettajia. Ikääntyvä työvoima, korkeat alalle tulon kynnykset ja haastavat työolot ruokkimat työvoimakriisiä, joka uhkaa maantiekuljetusten luotettavuutta. Tässä artikkelissa tarkastellaan kuljettajapulan laajuutta ja syitä sekä esitetään käytännön keinoja kuljettajien rekrytointiin ja sitouttamiseen...",
+  "publishedAt": "2025-12-07T00:00:00.000Z",
+  "category": "Toiminnot",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistiikkateknologian asiantuntijat",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "driver-shortages-hero.png",
+  "imageAlt": "Rivi pysäköityjä rekkoja eurooppalaisella rekkaparkilla ja kyltti, jossa etsitään kuljettajia.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Euroopassa logistiikasta vastaavat kohtaavat yhä useammin saman ongelman: päteviä rekkakuljettajia ei ole tarpeeksi. Ikääntyvä kuljettajakunta, korkeat alalle tulon kustannukset ja vaativat työolot ajavat eteenpäin työvoimakriisiä, joka uhkaa maantiekuljetusten luotettavuutta. Tässä artikkelissa tarkastelemme kuljettajapulan laajuutta ja taustasyitä sekä esittelemme käytännön ratkaisuja kuljettajien houkuttelemiseksi ja pitämiseksi talossa.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "driver-shortages-visual-1.png",
+      "alt": "Kuvaajassa esitetään maantiekuljetusten demografinen jakauma: ikääntyvät kuljettajat, uudet nuoret työntekijät, ajokorttikustannukset ja sukupuolijakauma.",
+      "caption": "Demografinen profiili paljastaa ikääntyvän kuljettajakunnan, niukan nuoren tulokkaan joukon ja merkittävän sukupuolivinouman."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Kuljettajapulan laajuus Euroopassa"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "International Road Transport Union (IRU) kuvaa kuljettajapulaa maailmanlaajuiseksi kriisiksi. IRU:n arvioiden mukaan Euroopassa on satojatuhansia täyttämättömiä kuorma-, linja- ja turistibussinkuljettajien paikkoja ja maailmanlaajuisesti yli 3,6 miljoonaa avointa tehtävää. Nuoria kuljettajia on vähän: alle 6,5 % ammattikuljettajista on alle 25-vuotiaita, kun taas yli 40 % on yli 55-vuotiaita. Naiset muodostavat alle 7 % kuljettajista, mikä heijastaa turvallisuushuolia ja puutteellisia olosuhteita reittien varrella.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "ELA/EURES-työmarkkinaraportin mukaan EU:n maaliikennesektoriin kuuluu noin 1,06 miljoonaa yritystä ja 5,78 miljoonaa työntekijää, ja monissa maissa raportoidaan akuuttia pulaa raskaiden ajoneuvojen kuljettajista ja mekaanikoista. Alalle tulon kynnyksiä ovat muun muassa raskaiden ajoneuvojen ajokortin ja ammattipätevyyden (CPC) hankkimisen kustannukset, jotka joissain maissa ylittävät 2.000 euroa. Kolmansista maista tulevien kuljettajien ajo-oikeuksien tunnustaminen on monimutkaista ja hidasta, mikä vaikeuttaa rekrytointia EU:n ulkopuolelta.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mistä kuljettajapula johtuu?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kuljettajapulaa selittää useiden tekijöiden yhdistelmä:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Demografia ja eläkkeelle siirtyminen: kuljettajakunta ikääntyy. Kun yli 40 % kuljettajista on yli 55-vuotiaita, moni poistuu työmarkkinoilta seuraavan vuosikymmenen aikana. Samaanaikaisesti liian harva nuori näkee rekkakuljettajan uran kiinnostavana, mikä synnyttää rekrytointivajetta.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Työolot: pitkät työpäivät, yöpymiset hytissä, epäsäännölliset vuorot ja puute turvallisista levähdysalueista, joissa on asianmukaiset palvelut, karkottavat potentiaalisia hakijoita. ELA/EURES-raportti korostaa, että matala palkkataso ja turvallisuushuoli ovat erityinen este naisille ja nuorille työntekijöille.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ajokortti- ja koulutuskustannukset: raskaiden ajoneuvojen ajokortin ja ammattipätevyyden hankkiminen voi maksaa useita tuhansia euroja. Trans.info huomauttaa, että esimerkiksi Puolassa rekkakortin hinta on noin 10.000 PLN (noin 2.340 EUR) ja vastaavat summat ovat yleisiä muuallakin. Ilman tukea monella nuorella ei yksinkertaisesti ole varaa koulutukseen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Hallinnollinen monimutkaisuus: vaihtelevat ajokorttien tunnustamissäännöt jäsenvaltioiden välillä ja raskaat viisumiprosessit kolmansien maiden kuljettajille hidastavat kansainvälistä rekrytointia.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kilpailu muista sektoreista: kuljetusala kilpailee työvoimasta muun muassa rakennusalan, varastologistiikan ja alustatalouden kanssa, joissa voidaan tarjota ennustettavampia työaikoja tai muuta houkuttelevaa vastinetta.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vaikutukset logistiikkaan ja toimitusketjuihin"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kuljettajapula nostaa palkkoja ja rahtihintoja, lisää viivästysten riskiä ja vähentää operatiivista joustavuutta. Monen kuljetusliikkeen on pidettävä osa kalustosta parkissa kuljettajien puutteen vuoksi, mikä rajoittaa kapasiteettia sesonkihuippujen aikana. Trans.info arvioi, että Euroopan kuljettajavaje lähestyy 500.000 paikkaa ja että esimerkiksi Puolan kalusto tarvitsee 100.000–200.000 lisäkuljettajaa. IRU varoittaa, että ilman toimia myös kriittisten hyödykkeiden kuljetus voi vaarantua.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ratkaisuehdotuksia ja suosituksia"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Alalle tulon helpottaminen: viranomaiset voivat tukea ajokortti- ja koulutuskustannuksia tai ottaa käyttöön voucher-malleja. Italiassa on esimerkiksi järjestelmä, jossa vouchereilla voidaan kattaa jopa 80 % koulutuskuluista. Ajokorttien tunnustamisen ja viisumikäytäntöjen yksinkertaistaminen helpottaisi kuljettajien rekrytointia naapurimaista.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Työolojen parantaminen: panostaminen turvallisiin levähdysalueisiin, joissa on hyvät palvelut, tasaisemmat työvuorot ja lyhyemmät alueelliset reitit pitkien kansainvälisten ajojen rinnalla voivat lisätä työn houkuttelevuutta, erityisesti perheellisille kuljettajille.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Aliedustettujen ryhmien houkuttelu: kohdennetut rekrytointikampanjat naisille ja nuorille voivat korostaa turvallisuutta, tasa-arvoista palkkaa ja urapolkuja. Modernit rekat, joissa on mukavat hytit ja kehittyneet kuljettajaa avustavat järjestelmät, parantavat työn arkea ja vetovoimaa.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Investoinnit automaatioon ja intermodaalisuuteen: automaatio ei korvaa kuljettajia yhdessä yössä, mutta ratkaisut, kuten automaattinen lastaus, kuljettajaa tukevat järjestelmät ja platooning, voivat nostaa tuottavuutta. Intermodaalikuljetukset vähentävät pitkien ajoreittien tarvetta, kun yksi juna voi korvata kymmeniä puoliperävaunuja maantiellä.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ammatin imagon vahvistaminen: kuljettajien roolin korostaminen toimitusketjujen kriittisenä lenkkinä, oppisopimusohjelmat ja yhteistyö ammattioppilaitosten kanssa voivat rakentaa vakaata, pitkän aikavälin osaajaputkea.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Yhteenveto"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kuljettajapula uhkaa eurooppalaisten toimitusketjujen resilienssiä. Ongelman ratkaiseminen edellyttää koordinoituja toimia viranomaisilta, kuljetusyrityksiltä ja lähettäjiltä: alalle tulon kynnyksiä on madallettava, työoloja parannettava ja ammatin imagoa päivitettävä. Panostus koulutukseen, monimuotoisuuteen ja teknologiaan auttaa houkuttelemaan uutta kuljettajasukupolvea ja varmistamaan, että maantiekuljetukset pystyvät vastaamaan kasvavaan kysyntään.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lähteet"
+    },
+    {
+      "type": "citation",
+      "text": "Global driver shortage reaches crisis point (International Road Transport Union, 2024) - Toteaa, että maailmassa on miljoonia täyttämättömiä kuljettajapaikkoja, että alle 6,5 % kuljettajista on alle 25-vuotiaita ja yli 40 % yli 55-vuotiaita, ja että pula uhkaa välttämättömien hyödykkeiden kuljetusta.",
+      "author": "International Road Transport Union",
+      "url": "https://www.iru.org/news-resources/newsroom/driver-shortage-global-crisis"
+    },
+    {
+      "type": "citation",
+      "text": "ELA/EURES labour market report 2024 (European Labour Authority, EURES, 2024) - Kuvaa, että EU:n maaliikennesektorilla toimii noin 1,06 miljoonaa yritystä ja 5,78 miljoonaa työntekijää, korostaa raskaan liikenteen kuljettajien ja mekaanikkojen puutetta, korkeita ajokorttikustannuksia ja vaativia työoloja sekä naisten vähäistä osuutta kuljettajakunnasta.",
+      "author": "European Labour Authority, EURES",
+      "url": "https://ec.europa.eu/social/main.jsp?catId=738&langId=en&pubId=8407"
+    },
+    {
+      "type": "citation",
+      "text": "Driver shortage leaves fleets idle and costs increase for system (Trans.info, 2025) - Raportoi, että Euroopan kuljettajavaje lähestyy 500.000 paikkaa; tuo esiin korkeat ajokorttikustannukset (noin 2.340 EUR) ja Italian voucher-ohjelman, joka kattaa jopa 80 % koulutuskuluista; ehdottaa, että intermodaalikuljetukset voivat lieventää pulaa korvaamalla 30–40 perävaunua yhdellä junalla.",
+      "author": "Trans.info",
+      "url": "https://trans.info/en/driver-shortage-idle-fleets-421938"
+    }
+  ],
+  "tags": [
+    "kuljettajapula",
+    "rekkakuljettaja",
+    "työvoimapula",
+    "ajokorttikustannukset",
+    "työolot",
+    "eurooppalainen logistiikka",
+    "liikenteen työmarkkinat"
+  ]
+}
+

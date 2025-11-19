@@ -1,0 +1,229 @@
+{
+  "id": "last-mile-delivery-in-european-cities-challenges-and-sustainable-solutions",
+  "shortId": "last-mile-delivery",
+  "language": "fi",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Last-mile-toimitukset Euroopan kaupungeissa: haasteet ja kestävät ratkaisut",
+  "description": "Verkkokaupan kasvaessa nopeasti last-mile – toimitusketjun viimeinen osuus kaupunkiterminaalista asiakkaalle – on noussut yhdeksi kalleimmista ja päästöintensiivisimmistä vaiheista. Eurooppalaiset kaupungit vastaavat haasteeseen kaupunkilogistiikan strategioilla, uusilla säännöillä ja innovatiivisilla ratkaisuilla...",
+  "publishedAt": "2025-12-09T00:00:00.000Z",
+  "category": "Toiminnot",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistiikkateknologian asiantuntijat",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "last-mile-hero.png",
+  "imageAlt": "Havainnekuva eurooppalaisesta kaupungista, jossa on mikro-hubeja, rahtipyöriä ja sähköpakettiautoja, jotka toimittavat paketteja matalapäästöalueilla, sekä dynaamista reititystä kuvaavia ikoneja.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Verkkokauppa on tehnyt pakettitoimituksista arkipäivää, mutta se kuormittaa myös kaupunkien katuverkkoja. Last-mile – toimitusketjun viimeinen osuus jakeluterminaalista asiakkaan ovelle – on usein kallein ja päästöiltään suurin osa kaupunkilogistiikkaa. Jakeluautot ja pakettiautot etsivät samoja pysähtymispaikkoja, jäävät ruuhkiin ja joutuvat sopeutumaan yhä tiukempiin päästörajoihin. Monet eurooppalaiset kaupungit laativat siksi kaupunkilogistiikan strategioita, joilla pyritään sekä tehostamaan jakelua että vähentämään päästöjä. Tässä artikkelissa tarkastellaan ongelman mittakaavaa ja käytännön ratkaisuja.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "last-mile-visual-1.png",
+      "alt": "Lähetti sähkörahtipyörällä eurooppalaisella kävelykadulla, taustalla historiallisia rakennuksia.",
+      "caption": "Sähkörahtipyörät mahdollistavat hiljaiset ja päästöttömät toimitukset historiallisissa keskustoissa ja vilkkailla kävelykaduilla."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ongelman laajuus"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kaupunkien tavaraliikenne on välttämätöntä, jotta kaupat ja kotitaloudet pysyvät varustettuina, mutta se aiheuttaa myös ruuhkaa, melua ja ilmanlaatuongelmia. Raportti 16 eurooppalaisesta kaupungista osoittaa, että last-mile-toimitukset voivat kattaa yli 50 % toimituksen kokonaiskustannuksista. Raskaat ajoneuvot edustavat vain osaa liikennemääristä, mutta voivat aiheuttaa jopa 25 % liikenteen CO2-päästöistä sekä 30–50 % pienhiukkas- ja typpioksidipäästöistä. Monissa kaupungeissa tavaraliikenteen osuudeksi arvioidaan noin 55 % ajoneuvojen kokonaispäästöistä.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Haasteisiin kuuluvat muun muassa rajallinen lastaus- ja purkutila, nykyaikaisten logistiikkatilojen puute kantakaupungissa – mikä siirtää terminaaleja yhä kauemmas keskustasta – sekä kilpailu kadunvarsitilasta jakelun, pysäköinnin, joukkoliikenteen ja pyöräilyn kesken. Monet toimitukset osuvat ruuhka-aikoihin ja pahentavat liikennetilannetta entisestään. Asukkaat ovat huolissaan myös turvallisuudesta ja melusta, kun suuret ajoneuvot manööroivät kapeilla kaduilla.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Politiikka ja suunnittelu"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kestävän kaupunkilogistiikan suunnitelmat (SULP)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Euroopan komission kaupunkiliikenteen asiantuntijaryhmä suosittelee, että kaupungit laativat kestävän kaupunkilogistiikan suunnitelmia (Sustainable Urban Logistics Plans, SULP) osana laajempia kestävän liikkumisen ohjelmia. SULP antaa rakenteen, jossa tavaravirrat kartoitetaan, asetetaan tavoitteet päästöille ja tehokkuudelle ja määritellään toimenpiteet niiden saavuttamiseksi. Vuoden 2024 suosituksissa korostetaan tarvetta EU-tasolla yhteismitallisille tiedoille, vapaaehtoiselle datan jakamiselle sekä päivitettyjä ohjeita, joissa hyödynnetään digitaalisia työkaluja, kuten digitaalisia kaksosia ja tekoälyä. Lisäksi painotetaan turvallisia työoloja kuljettajille ja läheteille, yhteistyöhön perustuvaa logistiikkaa ja yhteiskäyttöisiä kaupunkihubeja, jotka vähentävät tyhjänä ajettuja kilometrejä.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Päästötön kaupunkilogistiikka"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Euroopan komission sivu päästöttömästä kaupunkilogistiikasta muistuttaa, että tavaraliikenne on elintärkeää, mutta kohtaa ruuhkia, tilanpuutetta ja korkeita kustannuksia. Suosituksena on integroida tavaraliikenne osaksi kestävän liikkumisen suunnitelmia ja kehittää SULP-suunnitelmia yhteistyössä yksityisten toimijoiden kanssa. Keskeisiä keinoja ovat nollapäästöiset ajoneuvot, uudet jakelumallit, dynaaminen reititys sekä paremmat yhteydet pitkän matkan kuljetusten – esimerkiksi rautatien ja sisävesireittien – ja last-mile-toimitusten välillä. EU-rahoitteiset hankkeet toimivat testialustoina näille ratkaisuille.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Innovatiiviset ratkaisut"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Käytännössä kaupungit ja logistiikkayritykset yhdistävät fyysisiä ratkaisuja, sääntelyä ja dataohjattuja työkaluja tehdäkseen last-mile-toimituksista tehokkaampia ja vähäpäästöisempiä. Kokemukset eri puolilta Eurooppaa osoittavat, että tietyt ratkaisut toistuvat ja niitä voidaan soveltaa myös uusiin kaupunkeihin ja verkostoihin.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Mikro-hubit ja konsolidointi: pienten jakelupisteiden perustaminen lähelle asuinalueita, joissa kuormat siirretään raskaista ajoneuvoista kevyempiin, vähäpäästöisiin kuljetusvälineisiin viimeistä osuutta varten.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Rahtipyörät ja kevyet sähköajoneuvot: sähköiset rahtipyörät ja pienet sähköpakettiautot soveltuvat historiallisten keskusten, kävelykatujen ja matalapäästöalueiden palvelemiseen, joihin raskaan kaluston pääsy on rajoitettu.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Toimitukset ruuhka-aikojen ulkopuolella: toimitusten siirtäminen aamuvarhaiseen tai ilta-aikaan voi vähentää ruuhkia, kunhan huomioidaan melu ja työntekijöiden turvallisuus ilta- ja yövuoroissa.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Yhteistyömallit: useiden lähettäjien ja kuljetusyritysten volyymien yhdistäminen, yhteiset hubit ja jaetut kuljetukset vähentävät tyhjiä ajoja ja parantavat ajoneuvojen täyttöastetta.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Multimodaaliset yhteydet: rautatie-, meri- ja sisävesiterminaalien kytkeminen kaupunkien jakelukeskuksiin mahdollistaa pidemmän osuuden hoitamisen vähäpäästöisillä kulkumuodoilla ja rajoittaa last-mile-toimitukset lyhyisiin kaupunkiosuuksiin.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Askeleet logistiikan johtajille"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Kartoitus ja vaatimustenmukaisuus: tunnistaa matalapäästö- ja nollapäästöalueet, ajoitusrajoitukset ja painorajoitukset kaupungin pääreiteillä ja arvioida, täyttääkö oma kalusto vaatimukset nykyisillä ja tulevilla markkinoilla.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Datan hyödyntäminen: kerätä tietoa toimitusreiteistä, pysähdyksistä, kustannuksista ja päästöistä, kehittää omia tunnuslukuja last-mile-suorituskyvylle ja jakaa tarvittaessa koottua dataa kaupunkien kanssa yhteisen suunnittelun tueksi.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Investoinnit vähäpäästöiseen kalustoon: arvioida sähköpakettiautojen, rahtipyörien ja muiden vaihtoehtoisten ajoneuvojen käyttömahdollisuuksia ja hyödyntää tarjolla olevia tukia tai veroetuja kaluston uudistamiseen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kumppanuuksien rakentaminen: osallistua kaupunkilogistiikan foorumeihin, tehdä yhteistyötä muiden toimijoiden kanssa yhteisten hubien ja konsolidointiratkaisujen rakentamiseksi ja keskustella ratkaisuista paikallisten viranomaisten kanssa.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Pilottihankkeet ja skaalaus: kokeilla uusia last-mile-malleja rajatuilla alueilla, mitata niiden vaikutus kustannuksiin, palvelutasoon ja päästöihin ja laajentaa onnistuneita konsepteja vaiheittain laajemmalle verkostolle.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Yhteenveto"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Last-mile-toimitukset ovat keskeinen haaste, mutta myös mahdollisuus muuttaa kaupunkilogistiikkaa kestävämpään suuntaan. Laadukkaat SULP-suunnitelmat, investoinnit päästöttömään kalustoon ja uusien jakelumallien kokeilu voivat vähentää päästöjä, parantaa liikkumisen sujuvuutta ja nostaa palvelutasoa. Logistiikkajohtajille tämä tarkoittaa, että last-mile on nähtävä strategisena osana toimintaa, ei pelkkänä operatiivisena yksityiskohtana.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lähteet"
+    },
+    {
+      "type": "citation",
+      "text": "European strategies for urban logistics: 16 case studies of innovative initiatives (Alyssa Harris, Laetitia Dablanc, 2023) - Tarkastelee kaupunkilogistiikkaa 16 eurooppalaisessa kaupungissa ja toteaa, että last-mile-toimitukset voivat vastata yli 50 % toimituskustannuksista, raskaat ajoneuvot jopa 25 % kaupunkien liikenteen CO2-päästöistä ja 30–50 % hiukkas- ja NOx-päästöistä ja että tavaraliikenteen osuus ajoneuvopäästöistä on noin 55 %.",
+      "author": "Alyssa Harris, Laetitia Dablanc",
+      "url": "https://www.lvmt.fr/wp-content/uploads/2024/05/Harris-and-Dablanc-European-initiatives-of-urban-logistics-report-20231.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Recommendations on Urban Logistics (Expert Group on Urban Mobility, 2024) - Suosittelee EU-tasoista datan jakamista, SULP-ohjeiden päivittämistä digitaalisilla työkaluilla, koulutusta paikallisille viranomaisille, turvallisia työoloja, yhteistyöhön perustuvaa logistiikkaa ja yhteiskäyttöisiä hubeja tyhjänä ajettujen kilometrien vähentämiseksi.",
+      "author": "Expert Group on Urban Mobility",
+      "url": "https://transport.ec.europa.eu/document/download/b818ff86-2463-4949-9413-d3ca559f60b9_en"
+    },
+    {
+      "type": "citation",
+      "text": "Zero-emission urban freight logistics and last-mile delivery (European Commission, 2024) - Kuvaa päästöttömän kaupunkilogistiikan haasteita, muun muassa ruuhkia, tilanpuutetta ja korkeita kustannuksia, ja suosittelee tavaraliikenteen integroimista kestävän liikkumisen suunnitelmiin, SULP-suunnitelmien kehittämistä, nollapäästöajoneuvojen, uusien jakelumallien, dynaamisen reitityksen ja multimodaalisten yhteyksien hyödyntämistä.",
+      "author": "European Commission",
+      "url": "https://transport.ec.europa.eu/transport-themes/urban-transport/zero-emission-urban-freight-logistics-and-last-mile-delivery_en"
+    }
+  ],
+  "tags": [
+    "last-mile-toimitukset",
+    "kaupunkilogistiikka",
+    "kestävä toimitus",
+    "kaupunkien tavaraliikenne",
+    "SULP",
+    "päästöttömät ajoneuvot",
+    "kaupunkihubit"
+  ]
+}
+

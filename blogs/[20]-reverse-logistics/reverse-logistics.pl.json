@@ -1,0 +1,222 @@
+{
+  "id": "reverse-logistics-and-the-circular-economy-in-europe-turning-returns-into-resources",
+  "shortId": "reverse-logistics-circular",
+  "language": "pl",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Logistyka zwrotna i gospodarka o obiegu zamkniętym w Europie: jak zamienić zwroty w zasoby",
+  "description": "Dynamiczny rozwój e-commerce i zaostrzające się przepisy środowiskowe sprawiają, że logistyka zwrotna – proces zbierania zwróconych towarów i opakowań oraz ponownego włączania ich do łańcucha dostaw – wysuwa się na pierwszy plan. Aby realizować cele zrównoważonego rozwoju, firmy muszą powiązać te przepływy zwrotne ze strategiami gospodarki o obiegu zamkniętym UE...",
+  "publishedAt": "2025-12-08T00:00:00.000Z",
+  "category": "Zrównoważony rozwój",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperci ds. technologii logistycznych",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "reverse-logistics-hero.png",
+  "imageAlt": "Ilustracja przedstawiająca cyrkularny łańcuch dostaw z oznaczonymi strzałkami logistyki bezpośredniej i zwrotnej, ponownie wykorzystywanymi kontenerami i ikonami recyklingu w europejskim otoczeniu.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Rozwój handlu internetowego oraz coraz bardziej rygorystyczne regulacje środowiskowe sprawiły, że logistyka zwrotna przestała być niszowym tematem. Obejmuje ona proces odbioru zwróconych produktów i opakowań, ich sortowania oraz kierowania z powrotem do łańcucha dostaw zamiast na wysypisko. Aby osiągać cele klimatyczne, nadawcy i przewoźnicy muszą powiązać te przepływy zwrotne ze strategiami gospodarki o obiegu zamkniętym Unii Europejskiej. Artykuł przedstawia ramy regulacyjne i praktyczne wskazówki dla firm transportowych.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "reverse-logistics-visual-1.png",
+      "alt": "Magazyn w Europie, w którym sortowane są zwrócone przesyłki przeznaczone do ponownego użycia, naprawy i recyklingu, z pracownikami i zieloną oznaką.",
+      "caption": "Centra zwrotów, w których produkty i opakowania trafiają do ponownego wykorzystania lub recyklingu, są kluczowym elementem logistyki w gospodarce o obiegu zamkniętym."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dlaczego logistyka zwrotna jest ważna"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Zwroty oraz produkty na końcu cyklu życia nie są już postrzegane wyłącznie jako koszt. Traktuje się je jako zasób, który można naprawić, odnowić albo przetworzyć na surowce wtórne. Europejska Agencja Środowiska wskazuje, że UE odchodzi od modelu linearnego, w którym towary po jednym użyciu trafiają na wysypisko, na rzecz gospodarki o obiegu zamkniętym, kładącej nacisk na ponowne użycie, naprawę i recykling. Takie podejście wydłuża czas pozostawania materiałów w obiegu i ogranicza ilość odpadów oraz wpływ na środowisko.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Postęp jest jednak powolny: w 2022 roku materiały z recyklingu stanowiły tylko około 11,5 % wszystkich materiałów zużywanych w UE, a podwojenie wskaźnika wykorzystania materiałów wtórnych do 2030 roku będzie trudne. Jednocześnie udział składowania odpadów na wysypiskach spadł w latach 2010–2020 z 23 % do 16 %, co pokazuje poprawę w zakresie odzysku i recyklingu. Logistyka zwrotna pomaga domknąć obieg, przywracając produkty i opakowania do ponownego użycia, naprawy lub recyklingu.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rozporządzenie w sprawie opakowań i odpadów opakowaniowych (PPWR)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Nowe rozporządzenie UE w sprawie opakowań i odpadów opakowaniowych (PPWR), obowiązujące od 11 lutego 2025 roku, wprowadza ambitne cele w zakresie recyklingu i ponownego użycia. Zakłada, że do 2030 roku wszystkie opakowania wprowadzane na rynek UE będą nadawały się do recyklingu, zwiększy się udział tworzyw sztucznych z recyklingu, a zużycie surowców pierwotnych spadnie. Rozporządzenie ogranicza stosowanie opakowań jednorazowych i wymaga, aby punkty gastronomiczne typu take-away umożliwiały klientom korzystanie z własnych pojemników bez dodatkowych opłat. Opakowania odpowiadają za około 40 % zużycia plastiku w UE i połowę odpadów morskich, a każdy mieszkaniec w 2022 roku wygenerował średnio 186,5 kg odpadów opakowaniowych.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Dla menedżerów logistyki PPWR oznacza większą odpowiedzialność za organizowanie zwrotu opakowań i kierowanie ich do instalacji spełniających wymagania prawne. Kluczową rolę odgrywają systemy opakowań wielokrotnego użytku oraz projektowanie opakowań z myślą o łatwym sortowaniu i recyklingu.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Projektowanie sieci logistyki zwrotnej"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Budując efektywne systemy logistyki zwrotnej, firmy powinny rozważyć następujące kroki:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Analiza strumieni zwrotów: wskazanie grup produktów o wysokim odsetku zwrotów, takich jak elektronika czy tekstylia, oraz ocena, czy nadają się one do naprawy, odnowienia lub recyklingu.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Wykorzystanie punktów odbioru i automatów paczkowych: konsolidacja zwrotów poprzez sieci punktów nadawczo-odbiorczych, automaty paczkowe i sklepy stacjonarne, aby ograniczyć koszty odbioru i ułatwić klientom nadawanie paczek zwrotnych.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Integracja logistyki wyjściowej i zwrotnej: łączenie dostaw z odbiorem zwrotów w ramach tych samych tras, co ogranicza puste przebiegi. Zaawansowane narzędzia planowania tras pomagają synchronizować oba strumienie.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Współpraca z zakładami naprawczymi i recyklerami: zawarcie umów z certyfikowanymi partnerami odpowiedzialnymi za ocenę, naprawę, odnowienie oraz recykling zwróconych produktów i zapewnienie dostępu do danych o stanie przesyłek zwrotnych.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Wdrażanie opakowań wielokrotnego użytku: inwestowanie w wytrzymałe opakowania transportowe, na przykład składane skrzynki, które można zwracać, myć i ponownie wykorzystywać. Zmniejsza to ilość odpadów i poprawia ochronę ładunku.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Strategie gospodarki o obiegu zamkniętym w logistyce"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Logistyka zwrotna powinna być zintegrowana z szerszą strategią gospodarki o obiegu zamkniętym, która obejmuje między innymi:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Projektowanie pod kątem demontażu: tak projektować produkty i opakowania, aby można je było łatwo rozebrać i posegregować na jednorodne frakcje materiałowe do naprawy lub recyklingu.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Wspólne wykorzystanie zasobów: dzielić się powierzchnią magazynową, hubami i potencjałem przewozowym z innymi uczestnikami rynku, aby zwiększyć wykorzystanie zasobów i ograniczyć puste przebiegi.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Dane i śledzenie: wdrażać systemy monitorowania, takie jak kody kreskowe nowej generacji, RFID czy platformy cyfrowe, aby śledzić opakowania zwrotne i inne nośniki przez wiele cykli użycia.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Zaangażowanie konsumentów: zachęcać klientów do odsyłania produktów poprzez programy kaucji, rabaty lub kampanie odkupu, jednocześnie edukując ich w zakresie korzyści środowiskowych.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Monitorowanie i zgodność z przepisami: mierzyć kluczowe wskaźniki, takie jak udział zwrotów przeznaczonych do ponownego użycia i recyklingu, aby spełniać wymogi raportowania i identyfikować obszary wymagające poprawy.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Wnioski"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Logistyka zwrotna jest jednym z fundamentów gospodarki o obiegu zamkniętym. Firmy, które aktywnie wdrażają wymagania PPWR i dostosowują swoje procesy do celów UE w zakresie cyrkularności, mogą przekształcić zwroty z obciążenia kosztowego w źródło wartości. Integracja przepływów zwrotnych z codziennymi operacjami, inwestycje w systemy opakowań wielokrotnego użytku oraz współpraca w całym łańcuchu wartości pomogą osiągać cele klimatyczne i odpowiadać na rosnącą presję regulacyjną i oczekiwania klientów.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Źródła"
+    },
+    {
+      "type": "citation",
+      "text": "Circular economy (European Environment Agency, 2024) – Opisuje przejście Europy od modeli linearnych do modeli cyrkularnych i wskazuje, że w 2022 roku jedynie 11,5 % materiałów wykorzystywanych w UE pochodziło z recyklingu, a udział składowania odpadów w latach 2010–2020 spadł z 23 % do 16 %.",
+      "author": "European Environment Agency",
+      "url": "https://www.eea.europa.eu/en/topics/in-depth/circular-economy"
+    },
+    {
+      "type": "citation",
+      "text": "Packaging waste (European Commission, 2025) – Przedstawia rozporządzenie w sprawie opakowań i odpadów opakowaniowych (2025/40), które wymaga, by wszystkie opakowania były możliwe do recyklingu do 2030 roku, zwiększa udział tworzyw z recyklingu, ogranicza wykorzystanie surowców pierwotnych, wprowadza ograniczenia dla opakowań jednorazowych oraz nakłada obowiązek przyjmowania przez punkty gastronomiczne pojemników przyniesionych przez klientów.",
+      "author": "European Commission",
+      "url": "https://environment.ec.europa.eu/topics/waste-and-recycling/packaging-waste_en"
+    }
+  ],
+  "tags": [
+    "logistyka zwrotna",
+    "gospodarka o obiegu zamkniętym",
+    "regulacje dotyczące opakowań",
+    "recykling",
+    "ponowne użycie",
+    "zwroty",
+    "logistyka UE"
+  ]
+}
+

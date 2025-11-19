@@ -1,0 +1,222 @@
+{
+  "id": "reverse-logistics-and-the-circular-economy-in-europe-turning-returns-into-resources",
+  "shortId": "reverse-logistics-circular",
+  "language": "es",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Logística inversa y economía circular en Europa: convertir devoluciones en recursos",
+  "description": "El crecimiento del comercio electrónico y el endurecimiento de las normas medioambientales han situado la logística inversa – la recogida de productos y envases devueltos y su reintegración en la cadena de suministro – en el centro del debate. Para alcanzar los objetivos de sostenibilidad, las empresas deben alinear estos flujos inversos con las estrategias de economía circular de la UE...",
+  "publishedAt": "2025-12-08T00:00:00.000Z",
+  "category": "Sostenibilidad",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Expertos en tecnología logística",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "reverse-logistics-hero.png",
+  "imageAlt": "Ilustración de una cadena de suministro circular con flechas de logística directa e inversa, contenedores reutilizados e iconos de reciclaje en un contexto europeo.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "El auge del comercio electrónico y unas regulaciones ambientales cada vez más estrictas han llevado la logística inversa a primer plano. Hablamos del proceso de recoger devoluciones de productos y embalajes, clasificarlos y devolverlos a la cadena de suministro en lugar de desecharlos. Para cumplir los objetivos climáticos y de sostenibilidad, los cargadores y operadores logísticos deben vincular estos flujos inversos con las estrategias europeas de economía circular. Este artículo resume el marco normativo y propone medidas prácticas.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "reverse-logistics-visual-1.png",
+      "alt": "Almacén europeo donde se clasifican paquetes devueltos para su reacondicionamiento y reciclaje, con trabajadores y señalización verde.",
+      "caption": "Los centros de clasificación de devoluciones son un eslabón clave para recuperar productos y envases dentro de la economía circular."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Por qué importa la logística inversa"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Las devoluciones y los productos al final de su vida útil ya no se consideran solo un coste inevitable. Cada vez más se tratan como recursos que pueden repararse, reacondicionarse o reciclarse. La Agencia Europea de Medio Ambiente señala que la UE está pasando de un modelo lineal, en el que los productos se descartan tras un único uso, a una economía circular basada en la reutilización, la reparación y el reciclaje. Al mantener los materiales en uso durante más tiempo y transformarlos en nuevos productos, se reduce la generación de residuos y el impacto ambiental.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sin embargo, el avance es lento: en 2022 los materiales reciclados representaron solo el 11,5 % de todos los materiales utilizados en la UE, y duplicar esta tasa de uso circular de materiales de aquí a 2030 será un reto. Al mismo tiempo, el vertido en rellenos sanitarios se redujo del 23 % al 16 % entre 2010 y 2020, lo que indica cierto éxito en la desviación de residuos. La logística inversa ayuda a cerrar el círculo recuperando productos y envases para su preparación para la reutilización o su reciclado.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reglamento de envases y residuos de envases (PPWR)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "El nuevo Reglamento de envases y residuos de envases (PPWR), en vigor desde el 11 de febrero de 2025, establece objetivos ambiciosos de reciclaje y reutilización. Pretende que todos los envases comercializados en la UE sean reciclables en 2030, aumentar el uso de plásticos reciclados y reducir la dependencia de materias primas vírgenes. También introduce restricciones a los envases de un solo uso y obliga a los negocios de comida para llevar a aceptar envases reutilizables aportados por los clientes sin coste adicional. Los envases representan alrededor del 40 % del consumo de plástico de la UE y la mitad de la basura marina, y cada residente generó 186,5 kg de residuos de envases en 2022.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Para los responsables de logística, la PPWR implica asumir una mayor responsabilidad en la gestión del retorno de envases y garantizar que se traten en instalaciones que cumplan la normativa. Los sistemas de envases reutilizables y el ecodiseño orientado al reciclaje pasan a ser elementos esenciales en la planificación del transporte y el almacenamiento.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Diseñar redes de logística inversa"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Para construir sistemas eficaces de logística inversa, las empresas deberían considerar las siguientes acciones:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Analizar los flujos de devolución: identificar los productos con tasas de devolución elevadas, como electrónica o textil, y evaluar si pueden repararse, reacondicionarse o reciclarse.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Utilizar puntos de recogida y taquillas: consolidar devoluciones a través de puntos de paquetería, taquillas automáticas o tiendas físicas para reducir los costes de recogida y facilitar la devolución a los consumidores.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Integrar logística directa e inversa: combinar entregas y recogidas en las mismas rutas siempre que sea posible, reduciendo kilómetros en vacío. Las herramientas avanzadas de optimización de rutas ayudan a coordinar ambos flujos.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Colaborar con reparadores y recicladores certificados: firmar acuerdos con centros especializados en reacondicionamiento y reciclaje de productos devueltos y asegurarse de capturar datos fiables sobre el estado de las devoluciones para decidir su mejor destino.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Adoptar envases reutilizables: invertir en embalajes de transporte resistentes, como cajas plegables, que puedan devolverse, limpiarse y reutilizarse. Esto reduce residuos y, a largo plazo, puede mejorar la protección del producto y los costes.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estrategias de economía circular en logística"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La logística inversa debe integrarse en una estrategia más amplia de economía circular que incluya, entre otros, los siguientes elementos:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Diseño para el desmontaje: diseñar productos y envases para que puedan desmontarse y separarse fácilmente por materiales con vistas a su reparación o reciclaje.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Recursos compartidos: compartir almacenes, hubs urbanos y capacidad de transporte con otros operadores para aumentar los niveles de carga y reducir la capacidad ociosa.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Datos y trazabilidad: implantar sistemas de seguimiento, como códigos avanzados o etiquetas RFID, para seguir la pista a envases reutilizables y otros activos durante múltiples ciclos.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Implicar al consumidor: incentivar la devolución de productos mediante programas de depósito y retorno, descuentos o programas de recompra, explicando de forma clara el impacto ambiental positivo.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Monitorizar y cumplir: seguir indicadores clave como tasas de devolución, reutilización y reciclaje para cumplir las obligaciones de reporte y orientar las mejoras operativas.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusión"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La logística inversa es una pieza central de la economía circular. Al aplicar de forma proactiva el PPWR y alinear sus operaciones con los objetivos europeos de circularidad, los cargadores y operadores logísticos pueden transformar las devoluciones de un centro de costes en una fuente de valor. Integrar los flujos inversos, invertir en envases reutilizables y colaborar a lo largo de toda la cadena de valor ayudará a las empresas europeas a cumplir sus objetivos de sostenibilidad y responder a la presión regulatoria y de los clientes.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fuentes"
+    },
+    {
+      "type": "citation",
+      "text": "Circular economy (European Environment Agency, 2024) – Describe la transición de Europa de modelos lineales a modelos circulares y señala que solo el 11,5 % de los materiales utilizados en 2022 procedían del reciclaje, mientras que el vertido en vertederos se redujo del 23 % al 16 % entre 2010 y 2020.",
+      "author": "European Environment Agency",
+      "url": "https://www.eea.europa.eu/en/topics/in-depth/circular-economy"
+    },
+    {
+      "type": "citation",
+      "text": "Packaging waste (European Commission, 2025) – Resume el Reglamento de envases y residuos de envases (2025/40), que exige que todos los envases sean reciclables en 2030, incrementa el uso de plásticos reciclados, reduce las materias primas vírgenes, limita los envases de un solo uso y obliga a los negocios de comida para llevar a aceptar recipientes aportados por los clientes.",
+      "author": "European Commission",
+      "url": "https://environment.ec.europa.eu/topics/waste-and-recycling/packaging-waste_en"
+    }
+  ],
+  "tags": [
+    "logística inversa",
+    "economía circular",
+    "regulación de envases",
+    "reciclaje",
+    "reutilización",
+    "devoluciones",
+    "logística UE"
+  ]
+}
+

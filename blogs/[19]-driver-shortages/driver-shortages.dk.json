@@ -1,0 +1,210 @@
+{
+  "id": "driver-shortages-in-european-road-transport-causes-impacts-and-solutions",
+  "shortId": "driver-shortages-european",
+  "language": "dk",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Chaufførmangel i europæisk vejtransport: årsager, konsekvenser og løsninger",
+  "description": "Overalt i Europa kæmper logistikchefer med at finde nok kvalificerede lastbilchauffører. En aldrende arbejdsstyrke, høje adgangsbarrierer og krævende arbejdsvilkår driver en arbejdskraftkrise, der truer driftsstabiliteten i vejtransporten. Denne artikel gennemgår omfanget og årsagerne til chaufførmanglen og præsenterer konkrete tiltag til at tiltrække og fastholde chauffører...",
+  "publishedAt": "2025-12-07T00:00:00.000Z",
+  "category": "Drift",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperter i logistikteknologi",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "driver-shortages-hero.png",
+  "imageAlt": "Række parkerede trækkere på en europæisk lastbilplads med et tydeligt skilt, der annoncerer ledige chaufførstillinger.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "På tværs af Europa har logistikansvarlige stadig sværere ved at skaffe tilstrækkeligt mange kvalificerede lastbilchauffører. En aldrende chaufførstab, høje omkostninger ved at komme ind i faget og hårde arbejdsvilkår driver en arbejdskraftkrise, som underminerer pålideligheden i vejtransporten. I denne artikel ser vi på omfanget og årsagerne til chaufførmanglen og præsenterer praktiske tiltag til at tiltrække og fastholde chauffører.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "driver-shortages-visual-1.png",
+      "alt": "Illustration, der viser den demografiske fordeling i vejtransport: ældre chauffører, unge i opstart, omkostninger til kørekort og kønsfordeling.",
+      "caption": "Den demografiske profil viser en aldrende chaufførgruppe, få unge og en markant kønsskævhed."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Omfanget af chaufførmanglen"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "International Road Transport Union (IRU) betegner manglen på chauffører som en global krise. I Europa anslår IRU, at hundrede tusindvis af stillinger til lastbil-, bus- og turistbuschauffører står ubesatte, og at der globalt mangler mere end 3,6 millioner chauffører. Unge chauffører er en sjældenhed: under 6,5 % af de professionelle chauffører er under 25 år, mens over 40 % er over 55. Kvinder udgør mindre end 7 % af chaufførerne, hvilket afspejler bekymring om sikkerhed og manglende faciliteter målrettet dem.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "En arbejdsmarkedsrapport fra ELA/EURES viser, at landtransportsektoren i EU består af ca. 1,06 millioner virksomheder med omkring 5,78 millioner ansatte, og at mange lande rapporterer akut mangel på chauffører til tunge køretøjer og mekanikere. Blandt adgangsbarriererne er omkostningerne til lastbilkørekort og efteruddannelse (CPC), som i nogle lande overstiger 2.000 EUR. Anerkendelse af kørekort fra tredjelande er kompleks og tidskrævende, hvilket besværliggør rekruttering uden for EU.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Årsager til manglen på chauffører"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Flere faktorer bidrager til den nuværende chaufførmangel:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Demografi og pensionering: chaufførkorpset bliver ældre. Over 40 % af chaufførerne er over 55 år, så mange vil forlade branchen i løbet af det næste årti. For få unge ser lastbilkørsel som en attraktiv karriere, hvilket skaber et hul i tilgangen af nye chauffører.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Arbejdsvilkår: lange dage, nætter i førerhuset, uforudsigelige skemaer og mangel på sikre rastepladser med ordentlige faciliteter gør jobbet mindre attraktivt. Ifølge ELA/EURES-rapporten er lav løn og sikkerhedsbekymringer særligt hæmmende for kvinder og yngre arbejdstagere.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kørekort- og uddannelsesomkostninger: at få kørekort til tunge køretøjer og det nødvendige kompetencebevis kan koste flere tusinde euro. Trans.info fremhæver eksempelvis, at et lastbilkørekort i Polen koster omkring 10.000 PLN (ca. 2.340 EUR), og at niveauet er lignende i flere andre lande. Uden økonomisk støtte har mange unge ikke råd til uddannelsen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Administrativ kompleksitet: forskelligartede regler for anerkendelse af kørekort på tværs af medlemsstater og tunge visumprocedurer for chauffører fra tredjelande forsinker international rekruttering.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Konkurrence fra andre sektorer: vejtransporten konkurrerer med blandt andet byggebranchen, lagerlogistik og platformjobs (gig economy), som ofte tilbyder mere forudsigelige arbejdstider eller mere attraktive vilkår.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Konsekvenser for logistik og forsyningskæder"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Chaufførmanglen presser lønninger og fragtrater op, bidrager til forsinkelser og reducerer fleksibiliteten i netværket. Mange vognmænd må lade køretøjer stå stille på grund af mangel på chauffører, hvilket reducerer den tilgængelige kapacitet i travle perioder. Trans.info vurderer, at chaufførmanglen i Europa nærmer sig 500.000 ubesatte stillinger, og at der alene i Polen mangler 100.000–200.000 chauffører. IRU advarer om, at transporten af kritiske varer kan blive påvirket, hvis situationen ikke håndteres.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Løsningsforslag og anbefalinger"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Sænk adgangsbarrierer: stater kan give tilskud til kørekort og uddannelse eller indføre voucherordninger. I Italien dækker en voucherordning op til 80 % af omkostningerne ved at tage kørekort. Enklere anerkendelsesprocesser og hurtigere visumbehandling kan gøre det lettere at rekruttere chauffører fra nabolande.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Forbedr arbejdsvilkår: invester i sikre rastepladser med sanitære faciliteter, tilbyd mere forudsigelige skemaer og kortere regionale ture frem for udelukkende lange internationale strækninger, så jobbet bedre kan forenes med familieliv og fritid.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tiltræk underrepræsenterede grupper: rekrutteringsinitiativer målrettet kvinder og unge bør fremhæve sikkerhed, lige løn og udviklingsmuligheder. Moderne lastbiler med komfortable førerhuse og avancerede førerassistentsystemer kan øge jobtilfredshed og tiltrækningskraft.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Invester i automatisering og intermodalitet: selv om automatisering ikke erstatter chauffører foreløbig, kan teknologier som automatiseret lastning, førerassistentsystemer og platooning øge produktiviteten. Intermodaltransport kan aflaste efterspørgslen efter langdistancesjåfører, fordi et tog kan erstatte 30–40 påhængsvogne på vejen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Styrk branchens image: synliggør chaufførernes centrale rolle i forsyningskæderne, og opbyg talentpipelinen via lærlingeprogrammer og samarbejde med erhvervsskoler og AMU-centre.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Konklusion"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Chaufførmanglen truer robustheden i de europæiske forsyningskæder. En effektiv indsats kræver, at myndigheder, vognmænd og vareejere arbejder sammen om at sænke adgangsbarrierer, forbedre arbejdsvilkår og modernisere opfattelsen af chaufførfaget. Investeringer i uddannelse, diversitet og teknologi er afgørende for at tiltrække en ny generation chauffører og sikre, at vejtransporten kan imødekomme fremtidens efterspørgsel.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kilder"
+    },
+    {
+      "type": "citation",
+      "text": "Global driver shortage reaches crisis point (International Road Transport Union, 2024) - Fastslår, at millioner af chaufførstillinger globalt står ubesatte, at mindre end 6,5 % af chaufførerne er under 25 år, mens over 40 % er over 55, og at manglen truer transporten af kritiske varer.",
+      "author": "International Road Transport Union",
+      "url": "https://www.iru.org/news-resources/newsroom/driver-shortage-global-crisis"
+    },
+    {
+      "type": "citation",
+      "text": "ELA/EURES labour market report 2024 (European Labour Authority, EURES, 2024) - Viser, at landtransportsektoren i EU består af cirka 1,06 millioner virksomheder med 5,78 millioner ansatte, fremhæver mangel på chauffører og mekanikere, høje kørekortomkostninger og krævende arbejdsvilkår samt en lav andel kvinder i branchen.",
+      "author": "European Labour Authority, EURES",
+      "url": "https://ec.europa.eu/social/main.jsp?catId=738&langId=en&pubId=8407"
+    },
+    {
+      "type": "citation",
+      "text": "Driver shortage leaves fleets idle and costs increase for system (Trans.info, 2025) - Understreger, at chaufførmanglen i Europa nærmer sig 500.000 stillinger; nævner høje kørekortomkostninger (omkring 2.340 EUR) og den italienske voucherordning, der dækker op til 80 % af uddannelsesomkostningerne; peger på, at intermodaltransport kan aflaste manglen ved at et tog kan erstatte 30–40 trailere.",
+      "author": "Trans.info",
+      "url": "https://trans.info/en/driver-shortage-idle-fleets-421938"
+    }
+  ],
+  "tags": [
+    "chaufførmangel",
+    "lastbilchauffør",
+    "arbejdskraftkrise",
+    "kørekortomkostninger",
+    "arbejdsvilkår",
+    "europæisk logistik",
+    "arbejdsmarked transport"
+  ]
+}
+
