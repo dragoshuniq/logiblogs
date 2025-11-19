@@ -1,5 +1,5 @@
 {
-  "id": "cross-border-road-freight-europe-rules-documents-pitfalls",
+  "id": "cross-border-road-freight-europe-rules-documents-pitfalls-en",
   "shortId": "cross-border-freight",
   "language": "en",
   "isVisible": true,
@@ -20,7 +20,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "International road freight inside the European Union (EU) is deceptively simple at first glance: once goods enter the single market, they can move freely between member states. But regulatory complexity, paperwork and varying national requirements can trip up even experienced shippers. Understanding the rules and preparing the right documents prevents delays, fines and lost business. This article explains the essential requirements for cross\u2011border road transport in Europe, highlights common pitfalls and offers practical advice for staying compliant.",
+          "text": "International road freight inside the European Union (EU) is deceptively simple at first glance: once goods enter the single market, they can move freely between member states. But regulatory complexity, paperwork and varying national requirements can trip up even experienced shippers. Understanding the rules and preparing the right documents prevents delays, fines and lost business. This article explains the essential requirements for cross‑border road transport in Europe, highlights common pitfalls and offers practical advice for staying compliant.",
           "bold": false
         }
       ]
@@ -62,7 +62,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Even within the single market, cross-border shipments require specific paperwork. The CMR consignment note \u2013 mandated by the Convention on the Contract for the International Carriage of Goods by Road \u2013 is the core document for any road shipment across national borders. It records the sender, consignee, carrier, description of goods and places of dispatch and delivery. Both the shipper and carrier must sign it, and it serves as proof of a contract of carriage.",
+          "text": "Even within the single market, cross-border shipments require specific paperwork. The CMR consignment note – mandated by the Convention on the Contract for the International Carriage of Goods by Road – is the core document for any road shipment across national borders. It records the sender, consignee, carrier, description of goods and places of dispatch and delivery. Both the shipper and carrier must sign it, and it serves as proof of a contract of carriage.",
           "bold": false
         }
       ]
@@ -192,7 +192,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Vehicles must meet emissions and safety standards. Many cities have low-emission zones requiring Euro 6 or better engines, while Germany introduced a CO\u2082 component to its truck toll in December 2023, almost doubling toll costs (SNAP ACC, 2025). Carriers should also register their trailers and ensure that vehicles are equipped with proper safety equipment such as fire extinguishers, warning triangles and winter tyres where required (SNAP ACC, 2025).",
+          "text": "Vehicles must meet emissions and safety standards. Many cities have low-emission zones requiring Euro 6 or better engines, while Germany introduced a CO₂ component to its truck toll in December 2023, almost doubling toll costs (SNAP ACC, 2025). Carriers should also register their trailers and ensure that vehicles are equipped with proper safety equipment such as fire extinguishers, warning triangles and winter tyres where required (SNAP ACC, 2025).",
           "bold": false
         }
       ]
@@ -271,25 +271,25 @@
     },
     {
       "type": "citation",
-      "text": "Carrying out international road haulage (UK Department for Transport, 2023) \u2013 explains posting declarations, supporting evidence and tachograph records required when UK and EU drivers work abroad.",
+      "text": "Carrying out international road haulage (UK Department for Transport, 2023) – explains posting declarations, supporting evidence and tachograph records required when UK and EU drivers work abroad.",
       "author": "UK Department for Transport",
       "url": "https://www.gov.uk/guidance/carrying-out-international-road-haulage/"
     },
     {
       "type": "citation",
-      "text": "Road transport workers: driving and rest time rules (European Commission, 2024) \u2013 details EU limits on driving hours, breaks, weekly rest requirements and tachograph enforcement.",
+      "text": "Road transport workers: driving and rest time rules (European Commission, 2024) – details EU limits on driving hours, breaks, weekly rest requirements and tachograph enforcement.",
       "author": "European Commission",
       "url": "https://europa.eu/youreurope/business/dealing-with-customers/transport/road-transport-workers/index_en.htm"
     },
     {
       "type": "citation",
-      "text": "What fleet managers need to know about EU transport regulations (SNAP ACC Newsroom, 2025) \u2013 summarises Mobility Package cabotage limits, driver posting rules and the requirement for vehicles to return home every eight weeks.",
+      "text": "What fleet managers need to know about EU transport regulations (SNAP ACC Newsroom, 2025) – summarises Mobility Package cabotage limits, driver posting rules and the requirement for vehicles to return home every eight weeks.",
       "author": "Josh Cousens",
       "url": "https://snapacc.com/newsroom/what-fleet-managers-need-to-know-about-eu-transport-regulations/"
     },
     {
       "type": "citation",
-      "text": "What fleet managers need to know about EU transport regulations (SNAP ACC Newsroom, 2025) \u2013 highlights Euro 7 emissions standards, low-emission zones, smart tachographs and digital compliance expectations for European fleets.",
+      "text": "What fleet managers need to know about EU transport regulations (SNAP ACC Newsroom, 2025) – highlights Euro 7 emissions standards, low-emission zones, smart tachographs and digital compliance expectations for European fleets.",
       "author": "Josh Cousens",
       "url": "https://snapacc.com/newsroom/what-fleet-managers-need-to-know-about-eu-transport-regulations/"
     }

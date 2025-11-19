@@ -1,5 +1,5 @@
 {
-  "id": "digital-freight-forwarding-vs-traditional-forwarding",
+  "id": "digital-freight-forwarding-vs-traditional-forwarding-en",
   "shortId": "digital-vs-traditional",
   "language": "en",
   "isVisible": true,
@@ -425,13 +425,13 @@
     {
       "type": "citation",
       "text": "The Digital Imperative in Freight Forwarding (Boston Consulting Group, 2018) - Explains that automating manual processes could reduce back-office and operations costs by up to 40% and notes that shippers often wait up to 100 hours for a quotation in traditional forwarding.",
-      "author": "Ted Chan, Simone Riedl, Tobias Riedl, Marco Reuber, Andy\u00a0Lee",
+      "author": "Ted Chan, Simone Riedl, Tobias Riedl, Marco Reuber, Andy Lee",
       "url": "https://www.bcg.com/publications/2018/digital-imperative-freight-forwarding"
     },
     {
       "type": "citation",
       "text": "Digital logistics: Technology race gathers momentum (McKinsey & Company, 2023) - Reports that digital logistics capabilities can improve operational performance by 10-20% in the short term and 20-40% within two to four years, and that digital tools help derisk earnings by up to 60%.",
-      "author": "Sandy\u00a0Gosling, Jason\u00a0Li, Arsenio\u00a0Martinez, Marcela\u00a0Miguel, Fernando\u00a0Perez",
+      "author": "Sandy Gosling, Jason Li, Arsenio Martinez, Marcela Miguel, Fernando Perez",
       "url": "https://www.mckinsey.com/capabilities/operations/our-insights/digital-logistics-technology-race-gathers-momentum"
     },
     {
@@ -443,7 +443,7 @@
     {
       "type": "citation",
       "text": "Beyond Borders: Exploring Digital Freight Forwarding Trends for 2024 and Beyond (Unicargo, 2023) - Highlights that digital platforms reduce empty miles, optimize routes and enhance visibility, thereby boosting efficiency and reducing emissions.",
-      "author": "Yanai\u00a0G",
+      "author": "Yanai G",
       "url": "https://www.unicargo.com/digital-freight-forwarding-trends-for-2024-what-to-expect/"
     },
     {

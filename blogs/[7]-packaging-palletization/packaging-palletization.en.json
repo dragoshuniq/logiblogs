@@ -1,5 +1,5 @@
 {
-  "id": "packaging-and-palletization-best-practices-for-european-road-transport",
+  "id": "packaging-and-palletization-best-practices-for-european-road-transport-en",
   "shortId": "packaging-best-practices",
   "language": "en",
   "isVisible": true,
@@ -40,7 +40,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The European pallet (EPAL) is the most widely used pallet in Europe. It has standardized dimensions of 1,200 mm \u00d7 800 mm \u00d7 144 mm and a usable area of 0.96 m\u00b2 (Across Logistics, 2025). Empty pallets weigh 22-25 kg depending on moisture content and can carry up to 1,500 kg in dynamic load, 4,000 kg when stacked, and 1,000 kg on racking systems (Across Logistics, 2025). These specifications ensure compatibility with European trucks and containers, allowing two pallets to be placed crosswise or three lengthwise in a standard trailer (Across Logistics, 2025).",
+          "text": "The European pallet (EPAL) is the most widely used pallet in Europe. It has standardized dimensions of 1,200 mm × 800 mm × 144 mm and a usable area of 0.96 m² (Across Logistics, 2025). Empty pallets weigh 22-25 kg depending on moisture content and can carry up to 1,500 kg in dynamic load, 4,000 kg when stacked, and 1,000 kg on racking systems (Across Logistics, 2025). These specifications ensure compatibility with European trucks and containers, allowing two pallets to be placed crosswise or three lengthwise in a standard trailer (Across Logistics, 2025).",
           "bold": false
         }
       ]
@@ -204,7 +204,7 @@
     },
     {
       "type": "citation",
-      "text": "European pallet: dimensions, types and logistic uses (Across Logistics, 2025) - Provides the standard dimensions (1,200 \u00d7 800 \u00d7 144 mm) of a Euro pallet, its load capacities (up to 1,500 kg dynamic, 4,000 kg static) and the history of the EPAL certification.",
+      "text": "European pallet: dimensions, types and logistic uses (Across Logistics, 2025) - Provides the standard dimensions (1,200 × 800 × 144 mm) of a Euro pallet, its load capacities (up to 1,500 kg dynamic, 4,000 kg static) and the history of the EPAL certification.",
       "author": "Across Logistics",
       "url": "https://acrosslogistics.com/blog/en/palet-europeo"
     },
