@@ -1,0 +1,204 @@
+{
+  "id": "intermodal-and-combined-transport-in-europe-opportunities-for-shifting-freight-from-road",
+  "shortId": "intermodal-combined-transport",
+  "language": "pl",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Transport intermodalny i kombinowany w Europie: szansa na przeniesienie ładunków z dróg na kolej",
+  "description": "Ograniczenie korków drogowych i emisji gazów cieplarnianych wymaga przeniesienia większej części ładunków z dróg na kolej, drogi wodne śródlądowe oraz żeglugę bliskiego zasięgu. Transport intermodalny i kombinowany tworzy ramy operacyjne tej transformacji, opierając się na standaryzowanych jednostkach ładunkowych i zachętach do łączenia kolei z transportem drogowym...",
+  "publishedAt": "2025-12-06T00:00:00.000Z",
+  "category": "Planowanie",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperci ds. technologii logistycznych",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "intermodal-transport-hero.png",
+  "imageAlt": "Zdjęcie europejskiego terminalu intermodalnego, w którym pociąg towarowy przejmuje kontenery z ciężarówek, w tle dźwigi.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Aby ograniczyć korki i emisje gazów cieplarnianych, trzeba przenieść większą część ładunków z dróg na kolej, drogi wodne śródlądowe oraz żeglugę bliskiego zasięgu. Transport intermodalny i kombinowany zapewnia do tego odpowiednie ramy operacyjne, wykorzystując standaryzowane jednostki ładunkowe i zachęty do łączenia przewozów drogowo-kolejowych. W artykule przedstawiamy aktualną sytuację transportu kombinowanego w Europie, główne uwarunkowania prawne oraz praktyczne wskazówki dla nadawców.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "intermodal-transport-visual-1.png",
+      "alt": "Europejski terminal intermodalny, w którym pociąg towarowy ładuje kontenery z ciężarówek, w tle dźwigi.",
+      "caption": "Na europejskim terminalu intermodalnym kontenery przechodzą z ciężarówek na kolej, co ogranicza liczbę kilometrów realizowanych wyłącznie po drogach."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Czym jest transport kombinowany i intermodalny?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transport kombinowany to taki rodzaj transportu intermodalnego, w którym zasadnicza część trasy realizowana jest koleją, drogą wodną śródlądową lub morską, a odcinki drogowe ogranicza się do dojazdów początkowych i końcowych. Dyrektywa UE 92/106/EWG dotycząca transportu kombinowanego promuje tego typu operacje, pozwalając przewoźnikom wykonywać kabotaż bez dodatkowych zezwoleń i przewidując zwolnienia z części ograniczeń w dostępie do dróg. Biuro analiz Parlamentu Europejskiego wskazuje, że dyrektywa jest przestarzała, a Komisja w listopadzie 2023 r. zaproponowała jej nowelizację, aby wzmocnić zachęty i rozszerzyć definicję transportu kombinowanego.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Szerzej rozumiany transport intermodalny polega na wykorzystaniu co najmniej dwóch różnych gałęzi transportu przy użyciu tej samej jednostki ładunkowej, np. kontenera lub nadwozia wymiennego. Nowoczesne strategie logistyczne łączą przewozy drogowe z kolejowymi, barkami lub usługami short-sea, aby poprawić efektywność i zredukować ślad węglowy.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Wzrost znaczenia transportu kombinowanego"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Raport UIC/UIRR z 2024 r. pokazuje szybki rozwój transportu kombinowanego w Europie. W latach 2010–2023 wolumen przewozów tego typu wzrósł o 59 %, a flota wagonów intermodalnych o 40 %. W 2023 r. transport kombinowany odpowiadał za ok. 50 % europejskiego kolejowego transportu towarowego, a 52 % połączeń miało charakter transgraniczny. W raporcie odnotowano około 350 połączeń transgranicznych z cotygodniowymi odjazdami, a przychody sektora w 2022 r. oszacowano na 6,4 mld EUR. Spodziewany jest dalszy wzrost rzędu 3 % rocznie do 2040 r.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Mimo tego postępu to transport drogowy dominuje w przewozach towarowych. Dane Eurostatu pokazują, że w 2023 r. udział drogi w pracy przewozowej w UE wyniósł 25,3 % (w tonokilometrach), kolej miała 5,5 %, a żegluga śródlądowa 1,6 %. Transport morski pozostaje główną gałęzią z udziałem 67,4 %. Wspieranie zmiany gałęzi transportu pozostaje więc kluczowym celem polityki transportowej UE.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Czynniki legislacyjne i polityczne"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Nowelizacja dyrektywy o transporcie kombinowanym: proponowana zmiana ma na celu rozszerzenie definicji transportu kombinowanego, wprowadzenie jaśniejszych kryteriów kwalifikowalności oraz usprawnienie monitorowania i raportowania. Ma też ujednolicić zachęty, takie jak zwolnienia z opłat drogowych, złagodzenie nocnych zakazów ruchu czy uproszczone procedury celne.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "TEN-T i zarządzanie przepustowością: rewizja rozporządzenia TEN-T wzmacnia rolę węzłów miejskich i multimodalnych terminali towarowych. Rozważane są zasady zarządzania przepustowością, które mają priorytetyzować sloty towarowe na korytarzach kolejowych.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "eFTI i cyfryzacja: wdrożenie rozporządzenia eFTI oraz interoperacyjnych platform rezerwacyjnych uprości obsługę przewozów multimodalnych i ograniczy „papierowe” wąskie gardła między gałęziami.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Zachęty środowiskowe: opłaty za emisje CO2, myto powiązane z emisjami oraz strefy niskiej emisji zwiększają atrakcyjność kolei i dróg wodnych względem transportu wyłącznie drogowego.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Praktyczne wskazówki dla nadawców"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Analizuj relacje: transport intermodalny najlepiej sprawdza się na dystansach powyżej ok. 300 km, gdzie kolej oferuje przewagi kosztowe i emisyjne. Zidentyfikuj korytarze z częstymi odjazdami pociągów i stabilną jakością usług.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Zrozum jednostki ładunkowe: korzystaj ze standardowych kontenerów lub nadwozi wymiennych, które mogą być przeładunkowane dźwigami w terminalach, i zadbaj o odpowiednie zabezpieczenie ładunków na czas wielokrotnej manipulacji.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Planuj operacje terminalowe: uwzględnij czasy przeładunku oraz potencjalne opóźnienia wynikające z kongestii. Rezerwacje elektroniczne i okna czasowe w terminalach pomagają ograniczyć postoje.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Współpracuj z wyspecjalizowanymi partnerami: współpracuj z operatorami kolejowymi, spedytorami i centrami logistycznymi wyspecjalizowanymi w transporcie kombinowanym. Cyfrowe platformy frachtowe mogą zapewnić pełną widoczność zleceń w wielu gałęziach.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Powiąż strategię z celami ESG: komunikuj klientom korzyści emisyjne transportu intermodalnego. Coraz więcej firm raportuje emisje zakresu 3 i preferuje dostawców korzystających z niskoemisyjnych gałęzi transportu.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Podsumowanie"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transport intermodalny i kombinowany szybko rośnie, ale wciąż odpowiada za mniejszą część przepływów niż przewozy wyłącznie drogowe. Wykorzystując zrewidowane przepisy UE, większą przepustowość kolejową oraz platformy cyfrowe, nadawcy mogą zdywersyfikować swój miks gałęzi, obniżyć koszty i wesprzeć dekarbonizację. Spedytorzy tacy jak Logifie mogą pomóc w projektowaniu rozwiązań multimodalnych dopasowanych do konkretnych relacji i rodzajów ładunków.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Źródła"
+    },
+    {
+      "type": "citation",
+      "text": "Revision of the Combined Transport Directive (European Parliament Research Service, 2023) - Wyjaśnia, że dyrektywa dotycząca transportu kombinowanego jest przestarzała, a poprawki zaproponowane w listopadzie 2023 r. mają poszerzyć definicję i wzmocnić system zachęt.",
+      "author": "European Parliament Research Service",
+      "url": "https://www.europarl.europa.eu/thinktank/en/document.html?reference=EPRS_BRI(2023)749778"
+    },
+    {
+      "type": "citation",
+      "text": "Combined Transport in Europe: Growth and Challenges (UIC, UIRR, 2024) - Informuje, że wolumen transportu kombinowanego w Europie wzrósł o 59 % w latach 2010–2023, flota wagonów intermodalnych o 40 %, a transport kombinowany stanowi 50 % przewozów kolejowych i 52 % połączeń ma charakter transgraniczny; przychody sektora to 6,4 mld EUR.",
+      "author": "UIC, UIRR",
+      "url": "https://uic.org/commercial-platform/combined-transport-in-europe-2024-report/"
+    },
+    {
+      "type": "citation",
+      "text": "Most goods transported by sea within the EU in 2023 (Eurostat, 2025) - Zauważa, że w 2023 r. transport drogowy odpowiadał za 25,3 % pracy przewozowej w UE, kolej za 5,5 %, żegluga śródlądowa za 1,6 %, a transport morski za 67,4 %.",
+      "author": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250416-1"
+    }
+  ],
+  "tags": [
+    "transport kombinowany",
+    "transport intermodalny",
+    "przeniesienie ładunków z dróg na kolej",
+    "repartycja gałęziowa",
+    "TEN-T",
+    "dyrektywa o transporcie kombinowanym",
+    "multimodalny"
+  ]
+}
+

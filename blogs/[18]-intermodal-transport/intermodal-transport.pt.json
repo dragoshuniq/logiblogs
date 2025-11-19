@@ -1,0 +1,204 @@
+{
+  "id": "intermodal-and-combined-transport-in-europe-opportunities-for-shifting-freight-from-road",
+  "shortId": "intermodal-combined-transport",
+  "language": "pt",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Transporte intermodal e combinado na Europa: oportunidades para tirar carga da estrada",
+  "description": "Reduzir a congestão rodoviária e as emissões de gases com efeito de estufa exige transferir mais carga da estrada para o comboio, as vias navegáveis interiores e o short-sea shipping. O transporte intermodal e combinado fornece o enquadramento operacional para esta transição, ao utilizar unidades de carga normalizadas e incentivos para combinações estrada-ferrovia...",
+  "publishedAt": "2025-12-06T00:00:00.000Z",
+  "category": "Planeamento",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Especialistas em tecnologia logística",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "intermodal-transport-hero.png",
+  "imageAlt": "Foto de um terminal intermodal europeu com um comboio de mercadorias a carregar contentores de camiões, com gruas ao fundo.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Reduzir a congestão rodoviária e as emissões de gases com efeito de estufa passa por transferir uma parte maior dos fluxos de mercadorias da estrada para o comboio, as vias navegáveis interiores e o short-sea shipping. O transporte intermodal e combinado oferece o enquadramento operacional para esta mudança, ao utilizar unidades de carga normalizadas entre modos e incentivos para combinações estrada-ferrovia. Este artigo analisa o estado atual do transporte combinado na Europa, os principais impulsionadores políticos e as implicações práticas para os carregadores.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "intermodal-transport-visual-1.png",
+      "alt": "Terminal intermodal europeu onde um comboio de mercadorias carrega contentores de camiões, com gruas ao fundo.",
+      "caption": "Num terminal intermodal europeu, os contentores passam dos camiões para o comboio, reduzindo quilómetros percorridos exclusivamente por estrada."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "O que é transporte combinado e intermodal?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "O transporte combinado é um tipo de transporte intermodal em que a parte principal do percurso é efetuada por comboio, via navegável interior ou mar, ficando a estrada limitada aos troços inicial e final. A Diretiva europeia 92/106/CEE sobre transporte combinado incentiva estas operações, permitindo aos transportadores rodoviários efetuarem cabotagem sem autorizações adicionais e garantindo isenções a determinadas restrições de acesso à rede rodoviária. Um briefing do Parlamento Europeu observa que a diretiva está desatualizada e que a Comissão propôs em novembro de 2023 alterações para reforçar os incentivos e alargar a definição.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Em sentido lato, o transporte intermodal consiste em utilizar pelo menos dois modos de transporte com a mesma unidade de carga, como um contentor ou caixa móvel. As estratégias logísticas modernas combinam estrada com ferrovia, barcaças ou serviços short-sea para aumentar a eficiência e reduzir a pegada de carbono.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Crescimento do transporte combinado"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "O relatório UIC/UIRR 2024 destaca o rápido crescimento do transporte combinado na Europa. Entre 2010 e 2023, o volume de transporte combinado aumentou 59 % e a frota de vagões intermodais 40 %. Em 2023, o transporte combinado representava cerca de 50 % do transporte ferroviário de mercadorias na Europa e 52 % das ligações eram transfronteiriças. O relatório identifica cerca de 350 ligações transfronteiriças com partidas semanais e estima as receitas do setor em 6,4 mil milhões de euros em 2022. Prevê-se um crescimento anual de cerca de 3 % até 2040.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Apesar destes progressos, a estrada continua a dominar o transporte de mercadorias. Segundo o Eurostat, em 2023 a estrada representou 25,3 % dos tonelada-quilómetro na UE, enquanto o ferrovia representou 5,5 % e as vias navegáveis interiores 1,6 %. O transporte marítimo continua a ser o modo principal, com 67,4 %. Promover a mudança modal continua a ser um objetivo central da política europeia de transportes.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Motores legislativos e de política pública"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Revisão da Diretiva do Transporte Combinado: a proposta de alteração alarga a definição de transporte combinado, introduz critérios de elegibilidade mais claros e procura melhorar o acompanhamento e o reporte. Também visa harmonizar incentivos, como isenções de portagens, derrogações a restrições noturnas e procedimentos aduaneiros simplificados.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "TEN-T e gestão de capacidade: a revisão do regulamento TEN-T reforça o papel dos nós urbanos e dos terminais multimodais de mercadorias. Estão a ser equacionadas regras de gestão de capacidade para dar prioridade aos comboios de mercadorias nos principais corredores ferroviários.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "eFTI e digitalização: a implementação do regulamento eFTI e de plataformas de reserva interoperáveis simplificará as operações multimodais e reduzirá os pontos de fricção administrativos entre modos.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Incentivos verdes: a taxação do carbono, as portagens baseadas em CO2 e as zonas de baixas emissões aumentam a atratividade relativa do ferrovia e das vias navegáveis interiores face ao transporte exclusivamente rodoviário.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Questões práticas para os carregadores"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Avaliar as rotas: o transporte intermodal é mais eficiente em distâncias superiores a cerca de 300 km, em que o ferrovia oferece vantagens em custo e emissões. Identifica corredores com partidas frequentes de comboios e serviço fiável.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Compreender as unidades de carga: usar contentores ou caixas móveis normalizadas que possam ser movimentadas por gruas nos terminais, garantindo uma estiva adequada para várias manipulações.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Planear as operações de terminal: considerar tempos de transbordo e eventuais atrasos por congestão. A reserva eletrónica e o agendamento de janelas de chegada ajudam a reduzir tempos de imobilização.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Colaborar com parceiros especializados: trabalhar com operadores ferroviários, transitários e hubs logísticos com experiência em transporte combinado. Plataformas digitais de frete podem fornecer visibilidade ponta a ponta entre modos.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Alinhar com objetivos de sustentabilidade: comunicar aos clientes os benefícios de CO2 do transporte intermodal. Cada vez mais empresas medem emissões de âmbito 3 e procuram fornecedores que utilizem modos de baixo carbono.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusão"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "O transporte intermodal e combinado está a crescer rapidamente, mas ainda representa uma fatia minoritária dos fluxos face ao transporte exclusivamente rodoviário. Tirando partido das leis europeias revistas, de maior capacidade ferroviária e das plataformas digitais, os carregadores podem diversificar o mix modal, reduzir custos e contribuir para a descarbonização. Transitários como a Logifie podem apoiar o desenho de soluções multimodais adaptadas a rotas e tipos de carga específicos.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fontes"
+    },
+    {
+      "type": "citation",
+      "text": "Revision of the Combined Transport Directive (European Parliament Research Service, 2023) - Explica que a Diretiva relativa ao transporte combinado está desatualizada e que as alterações propostas em novembro de 2023 visam alargar a definição e reforçar os incentivos.",
+      "author": "European Parliament Research Service",
+      "url": "https://www.europarl.europa.eu/thinktank/en/document.html?reference=EPRS_BRI(2023)749778"
+    },
+    {
+      "type": "citation",
+      "text": "Combined Transport in Europe: Growth and Challenges (UIC, UIRR, 2024) - Indica que os volumes de transporte combinado na Europa aumentaram 59 % entre 2010 e 2023, que a frota de vagões intermodais cresceu 40 %, que o transporte combinado representa 50 % do transporte ferroviário de mercadorias e que 52 % das ligações são transfronteiriças, com receitas de 6,4 mil milhões de euros.",
+      "author": "UIC, UIRR",
+      "url": "https://uic.org/commercial-platform/combined-transport-in-europe-2024-report/"
+    },
+    {
+      "type": "citation",
+      "text": "Most goods transported by sea within the EU in 2023 (Eurostat, 2025) - Observa que em 2023 a estrada representou 25,3 % dos tonelada-quilómetro na UE, o ferrovia 5,5 %, as vias navegáveis interiores 1,6 % e o mar 67,4 %.",
+      "author": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250416-1"
+    }
+  ],
+  "tags": [
+    "transporte combinado",
+    "transporte intermodal",
+    "transferência de carga da estrada para o comboio",
+    "repartição modal",
+    "TEN-T",
+    "diretiva do transporte combinado",
+    "multimodal"
+  ]
+}
+

@@ -1,0 +1,204 @@
+{
+  "id": "intermodal-and-combined-transport-in-europe-opportunities-for-shifting-freight-from-road",
+  "shortId": "intermodal-combined-transport",
+  "language": "it",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Trasporto intermodale e combinato in Europa: opportunità per spostare il traffico merci dalla strada alla ferrovia",
+  "description": "Ridurre la congestione stradale e le emissioni di gas a effetto serra richiede uno spostamento di quote crescenti di traffico merci dalla strada alla ferrovia, alle vie navigabili interne e al short-sea shipping. Il trasporto intermodale e combinato offre il quadro operativo per questa transizione, grazie a unità di carico standardizzate e incentivi per le combinazioni strada-ferrovia...",
+  "publishedAt": "2025-12-06T00:00:00.000Z",
+  "category": "Pianificazione",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Esperti in tecnologie per la logistica",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "intermodal-transport-hero.png",
+  "imageAlt": "Foto di un terminal intermodale europeo con un treno merci che carica container da camion, sullo sfondo gru.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ridurre la congestione stradale e le emissioni di gas a effetto serra implica spostare una quota maggiore di traffico merci dalla strada alla ferrovia, alle vie navigabili interne e al short-sea shipping. Il trasporto intermodale e combinato offre il quadro operativo per questa trasformazione, grazie a unità di carico standardizzate tra i diversi modi e a incentivi per le combinazioni strada-ferrovia. Questo articolo analizza lo stato del trasporto combinato in Europa, i principali driver normativi e gli aspetti pratici per gli speditori.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "intermodal-transport-visual-1.png",
+      "alt": "Terminal intermodale europeo dove un treno merci carica container da camion, con gru sullo sfondo.",
+      "caption": "In un terminal intermodale europeo i container passano dai camion al treno, riducendo i chilometri percorsi esclusivamente su strada."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Che cosa si intende per trasporto combinato e intermodale?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Il trasporto combinato è un tipo di trasporto intermodale in cui la parte principale del tragitto avviene su ferrovia, vie navigabili interne o mare, mentre la strada è limitata ai tratti iniziali e finali. La direttiva europea 92/106/CEE sul trasporto combinato incoraggia questo tipo di operazioni consentendo agli autotrasportatori di effettuare cabotaggio senza autorizzazioni aggiuntive e prevedendo esenzioni da alcune restrizioni di accesso alla rete stradale. Una nota del Parlamento europeo riconosce che la direttiva è datata e che la Commissione ha proposto nel novembre 2023 un aggiornamento per rafforzare gli incentivi e ampliare la definizione.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Più in generale, il trasporto intermodale implica l’uso di almeno due modi di trasporto con la stessa unità di carico, ad esempio un container o una cassa mobile. Le moderne strategie logistiche combinano la strada con la ferrovia, chiatte o servizi short-sea per migliorare l’efficienza e ridurre l’impronta di carbonio.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La crescita del trasporto combinato"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Il rapporto UIC/UIRR 2024 evidenzia la rapida crescita del trasporto combinato in Europa. Tra il 2010 e il 2023 il volume di trasporto combinato è aumentato del 59 % e il parco di carri intermodali del 40 %. Nel 2023 il trasporto combinato rappresentava circa il 50 % del settore ferroviario merci europeo e il 52 % dei collegamenti era transfrontaliero. Il rapporto conta circa 350 collegamenti transfrontalieri con partenze settimanali e stima in 6,4 miliardi di euro il fatturato del settore nel 2022. Si prevede una crescita media annua del 3 % fino al 2040.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Nonostante questi progressi, la strada continua a dominare il trasporto merci. I dati Eurostat indicano che nel 2023 la strada rappresentava il 25,3 % delle tonnellate-chilometro nell’UE, il ferrovia il 5,5 % e le vie navigabili interne l’1,6 %. Il trasporto marittimo resta la modalità principale con il 67,4 %. Promuovere il riequilibrio modale resta quindi un obiettivo prioritario della politica europea dei trasporti.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Driver legislativi e di policy"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Revisione della direttiva sul trasporto combinato: la proposta di modifica mira ad ampliare la definizione di trasporto combinato, introdurre criteri di ammissibilità più chiari e migliorare monitoraggio e rendicontazione. Intende inoltre armonizzare gli incentivi, come esenzioni da pedaggi, deroghe ai divieti notturni e procedure doganali semplificate.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "TEN-T e gestione della capacità: la revisione del regolamento TEN-T rafforza il ruolo dei nodi urbani e dei terminali merci multimodali. Sono in discussione regole per la gestione della capacità al fine di dare priorità ai treni merci lungo i corridoi ferroviari.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "eFTI e digitalizzazione: l’attuazione del regolamento eFTI e di piattaforme di prenotazione interoperabili semplificherà la gestione dei flussi multimodali e ridurrà le rotture di carico amministrative.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Incentivi verdi: la tariffazione del carbonio, i pedaggi basati sulla CO2 e le zone a basse emissioni aumentano l’attrattività relativa di ferrovia e vie navigabili interne rispetto al trasporto esclusivamente su gomma.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Aspetti pratici per gli speditori"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Valutare le relazioni: il trasporto intermodale funziona meglio su distanze superiori a circa 300 km, dove il ferrovia offre vantaggi in termini di costi ed emissioni. Identifica corridoi con partenze ferroviarie frequenti e servizio affidabile.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Comprendere le unità di carico: usare container o casse mobili standard che possano essere movimentati dalle gru nei terminal e assicurare un corretto fissaggio del carico per più movimentazioni.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Pianificare le operazioni di terminal: considerare i tempi di trasbordo e i possibili ritardi dovuti alla congestione. Prenotazioni elettroniche e slot di arrivo prenotati aiutano a ridurre le soste in terminal.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Collaborare con partner specializzati: lavorare con operatori ferroviari, spedizionieri e hub logistici specializzati in trasporto combinato. Piattaforme digitali di prenotazione e monitoraggio possono fornire visibilità end-to-end tra i diversi modi di trasporto.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Allineare la strategia con gli obiettivi di sostenibilità: comunicare ai clienti i vantaggi in termini di CO2 del trasporto intermodale. Sempre più aziende monitorano le emissioni di scope 3 e preferiscono fornitori che utilizzano modalità a basse emissioni.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusioni"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Il trasporto intermodale e combinato è in rapida crescita, ma rappresenta ancora una quota minoritaria rispetto al trasporto esclusivamente stradale. Sfruttando la normativa europea rivista, una maggiore capacità ferroviaria e le piattaforme digitali, gli speditori possono diversificare il mix modale, ridurre i costi e contribuire alla decarbonizzazione. Spedizionieri come Logifie possono supportare la progettazione di soluzioni multimodali su misura per specifiche relazioni e tipologie di merce.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fonti"
+    },
+    {
+      "type": "citation",
+      "text": "Revision of the Combined Transport Directive (European Parliament Research Service, 2023) - Spiega che la direttiva sul trasporto combinato è obsoleta e che le modifiche proposte nel novembre 2023 mirano ad ampliare la definizione e a rafforzare gli incentivi.",
+      "author": "European Parliament Research Service",
+      "url": "https://www.europarl.europa.eu/thinktank/en/document.html?reference=EPRS_BRI(2023)749778"
+    },
+    {
+      "type": "citation",
+      "text": "Combined Transport in Europe: Growth and Challenges (UIC, UIRR, 2024) - Indica che i volumi del trasporto combinato in Europa sono cresciuti del 59 % tra il 2010 e il 2023, che il parco di carri intermodali è aumentato del 40 %, che il trasporto combinato rappresenta il 50 % del traffico merci ferroviario e che il 52 % dei collegamenti è transfrontaliero, con ricavi pari a 6,4 miliardi di euro.",
+      "author": "UIC, UIRR",
+      "url": "https://uic.org/commercial-platform/combined-transport-in-europe-2024-report/"
+    },
+    {
+      "type": "citation",
+      "text": "Most goods transported by sea within the EU in 2023 (Eurostat, 2025) - Riporta che nel 2023 la strada rappresentava il 25,3 % delle tonnellate-chilometro nell’UE, la ferrovia il 5,5 %, le vie navigabili interne l’1,6 % e il mare il 67,4 %.",
+      "author": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250416-1"
+    }
+  ],
+  "tags": [
+    "trasporto combinato",
+    "trasporto intermodale",
+    "spostamento dei carichi dalla strada alla ferrovia",
+    "ripartizione modale",
+    "TEN-T",
+    "direttiva trasporto combinato",
+    "multimodale"
+  ]
+}
+

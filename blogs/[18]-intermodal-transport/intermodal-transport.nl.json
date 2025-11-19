@@ -1,0 +1,204 @@
+{
+  "id": "intermodal-and-combined-transport-in-europe-opportunities-for-shifting-freight-from-road",
+  "shortId": "intermodal-combined-transport",
+  "language": "nl",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Intermodaal en gecombineerd vervoer in Europa: kansen om vracht van de weg naar het spoor te verleggen",
+  "description": "Minder files en lagere broeikasgasemissies vragen om een verschuiving van lading van de weg naar spoor, binnenvaart en short-sea shipping. Intermodaal en gecombineerd vervoer bieden het operationele raamwerk door gestandaardiseerde laadeenheden en prikkels voor weg-spoorcombinaties...",
+  "publishedAt": "2025-12-06T00:00:00.000Z",
+  "category": "Planning",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experts in logistieke technologie",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "intermodal-transport-hero.png",
+  "imageAlt": "Foto van een Europees intermodaal terminal met een goederentrein die containers van vrachtwagens laadt, met kranen op de achtergrond.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Om files en broeikasgasemissies terug te dringen, moet een groter deel van de vrachtstromen van de weg naar spoor, binnenvaart en short-sea shipping worden verlegd. Intermodaal en gecombineerd vervoer bieden het operationele raamwerk voor die transitie door gestandaardiseerde laadeenheden te gebruiken en prikkels te bieden voor combinaties van spoor en weg. In dit artikel bespreken we de stand van zaken van gecombineerd vervoer in Europa, de belangrijkste beleidsprikkels en praktische aandachtspunten voor verladers.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "intermodal-transport-visual-1.png",
+      "alt": "Europees intermodaal terminal waar een goederentrein containers vanaf vrachtwagens laadt, met kranen op de achtergrond.",
+      "caption": "Op een Europees intermodaal terminal verschuiven containers van vrachtwagens naar het spoor, waardoor het aantal wegkilometers afneemt."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Wat is gecombineerd en intermodaal vervoer?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Gecombineerd vervoer is een vorm van intermodaal vervoer waarbij het grootste deel van de afstand per spoor, binnenvaart of zee wordt afgelegd en de weg beperkt blijft tot voor- en natransport. De Europese richtlijn 92/106/EEG voor gecombineerd vervoer stimuleert dit door vervoerders toe te staan cabotage uit te voeren zonder extra vergunningen en uitzonderingen te geven op bepaalde toegangsbeprekingen op het wegennet. Een briefing van het Europees Parlement stelt dat de richtlijn verouderd is en dat de Commissie in november 2023 wijzigingen heeft voorgesteld om de prikkels te versterken en de definitie uit te breiden.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Intermodaal vervoer in bredere zin betekent dat minimaal twee vervoersmodi worden gecombineerd met dezelfde laadeenheid, zoals een container of wissellaadbak. Moderne logistieke strategieën koppelen wegvervoer aan spoor, binnenvaart of short-sea-diensten om de efficiëntie te verhogen en de CO2-voetafdruk te verlagen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Groei van gecombineerd vervoer"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Het UIC/UIRR-rapport van 2024 benadrukt de snelle groei van gecombineerd vervoer in Europa. Tussen 2010 en 2023 namen de volumes met 59 % toe en groeide de intermodale wagenvloot met 40 %. In 2023 was ongeveer 50 % van het Europese spoorgoederenvervoer gecombineerd vervoer en 52 % van de verbindingen was grensoverschrijdend. Het rapport telt zo’n 350 grensoverschrijdende verbindingen met wekelijkse vertrekken en schat de omzet van de sector in 2022 op 6,4 miljard euro. Naar verwachting zal de sector tot 2040 met circa 3 % per jaar blijven groeien.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ondanks die groei blijft wegvervoer de dominante modus voor goederen. Volgens Eurostat was wegvervoer in 2023 goed voor 25,3 % van de tonkilometers in de EU, terwijl spoor 5,5 % en binnenvaart 1,6 % vertegenwoordigde. Zeevaart blijft de grootste speler met 67,4 %. Het stimuleren van een modal shift is daarom een belangrijke pijler van het Europese transportbeleid.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Beleids- en wetgevingskaders"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Herziening van de richtlijn gecombineerd vervoer: de voorgestelde aanpassing moet de definitie van gecombineerd vervoer verbreden, duidelijke criteria voor steun vastleggen en de monitoring en rapportage verbeteren. Ook willen beleidsmakers prikkels harmoniseren, zoals vrijstelling van tol, versoepeling van nachtelijke rijverboden en vereenvoudigde douaneprocedures.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "TEN-T en capaciteitsbeheer: de revisie van de TEN-T-verordening versterkt de rol van stedelijke knooppunten en multimodale terminals. Er wordt gekeken naar regels voor capaciteitsbeheer die goederentreinen op kerncorridors prioriteit geven.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "eFTI en digitalisering: implementatie van de eFTI-verordening en interoperabele boekingsplatformen vereenvoudigt multimodale operaties en verkleint administratieve knelpunten tussen modi.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Groene prikkels: CO2-beprijzing, emissie-afhankelijke tol en milieuzones vergroten de relatieve aantrekkelijkheid van spoor en binnenvaart ten opzichte van puur wegvervoer.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Praktische aandachtspunten voor verladers"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Analyseer de corridors: intermodaal vervoer loont vooral op afstanden boven ongeveer 300 km, waar spoor een kosten- en emissievoordeel biedt. Identificeer corridors met frequente treindiensten en betrouwbare prestaties.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Begrijp laadeenheden: gebruik gestandaardiseerde containers of wissellaadbakken die in terminals met kranen kunnen worden behandeld en zorg voor een stabiele belading die meerdere overslagen doorstaat.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Plan terminaloperaties: houd rekening met overslagtijden en mogelijke vertragingen door congestie. Elektronische boekingen en tijdsloten voor aankomst beperken oponthoud.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Werk samen met gespecialiseerde partners: kies spoorvervoerders, expediteurs en logistieke hubs die ervaring hebben met gecombineerd vervoer. Digitale vrachtplatformen bieden end-to-end zichtbaarheid over verschillende modi heen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Koppel strategie aan duurzaamheidsdoelen: communiceer de CO2-voordelen van intermodale oplossingen richting klanten. Steeds meer bedrijven rapporteren scope 3-emissies en geven de voorkeur aan leveranciers die lage-emissiemodi inzetten.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusie"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Intermodaal en gecombineerd vervoer groeit snel, maar vertegenwoordigt nog altijd een kleiner aandeel dan puur wegtransport. Door gebruik te maken van hernieuwde EU-wetgeving, extra spoorcapaciteit en digitale platformen kunnen verladers hun modal mix verbreden, kosten verlagen en bijdragen aan de decarbonisatie. Expediteurs zoals Logifie kunnen helpen multimodale oplossingen te ontwerpen die zijn afgestemd op specifieke routes en goederenstromen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Bronnen"
+    },
+    {
+      "type": "citation",
+      "text": "Revision of the Combined Transport Directive (European Parliament Research Service, 2023) - Beschrijft dat de richtlijn gecombineerd vervoer verouderd is en dat de in november 2023 voorgestelde wijzigingen de definitie verruimen en de prikkels versterken.",
+      "author": "European Parliament Research Service",
+      "url": "https://www.europarl.europa.eu/thinktank/en/document.html?reference=EPRS_BRI(2023)749778"
+    },
+    {
+      "type": "citation",
+      "text": "Combined Transport in Europe: Growth and Challenges (UIC, UIRR, 2024) - Meldt dat volumes in het gecombineerd vervoer in Europa tussen 2010 en 2023 met 59 % zijn gegroeid, dat de intermodale wagenvloot met 40 % is toegenomen, dat gecombineerd vervoer 50 % van het spoorgoederenvervoer en 52 % van de verbindingen voor zijn rekening neemt en dat de omzet van de sector 6,4 miljard euro bedroeg.",
+      "author": "UIC, UIRR",
+      "url": "https://uic.org/commercial-platform/combined-transport-in-europe-2024-report/"
+    },
+    {
+      "type": "citation",
+      "text": "Most goods transported by sea within the EU in 2023 (Eurostat, 2025) - Geeft aan dat wegvervoer in 2023 goed was voor 25,3 % van de tonkilometers in de EU, spoor voor 5,5 %, binnenvaart voor 1,6 % en zeevaart voor 67,4 %.",
+      "author": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250416-1"
+    }
+  ],
+  "tags": [
+    "gecombineerd vervoer",
+    "intermodaal vervoer",
+    "modal shift van weg naar spoor",
+    "modal split",
+    "TEN-T",
+    "richtlijn gecombineerd vervoer",
+    "multimodaal"
+  ]
+}
+

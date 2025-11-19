@@ -1,0 +1,210 @@
+{
+  "id": "driver-shortages-in-european-road-transport-causes-impacts-and-solutions",
+  "shortId": "driver-shortages-european",
+  "language": "es",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Escasez de conductores en el transporte por carretera europeo: causas, impactos y soluciones",
+  "description": "En toda Europa, los responsables de logística tienen dificultades para encontrar suficientes conductores profesionales. El envejecimiento de la plantilla, las altas barreras de entrada y las duras condiciones laborales alimentan una crisis de mano de obra que amenaza la fiabilidad del transporte por carretera. Este artículo analiza la magnitud y las causas de la escasez de conductores y propone medidas prácticas para atraer y retener talento...",
+  "publishedAt": "2025-12-07T00:00:00.000Z",
+  "category": "Operaciones",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Expertos en tecnología logística",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "driver-shortages-hero.png",
+  "imageAlt": "Fila de cabezas tractoras aparcadas en un aparcamiento de camiones europeo con un cartel de se necesitan conductores.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "En toda Europa, los responsables de logística luchan por encontrar suficientes conductores de camión cualificados. El envejecimiento de la fuerza laboral, las altas barreras de entrada y las malas condiciones de trabajo alimentan una crisis laboral que amenaza la fiabilidad del transporte por carretera. Este artículo examina la escala y las causas de la escasez de conductores y propone medidas prácticas para atraer y retener a estos profesionales clave.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "driver-shortages-visual-1.png",
+      "alt": "Ilustración de la distribución demográfica en el transporte por carretera: conductores de edad avanzada, jóvenes que se incorporan, costes del permiso y brecha de género.",
+      "caption": "La pirámide demográfica del transporte por carretera muestra conductores envejecidos, pocos jóvenes y una importante brecha de género."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dimensión de la escasez"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La International Road Transport Union (IRU) describe la escasez de conductores como una crisis global. En Europa, la IRU estima que cientos de miles de puestos de conductor de camión, autobús y autocar están vacantes y que, a escala mundial, faltan más de 3,6 millones de conductores. Los profesionales jóvenes son minoría: menos del 6,5 % de los conductores profesionales tienen menos de 25 años, mientras que más del 40 % superan los 55. Las mujeres representan menos del 7 % de la plantilla, reflejo de preocupaciones de seguridad y de la falta de instalaciones adecuadas.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Un informe de ELA/EURES sobre el mercado laboral europeo señala que el sector del transporte terrestre agrupa unas 1,06 millones de empresas que emplean a 5,78 millones de personas y que muchos países reportan escasez aguda de conductores de camión pesado y mecánicos. Entre las barreras de entrada destacan el coste de obtener el permiso de conducción profesional y el Certificado de Aptitud Profesional (CAP/CPC), que en algunos países supera los 2.000 EUR. El reconocimiento de permisos de terceros países es complejo y lento, lo que limita la contratación de conductores extracomunitarios.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Causas de la escasez de conductores"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Varios factores confluyen en la escasez de conductores:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Demografía y jubilación: la población de conductores está envejeciendo. Con más del 40 % de los profesionales mayores de 55 años, muchos se jubilarán en la próxima década. Muy pocos jóvenes perciben la conducción de camiones como una carrera atractiva, lo que genera un problema de relevo generacional.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Condiciones de trabajo: largas jornadas, pernoctaciones fuera de casa, horarios irregulares y falta de aparcamientos seguros y servicios higiénicos disuaden a posibles candidatos. El informe de ELA/EURES destaca que la baja remuneración y las preocupaciones de seguridad desaniman especialmente a mujeres y jóvenes.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Coste del permiso y la formación: obtener el permiso de camión pesado y el CAP/CPC puede costar varios miles de euros. Un artículo de Trans.info señala que en Polonia el permiso de camión ronda los 10.000 PLN (unos 2.340 EUR) y que cifras similares se repiten en otros países. Sin ayudas públicas, muchos jóvenes no pueden permitirse la formación inicial.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Complejidad administrativa: el reconocimiento desigual de permisos entre Estados miembros y los trámites de visado y permisos de trabajo para conductores extracomunitarios ralentizan la contratación internacional.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Competencia de otros sectores: el transporte compite con la construcción, la logística de almacén y empleos en la economía de plataformas, que a menudo ofrecen horarios más predecibles u otras ventajas.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Impacto en la logística y la cadena de suministro"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La escasez de conductores impulsa al alza los salarios y las tarifas de transporte, contribuye a retrasos en las entregas y reduce la flexibilidad. Muchas flotas se ven obligadas a dejar camiones parados por falta de conductores, lo que limita la capacidad disponible en los picos de demanda. Trans.info estima que la escasez de conductores en Europa se acerca a los 500.000 puestos, mientras que solo en Polonia faltarían entre 100.000 y 200.000 conductores. Sin una acción decidida, la IRU advierte de que está en riesgo el suministro de bienes esenciales.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Soluciones y recomendaciones"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Reducir las barreras de entrada: los gobiernos pueden subvencionar los costes del permiso y la formación o crear programas de vales. Italia, por ejemplo, ofrece vales que cubren hasta el 80 % del coste del permiso. Simplificar el reconocimiento de permisos y los procesos de visado ayudaría a atraer conductores de países vecinos.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Mejorar las condiciones laborales: invertir en áreas de descanso seguras con servicios sanitarios, fomentar horarios más previsibles, rutas regionales y rotaciones más cortas que permitan conciliar mejor la vida laboral y personal.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Atraer colectivos infrarrepresentados: programas específicos para captar mujeres y jóvenes deben destacar la seguridad, la igualdad salarial y las oportunidades de desarrollo profesional. Vehículos modernos con cabinas confortables y sistemas avanzados de asistencia al conductor pueden hacer la profesión más atractiva.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Invertir en automatización e intermodalidad: aunque la automatización no sustituirá a los conductores a corto plazo, tecnologías como la carga automática en muelles, la asistencia al conductor y el platooning pueden aumentar la productividad. El transporte intermodal reduce el número de rutas de larga distancia que requieren conductores, al permitir que un tren sustituya decenas de semirremolques.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Mejorar la imagen profesional: comunicar el papel estratégico de los conductores en las cadenas de suministro. Programas de formación dual, aprendizajes y acuerdos con centros de FP pueden crear un flujo estable de nuevo talento.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusión"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La escasez de conductores amenaza la resiliencia de las cadenas de suministro europeas. Superarla requiere una actuación coordinada de gobiernos, transportistas y cargadores para reducir barreras de entrada, mejorar las condiciones laborales y modernizar la profesión. Invertir en formación, diversidad y tecnología ayudará a atraer a una nueva generación de conductores y a garantizar que el transporte por carretera pueda seguir respondiendo a una demanda creciente.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fuentes"
+    },
+    {
+      "type": "citation",
+      "text": "Global driver shortage reaches crisis point (International Road Transport Union, 2024) - Indica que millones de puestos de conductor están vacantes en todo el mundo, que menos del 6,5 % de los conductores son menores de 25 años y más del 40 % superan los 55, y que la escasez amenaza el transporte de bienes esenciales.",
+      "author": "International Road Transport Union",
+      "url": "https://www.iru.org/news-resources/newsroom/driver-shortage-global-crisis"
+    },
+    {
+      "type": "citation",
+      "text": "ELA/EURES labour market report 2024 (European Labour Authority, EURES, 2024) - Describe que el sector del transporte terrestre en la UE incluye unas 1,06 millones de empresas con 5,78 millones de empleados, subraya la escasez de conductores y mecánicos de camión, los altos costes del permiso y las malas condiciones laborales, y destaca la infrarrepresentación de las mujeres.",
+      "author": "European Labour Authority, EURES",
+      "url": "https://ec.europa.eu/social/main.jsp?catId=738&langId=en&pubId=8407"
+    },
+    {
+      "type": "citation",
+      "text": "Driver shortage leaves fleets idle and costs increase for system (Trans.info, 2025) - Señala que la escasez de conductores en Europa se acerca a 500.000 puestos, menciona costes elevados del permiso (unos 2.340 EUR) y explica el sistema de vales de Italia, que cubre hasta el 80 % de los costes de formación; sugiere que el transporte intermodal puede aliviar la falta de conductores, ya que un tren puede sustituir de 30 a 40 remolques.",
+      "author": "Trans.info",
+      "url": "https://trans.info/en/driver-shortage-idle-fleets-421938"
+    }
+  ],
+  "tags": [
+    "escasez de conductores",
+    "conductor de camión",
+    "crisis de mano de obra",
+    "coste del permiso",
+    "condiciones laborales",
+    "logística europea",
+    "mercado laboral del transporte"
+  ]
+}
+

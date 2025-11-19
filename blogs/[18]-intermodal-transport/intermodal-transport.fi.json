@@ -1,0 +1,204 @@
+{
+  "id": "intermodal-and-combined-transport-in-europe-opportunities-for-shifting-freight-from-road",
+  "shortId": "intermodal-combined-transport",
+  "language": "fi",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Intermodaalinen ja yhdistetty kuljetus Euroopassa: mahdollisuuksia siirtää rahtia maanteiltä raiteille",
+  "description": "Liikenteen ruuhkien ja kasvihuonekaasupäästöjen vähentäminen edellyttää, että yhä suurempi osa rahdista siirretään maanteiltä rautateille, sisävesille ja short-sea-shippingiin. Intermodaalinen ja yhdistetty kuljetus tarjoaa tähän operatiivisen kehyksen hyödyntämällä standardoituja lastiyksiköitä ja kannustimia tie-raide-yhdistelmille...",
+  "publishedAt": "2025-12-06T00:00:00.000Z",
+  "category": "Suunnittelu",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistiikkateknologian asiantuntijat",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "intermodal-transport-hero.png",
+  "imageAlt": "Kuva eurooppalaisesta intermodaaliterminaalista, jossa tavarajuna lastaa kontteja kuorma-autoista, taustalla nostureita.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Liikenteen ruuhkien ja kasvihuonekaasupäästöjen vähentäminen edellyttää, että merkittävä osa rahdista siirretään pois maanteiltä rautateille, sisävesille ja short-sea-yhteyksiin. Intermodaalinen ja yhdistetty kuljetus tarjoaa tälle muutokselle toiminnallisen kehyksen hyödyntämällä standardoituja lastiyksiköitä eri kuljetusmuotojen välillä sekä kannustimia tie-raide-yhdistelmille. Tässä artikkelissa tarkastellaan yhdistetyn kuljetuksen tilannetta Euroopassa, taustalla vaikuttavia poliittisia tekijöitä ja käytännön huomioita lähettäjille.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "intermodal-transport-visual-1.png",
+      "alt": "Eurooppalainen intermodaaliterminaali, jossa tavarajuna lastaa kontteja kuorma-autoista, taustalla nostureita.",
+      "caption": "Intermodaaliterminaalissa kontit siirtyvät kuorma-autoista junaan, jolloin pelkästään maanteitä ajettujen kilometrien määrä pienenee."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mitä on yhdistetty ja intermodaalinen kuljetus?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Yhdistetyssä kuljetuksessa suurin osa matkasta tehdään rautateitse, sisävesillä tai meriteitse, ja maantiekuljetukset rajoittuvat alku- ja loppukilometreihin. EU:n yhdistettyä kuljetusta koskeva direktiivi 92/106/ETY kannustaa tällaisiin järjestelyihin sallimalla kuljetusyritysten harjoittaa kabotaasia ilman lisäluvitusta ja tarjoamalla poikkeuksia tietyistä tieverkkoa koskevista rajoituksista. Euroopan parlamentin taustaraportissa todetaan, että direktiivi on vanhentunut ja että komissio ehdotti marraskuussa 2023 muutoksia kannustimien vahvistamiseksi ja määritelmän laajentamiseksi.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Intermodaalinen kuljetus laajemmassa merkityksessä tarkoittaa vähintään kahden eri kuljetusmuodon käyttöä samalla lastiyksiköllä, kuten kontilla tai vaihtokuormatilalla. Nykyaikaiset logistiikkastrategiat yhdistävät maantiekuljetukset rautateihin, proomuihin tai short-sea-palveluihin tehokkuuden lisäämiseksi ja hiilijalanjäljen pienentämiseksi.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Yhdistetyn kuljetuksen kasvu Euroopassa"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "UIC/UIRR:n vuoden 2024 raportti kuvaa yhdistetyn kuljetuksen nopeaa kasvua Euroopassa. Vuosien 2010 ja 2023 välillä yhdistettyjen kuljetusten volyymi kasvoi 59 %, ja intermodaalikalusto 40 %. Vuonna 2023 noin 50 % Euroopan rautatiekuljetuksista oli yhdistettyä kuljetusta, ja 52 % yhteyksistä oli rajat ylittäviä. Raportissa tunnistetaan noin 350 rajat ylittävää yhteyttä viikoittaisilla lähdöillä, ja alan liikevaihdon arvioidaan olleen 6,4 miljardia euroa vuonna 2022. Kasvun odotetaan jatkuvan noin 3 % vuodessa vuoteen 2040 asti.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Edistysaskeleista huolimatta maantiekuljetukset hallitsevat edelleen tavaravirtoja. Eurostatin mukaan vuonna 2023 tieverkon osuus EU:n tonnikilometreistä oli 25,3 %, raideliikenteen 5,5 % ja sisävesiliikenteen 1,6 %. Merikuljetus on edelleen suurin kuljetusmuoto 67,4 %:n osuudella. Modal shiftin edistäminen on siksi edelleen keskeinen tavoite EU:n liikennepolitiikassa.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Poliittiset ja sääntelylliset ajurit"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Yhdistettyä kuljetusta koskevan direktiivin uudistus: ehdotetun muutoksen tavoitteena on laajentaa yhdistetyn kuljetuksen määritelmää, ottaa käyttöön selkeämmät tukikelpoisuuskriteerit ja parantaa seurantaa sekä raportointia. Samalla pyritään harmonisoimaan kannusteita, kuten tiemaksuvapautuksia, yöaikaisia ajoesteiden poikkeuksia ja yksinkertaistettuja tullimenettelyjä.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "TEN-T ja kapasiteetin hallinta: TEN-T-asetuksen tarkistus vahvistaa kaupunkisolmujen ja multimodaalisten tavaraterminaalien roolia. Keskustelussa ovat kapasiteetin hallintaa koskevat säännöt, joilla voidaan priorisoida tavarajunia keskeisillä rautatiekäytävillä.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "eFTI ja digitalisaatio: eFTI-asetuksen käyttöönotto ja yhteentoimivat varausalustat yksinkertaistavat multimodaalisia kuljetusketjuja ja vähentävät hallinnollisia pullonkauloja eri kuljetusmuotojen välillä.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Vihreät kannustimet: hiilen hinnoittelu, CO2-pohjaiset tiemaksut ja vähäpäästövyöhykkeet parantavat rautatie- ja sisävesikuljetusten suhteellista houkuttelevuutta verrattuna pelkkään maantiekuljetukseen.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Käytännön vinkkejä lähettäjille"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Arvioi reitit: intermodaaliset ratkaisut toimivat parhaiten yli noin 300 kilometrin matkoilla, joilla rautatie tarjoaa kustannus- ja päästöetuja. Tunnista käytävät, joilla on tiheä junaliikenne ja luotettava palvelutaso.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ymmärrä lastiyksiköt: käytä standardoituja kontteja tai vaihtokuormatiloja, joita voidaan käsitellä nostureilla terminaaleissa, ja varmista, että lasti on kiinnitetty siten, että se kestää useita käsittelyjä.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Suunnittele terminaalitoiminnot: huomioi käsittelyajat ja mahdolliset viivästykset ruuhkien vuoksi. Sähköiset varaukset ja ennakkoon varatut aikavälit lyhentävät odotusaikoja terminaalissa.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tee yhteistyötä erikoistuneiden kumppanien kanssa: tee yhteistyötä rautatieoperaattoreiden, huolitsijoiden ja logistiikkakeskusten kanssa, jotka ovat erikoistuneet yhdistettyyn kuljetukseen. Digitaaliset alustat voivat tarjota end-to-end-näkyvyyden useiden kuljetusmuotojen yli.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kytke logistiikkastrategia ilmasto- ja vastuullisuustavoitteisiin: tuo asiakkaillesi näkyväksi intermodaalisten ratkaisujen CO2-hyödyt. Yhä useammat yritykset seuraavat scope 3 -päästöjä ja suosivat toimittajia, jotka hyödyntävät vähäpäästöisiä kuljetusmuotoja.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Yhteenveto"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Intermodaalinen ja yhdistetty kuljetus on voimakkaassa kasvussa, mutta sen osuus on edelleen pienempi kuin pelkän maantiekuljetuksen. Hyödyntämällä uudistettua EU-lainsäädäntöä, parantunutta rautatiekapasiteettia ja digitaalisia alustoja lähettäjät voivat monipuolistaa kuljetusmuotovalikoimaansa, pienentää kustannuksia ja tukea päästövähennystavoitteita. Logistiikkapalveluntarjoajat, kuten Logifie, voivat auttaa suunnittelemaan multimodaalisia ratkaisuja, jotka on räätälöity tiettyihin reitteihin ja tavaravirtoihin.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lähteet"
+    },
+    {
+      "type": "citation",
+      "text": "Revision of the Combined Transport Directive (European Parliament Research Service, 2023) - Kuvaa, että yhdistettyä kuljetusta koskeva direktiivi on vanhentunut, ja että marraskuussa 2023 ehdotetut muutokset laajentavat määritelmää ja vahvistavat kannustimia.",
+      "author": "European Parliament Research Service",
+      "url": "https://www.europarl.europa.eu/thinktank/en/document.html?reference=EPRS_BRI(2023)749778"
+    },
+    {
+      "type": "citation",
+      "text": "Combined Transport in Europe: Growth and Challenges (UIC, UIRR, 2024) - Raportoi, että yhdistetyn kuljetuksen volyymi Euroopassa kasvoi 59 % vuosina 2010–2023, intermodaalikalusto 40 %, että yhdistetty kuljetus muodostaa 50 % rautatiekuljetuksista ja 52 % yhteyksistä on rajat ylittäviä; alan liikevaihto oli 6,4 miljardia euroa.",
+      "author": "UIC, UIRR",
+      "url": "https://uic.org/commercial-platform/combined-transport-in-europe-2024-report/"
+    },
+    {
+      "type": "citation",
+      "text": "Most goods transported by sea within the EU in 2023 (Eurostat, 2025) - Toteaa, että vuonna 2023 maantiekuljetusten osuus EU:n tonnikilometreistä oli 25,3 %, raidekuljetusten 5,5 %, sisävesikuljetusten 1,6 % ja merikuljetusten 67,4 %.",
+      "author": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250416-1"
+    }
+  ],
+  "tags": [
+    "yhdistetty kuljetus",
+    "intermodaalinen kuljetus",
+    "modal shift tie-raide",
+    "modaalijakauma",
+    "TEN-T",
+    "yhdistettyä kuljetusta koskeva direktiivi",
+    "multimodaalinen logistiikka"
+  ]
+}
+

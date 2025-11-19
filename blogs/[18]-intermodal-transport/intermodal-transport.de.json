@@ -1,0 +1,204 @@
+{
+  "id": "intermodal-and-combined-transport-in-europe-opportunities-for-shifting-freight-from-road",
+  "shortId": "intermodal-combined-transport",
+  "language": "de",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Intermodaler und kombinierter Verkehr in Europa: Chancen für die Verlagerung von Gütern von der Straße",
+  "description": "Weniger Staus und geringere Treibhausgasemissionen erfordern, dass mehr Güter von der Straße auf Schiene, Binnenschifffahrt und Short-Sea-Verkehre verlagert werden. Intermodaler und kombinierter Verkehr bieten den operativen Rahmen dafür, indem sie standardisierte Ladeeinheiten nutzen und Anreize für Schiene-Straße-Kombinationen schaffen...",
+  "publishedAt": "2025-12-06T00:00:00.000Z",
+  "category": "Planung",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experten für Logistiktechnologie",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "intermodal-transport-hero.png",
+  "imageAlt": "Foto eines europäischen Kombiterminals, in dem Container zwischen Lkw und Güterzug mit Kränen umgeschlagen werden.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Weniger Staus und geringere Treibhausgasemissionen lassen sich nur erreichen, wenn mehr Güter von der Straße auf Schiene, Binnenwasserstraßen und Short-Sea-Verkehre verlagert werden. Intermodaler und kombinierter Verkehr liefern den operativen Rahmen dafür, indem sie standardisierte Ladeeinheiten über mehrere Verkehrsträger hinweg nutzen und Anreize für Schiene-Straße-Kombinationen schaffen. Dieser Beitrag beleuchtet den Status des kombinierten Verkehrs in Europa, die wichtigsten politischen Treiber und praktische Aspekte für Verlader.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "intermodal-transport-visual-1.png",
+      "alt": "Europäisches Intermodalterminal, in dem ein Güterzug Container von Lkw übernimmt, mit Kränen im Hintergrund.",
+      "caption": "In einem europäischen Kombiterminal werden Container zwischen Lkw und Zug umgeschlagen und so reine Straßenkilometer reduziert."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Was ist kombinierter und intermodaler Verkehr?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kombinierter Verkehr bezeichnet intermodale Transporte, bei denen der Hauptlauf mit Bahn, Binnenschiff oder Seeverkehr durchgeführt wird und der Straßentransport auf Vor- und Nachlauf begrenzt ist. Die EU-Richtlinie über den kombinierten Verkehr (92/106/EWG) fördert solche Verkehre, indem sie Spediteuren Kabotage ohne zusätzliche Genehmigungen ermöglicht und Ausnahmen von bestimmten Straßenbeschränkungen vorsieht. Ein Briefing des Europäischen Parlaments stellt fest, dass die Richtlinie veraltet ist und dass die Kommission im November 2023 Änderungen vorgeschlagen hat, um Anreize zu stärken und die Definition zu erweitern.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Intermodaler Verkehr im weiteren Sinne meint die Nutzung von mindestens zwei Verkehrsträgern mit derselben Ladeeinheit, etwa einem Container oder Wechselbehälter. Moderne Logistikkonzepte kombinieren Straße mit Schiene, Binnenschiff oder Short-Sea-Verbindungen, um Effizienz zu erhöhen und den CO2-Fußabdruck zu senken.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Wachstum des kombinierten Verkehrs"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Der UIC/UIRR-Bericht 2024 zeigt das starke Wachstum des kombinierten Verkehrs in Europa. Zwischen 2010 und 2023 stieg das Transportvolumen im Kombiverkehr um 59 % und der intermodale Wagenpark um 40 %. Im Jahr 2023 entfielen rund 50 % des europäischen Schienengüterverkehrs auf Kombiverkehr, und 52 % der Verbindungen waren grenzüberschreitend. Der Bericht zählt etwa 350 grenzüberschreitende Verbindungen mit wöchentlichen Abfahrten und schätzt den Umsatz des Sektors 2022 auf 6,4 Mrd. EUR. Bis 2040 wird ein jährliches Wachstum von etwa 3 % erwartet.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Trotz dieser Fortschritte dominiert die Straße weiterhin den Güterverkehr. Eurostat berichtet, dass im Jahr 2023 die Straße 25,3 % der in der EU transportierten Tonnenkilometer stellte, während die Schiene 5,5 % und die Binnenschifffahrt 1,6 % ausmachten. Der Seeverkehr bleibt mit 67,4 % der Tonnenkilometer der wichtigste Verkehrsträger. Die Förderung der Verkehrsverlagerung bleibt daher ein zentrales Ziel der EU-Verkehrspolitik.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Politische und rechtliche Treiber"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Überarbeitung der Richtlinie über den kombinierten Verkehr: Der Änderungsvorschlag erweitert die Definition des kombinierten Verkehrs, führt klarere Kriterien für die Förderfähigkeit ein und soll Monitoring sowie Berichterstattung verbessern. Zudem sollen Anreize harmonisiert werden, etwa Mautbefreiungen, Ausnahmen von Nachtfahrverboten und vereinfachte Zollverfahren.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "TEN-T und Kapazitätsmanagement: Die Überarbeitung der TEN-T-Verordnung stärkt die Rolle von urbanen Knotenpunkten und multimodalen Güterterminals. Gleichzeitig werden Regeln für Kapazitätsmanagement diskutiert, um Güterzüge auf wichtigen Korridoren zu priorisieren.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "eFTI und Digitalisierung: Die Umsetzung der eFTI-Verordnung und interoperable Buchungsplattformen werden die Abwicklung multimodaler Verkehre vereinfachen und Medienbrüche reduzieren.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Grüne Anreize: CO2-Bepreisung, emissionsabhängige Mauten und Umweltzonen erhöhen die relative Attraktivität von Schiene und Binnenschifffahrt gegenüber reinem Straßentransport.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Praktische Aspekte für Verlader"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Relationen analysieren: Kombinierter Verkehr eignet sich besonders für Distanzen über etwa 300 km, auf denen die Bahn Kosten- und Emissionsvorteile bietet. Identifizieren Sie Korridore mit häufigen Zugverbindungen und stabiler Leistung.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ladeeinheiten verstehen: Verwenden Sie standardisierte Container oder Wechselbehälter, die in Terminals mit Kränen gehandhabt werden können, und stellen Sie eine transportsichere Beladung für mehrfaches Umschlagen sicher.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Terminalprozesse einplanen: Berücksichtigen Sie Umschlagzeiten und potenzielle Verzögerungen durch Terminalengpässe. Elektronische Buchungen und Slot-Reservierungen helfen, Standzeiten zu reduzieren.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Mit Partnern zusammenarbeiten: Arbeiten Sie mit Bahnoperatören, Spediteuren und Logistikhubs, die auf Kombiverkehr spezialisiert sind. Digitale Frachtplattformen können End-to-end-Sichtbarkeit über alle Verkehrsträger hinweg bieten.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "An Nachhaltigkeitsziele anknüpfen: Kommunizieren Sie Kunden die CO2-Vorteile von intermodalen Lösungen. Immer mehr Unternehmen messen Scope-3-Emissionen und bevorzugen Lieferanten, die emissionsärmere Verkehrsträger einsetzen.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fazit"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Intermodaler und kombinierter Verkehr wachsen schnell, machen aber im Vergleich zum reinen Straßengüterverkehr nach wie vor einen kleineren Anteil aus. Wer die überarbeitete EU-Gesetzgebung, bessere Schienenkapazitäten und digitale Plattformen nutzt, kann seinen Modal Split diversifizieren, Kosten senken und zur Dekarbonisierung beitragen. Spediteure wie Logifie können helfen, multimodale Lösungen zu entwickeln, die auf spezifische Relationen und Waren zugeschnitten sind.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Quellen"
+    },
+    {
+      "type": "citation",
+      "text": "Revision of the Combined Transport Directive (European Parliament Research Service, 2023) - Erläutert, dass die aktuelle Richtlinie über den kombinierten Verkehr veraltet ist und dass die im November 2023 vorgeschlagenen Änderungen die Definition erweitern und Anreize stärken sollen.",
+      "author": "European Parliament Research Service",
+      "url": "https://www.europarl.europa.eu/thinktank/en/document.html?reference=EPRS_BRI(2023)749778"
+    },
+    {
+      "type": "citation",
+      "text": "Combined Transport in Europe: Growth and Challenges (UIC, UIRR, 2024) - Berichtet, dass die Kombiverkehrsvolumina in Europa zwischen 2010 und 2023 um 59 % gestiegen sind, der intermodale Wagenpark um 40 % wuchs, Kombiverkehr 50 % des Schienengüterverkehrs ausmacht und 52 % der Verbindungen grenzüberschreitend sind, bei einem Umsatz von 6,4 Mrd. EUR.",
+      "author": "UIC, UIRR",
+      "url": "https://uic.org/commercial-platform/combined-transport-in-europe-2024-report/"
+    },
+    {
+      "type": "citation",
+      "text": "Most goods transported by sea within the EU in 2023 (Eurostat, 2025) - Stellt fest, dass der Straßengüterverkehr 2023 in der EU 25,3 % der Tonnenkilometer ausmachte, die Schiene 5,5 %, die Binnenschifffahrt 1,6 % und der Seeverkehr 67,4 %.",
+      "author": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250416-1"
+    }
+  ],
+  "tags": [
+    "kombinierter Verkehr",
+    "intermodaler Güterverkehr",
+    "Verlagerung von Straße auf Schiene",
+    "Modal Split",
+    "TEN-T",
+    "Richtlinie kombinierter Verkehr",
+    "multimodal"
+  ]
+}
+

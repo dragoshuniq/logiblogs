@@ -1,0 +1,210 @@
+{
+  "id": "driver-shortages-in-european-road-transport-causes-impacts-and-solutions",
+  "shortId": "driver-shortages-european",
+  "language": "pl",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Niedobór kierowców w europejskim transporcie drogowym: przyczyny, skutki i możliwe rozwiązania",
+  "description": "W całej Europie menedżerowie logistyki mają coraz większy problem ze znalezieniem wystarczającej liczby wykwalifikowanych kierowców ciężarówek. Starzejąca się kadra, wysokie bariery wejścia i trudne warunki pracy napędzają kryzys kadrowy, który podważa niezawodność transportu drogowego. Artykuł omawia skalę i przyczyny niedoboru kierowców oraz wskazuje praktyczne kroki, które mogą pomóc przyciągnąć i utrzymać pracowników...",
+  "publishedAt": "2025-12-07T00:00:00.000Z",
+  "category": "Operacje",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperci ds. technologii logistycznych",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "driver-shortages-hero.png",
+  "imageAlt": "Szereg zaparkowanych ciągników siodłowych na europejskim parkingu dla ciężarówek z widocznym banerem rekrutacyjnym.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "W całej Europie menedżerowie logistyki zmagają się z niedoborem wykwalifikowanych kierowców ciężarówek. Starzejąca się kadra, wysokie koszty wejścia do zawodu oraz trudne warunki pracy napędzają kryzys kadrowy, który podważa niezawodność transportu drogowego. W tym artykule przyglądamy się skali i przyczynom niedoboru kierowców oraz przedstawiamy praktyczne rekomendacje dotyczące pozyskiwania i utrzymywania pracowników.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "driver-shortages-visual-1.png",
+      "alt": "Ilustracja pokazująca strukturę demograficzną w transporcie drogowym: starzejących się kierowców, młodych wchodzących do zawodu, koszty prawa jazdy oraz lukę płciową.",
+      "caption": "Struktura demograficzna kierowców pokazuje starzejącą się populację, niewielką liczbę młodych oraz znaczną lukę płciową."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Skala niedoboru kierowców"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Międzynarodowa Unia Transportu Drogowego (IRU) określa niedobór kierowców jako kryzys globalny. W Europie IRU szacuje, że braki na stanowiskach kierowców ciężarówek, autobusów i autokarów liczone są w setkach tysięcy, a na całym świecie wakatów jest ponad 3,6 mln. Młodzi kierowcy są rzadkością: mniej niż 6,5 % zawodowych kierowców ma mniej niż 25 lat, podczas gdy ponad 40 % ukończyło 55 lat. Kobiety stanowią mniej niż 7 % załogi, co odzwierciedla obawy związane z bezpieczeństwem oraz niedostateczną infrastrukturę socjalną.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Raport ELA/EURES dotyczący rynku pracy wskazuje, że sektor transportu lądowego w UE obejmuje ok. 1,06 mln przedsiębiorstw zatrudniających 5,78 mln osób i że wiele krajów zgłasza dotkliwy niedobór kierowców samochodów ciężarowych oraz mechaników. Do barier wejścia należą m.in. koszty uzyskania prawa jazdy kategorii C/CE oraz kwalifikacji zawodowej kierowcy (CPC), które w niektórych państwach przekraczają 2.000 EUR. Uznawanie uprawnień kierowców z krajów trzecich jest skomplikowane i czasochłonne, co utrudnia rekrutację spoza UE.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Główne przyczyny niedoboru kierowców"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Na niedobór kierowców składa się kilka powtarzających się czynników:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Demografia i przejścia na emeryturę: populacja kierowców starzeje się. Ponad 40 % kierowców ma więcej niż 55 lat, więc w nadchodzącej dekadzie wiele osób zakończy karierę. Zbyt mało młodych ludzi traktuje pracę kierowcy ciężarówki jako atrakcyjną ścieżkę zawodową, co tworzy lukę pokoleniową.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Warunki pracy: długie godziny, noclegi w kabinie, nieregularne grafiki oraz ograniczony dostęp do bezpiecznych parkingów z sanitariatami zniechęcają potencjalnych kandydatów. Raport ELA/EURES podkreśla, że niskie wynagrodzenia i obawy o bezpieczeństwo szczególnie zniechęcają kobiety i młodych pracowników.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Koszty prawa jazdy i szkolenia: uzyskanie prawa jazdy na pojazdy ciężkie i kwalifikacji zawodowej może kosztować kilka tysięcy euro. Trans.info podaje, że w Polsce koszt uzyskania prawa jazdy na ciężarówkę sięga około 10.000 PLN (ok. 2.340 EUR), a podobne kwoty występują w innych krajach. Bez dofinansowania niewielu młodych może pozwolić sobie na taki wydatek.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Złożoność administracyjna: niejednolite zasady uznawania uprawnień między państwami członkowskimi oraz skomplikowane procedury wizowe dla kierowców z krajów trzecich spowalniają rekrutację międzynarodową.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Konkurencja innych sektorów: transport drogowy konkuruje z budownictwem, magazynowaniem i elastycznymi formami zatrudnienia w gospodarce platformowej, które często oferują bardziej przewidywalne godziny pracy.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Skutki dla logistyki i łańcuchów dostaw"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Brak kierowców powoduje wzrost płac i stawek przewozowych, zwiększa ryzyko opóźnień oraz ogranicza elastyczność operacyjną. Firmy transportowe zmuszone są czasem odstawiać ciężarówki z powodu braku załóg, co ogranicza dostępną zdolność przewozową w sezonach szczytowych. Trans.info szacuje, że niedobór kierowców w Europie zbliża się do 500.000 wakatów, a same polskie floty potrzebują od 100.000 do 200.000 kierowców. Bez zdecydowanych działań IRU ostrzega, że w ruchu towarowym mogą pojawić się poważne zakłócenia, łącznie z utrudnieniami w dostawach podstawowych produktów.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Możliwe rozwiązania i rekomendacje"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Obniżanie barier wejścia: rządy mogą współfinansować koszty prawa jazdy i szkoleń lub wprowadzać vouchery. Włochy oferują np. bony pokrywające do 80 % kosztów uzyskania prawa jazdy. Uproszczenie uznawania zagranicznych uprawnień i procedur wizowych mogłoby ułatwić rekrutację kierowców z krajów sąsiednich.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Poprawa warunków pracy: inwestycje w bezpieczne parkingi z sanitariatami, lepsze planowanie tras i bardziej przewidywalne grafiki, krótsze trasy regionalne zamiast wielodniowych kursów mogą zwiększyć atrakcyjność zawodu, szczególnie dla osób z obowiązkami rodzinnymi.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Przyciąganie grup niedostatecznie reprezentowanych: kampanie rekrutacyjne skierowane do kobiet i młodych powinny podkreślać kwestie bezpieczeństwa, równe wynagrodzenie i możliwości rozwoju. Nowoczesne ciężarówki z wygodnymi kabinami i zaawansowanymi systemami wspomagania kierowcy poprawiają komfort pracy.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Inwestycje w automatyzację i intermodalność: automatyzacja nie zastąpi kierowców z dnia na dzień, ale technologie takie jak automatyczne załadunki, systemy wspomagania i platooning mogą zwiększyć wydajność. Transport intermodalny ogranicza liczbę dalekobieżnych kursów wymagających kierowców, ponieważ jeden pociąg może zastąpić kilkadziesiąt naczep na drodze.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Budowanie pozytywnego wizerunku zawodu: warto podkreślać strategiczną rolę kierowców w łańcuchach dostaw, rozwijać programy praktyk i staży oraz współpracować ze szkołami branżowymi i ośrodkami szkoleniowymi, aby tworzyć stabilną ścieżkę dojścia do zawodu.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Podsumowanie"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Niedobór kierowców zagraża odporności europejskich łańcuchów dostaw. Skuteczne działania wymagają współpracy rządów, przewoźników i załadowców, aby obniżyć bariery wejścia, poprawić warunki pracy i unowocześnić wizerunek zawodu. Inwestycje w szkolenia, różnorodność i technologie pomogą przyciągnąć nowe pokolenie kierowców oraz zapewnić, że transport drogowy będzie w stanie sprostać rosnącemu popytowi.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Źródła"
+    },
+    {
+      "type": "citation",
+      "text": "Global driver shortage reaches crisis point (International Road Transport Union, 2024) - Podkreśla, że na świecie brakuje milionów kierowców, mniej niż 6,5 % ma mniej niż 25 lat, ponad 40 % ma więcej niż 55 lat i że niedobór zagraża przewozom dóbr podstawowych.",
+      "author": "International Road Transport Union",
+      "url": "https://www.iru.org/news-resources/newsroom/driver-shortage-global-crisis"
+    },
+    {
+      "type": "citation",
+      "text": "ELA/EURES labour market report 2024 (European Labour Authority, EURES, 2024) - Wskazuje, że sektor transportu lądowego w UE obejmuje ok. 1,06 mln przedsiębiorstw i 5,78 mln pracowników, odnotowuje niedobory kierowców ciężarówek i mechaników, wysokie koszty uzyskania uprawnień oraz trudne warunki pracy, a także niską reprezentację kobiet.",
+      "author": "European Labour Authority, EURES",
+      "url": "https://ec.europa.eu/social/main.jsp?catId=738&langId=en&pubId=8407"
+    },
+    {
+      "type": "citation",
+      "text": "Driver shortage leaves fleets idle and costs increase for system (Trans.info, 2025) - Podaje, że niedobór kierowców w Europie zbliża się do 500.000 wakatów; wskazuje na wysokie koszty prawa jazdy (ok. 2.340 EUR) oraz program voucherów we Włoszech pokrywający do 80 % kosztów; sugeruje, że transport intermodalny może złagodzić niedobór, gdy jeden pociąg zastępuje 30–40 naczep.",
+      "author": "Trans.info",
+      "url": "https://trans.info/en/driver-shortage-idle-fleets-421938"
+    }
+  ],
+  "tags": [
+    "niedobór kierowców",
+    "kierowca ciężarówki",
+    "kryzys kadrowy",
+    "koszt prawa jazdy",
+    "warunki pracy",
+    "logistyka europejska",
+    "rynek pracy w transporcie"
+  ]
+}
+

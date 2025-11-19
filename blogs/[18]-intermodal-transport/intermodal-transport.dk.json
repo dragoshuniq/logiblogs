@@ -1,0 +1,204 @@
+{
+  "id": "intermodal-and-combined-transport-in-europe-opportunities-for-shifting-freight-from-road",
+  "shortId": "intermodal-combined-transport",
+  "language": "dk",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Intermodal og kombineret transport i Europa: muligheder for at flytte gods fra vej til bane",
+  "description": "At reducere trængsel på vejene og udledningen af drivhusgasser kræver, at mere gods flyttes fra vej til jernbane, indre vandveje og short-sea shipping. Intermodal og kombineret transport skaber de operationelle rammer for denne omstilling gennem standardiserede lastebærere og incitamenter til vej-bane-kombinationer...",
+  "publishedAt": "2025-12-06T00:00:00.000Z",
+  "category": "Planlægning",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperter i logistikteknologi",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "intermodal-transport-hero.png",
+  "imageAlt": "Foto af en europæisk intermodalterminal, hvor et godstog læsser containere fra lastbiler, med kraner i baggrunden.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Hvis vi vil reducere trængsel på vejene og udledningen af drivhusgasser, skal en større del af godset flyttes fra vej til bane, indre vandveje og short-sea-shipping. Intermodal og kombineret transport giver det praktiske setup til denne omlægning ved at bruge standardiserede lastebærere på tværs af transportformer og ved at give incitamenter til kombinationer af vej og bane. Denne artikel gennemgår status for kombineret transport i Europa, politiske drivkræfter og praktiske overvejelser for vareejere.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "intermodal-transport-visual-1.png",
+      "alt": "Europæisk intermodalterminal, hvor et godstog læsser containere fra lastbiler, med kraner i baggrunden.",
+      "caption": "På en intermodalterminal flyttes containere fra lastbiler til tog, hvilket reducerer antallet af rene vejkilometer."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hvad er kombineret og intermodal transport?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kombineret transport er en form for intermodal transport, hvor hovedstrækningen gennemføres med bane, indre vandveje eller søtransport, mens vejtransport begrænses til for- og efterskørsel. EU-direktiv 92/106/EØF om kombineret transport fremmer denne løsning ved at give vognmænd ret til at udføre cabotage uden ekstra tilladelser og ved at give undtagelser fra visse vejrestriktioner. Et notat fra Europa-Parlamentets researchtjeneste påpeger, at direktivet er forældet, og at Kommissionen i november 2023 har foreslået ændringer, der skal styrke incitamenterne og udvide definitionen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Intermodal transport bredt forstået betyder, at mindst to transportformer anvendes med samme lastebærer, for eksempel en container eller et vekselchassis. Moderne logistikstrategier kombinerer vejtransport med bane, pramme eller short-sea-ruter for at øge effektiviteten og reducere CO2-aftrykket.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vækst i kombineret transport"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "UIC/UIRR-rapporten for 2024 fremhæver den hurtige vækst i kombineret transport i Europa. Mellem 2010 og 2023 steg volumenerne i kombineret transport med 59 %, og den intermodale vognpark voksede med 40 %. I 2023 stod kombineret transport for omkring 50 % af Europas jernbanegodstransport, og 52 % af forbindelserne var grænseoverskridende. Rapporten identificerer cirka 350 grænseoverskridende forbindelser med ugentlige afgange og anslår sektorens omsætning til 6,4 mia. EUR i 2022. Frem mod 2040 forventes en gennemsnitlig årlig vækst på ca. 3 %. ",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "På trods af fremskridtene dominerer vejtransport fortsat godstransporten. Ifølge Eurostat stod vejtransport i 2023 for 25,3 % af tonkilometer i EU, mens bane stod for 5,5 % og indre vandveje for 1,6 %. Søtransport er stadig den største transportform med 67,4 %. Derfor er modal shift fortsat et centralt mål i EU’s transportpolitik.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Politiske og regulatoriske drivkræfter"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Revision af direktivet om kombineret transport: ændringsforslaget skal udvide definitionen af kombineret transport, indføre klarere kriterier for støtte og forbedre monitorering og rapportering. Det har også til formål at harmonisere incitamenter som fritagelse for vejafgifter, undtagelser fra natlige kørselsforbud og forenklede toldprocedurer.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "TEN-T og kapacitetsstyring: revisionen af TEN-T-forordningen styrker rollen for byknudepunkter og multimodale godsterminaler. Der ses på regler for kapacitetsstyring, der kan prioritere godstog på centrale jernbanekorridorer.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "eFTI og digitalisering: implementering af eFTI-forordningen og interoperable bookingplatforme vil gøre det enklere at håndtere multimodale transporter og reducere administrative knudepunkter mellem transportformer.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Grønne incitamenter: CO2-prisfastsættelse, emissionsbaserede vejafgifter og miljøzoner forbedrer banens og indre vandvejes relative konkurrenceevne i forhold til ren vejtransport.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Praktiske råd til vareejere"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Analysér relationer: intermodale løsninger fungerer bedst på strækninger over cirka 300 km, hvor banen har omkostnings- og emissionsfordele. Identificer korridorer med hyppige togafgange og stabil servicekvalitet.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Forstå lastebærere: brug standardiserede containere eller vekselchassiser, der kan håndteres af kraner i terminaler, og sørg for, at lasten er sikret til flere håndteringer.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Planlæg terminaldrift: indregn omladningstider og potentielle forsinkelser på grund af trængsel. Elektroniske bookinger og reserverede tidsvinduer hjælper med at mindske ventetid i terminaler.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Samarbejd med specialiserede partnere: arbejd med baneoperatører, speditører og logistikknudepunkter med erfaring i kombineret transport. Digitale fragtplatforme kan give end-to-end-synlighed på tværs af transportformer.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Knyt logistikstrategien til bæredygtighedsmål: synliggør CO2-fordelene ved intermodale løsninger over for kunderne. Flere virksomheder måler scope 3-udledninger og foretrækker leverandører, der bruger lavemissionsmodi.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Konklusion"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Intermodal og kombineret transport vokser hurtigt, men udgør stadig en mindre del af godsmængderne sammenlignet med ren vejtransport. Ved at udnytte revideret EU-lovgivning, øget banekapacitet og digitale platforme kan vareejere udvide deres modal mix, reducere omkostninger og bidrage til dekarbonisering. Speditører som Logifie kan hjælpe med at designe multimodale løsninger skræddersyet til specifikke ruter og varestrømme.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kilder"
+    },
+    {
+      "type": "citation",
+      "text": "Revision of the Combined Transport Directive (European Parliament Research Service, 2023) - Beskriver, at direktivet om kombineret transport er forældet, og at ændringsforslagene fra november 2023 skal udvide definitionen og styrke incitamenterne.",
+      "author": "European Parliament Research Service",
+      "url": "https://www.europarl.europa.eu/thinktank/en/document.html?reference=EPRS_BRI(2023)749778"
+    },
+    {
+      "type": "citation",
+      "text": "Combined Transport in Europe: Growth and Challenges (UIC, UIRR, 2024) - Oplyser, at kombineret transport i Europa voksede 59 % i perioden 2010–2023, at den intermodale vognpark steg 40 %, at kombineret transport tegner sig for 50 % af jernbanegodset og at 52 % af forbindelserne er grænseoverskridende; sektorens omsætning var 6,4 mia. EUR.",
+      "author": "UIC, UIRR",
+      "url": "https://uic.org/commercial-platform/combined-transport-in-europe-2024-report/"
+    },
+    {
+      "type": "citation",
+      "text": "Most goods transported by sea within the EU in 2023 (Eurostat, 2025) - Konstaterer, at vejtransport stod for 25,3 % af tonkilometerne i EU i 2023, bane for 5,5 %, indre vandveje for 1,6 % og søtransport for 67,4 %.",
+      "author": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250416-1"
+    }
+  ],
+  "tags": [
+    "kombineret transport",
+    "intermodal transport",
+    "modal shift vej-bane",
+    "modalfordeling",
+    "TEN-T",
+    "direktivet om kombineret transport",
+    "multimodal logistik"
+  ]
+}
+

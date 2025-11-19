@@ -1,0 +1,204 @@
+{
+  "id": "intermodal-and-combined-transport-in-europe-opportunities-for-shifting-freight-from-road",
+  "shortId": "intermodal-combined-transport",
+  "language": "tr",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Avrupa’da intermodal ve kombine taşımacılık: yükü yoldan demiryoluna kaydırmak için fırsatlar",
+  "description": "Yol sıkışıklığını ve sera gazı emisyonlarını azaltmak için daha fazla yükün karayolundan demiryoluna, iç su yollarına ve short-sea shipping’e kaydırılması gerekiyor. İntermodal ve kombine taşımacılık, standartlaştırılmış yük birimleri ve yol-demiryolu kombinasyonları için sağlanan teşviklerle bu dönüşümün operasyonel çerçevesini sunuyor...",
+  "publishedAt": "2025-12-06T00:00:00.000Z",
+  "category": "Planlama",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Lojistik teknolojisi uzmanları",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "intermodal-transport-hero.png",
+  "imageAlt": "Avrupa’da intermodal bir terminalde, yük treninin kamyonlardan konteyner yüklediği ve arka planda vinçlerin göründüğü bir fotoğraf.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Avrupa’da trafik sıkışıklığını ve sera gazı emisyonlarını azaltmak için yük akışlarının daha büyük bir bölümünün karayolundan demiryoluna, iç su yollarına ve short-sea shipping’e kaydırılması gerekiyor. İntermodal ve kombine taşımacılık, farklı modlar arasında standartlaştırılmış yük birimleri kullanarak ve yol-demiryolu kombinasyonlarına teşvikler sağlayarak bu dönüşüm için operasyonel çerçeve sunar. Bu yazı, Avrupa’da kombine taşımacılığın mevcut durumunu, temel politika itici güçlerini ve yük sahipleri için pratik hususları ele alıyor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "intermodal-transport-visual-1.png",
+      "alt": "Avrupa’da intermodal bir terminalde, yük treni kamyonlardan konteyner yüklerken arka planda vinçler görünüyor.",
+      "caption": "Avrupa’daki intermodal terminallerde konteynerler kamyonlardan trene kaydırılarak yalnızca yolda gidilen kilometreler azaltılır."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Kombine ve intermodal taşımacılık nedir?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kombine taşımacılık, yolculuğun ana kısmının demiryolu, iç su yolları veya denizle yapıldığı, karayolu taşımacılığının ise ilk ve son kilometrelerle sınırlandığı bir intermodal taşımacılık türüdür. Kombine taşımacılığa ilişkin 92/106/AET sayılı AB Direktifi, taşıyıcılara ek izin almadan kabotaj yapma imkanı vererek ve bazı yol erişim kısıtlamalarından muafiyet tanıyarak bu tür operasyonları teşvik eder. Avrupa Parlamentosu araştırma servisine göre direktif güncelliğini yitirmiştir ve Komisyon, teşvikleri güçlendirmek ve tanımı genişletmek için Kasım 2023’te değişiklikler önermiştir.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Daha geniş anlamda intermodal taşımacılık, aynı yük birimi (örneğin konteyner veya swap body) kullanılarak en az iki farklı taşıma modunun birleştirilmesi anlamına gelir. Modern lojistik stratejileri, verimliliği artırmak ve karbon ayak izini azaltmak için karayolu taşımacılığını demiryolu, nehir taşımacılığı veya short-sea servisleriyle birleştirir.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Avrupa’da kombine taşımacılığın büyümesi"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2024 tarihli UIC/UIRR raporu, Avrupa’da kombine taşımacılığın hızlı büyümesini vurguluyor. 2010–2023 döneminde kombine taşımacılık hacmi %59, intermodal vagon filosu ise %40 artmıştır. 2023’te kombine taşımacılık, Avrupa demiryolu yük taşımacılığının yaklaşık %50’sini oluştururken, bağlantıların %52’si sınır ötesi idi. Raporda haftalık seferleri olan yaklaşık 350 sınır ötesi bağlantı sayılıyor ve sektör gelirleri 2022 için 6,4 milyar avro olarak tahmin ediliyor. Büyümenin 2040’a kadar yılda yaklaşık %3 oranında devam etmesi bekleniyor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Tüm bu gelişmelere rağmen, yük taşımacılığında karayolu hâlâ baskın mod konumunda. Eurostat’a göre 2023’te AB’de taşınan ton-kilometrelerin %25,3’ü karayoluna, %5,5’i demiryoluna ve %1,6’sı iç su yollarına aitken, denizyolu taşımacılığı %67,4’lük payla en büyük mod olmaya devam etmiştir. Dolayısıyla modlar arası kaymayı teşvik etmek, AB’nin ulaştırma politikasının temel hedeflerinden biridir.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Politika ve mevzuat tarafındaki itici güçler"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Kombine taşımacılık direktifinin revizyonu: önerilen değişiklik, kombine taşımacılık tanımını genişletmeyi, uygunluk kriterlerini netleştirmeyi ve izleme ile raporlamayı iyileştirmeyi hedefler. Ayrıca otoyol ücret muafiyetleri, gece sürüş kısıtlamalarına istisnalar ve basitleştirilmiş gümrük prosedürleri gibi teşviklerin uyumlu hale getirilmesi amaçlanıyor.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "TEN-T ve kapasite yönetimi: TEN-T Tüzüğü’nün gözden geçirilmesi, kentsel düğümlerin ve multimodal yük terminallerinin rolünü güçlendirir. Ana demiryolu koridorlarında yük trenlerinin önceliklendirilmesi için kapasite yönetimi kuralları tartışılmaktadır.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "eFTI ve dijitalleşme: eFTI tüzüğünün uygulanması ve birbiriyle uyumlu rezervasyon platformları, multimodal operasyonları basitletecek ve modlar arası idari sürtünmeyi azaltacaktır.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Yeşil teşvikler: karbon fiyatlaması, CO2 temelli yol ücretleri ve düşük emisyon bölgeleri, demiryolu ve iç su yollarının yalnızca karayoluna kıyasla göreli cazibesini artırır.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Yük sahipleri için pratik öneriler"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Hatları analiz edin: intermodal çözümler, genellikle 300 km’nin üzerindeki mesafelerde, demiryolunun maliyet ve emisyon avantajı sağladığı yerlerde en iyi sonucu verir. Sık tren seferleri ve güvenilir hizmet sunan koridorları belirleyin.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Yük birimlerini anlayın: terminallerde vinçlerle elleçlenebilen standart konteynerler veya swap body’ler kullanın ve birden fazla aktarmaya dayanacak şekilde yük emniyetini sağlayın.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Terminal operasyonlarını planlayın: aktarma sürelerini ve tıkanıklığın yol açabileceği gecikmeleri hesaba katın. Elektronik rezervasyon ve varış zaman dilimlerinin önceden planlanması, terminaldeki bekleme süresini azaltır.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Uzman ortaklarla çalışın: kombine taşımacılıkta uzmanlaşmış demiryolu operatörleri, forwarderlar ve lojistik merkezleri ile işbirliği yapın. Dijital yük platformları, farklı modlar arasında uçtan uca görünürlük sağlayabilir.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Stratejinizi sürdürülebilirlik hedefleriyle hizalayın: intermodal çözümlerin CO2 avantajlarını müşterilerinize anlatın. Giderek daha fazla şirket, 3. kapsam emisyonlarını izliyor ve düşük emisyonlu modları kullanan tedarikçilere öncelik veriyor.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sonuç"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Avrupa’da intermodal ve kombine taşımacılık hızla büyüyor, ancak hala yalnızca karayolu ile yapılan taşımacılığa kıyasla daha küçük bir paya sahip. Revize edilen AB mevzuatını, artan demiryolu kapasitesini ve dijital platformları akıllıca kullanan yük sahipleri, modal dağılımı çeşitlendirebilir, maliyetleri azaltabilir ve dekarbonizasyona katkı sağlayabilir. Logifie gibi forwarderlar, belirli hatlara ve yük türlerine uyarlanmış multimodal çözümler tasarlamada destek olabilir.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kaynaklar"
+    },
+    {
+      "type": "citation",
+      "text": "Revision of the Combined Transport Directive (European Parliament Research Service, 2023) - Kombine taşımacılık direktifinin güncel olmadığını ve Kasım 2023’te önerilen değişikliklerin tanımı genişletmeyi ve teşvikleri güçlendirmeyi hedeflediğini açıklar.",
+      "author": "European Parliament Research Service",
+      "url": "https://www.europarl.europa.eu/thinktank/en/document.html?reference=EPRS_BRI(2023)749778"
+    },
+    {
+      "type": "citation",
+      "text": "Combined Transport in Europe: Growth and Challenges (UIC, UIRR, 2024) - Avrupa’da kombine taşımacılık hacminin 2010–2023 arasında %59, intermodal vagon filosunun ise %40 arttığını; kombine taşımacılığın demiryolu yük taşımacılığının %50’sini ve bağlantıların %52’sini oluşturduğunu, sektör gelirlerinin ise 6,4 milyar avro olduğunu belirtir.",
+      "author": "UIC, UIRR",
+      "url": "https://uic.org/commercial-platform/combined-transport-in-europe-2024-report/"
+    },
+    {
+      "type": "citation",
+      "text": "Most goods transported by sea within the EU in 2023 (Eurostat, 2025) - 2023’te AB’de ton-kilometre bazında taşımaların %25,3’ünün karayolu, %5,5’inin demiryolu, %1,6’sının iç su yolları ve %67,4’ünün denizyolu ile yapıldığını aktarır.",
+      "author": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250416-1"
+    }
+  ],
+  "tags": [
+    "kombine taşımacılık",
+    "intermodal taşımacılık",
+    "yükü yoldan demiryoluna kaydırmak",
+    "modal dağılım",
+    "TEN-T",
+    "kombine taşımacılık direktifi",
+    "multimodal lojistik"
+  ]
+}
+
