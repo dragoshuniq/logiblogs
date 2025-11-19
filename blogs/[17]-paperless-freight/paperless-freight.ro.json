@@ -4,8 +4,8 @@
   "language": "ro",
   "isVisible": true,
   "readTime": 240,
-  "title": "Spre transport fără hârtie: eFTI și e‑CMR accelerează digitalizarea în Europa",
-  "description": "Hârtia domină încă transportul de marfă în Europa. Scrisori de trăsură, CMR‑uri, documente vamale și permise sunt imprimate, ștampilate și arhivate, ceea ce creează sarcini administrative și riscuri de eroare. Pentru a simplifica operațiunile și a sprijini obiectivele de mediu, UE trece la informații electronice de transport (eFTI) și scrisori de trăsură digitale (e‑CMR)...",
+  "title": "Spre transport fără hârtie: eFTI și e-CMR accelerează digitalizarea în Europa",
+  "description": "Hârtia domină încă transportul de marfă în Europa. Scrisori de trăsură, CMR-uri, documente vamale și permise sunt imprimate, ștampilate și arhivate, ceea ce creează sarcini administrative și riscuri de eroare. Pentru a simplifica operațiunile și a sprijini obiectivele de mediu, UE trece la informații electronice de transport (eFTI) și scrisori de trăsură digitale (e-CMR)...",
   "publishedAt": "2025-12-05T00:00:00.000Z",
   "category": "Tehnologie",
   "author": {
@@ -14,13 +14,13 @@
     "avatar": "/logos/slogo.png"
   },
   "image": "paperless-freight-hero.png",
-  "imageAlt": "Tabletă care afișează o scrisoare de trăsură electronică (e‑CMR) cu bife de validare și o pictogramă de camion, pe fundal cu stelele UE.",
+  "imageAlt": "Tabletă care afișează o scrisoare de trăsură electronică (e-CMR) cu bife de validare și o pictogramă de camion, pe fundal cu stelele UE.",
   "content": [
     {
       "type": "paragraph",
       "children": [
         {
-          "text": "Hârtia domină încă transportul de marfă în Europa. Note de transport CMR, scrisori de trăsură, documente vamale și permise sunt tipărite, ștampilate și arhivate, ceea ce crește sarcina administrativă și riscul de erori. Pentru a simplifica operațiunile și a sprijini obiectivele de mediu, UE avansează către informații electronice de transport (eFTI) și consignații digitale (e‑CMR). Acest articol explică motoarele de reglementare, beneficiile și provocările trecerii la transport fără hârtie.",
+          "text": "Hârtia domină încă transportul de marfă în Europa. Note de transport CMR, scrisori de trăsură, documente vamale și permise sunt tipărite, ștampilate și arhivate, ceea ce crește sarcina administrativă și riscul de erori. Pentru a simplifica operațiunile și a sprijini obiectivele de mediu, UE avansează către informații electronice de transport (eFTI) și consignații digitale (e-CMR). Acest articol explică motoarele de reglementare, beneficiile și provocările trecerii la transport fără hârtie.",
           "bold": false
         }
       ]
@@ -29,7 +29,7 @@
       "type": "image",
       "src": "paperless-freight-visual-1.png",
       "alt": "Șofer de camion arată documente electronice de transport pe un dispozitiv mobil la un punct de control la frontieră în Europa.",
-      "caption": "Șoferul prezintă documentele de transport pe un dispozitiv mobil la frontieră, ilustrând trecerea de la hârtii la e‑CMR și eFTI."
+      "caption": "Șoferul prezintă documentele de transport pe un dispozitiv mobil la frontieră, ilustrând trecerea de la hârtii la e-CMR și eFTI."
     },
     {
       "type": "heading",
@@ -54,7 +54,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Regulamentul eFTI stabilește standarde tehnice pentru platforme, seturi de date și proceduri. El obligă statele membre să creeze portaluri digitale și le permite operatorilor economici să furnizeze informații de transport în format electronic dacă aleg acest lucru. Se așteaptă ca regulamentul să reducă semnificativ costurile administrative, în special pentru IMM‑uri, prin eliminarea introducerii repetate a datelor și a manipulării documentelor fizice.",
+          "text": "Regulamentul eFTI stabilește standarde tehnice pentru platforme, seturi de date și proceduri. El obligă statele membre să creeze portaluri digitale și le permite operatorilor economici să furnizeze informații de transport în format electronic dacă aleg acest lucru. Se așteaptă ca regulamentul să reducă semnificativ costurile administrative, în special pentru IMM-uri, prin eliminarea introducerii repetate a datelor și a manipulării documentelor fizice.",
           "bold": false
         }
       ]
@@ -95,13 +95,13 @@
     {
       "type": "heading",
       "level": 2,
-      "text": "e‑CMR: scrisoarea de trăsură digitală"
+      "text": "e-CMR: scrisoarea de trăsură digitală"
     },
     {
       "type": "paragraph",
       "children": [
         {
-          "text": "Convenția CMR guvernează transportul rutier internațional. Din 2008, un protocol permite utilizarea scrisorilor de trăsură electronice (e‑CMR). Adoptarea a fost însă lentă: aproximativ 36 de țări europene au ratificat protocolul eCMR, iar utilizarea este neuniformă. Totuși, un val de proiecte pilot și sisteme naționale accelerează progresul. Un raport de industrie menționează că până în iulie 2027 autoritățile naționale trebuie să accepte documente de transport digitale prin platforme eFTI certificate și că implementarea pe scară largă este așteptată până în 2026, cu aplicare obligatorie din 2029.",
+          "text": "Convenția CMR guvernează transportul rutier internațional. Din 2008, un protocol permite utilizarea scrisorilor de trăsură electronice (e-CMR). Adoptarea a fost însă lentă: aproximativ 36 de țări europene au ratificat protocolul eCMR, iar utilizarea este neuniformă. Totuși, un val de proiecte pilot și sisteme naționale accelerează progresul. Un raport de industrie menționează că până în iulie 2027 autoritățile naționale trebuie să accepte documente de transport digitale prin platforme eFTI certificate și că implementarea pe scară largă este așteptată până în 2026, cu aplicare obligatorie din 2029.",
           "bold": false
         }
       ]
@@ -138,13 +138,13 @@
         ],
         [
           {
-            "text": "Investiții: IMM‑urile pot avea dificultăți în a suporta costurile de integrare a platformelor eFTI, însă finanțările naționale și programele UE (de exemplu, Connecting Europe Facility) pot oferi sprijin.",
+            "text": "Investiții: IMM-urile pot avea dificultăți în a suporta costurile de integrare a platformelor eFTI, însă finanțările naționale și programele UE (de exemplu, Connecting Europe Facility) pot oferi sprijin.",
             "bold": false
           }
         ],
         [
           {
-            "text": "Managementul schimbării: Adoptarea digitală presupune instruirea personalului și renunțarea la procesele pe hârtie. Combinarea e‑CMR cu optimizarea rutelor, telematica și automatizarea formalităților vamale poate genera beneficii suplimentare.",
+            "text": "Managementul schimbării: Adoptarea digitală presupune instruirea personalului și renunțarea la procesele pe hârtie. Combinarea e-CMR cu optimizarea rutelor, telematica și automatizarea formalităților vamale poate genera beneficii suplimentare.",
             "bold": false
           }
         ]
@@ -159,7 +159,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Managerii de logistică ar trebui să înceapă prin analiza fluxurilor actuale de documente și identificarea punctelor în care soluțiile digitale pot înlocui hârtia. Colaborarea cu platforme digitale certificate conform specificațiilor eFTI va asigura conformitatea. Adoptarea timpurie a e‑CMR oferă experiență practică și poate îmbunătăți transparența pentru clienți. Implicarea partenerilor din întreg lanțul de aprovizionare este crucială pentru a asigura interoperabilitatea și calitatea datelor.",
+          "text": "Managerii de logistică ar trebui să înceapă prin analiza fluxurilor actuale de documente și identificarea punctelor în care soluțiile digitale pot înlocui hârtia. Colaborarea cu platforme digitale certificate conform specificațiilor eFTI va asigura conformitatea. Adoptarea timpurie a e-CMR oferă experiență practică și poate îmbunătăți transparența pentru clienți. Implicarea partenerilor din întreg lanțul de aprovizionare este crucială pentru a asigura interoperabilitatea și calitatea datelor.",
           "bold": false
         }
       ]
@@ -212,4 +212,3 @@
     "digitalizare"
   ]
 }
-

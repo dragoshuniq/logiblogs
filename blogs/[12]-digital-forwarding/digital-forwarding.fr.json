@@ -5,30 +5,184 @@
   "isVisible": true,
   "readTime": 600,
   "title": "Commission de transport digitale vs commission traditionnelle",
-  "description": "La commission de transport est au cœur du commerce mondial. Pendant des décennies: téléphone, fax, tableurs. Aujourd'hui, des plateformes digitales promettent devis instantanés, suivi temps réel et documents automatisés. En quoi la commission digitale diffère‑t‑elle – et pourquoi cela compte...",
+  "description": "La commission de transport est au cœur du commerce mondial. Pendant des décennies: téléphone, fax, tableurs. Aujourd'hui, des plateformes digitales promettent devis instantanés, suivi temps réel et documents automatisés. En quoi la commission digitale diffère-t-elle – et pourquoi cela compte...",
   "publishedAt": "2025-02-02T00:00:00Z",
   "category": "Technologie",
-  "author": {"name": "Logifie Team", "role": "Experts en technologies logistiques", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experts en technologies logistiques",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "digital-forwarding-hero.png",
   "imageAlt": "Scène partagée: un bureau traditionnel papier à côté d'une salle de contrôle digitale épurée",
   "content": [
-    {"type": "paragraph", "children": [{"text": "La commission de transport orchestre le mouvement des marchandises sur mer, à travers les frontières et en dernier kilomètre. Longtemps, elle a reposé sur appels, fax et tableurs. Les plateformes digitales proposent désormais des devis instantanés, un suivi temps réel et une gestion documentaire automatisée. En quoi la commission digitale diffère‑t‑elle de la traditionnelle, et quel impact pour les chargeurs? Ce guide compare les deux modèles et aide à choisir le bon partenaire.", "bold": false}]},
-    {"type": "image", "src": "digital-forwarding-visual.png", "alt": "Vue d'un tableau de bord de commission digitale avec devis instantané, suivi live et métriques carbone", "caption": "Le tableau de bord met en avant devis instantané, métriques d'émissions et paperasse automatisée."},
-    {"type": "heading", "level": 2, "text": "Le modèle historique: processus manuels et visibilité limitée"},
-    {"type": "paragraph", "children": [{"text": "La commission traditionnelle est née quand les documents voyageaient plus lentement que la marchandise. Réserver un conteneur impliquait souvent une chaîne d'e‑mails et d'appels avec courtiers, transporteurs et douane. Un devis pouvait prendre jusqu'à 100 heures, le temps de vérifier les tarifs et de préparer la paperasse. BL et déclarations par fax ou coursier engendraient erreurs et retards.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Ces workflows manuels ralentissent l'expérience client et alourdissent les coûts. Le BCG estime que l'automatisation peut réduire back‑office et opérations jusqu'à 40 %. Pourtant beaucoup d'acteurs restent sur l'e‑mail et les relais humains, et peu offrent le devis instantané. Sans intégration TMS/WMS/douane, les chargeurs ont peu de visibilité et réagissent tard aux aléas.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "*Légende: illustration en écran partagé opposant un bureau traditionnel encombré de papier et une salle de contrôle digitale avec tableaux de bord et workflows.*", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Commission digitale: plateformes, API et automatisation"},
-    {"type": "paragraph", "children": [{"text": "Les commissionnaires digitaux réinventent la commission comme un service piloté par logiciel. Plutôt que des silos, ils construisent des plateformes connectant chargeurs, transporteurs, douane et entrepôts. Fonctions clés:", "bold": false}]},
-    {"type": "list", "ordered": false, "items": [[{"text": "Devis et réservation instantanés", "bold": false}], [{"text": "Visibilité temps réel (capteurs IoT, intégrations transporteurs) avec ETA prédictives et alertes d'exception", "bold": false}], [{"text": "Documents automatisés (BL électroniques, déclarations, POD)", "bold": false}], [{"text": "Calcul des émissions et reporting carbone par expédition", "bold": false}], [{"text": "API ouvertes pour s'intégrer au TMS/WMS", "bold": false}]]},
-    {"type": "heading", "level": 2, "text": "Choisir le bon commissionnaire"},
-    {"type": "paragraph", "children": [{"text": "Critères à évaluer: capacités technologiques, portefeuille de services (douane, entrepôt, assurance), réseau et échelle, support client, durabilité (mesure/réduction des émissions, initiatives vertes), gouvernance des données (propriété, sécurité, conformité).", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Le choix n'est pas forcément binaire: beaucoup de chargeurs adoptent un modèle hybride – digital pour les flux standards, traditionnel pour le complexe. Des acteurs comme Logifie intègrent IA de routage et suivi live tout en gardant l'expertise humaine pour les cas particuliers.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Tendances à venir"},
-    {"type": "list", "ordered": false, "items": [[{"text": "IA et analytique prédictive pour la demande, le routage et la tarification dynamique", "bold": false}], [{"text": "Blockchain et documents numériques pour des échanges infalsifiables et des dédouanements accélérés", "bold": false}], [{"text": "IoT et conteneurs intelligents pour une donnée granulaire (position, température, chocs)", "bold": false}], [{"text": "Durabilité et transparence (CSRD) avec calculateurs carbone et choix de routes bas carbone", "bold": false}], [{"text": "Consolidation des plateformes et offre 'one‑stop‑shop' multimodale", "bold": false}]]},
-    {"type": "heading", "level": 2, "text": "Conclusion"},
-    {"type": "paragraph", "children": [{"text": "La commission digitale accélère les devis, donne de la visibilité et automatise la paperasse; la traditionnelle reste précieuse pour le sur‑mesure. La bonne combinaison dépend des marchandises, des lignes et des processus internes – souvent un modèle hybride est optimal.", "bold": false}]}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La commission de transport orchestre le mouvement des marchandises sur mer, à travers les frontières et en dernier kilomètre. Longtemps, elle a reposé sur appels, fax et tableurs. Les plateformes digitales proposent désormais des devis instantanés, un suivi temps réel et une gestion documentaire automatisée. En quoi la commission digitale diffère-t-elle de la traditionnelle, et quel impact pour les chargeurs? Ce guide compare les deux modèles et aide à choisir le bon partenaire.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "digital-forwarding-visual.png",
+      "alt": "Vue d'un tableau de bord de commission digitale avec devis instantané, suivi live et métriques carbone",
+      "caption": "Le tableau de bord met en avant devis instantané, métriques d'émissions et paperasse automatisée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le modèle historique: processus manuels et visibilité limitée"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La commission traditionnelle est née quand les documents voyageaient plus lentement que la marchandise. Réserver un conteneur impliquait souvent une chaîne d'e-mails et d'appels avec courtiers, transporteurs et douane. Un devis pouvait prendre jusqu'à 100 heures, le temps de vérifier les tarifs et de préparer la paperasse. BL et déclarations par fax ou coursier engendraient erreurs et retards.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ces workflows manuels ralentissent l'expérience client et alourdissent les coûts. Le BCG estime que l'automatisation peut réduire back-office et opérations jusqu'à 40 %. Pourtant beaucoup d'acteurs restent sur l'e-mail et les relais humains, et peu offrent le devis instantané. Sans intégration TMS/WMS/douane, les chargeurs ont peu de visibilité et réagissent tard aux aléas.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "*Légende: illustration en écran partagé opposant un bureau traditionnel encombré de papier et une salle de contrôle digitale avec tableaux de bord et workflows.*",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Commission digitale: plateformes, API et automatisation"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Les commissionnaires digitaux réinventent la commission comme un service piloté par logiciel. Plutôt que des silos, ils construisent des plateformes connectant chargeurs, transporteurs, douane et entrepôts. Fonctions clés:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Devis et réservation instantanés",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Visibilité temps réel (capteurs IoT, intégrations transporteurs) avec ETA prédictives et alertes d'exception",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Documents automatisés (BL électroniques, déclarations, POD)",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Calcul des émissions et reporting carbone par expédition",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "API ouvertes pour s'intégrer au TMS/WMS",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir le bon commissionnaire"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Critères à évaluer: capacités technologiques, portefeuille de services (douane, entrepôt, assurance), réseau et échelle, support client, durabilité (mesure/réduction des émissions, initiatives vertes), gouvernance des données (propriété, sécurité, conformité).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Le choix n'est pas forcément binaire: beaucoup de chargeurs adoptent un modèle hybride – digital pour les flux standards, traditionnel pour le complexe. Des acteurs comme Logifie intègrent IA de routage et suivi live tout en gardant l'expertise humaine pour les cas particuliers.",
+          "bold": false
+        }
+      ]
+    },
+    { "type": "heading", "level": 2, "text": "Tendances à venir" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "IA et analytique prédictive pour la demande, le routage et la tarification dynamique",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Blockchain et documents numériques pour des échanges infalsifiables et des dédouanements accélérés",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "IoT et conteneurs intelligents pour une donnée granulaire (position, température, chocs)",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Durabilité et transparence (CSRD) avec calculateurs carbone et choix de routes bas carbone",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Consolidation des plateformes et offre 'one-stop-shop' multimodale",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    { "type": "heading", "level": 2, "text": "Conclusion" },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La commission digitale accélère les devis, donne de la visibilité et automatise la paperasse; la traditionnelle reste précieuse pour le sur-mesure. La bonne combinaison dépend des marchandises, des lignes et des processus internes – souvent un modèle hybride est optimal.",
+          "bold": false
+        }
+      ]
+    }
   ],
   "tags": ["commission digitale", "technologie logistique"]
 }
-

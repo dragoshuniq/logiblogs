@@ -8,27 +8,181 @@
   "description": "La spedizione è al centro del commercio globale. Per decenni: telefonate, fax e fogli di calcolo. Oggi le piattaforme digitali promettono preventivi istantanei, tracking in tempo reale e documenti automatici. In cosa differisce la spedizione digitale e perché conta per i caricatori?...",
   "publishedAt": "2025-02-02T00:00:00Z",
   "category": "Tecnologia",
-  "author": {"name": "Logifie Team", "role": "Esperti di tecnologia logistica", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Esperti di tecnologia logistica",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "digital-forwarding-hero.png",
   "imageAlt": "Scena divisa: un ufficio tradizionale pieno di carta accanto a una sala di controllo digitale snella",
   "content": [
-    {"type": "paragraph", "children": [{"text": "La spedizione orchestr a i movimenti attraverso oceani, confini e ultimo miglio. Per anni si è basata su telefonate, fax e fogli Excel. Oggi piattaforme digitali offrono preventivi istantanei, tracciamento live e documentazione automatizzata. Come si differenzia lo spedizioniere digitale da quello tradizionale e perché conta? Questa guida confronta i modelli e aiuta a scegliere il partner giusto.", "bold": false}]},
-    {"type": "image", "src": "digital-forwarding-visual.png", "alt": "Dashboard di spedizione digitale con preventivi istantanei, tracking live e metriche di carbonio", "caption": "Il dashboard mette in evidenza preventivi immediati, metriche di emissioni e pratiche automatizzate."},
-    {"type": "heading", "level": 2, "text": "Il modello legacy: processi manuali e visibilità limitata"},
-    {"type": "paragraph", "children": [{"text": "La spedizione tradizionale nasce quando i documenti viaggiavano più lentamente della merce. Prenotare un container significava spesso catene di e‑mail e telefonate con broker, vettori e dogana. Un preventivo poteva richiedere fino a 100 ore per verifiche tariffarie e preparazione documenti. BL e dichiarazioni via fax/corriere portavano errori e ritardi.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "I workflow manuali rallentano l'esperienza e aumentano i costi. BCG stima fino al 40 % di riduzione dei costi back office/operations con l'automazione. Eppure molti operatori restano su e‑mail e passaggi manuali e pochi offrono preventivo istantaneo. Senza integrazione tra TMS, WMS e dogana, la visibilità è bassa e la reazione agli imprevisti tardiva.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "*Didascalia: illustrazione a schermo diviso con ufficio tradizionale ingombro di carta a sinistra e sala di controllo digitale con dashboard e workflow a destra.*", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Spedizione digitale: piattaforme, API e automazione"},
-    {"type": "paragraph", "children": [{"text": "Gli spedizionieri digitali ripensano la spedizione come servizio software‑driven. Costruiscono piattaforme che connettono caricatori, vettori, dogane e magazzini. Funzioni chiave:", "bold": false}]},
-    {"type": "list", "ordered": false, "items": [[{"text": "Preventivi e prenotazioni istantanei", "bold": false}], [{"text": "Visibilità real‑time con sensori IoT e integrazioni carrier (ETA predittive, alert)", "bold": false}], [{"text": "Documenti automatizzati (BL elettronico, dichiarazioni, POD)", "bold": false}], [{"text": "Calcolo delle emissioni e reporting per spedizione", "bold": false}], [{"text": "API aperte per integrare TMS/WMS e partner", "bold": false}]]},
-    {"type": "heading", "level": 2, "text": "Scegliere lo spedizioniere giusto"},
-    {"type": "paragraph", "children": [{"text": "Valutate: capacità tecnologica, portafoglio servizi (dogana, magazzino, assicurazioni), rete e scala, supporto clienti, sostenibilità (misurazione/riduzione emissioni) e governance dei dati (proprietà, sicurezza, compliance).", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "La scelta non è necessariamente aut‑aut: molti adottano un modello ibrido (digitale per flussi standard e tradizionale per spedizioni complesse). Fornitori come Logifie combinano IA di routing e tracking live con competenza umana per casi complessi.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Trend in arrivo"},
-    {"type": "list", "ordered": false, "items": [[{"text": "IA e analitica predittiva (domanda, routing, pricing dinamico)", "bold": false}], [{"text": "Blockchain e documenti digitali per scambi sicuri e sdoganamento più rapido", "bold": false}], [{"text": "IoT e container smart per dati dettagliati (posizione, temperatura, urti)", "bold": false}], [{"text": "Sostenibilità e trasparenza (CSRD): calcolatori CO2 e scelte di percorso low‑carbon", "bold": false}], [{"text": "Consolidamento di piattaforme e offerta one‑stop‑shop multimodale", "bold": false}]]},
-    {"type": "heading", "level": 2, "text": "Conclusione"},
-    {"type": "paragraph", "children": [{"text": "La spedizione digitale accelera preventivi, porta visibilità e automatizza la routine; la tradizionale resta preziosa per i casi complessi e l'assistenza dedicata. La scelta migliore dipende da merci, corridoi e processi interni; spesso vince l'approccio ibrido.", "bold": false}]}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La spedizione orchestr a i movimenti attraverso oceani, confini e ultimo miglio. Per anni si è basata su telefonate, fax e fogli Excel. Oggi piattaforme digitali offrono preventivi istantanei, tracciamento live e documentazione automatizzata. Come si differenzia lo spedizioniere digitale da quello tradizionale e perché conta? Questa guida confronta i modelli e aiuta a scegliere il partner giusto.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "digital-forwarding-visual.png",
+      "alt": "Dashboard di spedizione digitale con preventivi istantanei, tracking live e metriche di carbonio",
+      "caption": "Il dashboard mette in evidenza preventivi immediati, metriche di emissioni e pratiche automatizzate."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Il modello legacy: processi manuali e visibilità limitata"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La spedizione tradizionale nasce quando i documenti viaggiavano più lentamente della merce. Prenotare un container significava spesso catene di e-mail e telefonate con broker, vettori e dogana. Un preventivo poteva richiedere fino a 100 ore per verifiche tariffarie e preparazione documenti. BL e dichiarazioni via fax/corriere portavano errori e ritardi.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "I workflow manuali rallentano l'esperienza e aumentano i costi. BCG stima fino al 40 % di riduzione dei costi back office/operations con l'automazione. Eppure molti operatori restano su e-mail e passaggi manuali e pochi offrono preventivo istantaneo. Senza integrazione tra TMS, WMS e dogana, la visibilità è bassa e la reazione agli imprevisti tardiva.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "*Didascalia: illustrazione a schermo diviso con ufficio tradizionale ingombro di carta a sinistra e sala di controllo digitale con dashboard e workflow a destra.*",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Spedizione digitale: piattaforme, API e automazione"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Gli spedizionieri digitali ripensano la spedizione come servizio software-driven. Costruiscono piattaforme che connettono caricatori, vettori, dogane e magazzini. Funzioni chiave:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Preventivi e prenotazioni istantanei",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Visibilità real-time con sensori IoT e integrazioni carrier (ETA predittive, alert)",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Documenti automatizzati (BL elettronico, dichiarazioni, POD)",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Calcolo delle emissioni e reporting per spedizione",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "API aperte per integrare TMS/WMS e partner",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Scegliere lo spedizioniere giusto"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Valutate: capacità tecnologica, portafoglio servizi (dogana, magazzino, assicurazioni), rete e scala, supporto clienti, sostenibilità (misurazione/riduzione emissioni) e governance dei dati (proprietà, sicurezza, compliance).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La scelta non è necessariamente aut-aut: molti adottano un modello ibrido (digitale per flussi standard e tradizionale per spedizioni complesse). Fornitori come Logifie combinano IA di routing e tracking live con competenza umana per casi complessi.",
+          "bold": false
+        }
+      ]
+    },
+    { "type": "heading", "level": 2, "text": "Trend in arrivo" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "IA e analitica predittiva (domanda, routing, pricing dinamico)",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Blockchain e documenti digitali per scambi sicuri e sdoganamento più rapido",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "IoT e container smart per dati dettagliati (posizione, temperatura, urti)",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sostenibilità e trasparenza (CSRD): calcolatori CO2 e scelte di percorso low-carbon",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Consolidamento di piattaforme e offerta one-stop-shop multimodale",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    { "type": "heading", "level": 2, "text": "Conclusione" },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La spedizione digitale accelera preventivi, porta visibilità e automatizza la routine; la tradizionale resta preziosa per i casi complessi e l'assistenza dedicata. La scelta migliore dipende da merci, corridoi e processi interni; spesso vince l'approccio ibrido.",
+          "bold": false
+        }
+      ]
+    }
   ],
   "tags": ["spedizione digitale", "tecnologia logistica"]
 }
-

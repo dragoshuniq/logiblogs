@@ -86,7 +86,7 @@
         ],
         [
           {
-            "text": "Costuri de permis și formare: Obținerea permisului pentru vehicule grele și a CPC‑ului poate costa mii de euro. Un articol Trans.info menționează că în Polonia un permis de șofer de camion costă aproximativ 10.000 PLN (~2.340 EUR), iar costuri similare există și în alte țări. Fără subvenții, puțini tineri își permit formarea.",
+            "text": "Costuri de permis și formare: Obținerea permisului pentru vehicule grele și a CPC-ului poate costa mii de euro. Un articol Trans.info menționează că în Polonia un permis de șofer de camion costă aproximativ 10.000 PLN (~2.340 EUR), iar costuri similare există și în alte țări. Fără subvenții, puțini tineri își permit formarea.",
             "bold": false
           }
         ],
@@ -147,7 +147,7 @@
         ],
         [
           {
-            "text": "Investiții în automatizare și intermodal: Deși automatizarea nu va înlocui rapid șoferii, tehnologii precum încărcarea automată la rampă, sistemele de asistență a șoferului și platooning‑ul de camioane pot crește productivitatea. Transportul intermodal reduce numărul de curse lungi, diminuând presiunea asupra șoferilor.",
+            "text": "Investiții în automatizare și intermodal: Deși automatizarea nu va înlocui rapid șoferii, tehnologii precum încărcarea automată la rampă, sistemele de asistență a șoferului și platooning-ul de camioane pot crește productivitatea. Transportul intermodal reduce numărul de curse lungi, diminuând presiunea asupra șoferilor.",
             "bold": false
           }
         ],
@@ -192,7 +192,7 @@
     },
     {
       "type": "citation",
-      "text": "Driver shortage leaves fleets idle and costs increase for system (Trans.info, 2025) - Evidențiază faptul că deficitul de șoferi din Europa se apropie de 500.000; menționează costurile ridicate ale permisului (~2.340 EUR) și prezintă schema de vouchere a Italiei, care acoperă până la 80 % din costurile de formare; sugerează că transportul intermodal poate înlocui 30–40 de semiremorci printr‑un singur tren.",
+      "text": "Driver shortage leaves fleets idle and costs increase for system (Trans.info, 2025) - Evidențiază faptul că deficitul de șoferi din Europa se apropie de 500.000; menționează costurile ridicate ale permisului (~2.340 EUR) și prezintă schema de vouchere a Italiei, care acoperă până la 80 % din costurile de formare; sugerează că transportul intermodal poate înlocui 30–40 de semiremorci printr-un singur tren.",
       "author": "Trans.info",
       "url": "https://trans.info/en/driver-shortage-idle-fleets-421938"
     }
@@ -207,4 +207,3 @@
     "forța de muncă în transporturi"
   ]
 }
-

@@ -8,68 +8,278 @@
   "description": "Ved planlegging av vegtransport i Europa velger du mellom fullt kjøretøy eller delt kapasitet. FTL og groupage/LTL har ulike kostnader, ledetider og risiko.",
   "publishedAt": "2024-12-01T00:00:00Z",
   "category": "Transport",
-  "author": { "name": "Logifie Team", "role": "Eksperter på logistikkteknologi", "avatar": "/logos/slogo.png" },
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperter på logistikkteknologi",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "ftv-groupage.png",
-  "imageAlt": "Sammenligning side om side av en dedikert FTL‑bil og en groupage‑tralle med flere paller",
+  "imageAlt": "Sammenligning side om side av en dedikert FTL-bil og en groupage-tralle med flere paller",
   "content": [
-    { "type": "paragraph", "children": [ { "text": "Ved planlegging av vegtransporter i Europa må avsendere velge om de skal bestille et helt kjøretøy eller dele plass. Full Truck Load (FTL) og groupage/less‑than‑truckload (LTL) er to modeller med ulike kostnadsstrukturer, ledetider og risikoprofiler. Å forstå kompromissene hjelper deg å velge riktig løsning per sending.", "bold": false } ] },
-    { "type": "image", "src": "warehouse.png", "alt": "Lagerteam plastretter og surrer paller før lasting til en groupage‑sending", "caption": "Operasjonsteam konsoliderer paller fra flere kunder på én port før en groupage‑tur." },
-    { "type": "heading", "level": 2, "text": "Hva er Full Truck Load (FTL)?" },
-    { "type": "paragraph", "children": [ { "text": "En FTL‑sending fyller hele tilhengeren eller bilen. Kjøretøyet frakter én kundes gods uten konsolidering. FTL er ideelt for store volum, høy verdi eller tidskritiske leveranser fordi:", "bold": false } ] },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "Raskere ledetider: bilen går direkte til destinasjon uten stopp for (de)konsolidering. Varebiler opp til 7,5 tonn leverer neste dag opp til 550 km, 550–1 300 km innen 2 dager og >1 500 km på 3–4 dager (Visline Sp. z o.o., 2024).", "bold": false } ],
-      [ { "text": "Mindre håndtering: lastes og losses én gang – lavere skaderisiko.", "bold": false } ],
-      [ { "text": "Sikkerhet: kun én avsenders last om bord reduserer risiko for tap/forurensing.", "bold": false } ]
-    ] },
-    { "type": "paragraph", "children": [ { "text": "FTL er likevel dyrere per kilometer, siden hele kjøretøyet betales uansett fyllingsgrad. For små parti som ikke fyller tilhenger, kan FTL være lite effektivt.", "bold": false } ] },
-    { "type": "heading", "level": 2, "text": "Hva er groupage (LTL)?" },
-    { "type": "paragraph", "children": [ { "text": "Groupage/LTL samler flere små sendinger fra ulike avsendere i én bil. Hver kunde betaler for plassen lasten opptar. Brukes ofte for sendinger < 2 500 kg (FERCAM S.p.A., 2024). Fordeler:", "bold": false } ] },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "Lavere kostnad: delt kapasitet senker kostnad per pall/kg ved å fordele totalen på flere avsendere.", "bold": false } ],
-      [ { "text": "Bærekraft: konsolidering reduserer tomkjøring og øker utnyttelse – lavere utslipp.", "bold": false } ]
-    ] },
-    { "type": "paragraph", "children": [ { "text": "Ulempen er lengre ledetid og mer håndtering. Groupage‑biler stopper på huber for lasting/lossing. Ifølge Visline tar dellaster ofte 3–6 dager uavhengig av avstand (Visline Sp. z o.o., 2024). Ekstra håndtering øker skaderisiko – korrekt emballering og pallering er avgjørende.", "bold": false } ] },
-    { "type": "heading", "level": 2, "text": "Når velge groupage og når FTL" },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ved planlegging av vegtransporter i Europa må avsendere velge om de skal bestille et helt kjøretøy eller dele plass. Full Truck Load (FTL) og groupage/less-than-truckload (LTL) er to modeller med ulike kostnadsstrukturer, ledetider og risikoprofiler. Å forstå kompromissene hjelper deg å velge riktig løsning per sending.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "warehouse.png",
+      "alt": "Lagerteam plastretter og surrer paller før lasting til en groupage-sending",
+      "caption": "Operasjonsteam konsoliderer paller fra flere kunder på én port før en groupage-tur."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hva er Full Truck Load (FTL)?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "En FTL-sending fyller hele tilhengeren eller bilen. Kjøretøyet frakter én kundes gods uten konsolidering. FTL er ideelt for store volum, høy verdi eller tidskritiske leveranser fordi:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Raskere ledetider: bilen går direkte til destinasjon uten stopp for (de)konsolidering. Varebiler opp til 7,5 tonn leverer neste dag opp til 550 km, 550–1 300 km innen 2 dager og >1 500 km på 3–4 dager (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Mindre håndtering: lastes og losses én gang – lavere skaderisiko.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sikkerhet: kun én avsenders last om bord reduserer risiko for tap/forurensing.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "FTL er likevel dyrere per kilometer, siden hele kjøretøyet betales uansett fyllingsgrad. For små parti som ikke fyller tilhenger, kan FTL være lite effektivt.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hva er groupage (LTL)?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Groupage/LTL samler flere små sendinger fra ulike avsendere i én bil. Hver kunde betaler for plassen lasten opptar. Brukes ofte for sendinger < 2 500 kg (FERCAM S.p.A., 2024). Fordeler:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Lavere kostnad: delt kapasitet senker kostnad per pall/kg ved å fordele totalen på flere avsendere.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Bærekraft: konsolidering reduserer tomkjøring og øker utnyttelse – lavere utslipp.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ulempen er lengre ledetid og mer håndtering. Groupage-biler stopper på huber for lasting/lossing. Ifølge Visline tar dellaster ofte 3–6 dager uavhengig av avstand (Visline Sp. z o.o., 2024). Ekstra håndtering øker skaderisiko – korrekt emballering og pallering er avgjørende.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Når velge groupage og når FTL"
+    },
     { "type": "heading", "level": 3, "text": "Velg FTL når:" },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "Volum ~10–13 paller eller mer, eller vekt > ~2,5 tonn.", "bold": false } ],
-      [ { "text": "Gods med høy verdi, skjørhet eller tidskritikk.", "bold": false } ],
-      [ { "text": "Direkte levering med minimal håndtering er kritisk.", "bold": false } ],
-      [ { "text": "Sikkerhet/konfidensialitet er prioritert.", "bold": false } ]
-    ] },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Volum ~10–13 paller eller mer, eller vekt > ~2,5 tonn.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Gods med høy verdi, skjørhet eller tidskritikk.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Direkte levering med minimal håndtering er kritisk.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sikkerhet/konfidensialitet er prioritert.",
+            "bold": false
+          }
+        ]
+      ]
+    },
     { "type": "heading", "level": 3, "text": "Velg groupage når:" },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "Du sender få paller/pakker – fullt kjøretøy er ikke lønnsomt.", "bold": false } ],
-      [ { "text": "Kostnadsbesparelse er viktigere enn hastighet.", "bold": false } ],
-      [ { "text": "Fleksibilitet i ledetid er akseptabel.", "bold": false } ],
-      [ { "text": "Bærekraft og lavere karbonavtrykk er prioritert.", "bold": false } ]
-    ] },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Du sender få paller/pakker – fullt kjøretøy er ikke lønnsomt.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kostnadsbesparelse er viktigere enn hastighet.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Fleksibilitet i ledetid er akseptabel.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Bærekraft og lavere karbonavtrykk er prioritert.",
+            "bold": false
+          }
+        ]
+      ]
+    },
     { "type": "heading", "level": 2, "text": "Hybridløsninger" },
-    { "type": "paragraph", "children": [ { "text": "Noen tilbydere har dellast eller LTL–FTL‑hybrider: bilen kan ta to–tre dellaster og balansere kost og tid. Godt kompromiss når sendingen er for stor for pakker, for liten for dedikert bil.", "bold": false } ] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Noen tilbydere har dellast eller LTL–FTL-hybrider: bilen kan ta to–tre dellaster og balansere kost og tid. Godt kompromiss når sendingen er for stor for pakker, for liten for dedikert bil.",
+          "bold": false
+        }
+      ]
+    },
     { "type": "heading", "level": 2, "text": "Faktorer å vurdere" },
-    { "type": "list", "ordered": true, "items": [
-      [ { "text": "Vekt og volum: sammenlign FTL kontra groupage‑kost for din last.", "bold": false } ],
-      [ { "text": "Hastverk: om hastighet er kritisk, kan FTL forsvare merkostnaden.", "bold": false } ],
-      [ { "text": "Verdi og skjørhet: verdifullt/ømtålig gods kan kreve FTL‑sikkerhet.", "bold": false } ],
-      [ { "text": "Budsjett: små bedrifter velger ofte groupage for å fordele kostnaden.", "bold": false } ],
-      [ { "text": "Miljømål: konsolidering reduserer tomkilometer og utslipp.", "bold": false } ],
-      [ { "text": "Sesong/kapasitet: i høysesong er FTL knapp/dyr; groupage kan være mer fleksibel.", "bold": false } ]
-    ] },
-    { "type": "heading", "level": 2, "text": "Konklusjon: match modus med oppdrag" },
-    { "type": "paragraph", "children": [ { "text": "Valg mellom FTL og groupage handler om mer enn pris. FTL gir fart, sikkerhet og enkelhet – til høyere kost; groupage maksimerer effektivitet og kutter utslipp – mot lengre ledetid. Vurder størrelse, verdi, timing og bærekraftsmål for hver sending. En speditør som Logifie kan anbefale beste alternativ og ordne hybride løsninger ved behov.", "bold": false } ] },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Vekt og volum: sammenlign FTL kontra groupage-kost for din last.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Hastverk: om hastighet er kritisk, kan FTL forsvare merkostnaden.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Verdi og skjørhet: verdifullt/ømtålig gods kan kreve FTL-sikkerhet.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Budsjett: små bedrifter velger ofte groupage for å fordele kostnaden.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Miljømål: konsolidering reduserer tomkilometer og utslipp.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sesong/kapasitet: i høysesong er FTL knapp/dyr; groupage kan være mer fleksibel.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Konklusjon: match modus med oppdrag"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Valg mellom FTL og groupage handler om mer enn pris. FTL gir fart, sikkerhet og enkelhet – til høyere kost; groupage maksimerer effektivitet og kutter utslipp – mot lengre ledetid. Vurder størrelse, verdi, timing og bærekraftsmål for hver sending. En speditør som Logifie kan anbefale beste alternativ og ordne hybride løsninger ved behov.",
+          "bold": false
+        }
+      ]
+    },
     { "type": "heading", "level": 3, "text": "Kilder" },
-    { "type": "citation", "text": "European road freight options explained (Uniserve Group, 2025) - Definerer FTL og LTL/groupage: FTL bruker hele kjøretøyet (raskere, mindre håndtering); groupage konsoliderer mindre parti for lavere kost, men lengre tid.", "author": "Uniserve Group", "url": "https://uniserve.co.uk/european-road-freight-options" },
-    { "type": "citation", "text": "FTL, LTL and groupage: definitions and differences (FERCAM S.p.A., 2024) - Oppgir at groupage‑sendinger vanligvis veier opptil 2 500 kg og konsolideres i huber — lengre levering, lavere kost.", "author": "FERCAM S.p.A.", "url": "https://www.fercam.com/en/ftl-ltl-groupage/" },
-    { "type": "citation", "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Angir FTL‑tider (≤ 550 km 1 dag, 550–1 300 km 2 dager, >1 500 km 3–4 dager) og 3–6 dager for dellaster.", "author": "Visline Sp. z o.o.", "url": "https://visline.com/en/how-to-calculate-transit-time-europe/" }
+    {
+      "type": "citation",
+      "text": "European road freight options explained (Uniserve Group, 2025) - Definerer FTL og LTL/groupage: FTL bruker hele kjøretøyet (raskere, mindre håndtering); groupage konsoliderer mindre parti for lavere kost, men lengre tid.",
+      "author": "Uniserve Group",
+      "url": "https://uniserve.co.uk/european-road-freight-options"
+    },
+    {
+      "type": "citation",
+      "text": "FTL, LTL and groupage: definitions and differences (FERCAM S.p.A., 2024) - Oppgir at groupage-sendinger vanligvis veier opptil 2 500 kg og konsolideres i huber — lengre levering, lavere kost.",
+      "author": "FERCAM S.p.A.",
+      "url": "https://www.fercam.com/en/ftl-ltl-groupage/"
+    },
+    {
+      "type": "citation",
+      "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Angir FTL-tider (≤ 550 km 1 dag, 550–1 300 km 2 dager, >1 500 km 3–4 dager) og 3–6 dager for dellaster.",
+      "author": "Visline Sp. z o.o.",
+      "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"
+    }
   ],
   "tags": [
     "groupage vs full bil",
     "LTL vs FTL",
     "groupage europa",
-    "groupage‑tjenester europa",
+    "groupage-tjenester europa",
     "konsolidering vegtransport",
     "ftl transport europa",
     "når bruke groupage"
   ]
 }
-

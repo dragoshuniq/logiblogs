@@ -8,59 +8,274 @@
   "description": "Ao planear transporte rodoviário na Europa, importa decidir entre camião completo ou capacidade partilhada. FTL e groupage/LTL têm custos, prazos e riscos diferentes.",
   "publishedAt": "2024-12-01T00:00:00Z",
   "category": "Transporte",
-  "author": { "name": "Logifie Team", "role": "Especialistas em tecnologia logística", "avatar": "/logos/slogo.png" },
+  "author": {
+    "name": "Logifie Team",
+    "role": "Especialistas em tecnologia logística",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "ftv-groupage.png",
   "imageAlt": "Comparação lado a lado de um camião FTL dedicado e um atrelado de groupage com várias paletes",
   "content": [
-    { "type": "paragraph", "children": [ { "text": "Ao planear transporte rodoviário na Europa, os expedidores escolhem entre reservar um camião completo ou partilhar capacidade. Full Truck Load (FTL) e groupage/less‑than‑truckload (LTL) são modelos distintos com estruturas de custo, tempos de trânsito e perfis de risco diferentes. Compreender os trade‑offs ajuda a selecionar a melhor solução para cada envio.", "bold": false } ] },
-    { "type": "image", "src": "warehouse.png", "alt": "Equipa de armazém envolve e cinta paletes antes de as carregar para um envio em groupage", "caption": "A equipa de operações consolida paletes de vários clientes no mesmo cais antes de uma saída em groupage." },
-    { "type": "heading", "level": 2, "text": "O que é Full Truck Load (FTL)?" },
-    { "type": "paragraph", "children": [ { "text": "Um envio FTL ocupa todo o atrelado ou camião. O veículo transporta mercadoria de um único cliente, sem consolidação. O FTL é indicado para grandes volumes, mercadoria de alto valor ou entregas urgentes porque:", "bold": false } ] },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "Trânsitos mais rápidos: o camião segue direto ao destino, sem paragens para (des)consolidação. Viaturas até 7,5 t entregam no dia seguinte até 550 km, em 2 dias entre 550–1.300 km e em 3–4 dias distâncias maiores (Visline Sp. z o.o., 2024).", "bold": false } ],
-      [ { "text": "Menos manuseio: uma única carga e descarga – menor risco de danos.", "bold": false } ],
-      [ { "text": "Segurança: por transportar mercadoria de um único expedidor, reduz‑se o risco de perda ou contaminação.", "bold": false } ]
-    ] },
-    { "type": "paragraph", "children": [ { "text": "Por outro lado, o FTL é mais caro por quilómetro, pois o expedidor paga o veículo completo, independentemente da taxa de ocupação. Para lotes pequenos que não enchem o atrelado, o FTL pode ser ineficiente.", "bold": false } ] },
-    { "type": "heading", "level": 2, "text": "O que é groupage (LTL)?" },
-    { "type": "paragraph", "children": [ { "text": "O groupage/LTL combina vários pequenos envios de diferentes expedidores num único camião. Cada cliente paga o espaço ocupado. Usa‑se frequentemente para envios < 2.500 kg (FERCAM S.p.A., 2024). Vantagens:", "bold": false } ] },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "Custo inferior: capacidade partilhada baixa o custo por palete/kg ao distribuir a despesa por vários expedidores.", "bold": false } ],
-      [ { "text": "Sustentabilidade: consolidar reduz espaço vazio e melhora a utilização do veículo, cortando emissões.", "bold": false } ]
-    ] },
-    { "type": "paragraph", "children": [ { "text": "O compromisso são prazos mais longos e mais manuseio. Viaturas de groupage param em hubs para carga/descarga. Segundo a Visline, cargas parciais demoram muitas vezes 3–6 dias, independentemente da distância (Visline Sp. z o.o., 2024). Mais manuseio aumenta o risco de danos: embalagem e paletização corretas são críticas.", "bold": false } ] },
-    { "type": "heading", "level": 2, "text": "Quando usar groupage e quando FTL" },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ao planear transporte rodoviário na Europa, os expedidores escolhem entre reservar um camião completo ou partilhar capacidade. Full Truck Load (FTL) e groupage/less-than-truckload (LTL) são modelos distintos com estruturas de custo, tempos de trânsito e perfis de risco diferentes. Compreender os trade-offs ajuda a selecionar a melhor solução para cada envio.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "warehouse.png",
+      "alt": "Equipa de armazém envolve e cinta paletes antes de as carregar para um envio em groupage",
+      "caption": "A equipa de operações consolida paletes de vários clientes no mesmo cais antes de uma saída em groupage."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "O que é Full Truck Load (FTL)?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Um envio FTL ocupa todo o atrelado ou camião. O veículo transporta mercadoria de um único cliente, sem consolidação. O FTL é indicado para grandes volumes, mercadoria de alto valor ou entregas urgentes porque:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Trânsitos mais rápidos: o camião segue direto ao destino, sem paragens para (des)consolidação. Viaturas até 7,5 t entregam no dia seguinte até 550 km, em 2 dias entre 550–1.300 km e em 3–4 dias distâncias maiores (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Menos manuseio: uma única carga e descarga – menor risco de danos.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Segurança: por transportar mercadoria de um único expedidor, reduz-se o risco de perda ou contaminação.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Por outro lado, o FTL é mais caro por quilómetro, pois o expedidor paga o veículo completo, independentemente da taxa de ocupação. Para lotes pequenos que não enchem o atrelado, o FTL pode ser ineficiente.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "O que é groupage (LTL)?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "O groupage/LTL combina vários pequenos envios de diferentes expedidores num único camião. Cada cliente paga o espaço ocupado. Usa-se frequentemente para envios < 2.500 kg (FERCAM S.p.A., 2024). Vantagens:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Custo inferior: capacidade partilhada baixa o custo por palete/kg ao distribuir a despesa por vários expedidores.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sustentabilidade: consolidar reduz espaço vazio e melhora a utilização do veículo, cortando emissões.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "O compromisso são prazos mais longos e mais manuseio. Viaturas de groupage param em hubs para carga/descarga. Segundo a Visline, cargas parciais demoram muitas vezes 3–6 dias, independentemente da distância (Visline Sp. z o.o., 2024). Mais manuseio aumenta o risco de danos: embalagem e paletização corretas são críticas.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quando usar groupage e quando FTL"
+    },
     { "type": "heading", "level": 3, "text": "Escolha FTL quando:" },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "O volume aproxima‑se de 10–13 paletes ou excede esse valor ou o peso > ~2,5 t.", "bold": false } ],
-      [ { "text": "A mercadoria é de alto valor, frágil ou sensível ao tempo.", "bold": false } ],
-      [ { "text": "É crítica a entrega direta com manuseio mínimo.", "bold": false } ],
-      [ { "text": "A segurança/confidencialidade é prioritária.", "bold": false } ]
-    ] },
-    { "type": "heading", "level": 3, "text": "Escolha groupage quando:" },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "Expede poucas paletes/encomendas – um camião completo não se justifica.", "bold": false } ],
-      [ { "text": "A poupança é mais importante do que a velocidade.", "bold": false } ],
-      [ { "text": "A flexibilidade de prazo é aceitável.", "bold": false } ],
-      [ { "text": "A sustentabilidade e a redução da pegada de carbono são prioridade.", "bold": false } ]
-    ] },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "O volume aproxima-se de 10–13 paletes ou excede esse valor ou o peso > ~2,5 t.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "A mercadoria é de alto valor, frágil ou sensível ao tempo.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "É crítica a entrega direta com manuseio mínimo.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "A segurança/confidencialidade é prioritária.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Escolha groupage quando:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Expede poucas paletes/encomendas – um camião completo não se justifica.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "A poupança é mais importante do que a velocidade.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "A flexibilidade de prazo é aceitável.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "A sustentabilidade e a redução da pegada de carbono são prioridade.",
+            "bold": false
+          }
+        ]
+      ]
+    },
     { "type": "heading", "level": 2, "text": "Opções híbridas" },
-    { "type": "paragraph", "children": [ { "text": "Alguns operadores oferecem carga parcial ou híbridos LTL–FTL: o camião pode levar duas ou três cargas parciais, equilibrando custo e rapidez. É um bom compromisso quando o envio é demasiado grande para paqueteria mas pequeno para veículo dedicado.", "bold": false } ] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Alguns operadores oferecem carga parcial ou híbridos LTL–FTL: o camião pode levar duas ou três cargas parciais, equilibrando custo e rapidez. É um bom compromisso quando o envio é demasiado grande para paqueteria mas pequeno para veículo dedicado.",
+          "bold": false
+        }
+      ]
+    },
     { "type": "heading", "level": 2, "text": "Fatores a considerar" },
-    { "type": "list", "ordered": true, "items": [
-      [ { "text": "Peso e volume: compare custo FTL vs groupage para a sua dimensão de carga.", "bold": false } ],
-      [ { "text": "Urgência: se a velocidade é crítica, FTL pode justificar o custo adicional.", "bold": false } ],
-      [ { "text": "Valor e fragilidade: bens valiosos/delicados podem justificar a segurança extra do FTL.", "bold": false } ],
-      [ { "text": "Orçamento: PME com orçamentos apertados escolhem groupage para diluir custos.", "bold": false } ],
-      [ { "text": "Objetivos ambientais: a consolidação reduz quilómetros em vazio e emissões.", "bold": false } ],
-      [ { "text": "Sazonalidade/capacidade: em picos, FTL é escasso/caro; groupage oferece mais flexibilidade.", "bold": false } ]
-    ] },
-    { "type": "heading", "level": 2, "text": "Conclusão: alinhar o modo à missão" },
-    { "type": "paragraph", "children": [ { "text": "A escolha entre FTL e groupage vai além do preço. FTL oferece rapidez, segurança e simplicidade — a um custo superior; o groupage maximiza eficiência e baixa emissões — com prazos mais longos. Avalie dimensão, valor, timing e objetivos de sustentabilidade de cada envio. Um transitário como a Logifie pode aconselhar a melhor opção e organizar híbridos quando fizer sentido.", "bold": false } ] },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Peso e volume: compare custo FTL vs groupage para a sua dimensão de carga.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Urgência: se a velocidade é crítica, FTL pode justificar o custo adicional.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Valor e fragilidade: bens valiosos/delicados podem justificar a segurança extra do FTL.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Orçamento: PME com orçamentos apertados escolhem groupage para diluir custos.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Objetivos ambientais: a consolidação reduz quilómetros em vazio e emissões.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sazonalidade/capacidade: em picos, FTL é escasso/caro; groupage oferece mais flexibilidade.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusão: alinhar o modo à missão"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A escolha entre FTL e groupage vai além do preço. FTL oferece rapidez, segurança e simplicidade — a um custo superior; o groupage maximiza eficiência e baixa emissões — com prazos mais longos. Avalie dimensão, valor, timing e objetivos de sustentabilidade de cada envio. Um transitário como a Logifie pode aconselhar a melhor opção e organizar híbridos quando fizer sentido.",
+          "bold": false
+        }
+      ]
+    },
     { "type": "heading", "level": 3, "text": "Fontes" },
-    { "type": "citation", "text": "European road freight options explained (Uniserve Group, 2025) - Define FTL e LTL/groupage: FTL usa o veículo inteiro (prazos curtos, menos manuseio); o groupage consolida para reduzir custos, com prazos mais longos.", "author": "Uniserve Group", "url": "https://uniserve.co.uk/european-road-freight-options" },
-    { "type": "citation", "text": "FTL, LTL and groupage: definitions and differences (FERCAM S.p.A., 2024) - Aponta que envios groupage pesam normalmente até 2.500 kg e são consolidados em hubs — prazos mais longos, custo mais baixo.", "author": "FERCAM S.p.A.", "url": "https://www.fercam.com/en/ftl-ltl-groupage/" },
-    { "type": "citation", "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Estimativas FTL (≤ 550 km em 1 dia, 550–1.300 km em 2 dias, >1.500 km em 3–4 dias) e 3–6 dias para cargas parciais.", "author": "Visline Sp. z o.o.", "url": "https://visline.com/en/how-to-calculate-transit-time-europe/" }
+    {
+      "type": "citation",
+      "text": "European road freight options explained (Uniserve Group, 2025) - Define FTL e LTL/groupage: FTL usa o veículo inteiro (prazos curtos, menos manuseio); o groupage consolida para reduzir custos, com prazos mais longos.",
+      "author": "Uniserve Group",
+      "url": "https://uniserve.co.uk/european-road-freight-options"
+    },
+    {
+      "type": "citation",
+      "text": "FTL, LTL and groupage: definitions and differences (FERCAM S.p.A., 2024) - Aponta que envios groupage pesam normalmente até 2.500 kg e são consolidados em hubs — prazos mais longos, custo mais baixo.",
+      "author": "FERCAM S.p.A.",
+      "url": "https://www.fercam.com/en/ftl-ltl-groupage/"
+    },
+    {
+      "type": "citation",
+      "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Estimativas FTL (≤ 550 km em 1 dia, 550–1.300 km em 2 dias, >1.500 km em 3–4 dias) e 3–6 dias para cargas parciais.",
+      "author": "Visline Sp. z o.o.",
+      "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"
+    }
   ],
   "tags": [
     "groupage vs camião completo",
@@ -72,4 +287,3 @@
     "quando usar groupage"
   ]
 }
-

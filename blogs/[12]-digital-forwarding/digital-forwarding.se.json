@@ -8,27 +8,167 @@
   "description": "Spedition är kärnan i global handel. I decennier: telefon, fax och kalkylblad. Idag lovar digitala plattformar direktofferter, spårning i realtid och automatiserade dokument. Hur skiljer sig digital spedition och varför spelar det roll för avsändare?...",
   "publishedAt": "2025-02-02T00:00:00Z",
   "category": "Teknik",
-  "author": {"name": "Logifie Team", "role": "Experter på logistikteknik", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experter på logistikteknik",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "digital-forwarding-hero.png",
   "imageAlt": "Delad scen: pappersintensivt traditionellt kontor bredvid en strömlinjeformad digital kontrollrumsmiljö",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Speditörer orkestrerar varuflöden över hav, gränser och sista milen. Under lång tid byggde arbetet på samtal, fax och kalkylblad. Nu erbjuder digitala plattformar direktofferter, spårning i realtid och automatiserad dokumenthantering. Hur skiljer sig digitala speditörer från traditionella och varför är det viktigt? Den här artikeln jämför modellerna och ger urvalskriterier.", "bold": false}]},
-    {"type": "image", "src": "digital-forwarding-visual.png", "alt": "Instrumentpanel för digital spedition med direktofferter, livespårning och koldioxidmetrik", "caption": "Den digitala speditionens panel lyfter fram direktofferter, utsläppsmetrik och automatiserade dokument."},
-    {"type": "heading", "level": 2, "text": "Legacy‑modellen: manuella processer och begränsad sikt"},
-    {"type": "paragraph", "children": [{"text": "Den traditionella modellen växte fram när dokument färdades långsammare än godset. En bokning innebar ofta mejltrådar och samtal med mäklare, transportörer och tull. En offert kunde ta upp till 100 timmar på grund av manuell tariffkontroll och pappersarbete. BL och tulldokument via fax/bud skapade fel och förseningar.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Manuella flöden bromsar kundupplevelsen och driver kostnader. BCG uppskattar att automatisering kan sänka backoffice/operations med upp till 40 %. Ändå är e‑post och handöverföringar utbrett, och få erbjuder direktofferter. Brist på TMS/WMS/tull‑integration ger svag sikt; vid avvikelser agerar man sent.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "*Bildtext: split‑screen som jämför ett pappersintensivt traditionellt kontor med ett digitalt kontrollrum med instrumentpaneler och automatiserade arbetsflöden.*", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Digital spedition: plattformar, API:er och automation"},
-    {"type": "paragraph", "children": [{"text": "Digitala speditörer tänker spedition som en mjukvarutjänst. De bygger plattformar som kopplar samman avsändare, transportörer, tull och lager. Nyckelfunktioner:", "bold": false}]},
-    {"type": "list", "ordered": false, "items": [[{"text": "Direktofferter och bokning", "bold": false}], [{"text": "Sikt i realtid: IoT och transportörintegration för kartspårning, ETA och avvikelsevarningar", "bold": false}], [{"text": "Automatiserade dokument: e‑BL, tulldeklarationer och POD", "bold": false}], [{"text": "CO2‑beräkning per sändning", "bold": false}], [{"text": "Öppna API:er för TMS/WMS‑integration", "bold": false}]]},
-    {"type": "heading", "level": 2, "text": "Välj rätt speditör"},
-    {"type": "paragraph", "children": [{"text": "Bedöm teknik, tjänsteportfölj (tull, lager, försäkring), nätverk och skala, kundsupport, hållbarhet (mätning/minskning av utsläpp) samt datastyrning (ägande, säkerhet, regelefterlevnad).", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Valet är sällan binärt: många använder en hybrid – digitalt för standardflöden och traditionellt för komplexa. Aktörer som Logifie kombinerar AI‑ruttning och livespårning med mänsklig expertis för svåra ärenden.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Trender"},
-    {"type": "list", "ordered": false, "items": [[{"text": "AI och prediktiv analys (efterfrågan, ruttning, dynamisk prissättning)", "bold": false}], [{"text": "Blockchain och digitala dokument för säkra utbyten och snabbare tull", "bold": false}], [{"text": "IoT och smarta containrar (position, temperatur, stötar)", "bold": false}], [{"text": "Hållbarhet/transparens (CSRD) med koldioxidkalkylatorer och ruttval", "bold": false}], [{"text": "Plattformskonsolidering och multimodala one‑stop‑shop", "bold": false}]]},
-    {"type": "heading", "level": 2, "text": "Slutsats"},
-    {"type": "paragraph", "children": [{"text": "Digital spedition snabbar upp offerter, ger transparens och automatiserar rutin; traditionell spedition är stark i komplexa case och personligt stöd. Den bästa kombinationen beror på gods, stråk och processer – ofta är en hybridlösning bäst.", "bold": false}]}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Speditörer orkestrerar varuflöden över hav, gränser och sista milen. Under lång tid byggde arbetet på samtal, fax och kalkylblad. Nu erbjuder digitala plattformar direktofferter, spårning i realtid och automatiserad dokumenthantering. Hur skiljer sig digitala speditörer från traditionella och varför är det viktigt? Den här artikeln jämför modellerna och ger urvalskriterier.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "digital-forwarding-visual.png",
+      "alt": "Instrumentpanel för digital spedition med direktofferter, livespårning och koldioxidmetrik",
+      "caption": "Den digitala speditionens panel lyfter fram direktofferter, utsläppsmetrik och automatiserade dokument."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Legacy-modellen: manuella processer och begränsad sikt"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Den traditionella modellen växte fram när dokument färdades långsammare än godset. En bokning innebar ofta mejltrådar och samtal med mäklare, transportörer och tull. En offert kunde ta upp till 100 timmar på grund av manuell tariffkontroll och pappersarbete. BL och tulldokument via fax/bud skapade fel och förseningar.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Manuella flöden bromsar kundupplevelsen och driver kostnader. BCG uppskattar att automatisering kan sänka backoffice/operations med upp till 40 %. Ändå är e-post och handöverföringar utbrett, och få erbjuder direktofferter. Brist på TMS/WMS/tull-integration ger svag sikt; vid avvikelser agerar man sent.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "*Bildtext: split-screen som jämför ett pappersintensivt traditionellt kontor med ett digitalt kontrollrum med instrumentpaneler och automatiserade arbetsflöden.*",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Digital spedition: plattformar, API:er och automation"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Digitala speditörer tänker spedition som en mjukvarutjänst. De bygger plattformar som kopplar samman avsändare, transportörer, tull och lager. Nyckelfunktioner:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [{ "text": "Direktofferter och bokning", "bold": false }],
+        [
+          {
+            "text": "Sikt i realtid: IoT och transportörintegration för kartspårning, ETA och avvikelsevarningar",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Automatiserade dokument: e-BL, tulldeklarationer och POD",
+            "bold": false
+          }
+        ],
+        [{ "text": "CO2-beräkning per sändning", "bold": false }],
+        [
+          {
+            "text": "Öppna API:er för TMS/WMS-integration",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    { "type": "heading", "level": 2, "text": "Välj rätt speditör" },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Bedöm teknik, tjänsteportfölj (tull, lager, försäkring), nätverk och skala, kundsupport, hållbarhet (mätning/minskning av utsläpp) samt datastyrning (ägande, säkerhet, regelefterlevnad).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Valet är sällan binärt: många använder en hybrid – digitalt för standardflöden och traditionellt för komplexa. Aktörer som Logifie kombinerar AI-ruttning och livespårning med mänsklig expertis för svåra ärenden.",
+          "bold": false
+        }
+      ]
+    },
+    { "type": "heading", "level": 2, "text": "Trender" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "AI och prediktiv analys (efterfrågan, ruttning, dynamisk prissättning)",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Blockchain och digitala dokument för säkra utbyten och snabbare tull",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "IoT och smarta containrar (position, temperatur, stötar)",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Hållbarhet/transparens (CSRD) med koldioxidkalkylatorer och ruttval",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Plattformskonsolidering och multimodala one-stop-shop",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    { "type": "heading", "level": 2, "text": "Slutsats" },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Digital spedition snabbar upp offerter, ger transparens och automatiserar rutin; traditionell spedition är stark i komplexa case och personligt stöd. Den bästa kombinationen beror på gods, stråk och processer – ofta är en hybridlösning bäst.",
+          "bold": false
+        }
+      ]
+    }
   ],
   "tags": ["digital spedition", "logistikteknik"]
 }
-

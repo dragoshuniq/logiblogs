@@ -16,32 +16,167 @@
   "image": "fuel-surcharges-hero.png",
   "imageAlt": "Schaubild, das zeigt, wie Basis-Kraftstoffpreis, Indexwerte und Zuschlagssätze auf einer Frachtrechnung zusammenwirken",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Steigende Dieselpreise, CO2-Abgaben und ausgeweitete Mautsysteme führen dazu, dass Transportkosten von Monat zu Monat stark schwanken. Kraftstoffzuschläge und Straßenmaut sind zwei wesentliche Kostentreiber im europäischen Straßengüterverkehr. Wer versteht, wie diese kalkuliert werden und wie man sie steuert, kann Budgets kontrollieren und faire Raten verhandeln.", "bold": false}]} ,
-    {"type": "image", "src": "fuel-surcharges-visual.png", "alt": "Lkw nähert sich einer europäischen Mautstation; digitale Anzeigen zeigen Mautsätze und CO2-Aufschläge", "caption": "Mautstationen und CO2-Preissignale verdeutlichen, wie Infrastrukturentgelte in die Position Kraftstoffzuschlag einfließen."},
-    {"type": "heading", "level": 2, "text": "Was ist ein Kraftstoffzuschlag?"},
-    {"type": "paragraph", "children": [{"text": "Ein Kraftstoffzuschlag ist eine variable Gebühr, die Frachtrechnungen hinzugefügt wird, um Schwankungen der Dieselpreise auszugleichen. Spediteure/Carrier berechnen Zuschläge auf Basis der Differenz zwischen aktuellem Dieselpreis und einem Basispreis, häufig unter Nutzung öffentlicher Indizes. Steigen die Dieselpreise, steigen die Zuschläge; sinken sie, fallen die Zuschläge.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Bei LTL-Carrier in den USA können Kraftstoffzuschläge bis zu 30 % der Frachtkosten ausmachen (Zero Down Supply Chain Solutions, 2025). In Europa variieren Zuschläge je nach Land. Blue Water Shipping meldete beispielsweise im November 2025 Kraftstoffzuschläge von 27,40 % im nationalen Verkehr in Dänemark, 25 % in Schweden und 60,30 % für Transporte von/nach Dänemark und dem restlichen Europa (Blue Water Shipping A/S, 2025). Das unterstreicht die Volatilität und Länderspezifik dieser Zuschläge.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Wie Zuschläge berechnet werden"},
-    {"type": "paragraph", "children": [{"text": "Typisch basieren Kraftstoffzuschläge auf: (1) einem Basispreis für Kraftstoff (z. B. EUR 1.00 je Liter); (2) einem Preisindex (z. B. Weekly Oil Bulletin der Europäischen Kommission); und (3) einer Formel, die Preisabweichungen in einen km-bezogenen oder prozentualen Zuschlag umrechnet. Ein Carrier könnte z. B. je EUR 0.01 über dem Basispreis einen Zuschlag von 0,5 % anwenden. Manche Carrier veröffentlichen Zuschlagstabellen; andere verhandeln den Zuschlag als separate Position.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Mautgebühren und Umweltabgaben"},
-    {"type": "paragraph", "children": [{"text": "Zusätzlich zu Kraftstoffzuschlägen fallen Mautgebühren und Umweltabgaben an. Untersuchungen von Transport Intelligence, Upply und IRU zeigen, dass Mauten rund 14 % der europäischen Frachtkosten ausmachen und auf bestimmten Relationen bis zu 23 % erreichen (Logistics Business, 2025). Nach der überarbeiteten Eurovignetten-Richtlinie ersetzen EU-Staaten zeitbasierte Vignetten durch streckenbasierte, an CO2-Emissionen gekoppelte Maut (Logistics Business, 2025). Deutschland führte im Dezember 2023 eine CO2-Komponente von EUR 200 je Tonne CO2 ein und verdoppelte die Mautkosten nahezu (NOSTA Group, 2023).", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Niedrigemissionszonen in Städten wie Paris, Berlin und Mailand erheben zusätzliche Abgaben für ältere Fahrzeuge. Nichtzahlung von Maut oder Nichteinhaltung von Emissionsstandards führt zu Bußgeldern und Störungen.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Kraftstoff- und Mautkosten mindern"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Routen und Auslastung optimieren. KI-gestützte Routenplanung und Konsolidierung reduzieren Leerkilometer und sparen Kraftstoff. UPS' ORION-System eliminierte jährlich 100 Mio. Meilen und sparte 10 Mio. Gallonen Kraftstoff – mit weniger Emissionen und Kosten.", "bold": false}],
-      [{"text": "Kraftstoffindizes beobachten. Preisindizes verfolgen und Zuschlagsformeln mit Carriern verhandeln. Einige Verlader hedgen Kraftstoffkosten über Futures.", "bold": false}],
-      [{"text": "Energieeffiziente Fahrzeuge nutzen. Investitionen in Euro‑6 oder Elektro-Lkw senken Verbrauch und vermeiden Strafzahlungen in Niedrigemissionszonen.", "bold": false}],
-      [{"text": "Mautänderungen einplanen. Über neue Mautsysteme und CO2-Aufschläge informiert bleiben und sie in Budgets und Routenplanung berücksichtigen.", "bold": false}],
-      [{"text": "Sendungen konsolidieren. Sammelgut oder intermodale Lösungen verteilen Kraftstoff- und Mautkosten auf mehrere Sendungen und senken Stückkosten.", "bold": false}],
-      [{"text": "Multimodale Alternativen prüfen. Bahn oder Short-Sea können auf Langstrecken planbarer und günstiger sein.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Fazit: Transparenz und Planung sind entscheidend"},
-    {"type": "paragraph", "children": [{"text": "Kraftstoffzuschläge und Maut können über die Profitabilität eines Straßentransports entscheiden. Wer Berechnungsmethoden versteht, Preisentwicklungen verfolgt und Mautänderungen antizipiert, steuert Kosten proaktiv. Moderne Anbieter wie Logifie optimieren mit Analytik Routen und Auslastung und helfen, Zuschläge und Umweltabgaben zu mindern.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Quellen"},
-    {"type": "citation", "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Erklärt, dass Kraftstoffzuschläge Preisvolatilität ausgleichen; LTL-Carrier erheben Zuschläge bis zu 30 % der Frachtkosten und erläutert Berechnungslogik.", "author": "Zero Down Supply Chain Solutions", "url": "https://zerodownsc.com/2025/09/fuel-surcharges/"},
-    {"type": "citation", "text": "Road transport surcharges and fees (November 2025) (Blue Water Shipping A/S, 2025) - Listet Zuschläge für November 2025, u. a. 27,40 % national in Dänemark, 25 % in Schweden und 60,30 % für Transporte von/nach Dänemark und Europa.", "author": "Blue Water Shipping", "url": "https://www.bws.dk/surcharges-and-fees/"},
-    {"type": "citation", "text": "Tolls drive up European road transport prices (Logistics Business, 2025) - Berichtet, dass Mautkosten ca. 14 % der Frachtkosten ausmachen, bis 23 % auf einigen Routen; EU ersetzt zeitbasierte Vignetten durch streckenbasierte CO2-gebundene Maut (Eurovignetten-Richtlinie).", "author": "Logistics Business Magazine", "url": "https://logisticsbusiness.com/transport-management/tolls-drive-up-european-road-transport-prices/"},
-    {"type": "citation", "text": "Germany introduces CO2 component to truck toll (NOSTA Group, 2023) - Meldet, dass die Reform des Bundesfernstraßenmautgesetzes ab 1. Dezember 2023 eine CO2-Komponente von rund EUR 200 je Tonne CO2 hinzufügte und die Maut nahezu verdoppelte.", "author": "NOSTA Group", "url": "https://www.nosta-group.com/en/news/truck-toll-co2/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Steigende Dieselpreise, CO2-Abgaben und ausgeweitete Mautsysteme führen dazu, dass Transportkosten von Monat zu Monat stark schwanken. Kraftstoffzuschläge und Straßenmaut sind zwei wesentliche Kostentreiber im europäischen Straßengüterverkehr. Wer versteht, wie diese kalkuliert werden und wie man sie steuert, kann Budgets kontrollieren und faire Raten verhandeln.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "fuel-surcharges-visual.png",
+      "alt": "Lkw nähert sich einer europäischen Mautstation; digitale Anzeigen zeigen Mautsätze und CO2-Aufschläge",
+      "caption": "Mautstationen und CO2-Preissignale verdeutlichen, wie Infrastrukturentgelte in die Position Kraftstoffzuschlag einfließen."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Was ist ein Kraftstoffzuschlag?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ein Kraftstoffzuschlag ist eine variable Gebühr, die Frachtrechnungen hinzugefügt wird, um Schwankungen der Dieselpreise auszugleichen. Spediteure/Carrier berechnen Zuschläge auf Basis der Differenz zwischen aktuellem Dieselpreis und einem Basispreis, häufig unter Nutzung öffentlicher Indizes. Steigen die Dieselpreise, steigen die Zuschläge; sinken sie, fallen die Zuschläge.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Bei LTL-Carrier in den USA können Kraftstoffzuschläge bis zu 30 % der Frachtkosten ausmachen (Zero Down Supply Chain Solutions, 2025). In Europa variieren Zuschläge je nach Land. Blue Water Shipping meldete beispielsweise im November 2025 Kraftstoffzuschläge von 27,40 % im nationalen Verkehr in Dänemark, 25 % in Schweden und 60,30 % für Transporte von/nach Dänemark und dem restlichen Europa (Blue Water Shipping A/S, 2025). Das unterstreicht die Volatilität und Länderspezifik dieser Zuschläge.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Wie Zuschläge berechnet werden"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Typisch basieren Kraftstoffzuschläge auf: (1) einem Basispreis für Kraftstoff (z. B. EUR 1.00 je Liter); (2) einem Preisindex (z. B. Weekly Oil Bulletin der Europäischen Kommission); und (3) einer Formel, die Preisabweichungen in einen km-bezogenen oder prozentualen Zuschlag umrechnet. Ein Carrier könnte z. B. je EUR 0.01 über dem Basispreis einen Zuschlag von 0,5 % anwenden. Manche Carrier veröffentlichen Zuschlagstabellen; andere verhandeln den Zuschlag als separate Position.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mautgebühren und Umweltabgaben"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Zusätzlich zu Kraftstoffzuschlägen fallen Mautgebühren und Umweltabgaben an. Untersuchungen von Transport Intelligence, Upply und IRU zeigen, dass Mauten rund 14 % der europäischen Frachtkosten ausmachen und auf bestimmten Relationen bis zu 23 % erreichen (Logistics Business, 2025). Nach der überarbeiteten Eurovignetten-Richtlinie ersetzen EU-Staaten zeitbasierte Vignetten durch streckenbasierte, an CO2-Emissionen gekoppelte Maut (Logistics Business, 2025). Deutschland führte im Dezember 2023 eine CO2-Komponente von EUR 200 je Tonne CO2 ein und verdoppelte die Mautkosten nahezu (NOSTA Group, 2023).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Niedrigemissionszonen in Städten wie Paris, Berlin und Mailand erheben zusätzliche Abgaben für ältere Fahrzeuge. Nichtzahlung von Maut oder Nichteinhaltung von Emissionsstandards führt zu Bußgeldern und Störungen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Kraftstoff- und Mautkosten mindern"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Routen und Auslastung optimieren. KI-gestützte Routenplanung und Konsolidierung reduzieren Leerkilometer und sparen Kraftstoff. UPS' ORION-System eliminierte jährlich 100 Mio. Meilen und sparte 10 Mio. Gallonen Kraftstoff – mit weniger Emissionen und Kosten.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kraftstoffindizes beobachten. Preisindizes verfolgen und Zuschlagsformeln mit Carriern verhandeln. Einige Verlader hedgen Kraftstoffkosten über Futures.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Energieeffiziente Fahrzeuge nutzen. Investitionen in Euro-6 oder Elektro-Lkw senken Verbrauch und vermeiden Strafzahlungen in Niedrigemissionszonen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Mautänderungen einplanen. Über neue Mautsysteme und CO2-Aufschläge informiert bleiben und sie in Budgets und Routenplanung berücksichtigen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sendungen konsolidieren. Sammelgut oder intermodale Lösungen verteilen Kraftstoff- und Mautkosten auf mehrere Sendungen und senken Stückkosten.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Multimodale Alternativen prüfen. Bahn oder Short-Sea können auf Langstrecken planbarer und günstiger sein.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fazit: Transparenz und Planung sind entscheidend"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kraftstoffzuschläge und Maut können über die Profitabilität eines Straßentransports entscheiden. Wer Berechnungsmethoden versteht, Preisentwicklungen verfolgt und Mautänderungen antizipiert, steuert Kosten proaktiv. Moderne Anbieter wie Logifie optimieren mit Analytik Routen und Auslastung und helfen, Zuschläge und Umweltabgaben zu mindern.",
+          "bold": false
+        }
+      ]
+    },
+    { "type": "heading", "level": 3, "text": "Quellen" },
+    {
+      "type": "citation",
+      "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Erklärt, dass Kraftstoffzuschläge Preisvolatilität ausgleichen; LTL-Carrier erheben Zuschläge bis zu 30 % der Frachtkosten und erläutert Berechnungslogik.",
+      "author": "Zero Down Supply Chain Solutions",
+      "url": "https://zerodownsc.com/2025/09/fuel-surcharges/"
+    },
+    {
+      "type": "citation",
+      "text": "Road transport surcharges and fees (November 2025) (Blue Water Shipping A/S, 2025) - Listet Zuschläge für November 2025, u. a. 27,40 % national in Dänemark, 25 % in Schweden und 60,30 % für Transporte von/nach Dänemark und Europa.",
+      "author": "Blue Water Shipping",
+      "url": "https://www.bws.dk/surcharges-and-fees/"
+    },
+    {
+      "type": "citation",
+      "text": "Tolls drive up European road transport prices (Logistics Business, 2025) - Berichtet, dass Mautkosten ca. 14 % der Frachtkosten ausmachen, bis 23 % auf einigen Routen; EU ersetzt zeitbasierte Vignetten durch streckenbasierte CO2-gebundene Maut (Eurovignetten-Richtlinie).",
+      "author": "Logistics Business Magazine",
+      "url": "https://logisticsbusiness.com/transport-management/tolls-drive-up-european-road-transport-prices/"
+    },
+    {
+      "type": "citation",
+      "text": "Germany introduces CO2 component to truck toll (NOSTA Group, 2023) - Meldet, dass die Reform des Bundesfernstraßenmautgesetzes ab 1. Dezember 2023 eine CO2-Komponente von rund EUR 200 je Tonne CO2 hinzufügte und die Maut nahezu verdoppelte.",
+      "author": "NOSTA Group",
+      "url": "https://www.nosta-group.com/en/news/truck-toll-co2/"
+    }
   ],
   "tags": [
     "kraftstoffzuschlag straßengüterverkehr",
@@ -53,4 +188,3 @@
     "logistikkosten struktur"
   ]
 }
-

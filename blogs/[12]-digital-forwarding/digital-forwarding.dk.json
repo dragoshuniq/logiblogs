@@ -8,27 +8,171 @@
   "description": "Spedition er kernen i den globale handel. I årtier: telefon, fax og regneark. Nu lover digitale platforme øjeblikstilbud, sporing i realtid og automatiserede dokumenter. Hvordan adskiller digital spedition sig – og hvorfor betyder det noget for afsendere?...",
   "publishedAt": "2025-02-02T00:00:00Z",
   "category": "Teknologi",
-  "author": {"name": "Logifie Team", "role": "Eksperter i logistikteknologi", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperter i logistikteknologi",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "digital-forwarding-hero.png",
   "imageAlt": "Delt scene: papir tungt traditionelt kontor ved siden af et strømlinet digitalt kontrolrum",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Speditører orkestrerer varestrømme over have, grænser og sidste mil. I mange år byggede det på opkald, fax og regneark. Nu tilbyder digitale platforme øjeblikstilbud, live‑sporing og automatiseret dokumenthåndtering. Hvordan adskiller den digitale speditør sig fra den traditionelle, og hvorfor er det vigtigt? Denne artikel sammenligner modellerne og giver valgkriterier.", "bold": false}]},
-    {"type": "image", "src": "digital-forwarding-visual.png", "alt": "Dashboard for digital spedition med øjeblikstilbud, live tracking og CO2‑målinger", "caption": "Dashboardet fremhæver instant tilbud, emissionsmålinger og automatiseret papirarbejde."},
-    {"type": "heading", "level": 2, "text": "Legacy‑modellen: manuelle processer og begrænset indsigt"},
-    {"type": "paragraph", "children": [{"text": "Traditionel spedition opstod, da dokumenter rejste langsommere end lasten. En booking betød ofte e‑mail‑ og telefonkæder med mæglere, vognmænd og told. Et tilbud kunne tage op til 100 timer pga. manuelle tjek og dokumenter. BL og angivelser via fax/bud gav fejl og forsinkelser.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Manuelle flows sinker kundeoplevelsen og øger omkostninger. BCG anslår, at automatisering kan reducere backoffice/operation med op til 40 %. Alligevel er e‑mail og håndoverdragelser udbredt, og få tilbyder øjeblikstilbud. Uden TMS/WMS/told‑integration er indsigt ringe og reaktioner langsomme.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "*Billedtekst: split‑screen der sammenligner et papir tungt traditionelt kontor med et digitalt kontrolrum med dashboards og automatiserede workflows.*", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Digital spedition: platforme, API'er og automatisering"},
-    {"type": "paragraph", "children": [{"text": "Digitale speditører ser spedition som en softwaredrevet tjeneste. De bygger platforme, der forbinder afsendere, vognmænd, told og lagre. Kernefunktioner:", "bold": false}]},
-    {"type": "list", "ordered": false, "items": [[{"text": "Øjeblikstilbud og booking", "bold": false}], [{"text": "Realtids synlighed (IoT/integrationer) med forudsagte ETA'er og alarmer", "bold": false}], [{"text": "Automatiserede dokumenter (e‑BL, angivelser, POD)", "bold": false}], [{"text": "CO2‑beregning pr. forsendelse", "bold": false}], [{"text": "Åbne API'er til integration med TMS/WMS", "bold": false}]]},
-    {"type": "heading", "level": 2, "text": "Vælg den rigtige speditør"},
-    {"type": "paragraph", "children": [{"text": "Vurder teknologi, serviceportefølje (told, lager, forsikring), netværk/skalering, kundesupport, bæredygtighed (måling/reduktion af emissioner) samt datastyring (ejerskab, sikkerhed, compliance).", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Valget behøver ikke være enten‑eller: mange bruger en hybrid – digital platform til standard, traditionelle partnere til komplekst. Logifie kombinerer AI‑routing og live tracking med menneskelig ekspertise i vanskelige sager.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Tendenser"},
-    {"type": "list", "ordered": false, "items": [[{"text": "AI og prædiktiv analyse (efterspørgsel, routing, dynamisk prissætning)", "bold": false}], [{"text": "Blockchain og digitale dokumenter til sikre udvekslinger og hurtigere told", "bold": false}], [{"text": "IoT og smarte containere (position, temperatur, stød)", "bold": false}], [{"text": "Bæredygtighed/transparens (CSRD) med CO2‑kalkulatorer og rutevalg", "bold": false}], [{"text": "Platformkonsolidering og multimodal one‑stop‑shop", "bold": false}]]},
-    {"type": "heading", "level": 2, "text": "Konklusion"},
-    {"type": "paragraph", "children": [{"text": "Digital spedition accelererer tilbud, giver indsigt og automatiserer rutine; traditionel spedition er stærk i komplekse opgaver. Den rette kombination afhænger af gods, lanes og interne processer – ofte er en hybridstrategi bedst.", "bold": false}]}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Speditører orkestrerer varestrømme over have, grænser og sidste mil. I mange år byggede det på opkald, fax og regneark. Nu tilbyder digitale platforme øjeblikstilbud, live-sporing og automatiseret dokumenthåndtering. Hvordan adskiller den digitale speditør sig fra den traditionelle, og hvorfor er det vigtigt? Denne artikel sammenligner modellerne og giver valgkriterier.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "digital-forwarding-visual.png",
+      "alt": "Dashboard for digital spedition med øjeblikstilbud, live tracking og CO2-målinger",
+      "caption": "Dashboardet fremhæver instant tilbud, emissionsmålinger og automatiseret papirarbejde."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Legacy-modellen: manuelle processer og begrænset indsigt"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Traditionel spedition opstod, da dokumenter rejste langsommere end lasten. En booking betød ofte e-mail- og telefonkæder med mæglere, vognmænd og told. Et tilbud kunne tage op til 100 timer pga. manuelle tjek og dokumenter. BL og angivelser via fax/bud gav fejl og forsinkelser.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Manuelle flows sinker kundeoplevelsen og øger omkostninger. BCG anslår, at automatisering kan reducere backoffice/operation med op til 40 %. Alligevel er e-mail og håndoverdragelser udbredt, og få tilbyder øjeblikstilbud. Uden TMS/WMS/told-integration er indsigt ringe og reaktioner langsomme.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "*Billedtekst: split-screen der sammenligner et papir tungt traditionelt kontor med et digitalt kontrolrum med dashboards og automatiserede workflows.*",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Digital spedition: platforme, API'er og automatisering"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Digitale speditører ser spedition som en softwaredrevet tjeneste. De bygger platforme, der forbinder afsendere, vognmænd, told og lagre. Kernefunktioner:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [{ "text": "Øjeblikstilbud og booking", "bold": false }],
+        [
+          {
+            "text": "Realtids synlighed (IoT/integrationer) med forudsagte ETA'er og alarmer",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Automatiserede dokumenter (e-BL, angivelser, POD)",
+            "bold": false
+          }
+        ],
+        [{ "text": "CO2-beregning pr. forsendelse", "bold": false }],
+        [
+          {
+            "text": "Åbne API'er til integration med TMS/WMS",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vælg den rigtige speditør"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Vurder teknologi, serviceportefølje (told, lager, forsikring), netværk/skalering, kundesupport, bæredygtighed (måling/reduktion af emissioner) samt datastyring (ejerskab, sikkerhed, compliance).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Valget behøver ikke være enten-eller: mange bruger en hybrid – digital platform til standard, traditionelle partnere til komplekst. Logifie kombinerer AI-routing og live tracking med menneskelig ekspertise i vanskelige sager.",
+          "bold": false
+        }
+      ]
+    },
+    { "type": "heading", "level": 2, "text": "Tendenser" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "AI og prædiktiv analyse (efterspørgsel, routing, dynamisk prissætning)",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Blockchain og digitale dokumenter til sikre udvekslinger og hurtigere told",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "IoT og smarte containere (position, temperatur, stød)",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Bæredygtighed/transparens (CSRD) med CO2-kalkulatorer og rutevalg",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Platformkonsolidering og multimodal one-stop-shop",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    { "type": "heading", "level": 2, "text": "Konklusion" },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Digital spedition accelererer tilbud, giver indsigt og automatiserer rutine; traditionel spedition er stærk i komplekse opgaver. Den rette kombination afhænger af gods, lanes og interne processer – ofte er en hybridstrategi bedst.",
+          "bold": false
+        }
+      ]
+    }
   ],
   "tags": ["digital spedition", "logistikteknologi"]
 }
-

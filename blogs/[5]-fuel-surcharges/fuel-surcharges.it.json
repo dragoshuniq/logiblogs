@@ -8,36 +8,171 @@
   "description": "L'aumento del diesel, le tasse sul carbonio e l'espansione dei sistemi di pedaggio fanno oscillare i costi di trasporto di mese in mese. I supplementi carburante e i pedaggi stradali sono due importanti driver di costo nel trasporto su strada europeo...",
   "publishedAt": "2024-12-15T00:00:00Z",
   "category": "Finanza",
-  "author": {"name": "Logifie Team", "role": "Esperti di tecnologie per la logistica", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Esperti di tecnologie per la logistica",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "fuel-surcharges-hero.png",
   "imageAlt": "Schema che mostra come prezzo base del carburante, indici e percentuali di supplemento si combinano su una fattura di trasporto",
   "content": [
-    {"type": "paragraph", "children": [{"text": "L'aumento del diesel, le tasse sul carbonio e l'espansione dei pedaggi fanno variare sensibilmente i costi di trasporto. I supplementi carburante e i pedaggi stradali sono due driver di costo nel trasporto stradale europeo. Comprendere come si calcolano e come gestirli aiuta i caricatori a controllare i budget e negoziare tariffe eque.", "bold": false}]},
-    {"type": "image", "src": "fuel-surcharges-visual.png", "alt": "Camion in avvicinamento a un casello europeo; pannelli digitali mostrano tariffe e sovrapprezzi CO2", "caption": "Caselli e segnali di prezzo CO2 mostrano come i costi infrastrutturali confluiscono nel supplemento carburante."},
-    {"type": "heading", "level": 2, "text": "Che cos'è un supplemento carburante?"},
-    {"type": "paragraph", "children": [{"text": "È una voce variabile aggiunta alle fatture di trasporto per compensare le variazioni del diesel. I vettori la calcolano sulla differenza tra prezzo corrente e prezzo base, spesso tramite indici pubblici. Se il diesel sale, il supplemento aumenta; se scende, diminuisce.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Negli Stati Uniti, nel LTL, il supplemento può arrivare al 30 % del costo del trasporto (Zero Down Supply Chain Solutions, 2025). In Europa varia per paese. A novembre 2025, Blue Water Shipping ha indicato 27,40 % sul domestico in Danimarca, 25 % in Svezia e 60,30 % per flussi da/verso la Danimarca e il resto d'Europa (Blue Water Shipping A/S, 2025).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Come si calcola"},
-    {"type": "paragraph", "children": [{"text": "In genere si basa su: (1) un prezzo base (es. EUR 1.00/litro); (2) un indice (es. Weekly Oil Bulletin della Commissione europea); (3) una formula che converte lo scostamento in supplemento per km o percentuale. Esempio: 0,5 % per ogni EUR 0.01 sopra il prezzo base. Alcuni pubblicano tabelle; altri negoziano una riga separata.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Pedaggi e oneri ambientali"},
-    {"type": "paragraph", "children": [{"text": "Oltre ai supplementi carburante, occorre considerare pedaggi e oneri ambientali. Studi di Transport Intelligence, Upply e IRU stimano che i pedaggi pesino circa il 14 % dei costi di trasporto europei, fino al 23 % su certe rotte (Logistics Business, 2025). Con la direttiva Eurovignette rivista, gli Stati UE sostituiscono le vignette temporali con pedaggi chilometrici legati alla CO2 (Logistics Business, 2025). La Germania ha introdotto a dicembre 2023 una componente CO2 di EUR 200/tonnellata di CO2, quasi raddoppiando i pedaggi (NOSTA Group, 2023).", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Le zone a basse emissioni in città come Parigi, Berlino e Milano applicano costi aggiuntivi ai veicoli più vecchi. Il mancato pagamento o il mancato rispetto degli standard comporta multe e interruzioni del viaggio.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Ridurre costi di carburante e pedaggi"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Ottimizzare rotte e carichi. L'instradamento e la consolidazione con IA riducono i km a vuoto e il consumo. ORION (UPS) ha eliminato 100 M di miglia e risparmiato 10 M di galloni/anno, riducendo emissioni e costi.", "bold": false}],
-      [{"text": "Monitorare gli indici carburante. Seguire gli indici e negoziare formule di supplemento con i vettori. Alcuni si coprono con futures sul carburante.", "bold": false}],
-      [{"text": "Usare veicoli efficienti. Investire in Euro 6 o elettrici riduce il consumo ed evita penalità nelle LEZ.", "bold": false}],
-      [{"text": "Pianificare i cambi di pedaggio. Restare informati su nuovi sistemi e oneri CO2; considerarli in budget e pianificazione.", "bold": false}],
-      [{"text": "Consolidare le spedizioni. Groupage o intermodale ripartiscono costi di carburante/pedaggio su più spedizioni e riducono il costo unitario.", "bold": false}],
-      [{"text": "Considerare il multimodale. Ferrovia o short‑sea possono offrire costi più prevedibili sulle lunghe distanze.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Conclusione: visibilità e pianificazione"},
-    {"type": "paragraph", "children": [{"text": "I supplementi carburante e i pedaggi possono determinare la redditività di una spedizione su gomma. Capendo il calcolo, seguendo i prezzi e anticipando i cambi di sistema, i caricatori gestiscono i costi in modo proattivo. Provider moderni come Logifie usano l'analitica per ottimizzare rotte e carichi e mitigare supplementi e oneri ambientali.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Fonti"},
-    {"type": "citation", "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Spiega che il supplemento compensa la volatilità del diesel; in LTL può arrivare al 30 % e illustra il calcolo.", "author": "Zero Down Supply Chain Solutions", "url": "https://zerodownsc.com/2025/09/fuel-surcharges/"},
-    {"type": "citation", "text": "Road transport surcharges and fees (November 2025) (Blue Water Shipping A/S, 2025) - Elenca supplementi di novembre 2025: 27,40 % domestico in DK, 25 % in SE e 60,30 % per relazioni con l'Europa.", "author": "Blue Water Shipping", "url": "https://www.bws.dk/surcharges-and-fees/"},
-    {"type": "citation", "text": "Tolls drive up European road transport prices (Logistics Business, 2025) - Indica pedaggi ~14 % dei costi, fino al 23 %; gli Stati UE passano a pedaggi legati alla CO2 (Direttiva Eurovignette).", "author": "Logistics Business Magazine", "url": "https://logisticsbusiness.com/transport-management/tolls-drive-up-european-road-transport-prices/"},
-    {"type": "citation", "text": "Germany introduces CO2 component to truck toll (NOSTA Group, 2023) - Annuncia l'introduzione in DE di ~EUR 200/tonnellata di CO2 dal 1/12/2023, quasi raddoppiando i pedaggi.", "author": "NOSTA Group", "url": "https://www.nosta-group.com/en/news/truck-toll-co2/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "L'aumento del diesel, le tasse sul carbonio e l'espansione dei pedaggi fanno variare sensibilmente i costi di trasporto. I supplementi carburante e i pedaggi stradali sono due driver di costo nel trasporto stradale europeo. Comprendere come si calcolano e come gestirli aiuta i caricatori a controllare i budget e negoziare tariffe eque.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "fuel-surcharges-visual.png",
+      "alt": "Camion in avvicinamento a un casello europeo; pannelli digitali mostrano tariffe e sovrapprezzi CO2",
+      "caption": "Caselli e segnali di prezzo CO2 mostrano come i costi infrastrutturali confluiscono nel supplemento carburante."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Che cos'è un supplemento carburante?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "È una voce variabile aggiunta alle fatture di trasporto per compensare le variazioni del diesel. I vettori la calcolano sulla differenza tra prezzo corrente e prezzo base, spesso tramite indici pubblici. Se il diesel sale, il supplemento aumenta; se scende, diminuisce.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Negli Stati Uniti, nel LTL, il supplemento può arrivare al 30 % del costo del trasporto (Zero Down Supply Chain Solutions, 2025). In Europa varia per paese. A novembre 2025, Blue Water Shipping ha indicato 27,40 % sul domestico in Danimarca, 25 % in Svezia e 60,30 % per flussi da/verso la Danimarca e il resto d'Europa (Blue Water Shipping A/S, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    { "type": "heading", "level": 3, "text": "Come si calcola" },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In genere si basa su: (1) un prezzo base (es. EUR 1.00/litro); (2) un indice (es. Weekly Oil Bulletin della Commissione europea); (3) una formula che converte lo scostamento in supplemento per km o percentuale. Esempio: 0,5 % per ogni EUR 0.01 sopra il prezzo base. Alcuni pubblicano tabelle; altri negoziano una riga separata.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pedaggi e oneri ambientali"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Oltre ai supplementi carburante, occorre considerare pedaggi e oneri ambientali. Studi di Transport Intelligence, Upply e IRU stimano che i pedaggi pesino circa il 14 % dei costi di trasporto europei, fino al 23 % su certe rotte (Logistics Business, 2025). Con la direttiva Eurovignette rivista, gli Stati UE sostituiscono le vignette temporali con pedaggi chilometrici legati alla CO2 (Logistics Business, 2025). La Germania ha introdotto a dicembre 2023 una componente CO2 di EUR 200/tonnellata di CO2, quasi raddoppiando i pedaggi (NOSTA Group, 2023).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Le zone a basse emissioni in città come Parigi, Berlino e Milano applicano costi aggiuntivi ai veicoli più vecchi. Il mancato pagamento o il mancato rispetto degli standard comporta multe e interruzioni del viaggio.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ridurre costi di carburante e pedaggi"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Ottimizzare rotte e carichi. L'instradamento e la consolidazione con IA riducono i km a vuoto e il consumo. ORION (UPS) ha eliminato 100 M di miglia e risparmiato 10 M di galloni/anno, riducendo emissioni e costi.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Monitorare gli indici carburante. Seguire gli indici e negoziare formule di supplemento con i vettori. Alcuni si coprono con futures sul carburante.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Usare veicoli efficienti. Investire in Euro 6 o elettrici riduce il consumo ed evita penalità nelle LEZ.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Pianificare i cambi di pedaggio. Restare informati su nuovi sistemi e oneri CO2; considerarli in budget e pianificazione.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Consolidare le spedizioni. Groupage o intermodale ripartiscono costi di carburante/pedaggio su più spedizioni e riducono il costo unitario.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Considerare il multimodale. Ferrovia o short-sea possono offrire costi più prevedibili sulle lunghe distanze.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusione: visibilità e pianificazione"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "I supplementi carburante e i pedaggi possono determinare la redditività di una spedizione su gomma. Capendo il calcolo, seguendo i prezzi e anticipando i cambi di sistema, i caricatori gestiscono i costi in modo proattivo. Provider moderni come Logifie usano l'analitica per ottimizzare rotte e carichi e mitigare supplementi e oneri ambientali.",
+          "bold": false
+        }
+      ]
+    },
+    { "type": "heading", "level": 3, "text": "Fonti" },
+    {
+      "type": "citation",
+      "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Spiega che il supplemento compensa la volatilità del diesel; in LTL può arrivare al 30 % e illustra il calcolo.",
+      "author": "Zero Down Supply Chain Solutions",
+      "url": "https://zerodownsc.com/2025/09/fuel-surcharges/"
+    },
+    {
+      "type": "citation",
+      "text": "Road transport surcharges and fees (November 2025) (Blue Water Shipping A/S, 2025) - Elenca supplementi di novembre 2025: 27,40 % domestico in DK, 25 % in SE e 60,30 % per relazioni con l'Europa.",
+      "author": "Blue Water Shipping",
+      "url": "https://www.bws.dk/surcharges-and-fees/"
+    },
+    {
+      "type": "citation",
+      "text": "Tolls drive up European road transport prices (Logistics Business, 2025) - Indica pedaggi ~14 % dei costi, fino al 23 %; gli Stati UE passano a pedaggi legati alla CO2 (Direttiva Eurovignette).",
+      "author": "Logistics Business Magazine",
+      "url": "https://logisticsbusiness.com/transport-management/tolls-drive-up-european-road-transport-prices/"
+    },
+    {
+      "type": "citation",
+      "text": "Germany introduces CO2 component to truck toll (NOSTA Group, 2023) - Annuncia l'introduzione in DE di ~EUR 200/tonnellata di CO2 dal 1/12/2023, quasi raddoppiando i pedaggi.",
+      "author": "NOSTA Group",
+      "url": "https://www.nosta-group.com/en/news/truck-toll-co2/"
+    }
   ],
   "tags": [
     "supplemento carburante trasporto su strada",
@@ -49,4 +184,3 @@
     "struttura costi logistica"
   ]
 }
-

@@ -8,68 +8,279 @@
   "description": "Euroopan maantiekuljetuksissa valitaan täysi auto vai jaettu kapasiteetti. FTL ja groupage/LTL eroavat kustannuksilta, läpimenoajoilta ja riskiltä.",
   "publishedAt": "2024-12-01T00:00:00Z",
   "category": "Kuljetus",
-  "author": { "name": "Logifie Team", "role": "Logistiikkateknologian asiantuntijat", "avatar": "/logos/slogo.png" },
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistiikkateknologian asiantuntijat",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "ftv-groupage.png",
-  "imageAlt": "Vierekkäin vertailu: omistettu FTL‑rekka ja groupage‑perävaunu, jossa on useita lavoja",
+  "imageAlt": "Vierekkäin vertailu: omistettu FTL-rekka ja groupage-perävaunu, jossa on useita lavoja",
   "content": [
-    { "type": "paragraph", "children": [ { "text": "Euroopan maantiekuljetuksia suunniteltaessa on päätettävä varataanko koko ajoneuvo vai jaetaanko kapasiteettia. Full Truck Load (FTL) ja groupage/less‑than‑truckload (LTL) ovat eri malleja, joilla on erilaiset kustannusrakenteet, läpimenoajat ja riskiprofiilit. Näiden kompromissien ymmärtäminen auttaa valitsemaan kuhunkin lähetykseen sopivan vaihtoehdon.", "bold": false } ] },
-    { "type": "image", "src": "warehouse.png", "alt": "Varastotiimi kietoo ja kiristää lavat ennen groupage‑kuormausta", "caption": "Operatiivinen tiimi yhdistää useiden asiakkaiden lavoja samalle ovipaikalle ennen groupage‑lähtöä." },
-    { "type": "heading", "level": 2, "text": "Mitä on Full Truck Load (FTL)?" },
-    { "type": "paragraph", "children": [ { "text": "FTL‑lähetys täyttää koko perävaunun tai kuorma‑auton. Ajoneuvo kuljettaa yhden asiakkaan tavarat ilman konsolidointia. FTL sopii suuriin volyymeihin, arvotavaraan tai kiireellisiin toimituksiin, koska:", "bold": false } ] },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "Nopeampi läpimeno: ajoneuvo ajaa suoraan kohteeseen ilman (de)konsolidointipysähdyksiä. Pakettiautot 7,5 t asti toimittavat: 550 km seuraavana päivänä, 550–1 300 km 2 päivässä ja >1 500 km 3–4 päivässä (Visline Sp. z o.o., 2024).", "bold": false } ],
-      [ { "text": "Vähemmän käsittelyä: lastaus ja purku vain kerran – pienempi vaurioriski.", "bold": false } ],
-      [ { "text": "Turvallisuus: vain yhden lähettäjän tavara kyydissä vähentää katoamis-/sekoittumisriskiä.", "bold": false } ]
-    ] },
-    { "type": "paragraph", "children": [ { "text": "FTL on kuitenkin kilometriä kohden kalliimpaa, koska koko ajoneuvo maksetaan täyttöasteesta riippumatta. Pienemmille erille, jotka eivät täytä perävaunua, FTL on tehoton.", "bold": false } ] },
-    { "type": "heading", "level": 2, "text": "Mitä on groupage (LTL)?" },
-    { "type": "paragraph", "children": [ { "text": "Groupage/LTL yhdistää useita pieniä eri lähettäjien lähetyksiä yhteen ajoneuvoon. Jokainen asiakas maksaa käyttämästään tilasta. Tyypillinen alle 2 500 kg lähetyksille (FERCAM S.p.A., 2024). Edut:", "bold": false } ] },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "Alhaisempi kustannus: jaettu kapasiteetti laskee kustannusta per lava/kg jakamalla kokonaiskulut useille lähettäjille.", "bold": false } ],
-      [ { "text": "Kestävyys: konsolidointi vähentää tyhjää tilaa ja parantaa ajoneuvon käyttöastetta, mikä vähentää päästöjä.", "bold": false } ]
-    ] },
-    { "type": "paragraph", "children": [ { "text": "Kääntöpuolena on pidempi läpimeno ja enemmän käsittelyä. Groupage‑ajoneuvot pysähtyvät hubeissa lastaukseen ja purkuun. Vislinen mukaan osakuormat kestävät usein 3–6 päivää etäisyydestä riippumatta (Visline Sp. z o.o., 2024). Lisäkäsittely kasvattaa vahinkoriskiä – oikea pakkaus ja lavointi ovat kriittisiä.", "bold": false } ] },
-    { "type": "heading", "level": 2, "text": "Milloin groupage ja milloin FTL" },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Euroopan maantiekuljetuksia suunniteltaessa on päätettävä varataanko koko ajoneuvo vai jaetaanko kapasiteettia. Full Truck Load (FTL) ja groupage/less-than-truckload (LTL) ovat eri malleja, joilla on erilaiset kustannusrakenteet, läpimenoajat ja riskiprofiilit. Näiden kompromissien ymmärtäminen auttaa valitsemaan kuhunkin lähetykseen sopivan vaihtoehdon.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "warehouse.png",
+      "alt": "Varastotiimi kietoo ja kiristää lavat ennen groupage-kuormausta",
+      "caption": "Operatiivinen tiimi yhdistää useiden asiakkaiden lavoja samalle ovipaikalle ennen groupage-lähtöä."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mitä on Full Truck Load (FTL)?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "FTL-lähetys täyttää koko perävaunun tai kuorma-auton. Ajoneuvo kuljettaa yhden asiakkaan tavarat ilman konsolidointia. FTL sopii suuriin volyymeihin, arvotavaraan tai kiireellisiin toimituksiin, koska:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Nopeampi läpimeno: ajoneuvo ajaa suoraan kohteeseen ilman (de)konsolidointipysähdyksiä. Pakettiautot 7,5 t asti toimittavat: 550 km seuraavana päivänä, 550–1 300 km 2 päivässä ja >1 500 km 3–4 päivässä (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Vähemmän käsittelyä: lastaus ja purku vain kerran – pienempi vaurioriski.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Turvallisuus: vain yhden lähettäjän tavara kyydissä vähentää katoamis-/sekoittumisriskiä.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "FTL on kuitenkin kilometriä kohden kalliimpaa, koska koko ajoneuvo maksetaan täyttöasteesta riippumatta. Pienemmille erille, jotka eivät täytä perävaunua, FTL on tehoton.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mitä on groupage (LTL)?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Groupage/LTL yhdistää useita pieniä eri lähettäjien lähetyksiä yhteen ajoneuvoon. Jokainen asiakas maksaa käyttämästään tilasta. Tyypillinen alle 2 500 kg lähetyksille (FERCAM S.p.A., 2024). Edut:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Alhaisempi kustannus: jaettu kapasiteetti laskee kustannusta per lava/kg jakamalla kokonaiskulut useille lähettäjille.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kestävyys: konsolidointi vähentää tyhjää tilaa ja parantaa ajoneuvon käyttöastetta, mikä vähentää päästöjä.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kääntöpuolena on pidempi läpimeno ja enemmän käsittelyä. Groupage-ajoneuvot pysähtyvät hubeissa lastaukseen ja purkuun. Vislinen mukaan osakuormat kestävät usein 3–6 päivää etäisyydestä riippumatta (Visline Sp. z o.o., 2024). Lisäkäsittely kasvattaa vahinkoriskiä – oikea pakkaus ja lavointi ovat kriittisiä.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Milloin groupage ja milloin FTL"
+    },
     { "type": "heading", "level": 3, "text": "Valitse FTL, kun:" },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "Määrä lähenee/ylittää ~10–13 lavaa tai paino > ~2,5 t.", "bold": false } ],
-      [ { "text": "Tavara on arvokasta, herkkää tai aikakriittistä.", "bold": false } ],
-      [ { "text": "Suora toimitus vähäisellä käsittelyllä on kriittinen.", "bold": false } ],
-      [ { "text": "Prioriteetti on turvallisuus/luottamuksellisuus.", "bold": false } ]
-    ] },
-    { "type": "heading", "level": 3, "text": "Valitse groupage, kun:" },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "Lähetät vain muutamia lavoja/paketteja – täysi ajoneuvo ei ole perusteltu.", "bold": false } ],
-      [ { "text": "Kustannussäästö on tärkeämpi kuin nopeus.", "bold": false } ],
-      [ { "text": "Joustavat läpimenoajat sopivat.", "bold": false } ],
-      [ { "text": "Tavoitteena on kestävyys ja hiilijalanjäljen pienentäminen.", "bold": false } ]
-    ] },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Määrä lähenee/ylittää ~10–13 lavaa tai paino > ~2,5 t.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tavara on arvokasta, herkkää tai aikakriittistä.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Suora toimitus vähäisellä käsittelyllä on kriittinen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Prioriteetti on turvallisuus/luottamuksellisuus.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Valitse groupage, kun:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Lähetät vain muutamia lavoja/paketteja – täysi ajoneuvo ei ole perusteltu.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kustannussäästö on tärkeämpi kuin nopeus.",
+            "bold": false
+          }
+        ],
+        [
+          { "text": "Joustavat läpimenoajat sopivat.", "bold": false }
+        ],
+        [
+          {
+            "text": "Tavoitteena on kestävyys ja hiilijalanjäljen pienentäminen.",
+            "bold": false
+          }
+        ]
+      ]
+    },
     { "type": "heading", "level": 2, "text": "Hybridivaihtoehdot" },
-    { "type": "paragraph", "children": [ { "text": "Jotkut palveluntarjoajat tarjoavat osakuorman tai LTL–FTL‑hybridit: ajoneuvo voi kuljettaa kaksi–kolme osakuormaa, mikä tasapainottaa kustannusta ja nopeutta. Hyvä kompromissi, kun lähetys on liian iso pakettipalvelulle mutta liian pieni omaan ajoneuvoon.", "bold": false } ] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Jotkut palveluntarjoajat tarjoavat osakuorman tai LTL–FTL-hybridit: ajoneuvo voi kuljettaa kaksi–kolme osakuormaa, mikä tasapainottaa kustannusta ja nopeutta. Hyvä kompromissi, kun lähetys on liian iso pakettipalvelulle mutta liian pieni omaan ajoneuvoon.",
+          "bold": false
+        }
+      ]
+    },
     { "type": "heading", "level": 2, "text": "Huomioitavat tekijät" },
-    { "type": "list", "ordered": true, "items": [
-      [ { "text": "Paino ja tilavuus: vertaa FTL‑ ja groupage‑kustannuksia juuri tälle erälle.", "bold": false } ],
-      [ { "text": "Kiireellisyys: jos nopeus on kriittistä, FTL voi olla lisähinnan arvoinen.", "bold": false } ],
-      [ { "text": "Arvo ja hauraus: arvokas/herkkä tavara hyötyy FTL‑turvallisuudesta.", "bold": false } ],
-      [ { "text": "Budjetti: pienyritykset valitsevat usein groupage‑ratkaisut kustannusten jakamiseksi.", "bold": false } ],
-      [ { "text": "Ympäristötavoitteet: konsolidointi vähentää tyhjiä kilometrejä ja päästöjä.", "bold": false } ],
-      [ { "text": "Sesonki/kapasiteetti: sesonkiaikana FTL on niukka/kallis; groupage tarjoaa usein joustavuutta.", "bold": false } ]
-    ] },
-    { "type": "heading", "level": 2, "text": "Yhteenveto: sovita kuljetusmuoto tarpeeseen" },
-    { "type": "paragraph", "children": [ { "text": "Valinta FTL:n ja groupagen välillä ei ole pelkkä hintakysymys. FTL tuo nopeutta, turvallisuutta ja yksinkertaisuutta korkeammalla hinnalla; groupage maksimoi tehokkuuden ja pienentää päästöjä pidempien läpimenoaikojen kustannuksella. Arvioi jokaisen lähetyksen koko, arvo, aikataulu ja kestävyyspäämäärät. Speditööri kuten Logifie voi suositella parasta vaihtoehtoa ja järjestää hybridit tarvittaessa.", "bold": false } ] },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Paino ja tilavuus: vertaa FTL- ja groupage-kustannuksia juuri tälle erälle.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kiireellisyys: jos nopeus on kriittistä, FTL voi olla lisähinnan arvoinen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Arvo ja hauraus: arvokas/herkkä tavara hyötyy FTL-turvallisuudesta.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Budjetti: pienyritykset valitsevat usein groupage-ratkaisut kustannusten jakamiseksi.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ympäristötavoitteet: konsolidointi vähentää tyhjiä kilometrejä ja päästöjä.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sesonki/kapasiteetti: sesonkiaikana FTL on niukka/kallis; groupage tarjoaa usein joustavuutta.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Yhteenveto: sovita kuljetusmuoto tarpeeseen"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Valinta FTL:n ja groupagen välillä ei ole pelkkä hintakysymys. FTL tuo nopeutta, turvallisuutta ja yksinkertaisuutta korkeammalla hinnalla; groupage maksimoi tehokkuuden ja pienentää päästöjä pidempien läpimenoaikojen kustannuksella. Arvioi jokaisen lähetyksen koko, arvo, aikataulu ja kestävyyspäämäärät. Speditööri kuten Logifie voi suositella parasta vaihtoehtoa ja järjestää hybridit tarvittaessa.",
+          "bold": false
+        }
+      ]
+    },
     { "type": "heading", "level": 3, "text": "Lähteet" },
-    { "type": "citation", "text": "European road freight options explained (Uniserve Group, 2025) - Määrittelee FTL:n ja LTL/groupagen: FTL käyttää koko ajoneuvon (nopeampi, vähemmän käsittelyä); groupage yhdistää pienet erät alemmalla kustannuksella mutta pidemmällä ajalla.", "author": "Uniserve Group", "url": "https://uniserve.co.uk/european-road-freight-options" },
-    { "type": "citation", "text": "FTL, LTL and groupage: definitions and differences (FERCAM S.p.A., 2024) - Toteaa, että groupage‑erät ovat yleensä ≤ 2 500 kg ja konsolidoidaan hubeissa — pidemmät toimitusajat, alemmat kustannukset.", "author": "FERCAM S.p.A.", "url": "https://www.fercam.com/en/ftl-ltl-groupage/" },
-    { "type": "citation", "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - FTL‑ajat (≤ 550 km 1 päivä, 550–1 300 km 2 päivää, >1 500 km 3–4 päivää) ja 3–6 päivää osakuormille.", "author": "Visline Sp. z o.o.", "url": "https://visline.com/en/how-to-calculate-transit-time-europe/" }
+    {
+      "type": "citation",
+      "text": "European road freight options explained (Uniserve Group, 2025) - Määrittelee FTL:n ja LTL/groupagen: FTL käyttää koko ajoneuvon (nopeampi, vähemmän käsittelyä); groupage yhdistää pienet erät alemmalla kustannuksella mutta pidemmällä ajalla.",
+      "author": "Uniserve Group",
+      "url": "https://uniserve.co.uk/european-road-freight-options"
+    },
+    {
+      "type": "citation",
+      "text": "FTL, LTL and groupage: definitions and differences (FERCAM S.p.A., 2024) - Toteaa, että groupage-erät ovat yleensä ≤ 2 500 kg ja konsolidoidaan hubeissa — pidemmät toimitusajat, alemmat kustannukset.",
+      "author": "FERCAM S.p.A.",
+      "url": "https://www.fercam.com/en/ftl-ltl-groupage/"
+    },
+    {
+      "type": "citation",
+      "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - FTL-ajat (≤ 550 km 1 päivä, 550–1 300 km 2 päivää, >1 500 km 3–4 päivää) ja 3–6 päivää osakuormille.",
+      "author": "Visline Sp. z o.o.",
+      "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"
+    }
   ],
   "tags": [
     "groupage vs täysi kuorma",
     "LTL vs FTL",
     "groupage eurooppa",
-    "groupage‑palvelut eurooppa",
+    "groupage-palvelut eurooppa",
     "maantiekuljetuksen konsolidointi",
-    "ftl‑kuljetus eurooppa",
+    "ftl-kuljetus eurooppa",
     "milloin käyttää groupagea"
   ]
 }
-

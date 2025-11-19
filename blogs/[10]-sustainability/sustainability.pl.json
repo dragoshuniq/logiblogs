@@ -16,32 +16,150 @@
   "image": "sustainability-hero.png",
   "imageAlt": "Kierowca ciężarówki płynnie prowadzi ekologicznie po europejskiej drodze wśród drzew",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Interesariusze logistyki wiedzą, że trzeba dekarbonizować transport drogowy, jednak nie każda firma może inwestować w e‑ciężarówki, telematykę i AI. Istnieje wiele niskokosztowych i behawioralnych działań, które znacząco ograniczają emisje i koszty operacyjne. Ten artykuł przedstawia praktyczne kroki, które floty i nadawcy mogą wdrożyć od razu bez dużych nakładów.", "bold": false}]},
-    {"type": "image", "src": "sustainability-visual.png", "alt": "Zbliżenie ciężarówki tankującej biodiesel na wiejskiej stacji paliw", "caption": "Przejście na mieszanki biodiesla przy dystrybutorze to szybkie zwycięstwo z listy działań na rzecz zrównoważenia."},
-    {"type": "heading", "level": 2, "text": "Dlaczego zrównoważenie ma znaczenie"},
-    {"type": "paragraph", "children": [{"text": "Transport i logistyka odpowiadają za ok. 25 % globalnych emisji CO2 (Ct Global Freight Audit, 2023). Największym źródłem jest transport drogowy; bez działań emisje będą rosnąć. Ich ograniczanie poprawia jakość powietrza, obniża koszty paliwa i wzmacnia reputację firm.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Praktyczne kroki ku bardziej zielonemu transportowi"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Eco‑driving. Szkolenie kierowców w płynnym przyspieszaniu, utrzymywaniu stałej prędkości, przewidywaniu ruchu i unikaniu jałowego biegu przynosi wyraźne oszczędności. Prawidłowe ciśnienie w oponach i umiarkowane użycie klimatyzacji podnoszą efektywność.", "bold": false}],
-      [{"text": "Regularny serwis. Strojenie silnika, wymiana filtrów powietrza, geometria kół i niskolepkościowe oleje redukują zużycie paliwa. Prewencyjna obsługa minimalizuje awarie i wydłuża życie pojazdów.", "bold": false}],
-      [{"text": "Optymalizacja ładunku i konsolidacja. Pełniejsze wykorzystanie ładowności i łączenie przesyłek zmniejsza puste przebiegi. Umowy na ładunki powrotne lepiej dopasowują popyt i podaż.", "bold": false}],
-      [{"text": "Planowanie tras. Nawet bez AI można wybierać trasy z mniejszymi korkami i podjazdami. Jazda nocą ogranicza zużycie przez unikanie ruchu.", "bold": false}],
-      [{"text": "Paliwa alternatywne i mieszanki. Biopaliwa, np. biodiesel lub HVO, zmniejszają CO2 o 50‑90 % względem standardowego diesla. Choć mogą być droższe, nie wymagają modyfikacji silników i stanowią pomost do elektryfikacji.", "bold": false}],
-      [{"text": "Transport intermodalny. Łączenie drogi z koleją lub short‑sea skraca odcinki drogowe i emisje. Kolej ma niższe emisje CO2 na tonokilometr, więc nadaje się na długie dystanse.", "bold": false}],
-      [{"text": "Lżejsze opakowania i wyposażenie. Odchudzenie palet i opakowań obniża zużycie paliwa. Palety wielokrotne i opakowania zwrotne ograniczają odpady.", "bold": false}],
-      [{"text": "Zaangażowanie kierowców i zachęty. Programy premiujące ekonomiczną jazdę sprzyjają zmianom. Informacja zwrotna przez paragony paliwowe i proste pulpity pomaga śledzić wyniki.", "bold": false}],
-      [{"text": "Współpraca w łańcuchu dostaw. Wymiana danych o wolumenach i rozkładach umożliwia efektywne trasy i mniej pustych przejazdów.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Dowody i studia przypadków"},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Korzyści eco‑drivingu. Programy szkoleniowe pokazują spadek zużycia o 5‑15 %. ICCT podaje oszczędności do 0,15 l/km (Ct Global Freight Audit, 2023).", "bold": false}],
-      [{"text": "Pojazdy efektywne. Przejście na Euro 6 i elementy aerodynamiczne obniżają zużycie o 5‑10 %, a opony o niskich oporach toczenia dają dodatkowe korzyści (Ct Global Freight Audit, 2023).", "bold": false}],
-      [{"text": "Paliwa alternatywne. HVO przynosi duże redukcje CO2 bez zmian w silniku. KE promuje paliwa zrównoważone i intermodalność, by osiągać cele (Ct Global Freight Audit, 2023).", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Wnioski: małe kroki, duży efekt"},
-    {"type": "paragraph", "children": [{"text": "Zrównoważony transport drogowy nie zawsze wymaga zaawansowanej technologii. Proste działania operacyjne - eco‑driving, serwis, konsolidacja i planowanie tras - obniżają emisje i koszty. Biopaliwa oraz intermodalność dodatkowo wzmacniają efekt. Dzięki zaangażowaniu kierowców i współpracy w łańcuchu dostaw firmy realnie postępują w kierunku dekarbonizacji i przygotowują się na przyszłe technologie.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Źródła"},
-    {"type": "citation", "text": "Why is Reducing Carbon Emissions in Transportation and Logistics Important? (Ct Global Freight Audit, 2023) - Wskazuje, że do 90 % emisji może pochodzić z łańcucha dostaw, a transport/logistyka to niemal 25 % emisji globalnych. Omawia kroki: eco‑driving, planowanie tras, intermodalność, paliwa alternatywne i efektywność floty.", "author": "Ct Global Freight Audit", "url": "https://ctglobal-freightaudit.com/why-is-reducing-carbon-emissions-in-transportation-and-logistics-important/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Interesariusze logistyki wiedzą, że trzeba dekarbonizować transport drogowy, jednak nie każda firma może inwestować w e-ciężarówki, telematykę i AI. Istnieje wiele niskokosztowych i behawioralnych działań, które znacząco ograniczają emisje i koszty operacyjne. Ten artykuł przedstawia praktyczne kroki, które floty i nadawcy mogą wdrożyć od razu bez dużych nakładów.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "sustainability-visual.png",
+      "alt": "Zbliżenie ciężarówki tankującej biodiesel na wiejskiej stacji paliw",
+      "caption": "Przejście na mieszanki biodiesla przy dystrybutorze to szybkie zwycięstwo z listy działań na rzecz zrównoważenia."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dlaczego zrównoważenie ma znaczenie"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transport i logistyka odpowiadają za ok. 25 % globalnych emisji CO2 (Ct Global Freight Audit, 2023). Największym źródłem jest transport drogowy; bez działań emisje będą rosnąć. Ich ograniczanie poprawia jakość powietrza, obniża koszty paliwa i wzmacnia reputację firm.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Praktyczne kroki ku bardziej zielonemu transportowi"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Eco-driving. Szkolenie kierowców w płynnym przyspieszaniu, utrzymywaniu stałej prędkości, przewidywaniu ruchu i unikaniu jałowego biegu przynosi wyraźne oszczędności. Prawidłowe ciśnienie w oponach i umiarkowane użycie klimatyzacji podnoszą efektywność.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Regularny serwis. Strojenie silnika, wymiana filtrów powietrza, geometria kół i niskolepkościowe oleje redukują zużycie paliwa. Prewencyjna obsługa minimalizuje awarie i wydłuża życie pojazdów.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Optymalizacja ładunku i konsolidacja. Pełniejsze wykorzystanie ładowności i łączenie przesyłek zmniejsza puste przebiegi. Umowy na ładunki powrotne lepiej dopasowują popyt i podaż.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Planowanie tras. Nawet bez AI można wybierać trasy z mniejszymi korkami i podjazdami. Jazda nocą ogranicza zużycie przez unikanie ruchu.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Paliwa alternatywne i mieszanki. Biopaliwa, np. biodiesel lub HVO, zmniejszają CO2 o 50-90 % względem standardowego diesla. Choć mogą być droższe, nie wymagają modyfikacji silników i stanowią pomost do elektryfikacji.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Transport intermodalny. Łączenie drogi z koleją lub short-sea skraca odcinki drogowe i emisje. Kolej ma niższe emisje CO2 na tonokilometr, więc nadaje się na długie dystanse.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Lżejsze opakowania i wyposażenie. Odchudzenie palet i opakowań obniża zużycie paliwa. Palety wielokrotne i opakowania zwrotne ograniczają odpady.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Zaangażowanie kierowców i zachęty. Programy premiujące ekonomiczną jazdę sprzyjają zmianom. Informacja zwrotna przez paragony paliwowe i proste pulpity pomaga śledzić wyniki.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Współpraca w łańcuchu dostaw. Wymiana danych o wolumenach i rozkładach umożliwia efektywne trasy i mniej pustych przejazdów.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dowody i studia przypadków"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Korzyści eco-drivingu. Programy szkoleniowe pokazują spadek zużycia o 5-15 %. ICCT podaje oszczędności do 0,15 l/km (Ct Global Freight Audit, 2023).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Pojazdy efektywne. Przejście na Euro 6 i elementy aerodynamiczne obniżają zużycie o 5-10 %, a opony o niskich oporach toczenia dają dodatkowe korzyści (Ct Global Freight Audit, 2023).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Paliwa alternatywne. HVO przynosi duże redukcje CO2 bez zmian w silniku. KE promuje paliwa zrównoważone i intermodalność, by osiągać cele (Ct Global Freight Audit, 2023).",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Wnioski: małe kroki, duży efekt"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Zrównoważony transport drogowy nie zawsze wymaga zaawansowanej technologii. Proste działania operacyjne - eco-driving, serwis, konsolidacja i planowanie tras - obniżają emisje i koszty. Biopaliwa oraz intermodalność dodatkowo wzmacniają efekt. Dzięki zaangażowaniu kierowców i współpracy w łańcuchu dostaw firmy realnie postępują w kierunku dekarbonizacji i przygotowują się na przyszłe technologie.",
+          "bold": false
+        }
+      ]
+    },
+    { "type": "heading", "level": 3, "text": "Źródła" },
+    {
+      "type": "citation",
+      "text": "Why is Reducing Carbon Emissions in Transportation and Logistics Important? (Ct Global Freight Audit, 2023) - Wskazuje, że do 90 % emisji może pochodzić z łańcucha dostaw, a transport/logistyka to niemal 25 % emisji globalnych. Omawia kroki: eco-driving, planowanie tras, intermodalność, paliwa alternatywne i efektywność floty.",
+      "author": "Ct Global Freight Audit",
+      "url": "https://ctglobal-freightaudit.com/why-is-reducing-carbon-emissions-in-transportation-and-logistics-important/"
+    }
   ],
   "tags": [
     "zrównoważony transport drogowy",
@@ -53,4 +171,3 @@
     "zielony transport bez technologii"
   ]
 }
-

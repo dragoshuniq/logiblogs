@@ -4,42 +4,229 @@
   "language": "se",
   "isVisible": true,
   "readTime": 600,
-  "title": "Hur AI‑baserad ruttoptimering minskar CO2 i vägtransporter",
-  "description": "I vägtransporter är tid ofta pengar – och allt oftare CO2. Dieselmotorer släpper ut stora mängder växthusgaser. AI‑ruttoptimering kortar körsträckor, minskar tomkörning och sänker bränsle och utsläpp utan att försämra servicen...",
+  "title": "Hur AI-baserad ruttoptimering minskar CO2 i vägtransporter",
+  "description": "I vägtransporter är tid ofta pengar – och allt oftare CO2. Dieselmotorer släpper ut stora mängder växthusgaser. AI-ruttoptimering kortar körsträckor, minskar tomkörning och sänker bränsle och utsläpp utan att försämra servicen...",
   "publishedAt": "2025-01-26T00:00:00Z",
   "category": "Teknik",
-  "author": {"name": "Logifie Team", "role": "Experter på logistikteknik", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experter på logistikteknik",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "ai-route-optimization-hero.png",
   "imageAlt": "Disponenter övervakar en Europakarta med optimerade lastbilsrutter och indikatorer för utsläppsbesparingar",
   "content": [
-    {"type": "paragraph", "children": [{"text": "I vägtransporter är tid pengar – och allt oftare CO2. Lastbilar håller leveranskedjorna igång men dieselmotorer ger stora växthusgasutsläpp (GHG). Vägtrafik står för ~15 % av världens CO2‑utsläpp och godslastbilar för ~29 % av transportens. Transportörer måste både sänka kostnader och utsläpp. AI‑ruttoptimering ger en praktisk väg mot grönare transporter utan att offra servicenivåer.", "bold": false}]},
-    {"type": "image", "src": "ai-route-optimization-visual.png", "alt": "Digital karta visar hur AI omleder lastbilar i realtid utifrån trafik, väder och utsläppsdata", "caption": "I driftcentralen syns hur AI omleder i realtid när väder, trafik och utsläppsfaktorer ändras."},
-    {"type": "heading", "level": 2, "text": "Varför smartare rutter behövs"},
-    {"type": "paragraph", "children": [{"text": "Transport står för omkring en femtedel av de globala CO2‑utsläppen. Tunga fordon förbrukar mycket diesel och släpper ut CO2, NOx och partiklar. Ineffektivitet förvärrar detta: i USA är 15–20 % av kilometrarna tomkörning (~87 Mt CO2e), och i vissa EU‑länder över 30 %. Köer, suboptimal ruttning, dålig matchning last/kapacitet och lång tomgång driver upp bränsleåtgången.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Traditionell planering bygger på statiska kartor, erfarenhet och manuella beslut och ignorerar ofta dynamik (live‑trafik, väder, tidsfönster, fordons­effektivitet). Det leder till omvägar, förseningar och överförbrukning. AI använder avancerade algoritmer för att generera den mest effektiva stoppsekvensen och kombinerar telematik, trafik‑ och väderdata, fordonsdata och orderrestriktioner för att minimera sträcka, tid eller utsläpp.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Hur AI‑ruttoptimering fungerar"},
-    {"type": "paragraph", "children": [{"text": "Kärnkomponenter:", "bold": false}]},
-    {"type": "list", "ordered": false, "items": [[{"text": "Data i realtid (telematik, IoT, trafik‑API:er, väder)", "bold": false}], [{"text": "Optimeringsalgoritmer (VRP‑varianter: tidsfönster, kapacitet, pickup/delivery)", "bold": false}], [{"text": "Maskininlärning för restider och utsläppsestimering", "bold": false}], [{"text": "Flera mål: inte bara kostnad/sträcka utan även utsläpp", "bold": false}]]},
-    {"type": "heading", "level": 2, "text": "Konkreta vinster"},
-    {"type": "list", "ordered": false, "items": [[{"text": "Mindre tomkörning", "bold": false}], [{"text": "Kortare körtider genom att undvika köer", "bold": false}], [{"text": "Stabila servicenivåer med realistisk ETA och dynamisk omledning", "bold": false}], [{"text": "Utsläpp per sändning för rapportering och ruttval", "bold": false}]]},
-    {"type": "heading", "level": 2, "text": "Integration i digitala speditörsplattformar"},
-    {"type": "paragraph", "children": [{"text": "Störst effekt fås i digitala plattformar som samlar TMS, WMS, order och transportörer: snabboffert, automatiska dokument, spårning i realtid och CO2‑beräkning per sändning.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Logifies plattform kopplar AI‑ruttoptimering till modernt TMS: planera, boka och följa hållbarhetsmått på ett ställe; automatisering och datacentralisering frigör tid för undantag och kundservice.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Utmaningar och hänsyn"},
-    {"type": "paragraph", "children": [{"text": "Datakvalitet/tillgänglighet, kostnad/integritet, integration med TMS/WMS samt regler/avtal (körtider, överenskommelser, SLA) kräver planering.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Mot grönare logistik"},
-    {"type": "paragraph", "children": [{"text": "AI‑ruttoptimering är ett kraftfullt verktyg för att minska utsläpp genom mindre tomkörning, kortare sträckor och bättre utnyttjande. Case som UPS ORION visar tydliga besparingar. Integrerat i digitala plattformar ger det realtidssynlighet, bättre kundupplevelse och robusthet.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "För att nå net‑zero och behålla konkurrenskraften bör AI‑ruttoptimering prioriteras. Med tekniska partners som Logifie kan företag nyttja AI utan egen utveckling. Börja med nuläge, stäng datagap, pilota i en del av flottan och mät bränsle, utsläpp och service; skala sedan upp och kombinera med grön flotta och samlastning.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Genom att omfamna AI‑ruttoptimering nu tar branschen ett stort steg mot hållbar och kostnadseffektiv vägtransport.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Källor"},
-    {"type": "citation", "text": "Transport (Global Change Data Lab, 2023) – Vägtrafik ~15 % global CO2; lastbilar ~29 % av transportens utsläpp.", "author": "Hannah Ritchie, Max Roser", "url": "https://ourworldindata.org/transport"},
-    {"type": "citation", "text": "Artificial Intelligence for sustainable logistics (IJSRA, 2025) – Upp till 15 % CO2 och 30 % bränsle kan sparas; kostnad och integritet som hinder.", "author": "Orcun Sarioguz", "url": "https://www.researchgate.net/publication/393169189_Artificial_Intelligence_for_sustainable_logistics_Reducing_carbon_emissions_and_fuel_consumption_through_route_optimization"},
-    {"type": "citation", "text": "Route Optimization White Paper (Finmile, 2024) – -10–20 % miles, -30–40 % rutter, +25–30 % effektivitet; UPS ORION benchmark.", "author": "Finmile", "url": "https://www.finmile.com/whitepaper-route-optimization"},
-    {"type": "citation", "text": "UPS ORION (BSR, 2020) – ~100 M miles och 10 M gallons/år sparade; ~100.000 t GHG undvikna.", "author": "BSR, UPS", "url": "https://www.bsr.org/en/case-studies/ups-orion"},
-    {"type": "citation", "text": "Driving sustainability: Reducing empty miles (Einride, 2023) – USA: 15–20 % tomkörning; ~87 Mt CO2e; i EU ibland >30 %.", "author": "Einride", "url": "https://www.einride.tech/news/reducing-empty-miles"},
-    {"type": "citation", "text": "Digital Freight Networks Can Reduce Truck Emissions (ACEEE, 2024) – Digitala nätverk höjer genomsnittlig fyllnadsgrad (~57 %) och minskar utsläpp.", "author": "Anna Bermiss", "url": "https://www.aceee.org/blog-post/2024/01/digital-freight-networks-can-reduce-truck-emissions"},
-    {"type": "citation", "text": "Intelligent Transport, Greener Future (WEF, 2025) – Logistik ~8 % av globala GHG; AI kan minska med upp till 15 % genom optimering.", "author": "World Economic Forum", "url": "https://reports.weforum.org/intelligent-transport-greener-future/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "I vägtransporter är tid pengar – och allt oftare CO2. Lastbilar håller leveranskedjorna igång men dieselmotorer ger stora växthusgasutsläpp (GHG). Vägtrafik står för ~15 % av världens CO2-utsläpp och godslastbilar för ~29 % av transportens. Transportörer måste både sänka kostnader och utsläpp. AI-ruttoptimering ger en praktisk väg mot grönare transporter utan att offra servicenivåer.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "ai-route-optimization-visual.png",
+      "alt": "Digital karta visar hur AI omleder lastbilar i realtid utifrån trafik, väder och utsläppsdata",
+      "caption": "I driftcentralen syns hur AI omleder i realtid när väder, trafik och utsläppsfaktorer ändras."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Varför smartare rutter behövs"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transport står för omkring en femtedel av de globala CO2-utsläppen. Tunga fordon förbrukar mycket diesel och släpper ut CO2, NOx och partiklar. Ineffektivitet förvärrar detta: i USA är 15–20 % av kilometrarna tomkörning (~87 Mt CO2e), och i vissa EU-länder över 30 %. Köer, suboptimal ruttning, dålig matchning last/kapacitet och lång tomgång driver upp bränsleåtgången.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Traditionell planering bygger på statiska kartor, erfarenhet och manuella beslut och ignorerar ofta dynamik (live-trafik, väder, tidsfönster, fordons­effektivitet). Det leder till omvägar, förseningar och överförbrukning. AI använder avancerade algoritmer för att generera den mest effektiva stoppsekvensen och kombinerar telematik, trafik- och väderdata, fordonsdata och orderrestriktioner för att minimera sträcka, tid eller utsläpp.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hur AI-ruttoptimering fungerar"
+    },
+    {
+      "type": "paragraph",
+      "children": [{ "text": "Kärnkomponenter:", "bold": false }]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Data i realtid (telematik, IoT, trafik-API:er, väder)",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Optimeringsalgoritmer (VRP-varianter: tidsfönster, kapacitet, pickup/delivery)",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Maskininlärning för restider och utsläppsestimering",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Flera mål: inte bara kostnad/sträcka utan även utsläpp",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    { "type": "heading", "level": 2, "text": "Konkreta vinster" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [{ "text": "Mindre tomkörning", "bold": false }],
+        [
+          {
+            "text": "Kortare körtider genom att undvika köer",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Stabila servicenivåer med realistisk ETA och dynamisk omledning",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Utsläpp per sändning för rapportering och ruttval",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Integration i digitala speditörsplattformar"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Störst effekt fås i digitala plattformar som samlar TMS, WMS, order och transportörer: snabboffert, automatiska dokument, spårning i realtid och CO2-beräkning per sändning.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Logifies plattform kopplar AI-ruttoptimering till modernt TMS: planera, boka och följa hållbarhetsmått på ett ställe; automatisering och datacentralisering frigör tid för undantag och kundservice.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Utmaningar och hänsyn"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Datakvalitet/tillgänglighet, kostnad/integritet, integration med TMS/WMS samt regler/avtal (körtider, överenskommelser, SLA) kräver planering.",
+          "bold": false
+        }
+      ]
+    },
+    { "type": "heading", "level": 2, "text": "Mot grönare logistik" },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "AI-ruttoptimering är ett kraftfullt verktyg för att minska utsläpp genom mindre tomkörning, kortare sträckor och bättre utnyttjande. Case som UPS ORION visar tydliga besparingar. Integrerat i digitala plattformar ger det realtidssynlighet, bättre kundupplevelse och robusthet.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "För att nå net-zero och behålla konkurrenskraften bör AI-ruttoptimering prioriteras. Med tekniska partners som Logifie kan företag nyttja AI utan egen utveckling. Börja med nuläge, stäng datagap, pilota i en del av flottan och mät bränsle, utsläpp och service; skala sedan upp och kombinera med grön flotta och samlastning.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Genom att omfamna AI-ruttoptimering nu tar branschen ett stort steg mot hållbar och kostnadseffektiv vägtransport.",
+          "bold": false
+        }
+      ]
+    },
+    { "type": "heading", "level": 3, "text": "Källor" },
+    {
+      "type": "citation",
+      "text": "Transport (Global Change Data Lab, 2023) – Vägtrafik ~15 % global CO2; lastbilar ~29 % av transportens utsläpp.",
+      "author": "Hannah Ritchie, Max Roser",
+      "url": "https://ourworldindata.org/transport"
+    },
+    {
+      "type": "citation",
+      "text": "Artificial Intelligence for sustainable logistics (IJSRA, 2025) – Upp till 15 % CO2 och 30 % bränsle kan sparas; kostnad och integritet som hinder.",
+      "author": "Orcun Sarioguz",
+      "url": "https://www.researchgate.net/publication/393169189_Artificial_Intelligence_for_sustainable_logistics_Reducing_carbon_emissions_and_fuel_consumption_through_route_optimization"
+    },
+    {
+      "type": "citation",
+      "text": "Route Optimization White Paper (Finmile, 2024) – -10–20 % miles, -30–40 % rutter, +25–30 % effektivitet; UPS ORION benchmark.",
+      "author": "Finmile",
+      "url": "https://www.finmile.com/whitepaper-route-optimization"
+    },
+    {
+      "type": "citation",
+      "text": "UPS ORION (BSR, 2020) – ~100 M miles och 10 M gallons/år sparade; ~100.000 t GHG undvikna.",
+      "author": "BSR, UPS",
+      "url": "https://www.bsr.org/en/case-studies/ups-orion"
+    },
+    {
+      "type": "citation",
+      "text": "Driving sustainability: Reducing empty miles (Einride, 2023) – USA: 15–20 % tomkörning; ~87 Mt CO2e; i EU ibland >30 %.",
+      "author": "Einride",
+      "url": "https://www.einride.tech/news/reducing-empty-miles"
+    },
+    {
+      "type": "citation",
+      "text": "Digital Freight Networks Can Reduce Truck Emissions (ACEEE, 2024) – Digitala nätverk höjer genomsnittlig fyllnadsgrad (~57 %) och minskar utsläpp.",
+      "author": "Anna Bermiss",
+      "url": "https://www.aceee.org/blog-post/2024/01/digital-freight-networks-can-reduce-truck-emissions"
+    },
+    {
+      "type": "citation",
+      "text": "Intelligent Transport, Greener Future (WEF, 2025) – Logistik ~8 % av globala GHG; AI kan minska med upp till 15 % genom optimering.",
+      "author": "World Economic Forum",
+      "url": "https://reports.weforum.org/intelligent-transport-greener-future/"
+    }
   ],
   "tags": ["AI ruttoptimering", "grön logistik", "hållbart gods"]
 }
-

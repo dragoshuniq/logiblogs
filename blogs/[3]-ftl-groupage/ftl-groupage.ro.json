@@ -8,59 +8,274 @@
   "description": "Când planifici transport rutier în Europa, alegi între camion complet sau capacitate partajată. FTL și groupage/LTL au costuri, timpi și riscuri diferite.",
   "publishedAt": "2024-12-01T00:00:00Z",
   "category": "Transport",
-  "author": { "name": "Logifie Team", "role": "Experți în tehnologii pentru logistică", "avatar": "/logos/slogo.png" },
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experți în tehnologii pentru logistică",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "ftv-groupage.png",
   "imageAlt": "Comparație: camion FTL dedicat alături de semiremorcă groupage cu mai multe paleți",
   "content": [
-    { "type": "paragraph", "children": [ { "text": "În planificarea transportului rutier european, expeditorii decid dacă rezervă un camion complet sau împart spațiul cu alții. Full Truck Load (FTL) și groupage/LTL sunt două modele diferite, cu structuri de cost, timpi de tranzit și profiluri de risc distincte. Înțelegerea compromisurilor te ajută să alegi soluția potrivită pentru fiecare expediție.", "bold": false } ] },
-    { "type": "image", "src": "warehouse.png", "alt": "Echipa din depozit înfoliază și chinguie paleți înainte de încărcare pentru un transport groupage", "caption": "Echipa de operațiuni consolidează paleți de la mai mulți clienți pe același doc înainte de cursa groupage." },
-    { "type": "heading", "level": 2, "text": "Ce este Full Truck Load (FTL)?" },
-    { "type": "paragraph", "children": [ { "text": "O expediție FTL ocupă întreaga semiremorcă sau camion. Vehiculul transportă marfa unui singur client fără consolidare. FTL este ideal pentru volume mari, mărfuri de valoare sau livrări urgente, deoarece:", "bold": false } ] },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "Timp mai scurt de tranzit: camionul merge direct la destinație fără opriri intermediare pentru (de)consolidare. Dubele până la 7,5 t livrează a doua zi până la 550 km, în 2 zile între 550–1.300 km, iar peste 1.500 km în 3–4 zile (Visline Sp. z o.o., 2024).", "bold": false } ],
-      [ { "text": "Manipulare redusă: o singură încărcare și un singur descărcat – risc mai mic de avarii.", "bold": false } ],
-      [ { "text": "Securitate: transportând marfa unui singur expeditor, riscul de pierdere sau contaminare scade.", "bold": false } ]
-    ] },
-    { "type": "paragraph", "children": [ { "text": "Totuși, FTL este mai scump per kilometru, deoarece expeditorul plătește întregul vehicul, indiferent de gradul de încărcare. Pentru loturi mici care nu umplu semiremorca, FTL poate fi ineficient.", "bold": false } ] },
-    { "type": "heading", "level": 2, "text": "Ce este groupage (LTL)?" },
-    { "type": "paragraph", "children": [ { "text": "Groupage/LTL combină mai multe loturi mici de la expeditori diferiți într-un singur camion. Fiecare client plătește pentru spațiul ocupat. Se folosește frecvent pentru expedieri sub 2.500 kg (FERCAM S.p.A., 2024). Avantaje:", "bold": false } ] },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "Cost redus: capacitate partajată → cost per palet/kg mai mic, împărțit între mai mulți expeditori.", "bold": false } ],
-      [ { "text": "Sustenabilitate: consolidarea reduce golurile și crește utilizarea vehiculului, scăzând emisiile.", "bold": false } ]
-    ] },
-    { "type": "paragraph", "children": [ { "text": "Compromisul: timpi mai lungi și mai multă manipulare. Camioanele groupage opresc în hub‑uri pentru încărcare/descărcare. Conform Visline, parțialele durează adesea 3–6 zile indiferent de distanță (Visline Sp. z o.o., 2024). Manipularea suplimentară crește riscul de avarii – ambalarea și paletizarea corectă sunt esențiale.", "bold": false } ] },
-    { "type": "heading", "level": 2, "text": "Când să alegi groupage și când FTL" },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "În planificarea transportului rutier european, expeditorii decid dacă rezervă un camion complet sau împart spațiul cu alții. Full Truck Load (FTL) și groupage/LTL sunt două modele diferite, cu structuri de cost, timpi de tranzit și profiluri de risc distincte. Înțelegerea compromisurilor te ajută să alegi soluția potrivită pentru fiecare expediție.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "warehouse.png",
+      "alt": "Echipa din depozit înfoliază și chinguie paleți înainte de încărcare pentru un transport groupage",
+      "caption": "Echipa de operațiuni consolidează paleți de la mai mulți clienți pe același doc înainte de cursa groupage."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ce este Full Truck Load (FTL)?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "O expediție FTL ocupă întreaga semiremorcă sau camion. Vehiculul transportă marfa unui singur client fără consolidare. FTL este ideal pentru volume mari, mărfuri de valoare sau livrări urgente, deoarece:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Timp mai scurt de tranzit: camionul merge direct la destinație fără opriri intermediare pentru (de)consolidare. Dubele până la 7,5 t livrează a doua zi până la 550 km, în 2 zile între 550–1.300 km, iar peste 1.500 km în 3–4 zile (Visline Sp. z o.o., 2024).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Manipulare redusă: o singură încărcare și un singur descărcat – risc mai mic de avarii.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Securitate: transportând marfa unui singur expeditor, riscul de pierdere sau contaminare scade.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Totuși, FTL este mai scump per kilometru, deoarece expeditorul plătește întregul vehicul, indiferent de gradul de încărcare. Pentru loturi mici care nu umplu semiremorca, FTL poate fi ineficient.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ce este groupage (LTL)?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Groupage/LTL combină mai multe loturi mici de la expeditori diferiți într-un singur camion. Fiecare client plătește pentru spațiul ocupat. Se folosește frecvent pentru expedieri sub 2.500 kg (FERCAM S.p.A., 2024). Avantaje:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Cost redus: capacitate partajată → cost per palet/kg mai mic, împărțit între mai mulți expeditori.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sustenabilitate: consolidarea reduce golurile și crește utilizarea vehiculului, scăzând emisiile.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Compromisul: timpi mai lungi și mai multă manipulare. Camioanele groupage opresc în hub-uri pentru încărcare/descărcare. Conform Visline, parțialele durează adesea 3–6 zile indiferent de distanță (Visline Sp. z o.o., 2024). Manipularea suplimentară crește riscul de avarii – ambalarea și paletizarea corectă sunt esențiale.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Când să alegi groupage și când FTL"
+    },
     { "type": "heading", "level": 3, "text": "Alege FTL când:" },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "Volumul atinge sau depășește ~10–13 paleți sau greutatea > ~2,5 t.", "bold": false } ],
-      [ { "text": "Mărfurile sunt de mare valoare, fragile sau sensibile la timp.", "bold": false } ],
-      [ { "text": "Este critică livrarea directă cu manipulare minimă.", "bold": false } ],
-      [ { "text": "Prioritatea este securitatea/confidențialitatea.", "bold": false } ]
-    ] },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Volumul atinge sau depășește ~10–13 paleți sau greutatea > ~2,5 t.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Mărfurile sunt de mare valoare, fragile sau sensibile la timp.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Este critică livrarea directă cu manipulare minimă.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Prioritatea este securitatea/confidențialitatea.",
+            "bold": false
+          }
+        ]
+      ]
+    },
     { "type": "heading", "level": 3, "text": "Alege groupage când:" },
-    { "type": "list", "ordered": false, "items": [
-      [ { "text": "Trimiți puțini paleți/colete – camionul complet nu se justifică.", "bold": false } ],
-      [ { "text": "Economia de cost primează în fața vitezei.", "bold": false } ],
-      [ { "text": "E acceptabilă flexibilitatea timpilor de tranzit.", "bold": false } ],
-      [ { "text": "Prioritare sunt sustenabilitatea și reducerea amprentei de carbon.", "bold": false } ]
-    ] },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Trimiți puțini paleți/colete – camionul complet nu se justifică.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Economia de cost primează în fața vitezei.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "E acceptabilă flexibilitatea timpilor de tranzit.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Prioritare sunt sustenabilitatea și reducerea amprentei de carbon.",
+            "bold": false
+          }
+        ]
+      ]
+    },
     { "type": "heading", "level": 2, "text": "Opțiuni hibride" },
-    { "type": "paragraph", "children": [ { "text": "Unii operatori oferă încărcare parțială sau hibride LTL–FTL: camionul poate prelua două–trei parțiale, echilibrând costul și viteza. O soluție bună când expediția e prea mare pentru curierat, dar prea mică pentru vehicul dedicat.", "bold": false } ] },
-    { "type": "heading", "level": 2, "text": "Factori de luat în calcul" },
-    { "type": "list", "ordered": true, "items": [
-      [ { "text": "Greutate și volum: compară costul FTL vs groupage pentru dimensiunea ta.", "bold": false } ],
-      [ { "text": "Urgență: dacă viteza e critică, FTL poate merita costul.", "bold": false } ],
-      [ { "text": "Valoare și fragilitate: bunurile sensibile pot justifica securitatea suplimentară FTL.", "bold": false } ],
-      [ { "text": "Buget: IMM‑urile aleg des groupage pentru a împărți costurile.", "bold": false } ],
-      [ { "text": "Obiective de mediu: consolidarea reduce kilometrii goi și emisiile.", "bold": false } ],
-      [ { "text": "Sezonalitate/capacitate: în vârfuri, FTL e rar/scump; groupage oferă adesea flexibilitate.", "bold": false } ]
-    ] },
-    { "type": "heading", "level": 2, "text": "Concluzie: potrivește modul cu misiunea" },
-    { "type": "paragraph", "children": [ { "text": "Decizia între FTL și groupage nu se reduce la preț. FTL oferă viteză, securitate și simplitate – la cost mai mare; groupage maximizează eficiența și scade emisiile – cu termene mai lungi. Evaluează dimensiunea, valoarea, calendarul și obiectivele de sustenabilitate pentru fiecare expediție. Un forwarder precum Logifie poate recomanda opțiunea optimă și organiza soluții hibride când e cazul.", "bold": false } ] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Unii operatori oferă încărcare parțială sau hibride LTL–FTL: camionul poate prelua două–trei parțiale, echilibrând costul și viteza. O soluție bună când expediția e prea mare pentru curierat, dar prea mică pentru vehicul dedicat.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Factori de luat în calcul"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Greutate și volum: compară costul FTL vs groupage pentru dimensiunea ta.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Urgență: dacă viteza e critică, FTL poate merita costul.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Valoare și fragilitate: bunurile sensibile pot justifica securitatea suplimentară FTL.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Buget: IMM-urile aleg des groupage pentru a împărți costurile.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Obiective de mediu: consolidarea reduce kilometrii goi și emisiile.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sezonalitate/capacitate: în vârfuri, FTL e rar/scump; groupage oferă adesea flexibilitate.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Concluzie: potrivește modul cu misiunea"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Decizia între FTL și groupage nu se reduce la preț. FTL oferă viteză, securitate și simplitate – la cost mai mare; groupage maximizează eficiența și scade emisiile – cu termene mai lungi. Evaluează dimensiunea, valoarea, calendarul și obiectivele de sustenabilitate pentru fiecare expediție. Un forwarder precum Logifie poate recomanda opțiunea optimă și organiza soluții hibride când e cazul.",
+          "bold": false
+        }
+      ]
+    },
     { "type": "heading", "level": 3, "text": "Surse" },
-    { "type": "citation", "text": "European road freight options explained (Uniserve Group, 2025) - Definește FTL și LTL/groupage: FTL folosește întregul vehicul (timp mai scurt, manipulare redusă); groupage consolidează loturi mici pentru cost mai mic, dar timpi mai lungi.", "author": "Uniserve Group", "url": "https://uniserve.co.uk/european-road-freight-options" },
-    { "type": "citation", "text": "FTL, LTL and groupage: definitions and differences (FERCAM S.p.A., 2024) - Arată că expedierile groupage cântăresc de obicei până la 2.500 kg și sunt consolidate în hub‑uri – timpi mai mari, cost mai mic.", "author": "FERCAM S.p.A.", "url": "https://www.fercam.com/en/ftl-ltl-groupage/" },
-    { "type": "citation", "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Estimează timpi pentru FTL (până la 550 km în 1 zi, 550–1.300 km în 2 zile, >1.500 km în 3–4 zile) și menționează 3–6 zile pentru parțiale.", "author": "Visline Sp. z o.o.", "url": "https://visline.com/en/how-to-calculate-transit-time-europe/" }
+    {
+      "type": "citation",
+      "text": "European road freight options explained (Uniserve Group, 2025) - Definește FTL și LTL/groupage: FTL folosește întregul vehicul (timp mai scurt, manipulare redusă); groupage consolidează loturi mici pentru cost mai mic, dar timpi mai lungi.",
+      "author": "Uniserve Group",
+      "url": "https://uniserve.co.uk/european-road-freight-options"
+    },
+    {
+      "type": "citation",
+      "text": "FTL, LTL and groupage: definitions and differences (FERCAM S.p.A., 2024) - Arată că expedierile groupage cântăresc de obicei până la 2.500 kg și sunt consolidate în hub-uri – timpi mai mari, cost mai mic.",
+      "author": "FERCAM S.p.A.",
+      "url": "https://www.fercam.com/en/ftl-ltl-groupage/"
+    },
+    {
+      "type": "citation",
+      "text": "How to calculate transit time for cargo across Europe (Visline Sp. z o.o., 2024) - Estimează timpi pentru FTL (până la 550 km în 1 zi, 550–1.300 km în 2 zile, >1.500 km în 3–4 zile) și menționează 3–6 zile pentru parțiale.",
+      "author": "Visline Sp. z o.o.",
+      "url": "https://visline.com/en/how-to-calculate-transit-time-europe/"
+    }
   ],
   "tags": [
     "groupage vs camion complet",
@@ -72,4 +287,3 @@
     "când să alegi groupage"
   ]
 }
-

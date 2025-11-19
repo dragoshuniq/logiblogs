@@ -5,39 +5,178 @@
   "isVisible": true,
   "readTime": 300,
   "title": "Hvordan drivstofftillegg og bompenger påvirker dine transportkostnader i Europa",
-  "description": "Økende dieselpriser, CO2‑avgifter og utvidede bompengesystemer gjør at transportkostnader kan svinge kraftig fra måned til måned. Drivstofftillegg og bompenger er to store kostnadsdrivere i europeisk vegtransport...",
+  "description": "Økende dieselpriser, CO2-avgifter og utvidede bompengesystemer gjør at transportkostnader kan svinge kraftig fra måned til måned. Drivstofftillegg og bompenger er to store kostnadsdrivere i europeisk vegtransport...",
   "publishedAt": "2024-12-15T00:00:00Z",
   "category": "Økonomi",
-  "author": {"name": "Logifie Team", "role": "Eksperter på logistikkteknologi", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperter på logistikkteknologi",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "fuel-surcharges-hero.png",
   "imageAlt": "Diagram som viser hvordan basis drivstoffpris, indeksverdier og tilleggsprosent slår ut på en fraktfaktura",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Økende dieselpriser, karbonavgifter og mer utbredt bompengeinnkreving gjør kostnadsbildet volatilt. Drivstofftillegg og bompenger er to sentrale kostnadsdrivere i europeisk vegtransport. Forståelse for beregning og styring hjelper avsendere å holde budsjett og forhandle rettferdige priser.", "bold": false}]},
-    {"type": "image", "src": "fuel-surcharges-visual.png", "alt": "Lastebil nærmer seg europeisk bomstasjon; digitale skilt viser takster og CO2-tillegg", "caption": "Bomstasjoner og CO2-prissignaler viser hvordan infrastrukturavgifter havner på linjen drivstofftillegg."},
-    {"type": "heading", "level": 2, "text": "Hva er drivstofftillegg?"},
-    {"type": "paragraph", "children": [{"text": "En variabel avgift som legges på fraktfakturaer for å kompensere svingninger i dieselpris. Transportører beregner tillegget ut fra forskjellen mellom aktuell pris og en basispris, ofte via offentlige indekser. Når dieselprisen stiger, øker tillegget; når den faller, reduseres det.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "I USA kan tillegget i LTL utgjøre opptil 30 % av fraktkostnaden (Zero Down Supply Chain Solutions, 2025). I Europa varierer nivåene per land. Blue Water Shipping oppga i november 2025: 27,40 % innenlands i Danmark, 25 % i Sverige og 60,30 % for trafikk til/fra Danmark og resten av Europa (Blue Water Shipping A/S, 2025).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Hvordan tillegget beregnes"},
-    {"type": "paragraph", "children": [{"text": "Typisk basert på: (1) en basispris (f.eks. EUR 1.00 per liter); (2) et indeks (f.eks. EU‑kommisjonens Weekly Oil Bulletin); (3) en formel som omregner avvik til km‑ eller prosentsats. Eksempel: 0,5 % per EUR 0.01 over basispris. Noen publiserer tabeller; andre forhandler en egen linje.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Bompenger og miljøavgifter"},
-    {"type": "paragraph", "children": [{"text": "I tillegg til drivstofftillegg må avsendere håndtere bompenger og miljøavgifter. Forskning fra Transport Intelligence, Upply og IRU anslår at bompenger utgjør rundt 14 % av fraktkostnader i Europa, opp til 23 % på enkelte ruter (Logistics Business, 2025). Med revidert Eurovignette‑direktiv går EU‑land over til avstandsbasert bompenge knyttet til CO2‑utslipp (Logistics Business, 2025). Tyskland innførte i desember 2023 en CO2‑komponent på EUR 200 per tonn CO2 og nær doblet kostnaden (NOSTA Group, 2023).", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Lavutslippssoner i byer som Paris, Berlin og Milano gir ekstra kostnader for eldre kjøretøy. Unnlatelse av betaling eller manglende etterlevelse av utslippskrav gir bøter og avbrudd.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Slik reduserer du drivstoff- og bomkostnader"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Optimaliser ruter og last. AI‑drevet ruteplanlegging og konsolidering reduserer tomkjøring og sparer drivstoff. ORION (UPS) har fjernet 100 mill. miles og spart 10 mill. gallon årlig.", "bold": false}],
-      [{"text": "Følg brenselindekser. Overvåk indekser og forhandle formler med transportører. Noen sikrer brensel med terminer.", "bold": false}],
-      [{"text": "Bruk energieffektive kjøretøy. Investering i Euro 6 eller elektrisk reduserer forbruk og unngår gebyrer i lavutslippssoner.", "bold": false}],
-      [{"text": "Planlegg for endringer i bompenger. Hold deg oppdatert på nye systemer og CO2‑tillegg; legg det inn i budsjetter og planlegging.", "bold": false}],
-      [{"text": "Konsolider sendinger. Groupage eller intermodalt fordeler brensel‑ og bomkostnader og senker stykkkost.", "bold": false}],
-      [{"text": "Vurder multimodalt. Bane eller short‑sea kan være mer forutsigbart på lange strekninger.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Konklusjon: synlighet og planlegging"},
-    {"type": "paragraph", "children": [{"text": "Drivstofftillegg og bompenger kan avgjøre lønnsomheten i vegtransport. Ved å forstå beregningen, følge prisutviklingen og forutse endringer kan avsendere styre kostnader proaktivt. Logifie bruker analyse for å optimalisere ruter og last og dempe tilleggs‑ og miljøavgifter.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Kilder"},
-    {"type": "citation", "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Forklarer at tillegget kompenserer for dieselvolatilitet; i LTL opptil 30 % og beskriver beregning.", "author": "Zero Down Supply Chain Solutions", "url": "https://zerodownsc.com/2025/09/fuel-surcharges/"},
-    {"type": "citation", "text": "Road transport surcharges and fees (November 2025) (Blue Water Shipping A/S, 2025) - Lister tillegget i nov. 2025: 27,40 % i DK, 25 % i SE og 60,30 % for Europa‑trafikk.", "author": "Blue Water Shipping", "url": "https://www.bws.dk/surcharges-and-fees/"},
-    {"type": "citation", "text": "Tolls drive up European road transport prices (Logistics Business, 2025) - Angir at bomrelaterte kostnader er ~14 %, opp til 23 %; EU går til avstandsbasert CO2‑knyttet bom (Eurovignette).", "author": "Logistics Business Magazine", "url": "https://logisticsbusiness.com/transport-management/tolls-drive-up-european-road-transport-prices/"},
-    {"type": "citation", "text": "Germany introduces CO2 component to truck toll (NOSTA Group, 2023) - Opplyser at DE fra 1.12.2023 la til ~EUR 200/tonn CO2, nesten en dobling.", "author": "NOSTA Group", "url": "https://www.nosta-group.com/en/news/truck-toll-co2/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Økende dieselpriser, karbonavgifter og mer utbredt bompengeinnkreving gjør kostnadsbildet volatilt. Drivstofftillegg og bompenger er to sentrale kostnadsdrivere i europeisk vegtransport. Forståelse for beregning og styring hjelper avsendere å holde budsjett og forhandle rettferdige priser.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "fuel-surcharges-visual.png",
+      "alt": "Lastebil nærmer seg europeisk bomstasjon; digitale skilt viser takster og CO2-tillegg",
+      "caption": "Bomstasjoner og CO2-prissignaler viser hvordan infrastrukturavgifter havner på linjen drivstofftillegg."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hva er drivstofftillegg?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "En variabel avgift som legges på fraktfakturaer for å kompensere svingninger i dieselpris. Transportører beregner tillegget ut fra forskjellen mellom aktuell pris og en basispris, ofte via offentlige indekser. Når dieselprisen stiger, øker tillegget; når den faller, reduseres det.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "I USA kan tillegget i LTL utgjøre opptil 30 % av fraktkostnaden (Zero Down Supply Chain Solutions, 2025). I Europa varierer nivåene per land. Blue Water Shipping oppga i november 2025: 27,40 % innenlands i Danmark, 25 % i Sverige og 60,30 % for trafikk til/fra Danmark og resten av Europa (Blue Water Shipping A/S, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Hvordan tillegget beregnes"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Typisk basert på: (1) en basispris (f.eks. EUR 1.00 per liter); (2) et indeks (f.eks. EU-kommisjonens Weekly Oil Bulletin); (3) en formel som omregner avvik til km- eller prosentsats. Eksempel: 0,5 % per EUR 0.01 over basispris. Noen publiserer tabeller; andre forhandler en egen linje.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Bompenger og miljøavgifter"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "I tillegg til drivstofftillegg må avsendere håndtere bompenger og miljøavgifter. Forskning fra Transport Intelligence, Upply og IRU anslår at bompenger utgjør rundt 14 % av fraktkostnader i Europa, opp til 23 % på enkelte ruter (Logistics Business, 2025). Med revidert Eurovignette-direktiv går EU-land over til avstandsbasert bompenge knyttet til CO2-utslipp (Logistics Business, 2025). Tyskland innførte i desember 2023 en CO2-komponent på EUR 200 per tonn CO2 og nær doblet kostnaden (NOSTA Group, 2023).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lavutslippssoner i byer som Paris, Berlin og Milano gir ekstra kostnader for eldre kjøretøy. Unnlatelse av betaling eller manglende etterlevelse av utslippskrav gir bøter og avbrudd.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Slik reduserer du drivstoff- og bomkostnader"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Optimaliser ruter og last. AI-drevet ruteplanlegging og konsolidering reduserer tomkjøring og sparer drivstoff. ORION (UPS) har fjernet 100 mill. miles og spart 10 mill. gallon årlig.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Følg brenselindekser. Overvåk indekser og forhandle formler med transportører. Noen sikrer brensel med terminer.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Bruk energieffektive kjøretøy. Investering i Euro 6 eller elektrisk reduserer forbruk og unngår gebyrer i lavutslippssoner.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Planlegg for endringer i bompenger. Hold deg oppdatert på nye systemer og CO2-tillegg; legg det inn i budsjetter og planlegging.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Konsolider sendinger. Groupage eller intermodalt fordeler brensel- og bomkostnader og senker stykkkost.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Vurder multimodalt. Bane eller short-sea kan være mer forutsigbart på lange strekninger.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Konklusjon: synlighet og planlegging"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Drivstofftillegg og bompenger kan avgjøre lønnsomheten i vegtransport. Ved å forstå beregningen, følge prisutviklingen og forutse endringer kan avsendere styre kostnader proaktivt. Logifie bruker analyse for å optimalisere ruter og last og dempe tilleggs- og miljøavgifter.",
+          "bold": false
+        }
+      ]
+    },
+    { "type": "heading", "level": 3, "text": "Kilder" },
+    {
+      "type": "citation",
+      "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Forklarer at tillegget kompenserer for dieselvolatilitet; i LTL opptil 30 % og beskriver beregning.",
+      "author": "Zero Down Supply Chain Solutions",
+      "url": "https://zerodownsc.com/2025/09/fuel-surcharges/"
+    },
+    {
+      "type": "citation",
+      "text": "Road transport surcharges and fees (November 2025) (Blue Water Shipping A/S, 2025) - Lister tillegget i nov. 2025: 27,40 % i DK, 25 % i SE og 60,30 % for Europa-trafikk.",
+      "author": "Blue Water Shipping",
+      "url": "https://www.bws.dk/surcharges-and-fees/"
+    },
+    {
+      "type": "citation",
+      "text": "Tolls drive up European road transport prices (Logistics Business, 2025) - Angir at bomrelaterte kostnader er ~14 %, opp til 23 %; EU går til avstandsbasert CO2-knyttet bom (Eurovignette).",
+      "author": "Logistics Business Magazine",
+      "url": "https://logisticsbusiness.com/transport-management/tolls-drive-up-european-road-transport-prices/"
+    },
+    {
+      "type": "citation",
+      "text": "Germany introduces CO2 component to truck toll (NOSTA Group, 2023) - Opplyser at DE fra 1.12.2023 la til ~EUR 200/tonn CO2, nesten en dobling.",
+      "author": "NOSTA Group",
+      "url": "https://www.nosta-group.com/en/news/truck-toll-co2/"
+    }
   ],
   "tags": [
     "drivstofftillegg vegtransport europa",

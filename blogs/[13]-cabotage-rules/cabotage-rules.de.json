@@ -4,33 +4,170 @@
   "language": "de",
   "isVisible": true,
   "readTime": 300,
-  "title": "EU‑Kabotage und Mobilitätspaket: Abkühlphasen und Rückkehrpflicht im Griff",
-  "description": "Kabotage – also inländische Transporte durch ausländische Frachtführer – reduziert Leerfahrten und steigert Effizienz, kann aber Märkte verzerren. Das EU‑Mobilitätspaket bringt Regeln zu Abkühlphasen, Fahrzeugrückkehr und Entsendung. Dieser Beitrag erklärt, was Spediteure und Verlader wissen müssen...",
+  "title": "EU-Kabotage und Mobilitätspaket: Abkühlphasen und Rückkehrpflicht im Griff",
+  "description": "Kabotage – also inländische Transporte durch ausländische Frachtführer – reduziert Leerfahrten und steigert Effizienz, kann aber Märkte verzerren. Das EU-Mobilitätspaket bringt Regeln zu Abkühlphasen, Fahrzeugrückkehr und Entsendung. Dieser Beitrag erklärt, was Spediteure und Verlader wissen müssen...",
   "publishedAt": "2025-12-01T00:00:00.000Z",
   "category": "Transport",
-  "author": {"name": "Logifie Team", "role": "Experten für Logistiktechnologie", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experten für Logistiktechnologie",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "cabotage-rules-hero.png",
-  "imageAlt": "Illustration einer EU‑Karte mit einem Lkw, der Grenzen überschreitet; Pfeile zeigen Kabotagerouten; ein Kalender steht für die viertägige Abkühlphase",
+  "imageAlt": "Illustration einer EU-Karte mit einem Lkw, der Grenzen überschreitet; Pfeile zeigen Kabotagerouten; ein Kalender steht für die viertägige Abkühlphase",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Europäische Verlader und Carrier profitieren seit Langem von Kabotage, weil sie Leerfahrten reduziert und Flüsse ausgleicht. Gleichzeitig kann sie Wettbewerb verzerren, wenn Fahrzeuge dauerhaft in Ländern mit niedrigen Kosten verbleiben. Das Mobilitätspaket der EU führt deshalb neue Regeln zur Kabotage und Fahrerentsendung ein. Im Fokus: Abkühlphasen, Rückkehrpflicht und digitale Entsendemeldungen.", "bold": false}]},
-    {"type": "image", "src": "cabotage-rules-visual-1.png", "alt": "Foto eines europäischen Lkw, der bei Sonnenuntergang zum Heimatdepot zurückkehrt; Lagerhalle im Hintergrund", "caption": "Ein Lkw kehrt zum Heimatdepot zurück – die Rückkehrpflicht ist Bestandteil des EU‑Mobilitätspakets."},
-    {"type": "heading", "level": 2, "text": "Was ist Kabotage?"},
-    {"type": "paragraph", "children": [{"text": "Kabotage liegt vor, wenn ein in einem EU‑Mitgliedstaat zugelassener Frachtführer Binnenverkehre in einem anderen Mitgliedstaat durchführt. Beispiel: Ein polnischer Carrier liefert international nach Frankreich und übernimmt danach mehrere Inlandsfahrten in Frankreich, bevor er zurückkehrt. Kabotage reduziert Leerfahrten, ist aber umstritten, wenn lokale Lohn‑ und Sozialregeln umgangen werden.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Nach EU‑Recht darf ein ausländischer Frachtführer innerhalb von sieben Tagen nach einer internationalen Entladung bis zu drei Kabotagefahrten durchführen. Diese müssen nach der Entladung der internationalen Sendung erfolgen.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Abkühlphase im Mobilitätspaket"},
-    {"type": "paragraph", "children": [{"text": "Um Dauer‑Kabotage zu verhindern, gilt eine Abkühlphase: Nach Abschluss einer Kabotage in einem Mitgliedstaat muss der Frachtführer vier Tage warten, bevor er weitere Kabotagen im selben Land fährt. Die Frist beginnt um 00:00 Uhr nach der letzten Entladung und endet um 23:59 Uhr am vierten Tag. In dieser Zeit sind Rückkehr ins Heimatland, internationale Fahrten in andere Staaten oder Kabotage in einem anderen Mitgliedstaat möglich.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Ziel ist zu verhindern, dass ausländische Lkw dauerhaft in Niedriglohnländern bleiben, bei gleichzeitiger Flexibilität für grenzüberschreitende Verkehre. Für Verlader heißt das: Während der Abkühlphase stehen weniger ausländische Kapazitäten für kurzfristige Inlandsaufträge bereit – vorausschauende Planung und verlässliche Partner werden wichtiger.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Rückkehrpflicht für Fahrzeuge"},
-    {"type": "paragraph", "children": [{"text": "Ein weiterer Kernpunkt des Mobilitätspakets ist die Rückkehrpflicht: Unternehmen müssen ihre Einsätze so organisieren, dass jedes eingesetzte Fahrzeug regelmäßig zum Betriebsstandort im Zulassungsmitgliedstaat zurückkehrt (mindestens alle acht Wochen). Das soll verhindern, dass Flotten dauerhaft im Ausland stationiert werden.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Die Pflicht wirkt sich auf Netzwerkplanung, Depotstandorte und Kosten aus. Carrier sollten Routen so bündeln, dass internationale Läufe, Kabotage und Rückkehrzyklen zusammenpassen – idealerweise mit Unterstützung digitaler Planungswerkzeuge.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Entsendung von Fahrern und IMI‑Portal"},
-    {"type": "paragraph", "children": [{"text": "Bei der Entsendung müssen Arbeitgeber digitale Entsendemeldungen im IMI‑Portal hinterlegen und Nachweise (Arbeitsvertrag, Lohnunterlagen, CMR, Tachografendaten) im Fahrzeug bereithalten. Nationale Behörden können darüber prüfen, ob lokale Mindestlöhne und Arbeitsbedingungen eingehalten werden.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Für Verlader bedeutet das: Transparenz über eingesetzte Carrier und deren Compliance wird wichtiger – vertraglich sollte die Einhaltung von Entsenderegeln und die Bereitstellung von Nachweisen festgelegt sein.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Praxisempfehlungen"},
-    {"type": "list", "ordered": false, "items": [[{"text": "Vorausplanen: Kabotagefenster und Abkühlphasen in Netz‑ und Tourenplanung berücksichtigen", "bold": false}], [{"text": "Rückkehrzyklen: Flotten so disponieren, dass Acht‑Wochen‑Rückkehr eingehalten wird", "bold": false}], [{"text": "Dokumente digitalisieren: Entsendung, CMR und Tachodaten zentral verwalten (IMI‑Portal)", "bold": false}], [{"text": "Partnerauswahl: Mit Spediteuren arbeiten, die EU‑Compliance nachweislich erfüllen", "bold": false}]]},
-    {"type": "heading", "level": 2, "text": "Fazit"},
-    {"type": "paragraph", "children": [{"text": "Das Mobilitätspaket schafft europaweit einheitlichere Spielregeln – mit Abkühlphasen, Rückkehrpflicht und digitalen Entsendemeldungen. Wer Kabotage strategisch plant, Compliance sicherstellt und auf digitale Tools setzt, minimiert Risiken und nutzt Effizienzgewinne.", "bold": false}]}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Europäische Verlader und Carrier profitieren seit Langem von Kabotage, weil sie Leerfahrten reduziert und Flüsse ausgleicht. Gleichzeitig kann sie Wettbewerb verzerren, wenn Fahrzeuge dauerhaft in Ländern mit niedrigen Kosten verbleiben. Das Mobilitätspaket der EU führt deshalb neue Regeln zur Kabotage und Fahrerentsendung ein. Im Fokus: Abkühlphasen, Rückkehrpflicht und digitale Entsendemeldungen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "cabotage-rules-visual-1.png",
+      "alt": "Foto eines europäischen Lkw, der bei Sonnenuntergang zum Heimatdepot zurückkehrt; Lagerhalle im Hintergrund",
+      "caption": "Ein Lkw kehrt zum Heimatdepot zurück – die Rückkehrpflicht ist Bestandteil des EU-Mobilitätspakets."
+    },
+    { "type": "heading", "level": 2, "text": "Was ist Kabotage?" },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kabotage liegt vor, wenn ein in einem EU-Mitgliedstaat zugelassener Frachtführer Binnenverkehre in einem anderen Mitgliedstaat durchführt. Beispiel: Ein polnischer Carrier liefert international nach Frankreich und übernimmt danach mehrere Inlandsfahrten in Frankreich, bevor er zurückkehrt. Kabotage reduziert Leerfahrten, ist aber umstritten, wenn lokale Lohn- und Sozialregeln umgangen werden.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Nach EU-Recht darf ein ausländischer Frachtführer innerhalb von sieben Tagen nach einer internationalen Entladung bis zu drei Kabotagefahrten durchführen. Diese müssen nach der Entladung der internationalen Sendung erfolgen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Abkühlphase im Mobilitätspaket"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Um Dauer-Kabotage zu verhindern, gilt eine Abkühlphase: Nach Abschluss einer Kabotage in einem Mitgliedstaat muss der Frachtführer vier Tage warten, bevor er weitere Kabotagen im selben Land fährt. Die Frist beginnt um 00:00 Uhr nach der letzten Entladung und endet um 23:59 Uhr am vierten Tag. In dieser Zeit sind Rückkehr ins Heimatland, internationale Fahrten in andere Staaten oder Kabotage in einem anderen Mitgliedstaat möglich.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ziel ist zu verhindern, dass ausländische Lkw dauerhaft in Niedriglohnländern bleiben, bei gleichzeitiger Flexibilität für grenzüberschreitende Verkehre. Für Verlader heißt das: Während der Abkühlphase stehen weniger ausländische Kapazitäten für kurzfristige Inlandsaufträge bereit – vorausschauende Planung und verlässliche Partner werden wichtiger.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rückkehrpflicht für Fahrzeuge"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ein weiterer Kernpunkt des Mobilitätspakets ist die Rückkehrpflicht: Unternehmen müssen ihre Einsätze so organisieren, dass jedes eingesetzte Fahrzeug regelmäßig zum Betriebsstandort im Zulassungsmitgliedstaat zurückkehrt (mindestens alle acht Wochen). Das soll verhindern, dass Flotten dauerhaft im Ausland stationiert werden.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Die Pflicht wirkt sich auf Netzwerkplanung, Depotstandorte und Kosten aus. Carrier sollten Routen so bündeln, dass internationale Läufe, Kabotage und Rückkehrzyklen zusammenpassen – idealerweise mit Unterstützung digitaler Planungswerkzeuge.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Entsendung von Fahrern und IMI-Portal"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Bei der Entsendung müssen Arbeitgeber digitale Entsendemeldungen im IMI-Portal hinterlegen und Nachweise (Arbeitsvertrag, Lohnunterlagen, CMR, Tachografendaten) im Fahrzeug bereithalten. Nationale Behörden können darüber prüfen, ob lokale Mindestlöhne und Arbeitsbedingungen eingehalten werden.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Für Verlader bedeutet das: Transparenz über eingesetzte Carrier und deren Compliance wird wichtiger – vertraglich sollte die Einhaltung von Entsenderegeln und die Bereitstellung von Nachweisen festgelegt sein.",
+          "bold": false
+        }
+      ]
+    },
+    { "type": "heading", "level": 2, "text": "Praxisempfehlungen" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Vorausplanen: Kabotagefenster und Abkühlphasen in Netz- und Tourenplanung berücksichtigen",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Rückkehrzyklen: Flotten so disponieren, dass Acht-Wochen-Rückkehr eingehalten wird",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Dokumente digitalisieren: Entsendung, CMR und Tachodaten zentral verwalten (IMI-Portal)",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Partnerauswahl: Mit Spediteuren arbeiten, die EU-Compliance nachweislich erfüllen",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    { "type": "heading", "level": 2, "text": "Fazit" },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Das Mobilitätspaket schafft europaweit einheitlichere Spielregeln – mit Abkühlphasen, Rückkehrpflicht und digitalen Entsendemeldungen. Wer Kabotage strategisch plant, Compliance sicherstellt und auf digitale Tools setzt, minimiert Risiken und nutzt Effizienzgewinne.",
+          "bold": false
+        }
+      ]
+    }
   ],
-  "tags": ["kobotage regeln", "eu mobilitätspaket", "abkühlphase", "fahrzeug rückkehr", "fahrerentsendung", "imi portal", "strassengüter europa"]
+  "tags": [
+    "kobotage regeln",
+    "eu mobilitätspaket",
+    "abkühlphase",
+    "fahrzeug rückkehr",
+    "fahrerentsendung",
+    "imi portal",
+    "strassengüter europa"
+  ]
 }
-

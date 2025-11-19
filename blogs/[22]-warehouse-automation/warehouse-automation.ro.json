@@ -5,7 +5,7 @@
   "isVisible": true,
   "readTime": 270,
   "title": "Automatizarea depozitelor și robotica în Europa: tendințe, beneficii și recomandări de implementare",
-  "description": "Deficitul de personal, creșterea volumelor de e‑commerce și cerințele pentru onorarea rapidă a comenzilor stimulează investițiile în automatizare și robotică în depozitele europene. Deși analiștii de piață prognozează o creștere accelerată, datele organizațiilor internaționale și ale sondajelor de industrie arată concret cum automatizarea transformă logistica...",
+  "description": "Deficitul de personal, creșterea volumelor de e-commerce și cerințele pentru onorarea rapidă a comenzilor stimulează investițiile în automatizare și robotică în depozitele europene. Deși analiștii de piață prognozează o creștere accelerată, datele organizațiilor internaționale și ale sondajelor de industrie arată concret cum automatizarea transformă logistica...",
   "publishedAt": "2025-12-10T00:00:00.000Z",
   "category": "Tehnologie",
   "author": {
@@ -20,7 +20,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Deficitul de personal, creșterea volumelor de e‑commerce și presiunea pentru livrări tot mai rapide determină investiții masive în automatizarea depozitelor și robotică în întreaga Europă. În timp ce analiștii de piață prognozează o creștere accelerată, datele organizațiilor internaționale și ale sondajelor de industrie arată cum automatizarea modelează deja logistica. Acest articol rezumă cifrele recente și oferă îndrumări pentru o implementare reușită.",
+          "text": "Deficitul de personal, creșterea volumelor de e-commerce și presiunea pentru livrări tot mai rapide determină investiții masive în automatizarea depozitelor și robotică în întreaga Europă. În timp ce analiștii de piață prognozează o creștere accelerată, datele organizațiilor internaționale și ale sondajelor de industrie arată cum automatizarea modelează deja logistica. Acest articol rezumă cifrele recente și oferă îndrumări pentru o implementare reușită.",
           "bold": false
         }
       ]
@@ -40,7 +40,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Potrivit Federației Internaționale de Robotică (IFR), vânzările de roboți de servicii profesionale au crescut cu 30 % la nivel mondial în 2023. Din cele peste 205.000 de unități vândute, Europa a reprezentat 33.918 unități, în timp ce regiunea Asia‑Pacific a dominat cu 162.284 unități. Peste jumătate dintre roboții de servicii profesionale vânduți au fost destinați aplicațiilor de transport și logistică, iar vânzările pe acest segment au crescut cu 35 %. Deficitul de forță de muncă este un factor cheie: roboții pentru încărcare și descărcare reduc timpul pe care șoferii și manipulanții îl petrec la operațiuni manuale. IFR notează, de asemenea, că Germania găzduiește 83 de producători de roboți de servicii și medicali, iar Europa aproximativ 44 % din producătorii de roboți de servicii la nivel global.",
+          "text": "Potrivit Federației Internaționale de Robotică (IFR), vânzările de roboți de servicii profesionale au crescut cu 30 % la nivel mondial în 2023. Din cele peste 205.000 de unități vândute, Europa a reprezentat 33.918 unități, în timp ce regiunea Asia-Pacific a dominat cu 162.284 unități. Peste jumătate dintre roboții de servicii profesionale vânduți au fost destinați aplicațiilor de transport și logistică, iar vânzările pe acest segment au crescut cu 35 %. Deficitul de forță de muncă este un factor cheie: roboții pentru încărcare și descărcare reduc timpul pe care șoferii și manipulanții îl petrec la operațiuni manuale. IFR notează, de asemenea, că Germania găzduiește 83 de producători de roboți de servicii și medicali, iar Europa aproximativ 44 % din producătorii de roboți de servicii la nivel global.",
           "bold": false
         }
       ]
@@ -49,7 +49,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Un sondaj McKinsey în rândul companiilor industriale arată că operatorii logistici și de fulfilment se așteaptă ca automatizarea să reprezinte 30 % sau mai mult din investițiile lor de capital în următorii cinci ani. Companiile din retail și bunuri de larg consum planifică cele mai mari investiții, urmate de sectorul alimentar și băuturi. Cazurile principale de utilizare includ manipularea materialelor, paletizarea, picking‑ul, sortarea și controlul calității. Respondenții văd beneficii în creșterea vitezei, capacității și calității, dar menționează costurile ridicate de capital și lipsa de experiență internă ca bariere majore.",
+          "text": "Un sondaj McKinsey în rândul companiilor industriale arată că operatorii logistici și de fulfilment se așteaptă ca automatizarea să reprezinte 30 % sau mai mult din investițiile lor de capital în următorii cinci ani. Companiile din retail și bunuri de larg consum planifică cele mai mari investiții, urmate de sectorul alimentar și băuturi. Cazurile principale de utilizare includ manipularea materialelor, paletizarea, picking-ul, sortarea și controlul calității. Respondenții văd beneficii în creșterea vitezei, capacității și calității, dar menționează costurile ridicate de capital și lipsa de experiență internă ca bariere majore.",
           "bold": false
         }
       ]
@@ -74,7 +74,7 @@
       "items": [
         [
           {
-            "text": "Productivitate și throughput: Roboții și sistemele automate de stocare și regăsire (AS/RS) pot funcționa 24/7, crescând throughput‑ul și reducând timpii de procesare a comenzilor.",
+            "text": "Productivitate și throughput: Roboții și sistemele automate de stocare și regăsire (AS/RS) pot funcționa 24/7, crescând throughput-ul și reducând timpii de procesare a comenzilor.",
             "bold": false
           }
         ],
@@ -113,7 +113,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "În ciuda beneficiilor, automatizarea depozitelor nu este o soluție plug‑and‑play. Printre provocări se numără:",
+          "text": "În ciuda beneficiilor, automatizarea depozitelor nu este o soluție plug-and-play. Printre provocări se numără:",
           "bold": false
         }
       ]
@@ -159,13 +159,13 @@
       "items": [
         [
           {
-            "text": "Evaluează business case‑ul: Analizează profilul comenzilor, volumele și costurile cu forța de muncă pentru a identifica zonele în care automatizarea aduce cel mai mare ROI. Ia în calcul deficitul de personal, vârfurile sezoniere și ratele de eroare.",
+            "text": "Evaluează business case-ul: Analizează profilul comenzilor, volumele și costurile cu forța de muncă pentru a identifica zonele în care automatizarea aduce cel mai mare ROI. Ia în calcul deficitul de personal, vârfurile sezoniere și ratele de eroare.",
             "bold": false
           }
         ],
         [
           {
-            "text": "Începe cu proiecte pilot: Testează un număr redus de roboți sau un sistem AS/RS într‑o zonă limitată a depozitului. Folosește lecțiile învățate pentru a rafina procesele și a construi încredere internă.",
+            "text": "Începe cu proiecte pilot: Testează un număr redus de roboți sau un sistem AS/RS într-o zonă limitată a depozitului. Folosește lecțiile învățate pentru a rafina procesele și a construi încredere internă.",
             "bold": false
           }
         ],
@@ -177,7 +177,7 @@
         ],
         [
           {
-            "text": "Integrează sistemele IT: Asigură‑te că WMS‑ul poate comunica cu roboții. Formatele standardizate de date și API‑urile deschise reduc problemele de integrare.",
+            "text": "Integrează sistemele IT: Asigură-te că WMS-ul poate comunica cu roboții. Formatele standardizate de date și API-urile deschise reduc problemele de integrare.",
             "bold": false
           }
         ],
@@ -237,4 +237,3 @@
     "depozite europene"
   ]
 }
-

@@ -4,8 +4,8 @@
   "language": "de",
   "isVisible": true,
   "readTime": 600,
-  "title": "Wie KI‑Routenoptimierung CO2 im Straßengüterverkehr senkt",
-  "description": "Im Straßengüterverkehr ist Zeit oft Geld – und zunehmend auch CO2. Diesel Lkw erzeugen hohe Treibhausgasemissionen. KI‑gestützte Routenoptimierung verkürzt Strecken, reduziert Leerfahrten und senkt Kraftstoffverbrauch sowie Emissionen, ohne Servicelevel zu opfern...",
+  "title": "Wie KI-Routenoptimierung CO2 im Straßengüterverkehr senkt",
+  "description": "Im Straßengüterverkehr ist Zeit oft Geld – und zunehmend auch CO2. Diesel Lkw erzeugen hohe Treibhausgasemissionen. KI-gestützte Routenoptimierung verkürzt Strecken, reduziert Leerfahrten und senkt Kraftstoffverbrauch sowie Emissionen, ohne Servicelevel zu opfern...",
   "publishedAt": "2025-01-26T00:00:00Z",
   "category": "Technologie",
   "author": {
@@ -14,57 +14,297 @@
     "avatar": "/logos/slogo.png"
   },
   "image": "ai-route-optimization-hero.png",
-  "imageAlt": "Disponenten überwachen eine Europakarte mit optimierten Lkw‑Routen und Indikatoren für Emissionseinsparungen",
+  "imageAlt": "Disponenten überwachen eine Europakarte mit optimierten Lkw-Routen und Indikatoren für Emissionseinsparungen",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Im Straßengüterverkehr ist Zeit oft Geld – und zunehmend auch CO2. Lkw durchqueren den Kontinent, um Lieferketten am Laufen zu halten, doch Dieselmotoren emittieren große Mengen Treibhausgase (THG). Der Straßenverkehr steht für etwa 15 % der globalen CO2‑Emissionen, Güter Lkw verursachen rund 29 % der verkehrsbedingten Emissionen. Spediteure stehen damit vor einer doppelten Aufgabe: Kosten kontrollieren und Emissionen senken. KI‑gestützte Routenoptimierung bietet einen praktischen Weg zu mehr Nachhaltigkeit ohne Einbußen bei Servicegraden.", "bold": false}]},
-    {"type": "image", "src": "ai-route-optimization-visual.png", "alt": "Digitale Karte zeigt, wie KI Lkw anhand von Live‑Verkehr, Wetter und Emissionsdaten umleitet", "caption": "Im Leitstand wird sichtbar, wie KI Lkw in Echtzeit umleitet, wenn sich Wetter, Verkehr und Emissionsfaktoren ändern."},
-    {"type": "heading", "level": 2, "text": "Warum der Straßengüterverkehr smarteres Routing braucht"},
-    {"type": "paragraph", "children": [{"text": "Der Verkehr verursacht inzwischen rund ein Fünftel der weltweiten CO2‑Emissionen. Schwerlast Lkw – das Rückgrat des Güterverkehrs – verbrauchen viel Diesel und stoßen CO2, Stickoxide und Feinstaub aus. Ineffizienzen verschärfen das Problem: In den USA sind 15–20 % der Lkw‑Kilometer leer, was schätzungsweise 87 Mio. Tonnen CO2e verschwendet; in manchen EU‑Ländern liegen die Leerfahrten über 30 %. Weitere Treiber sind Stau, suboptimale Routen, schlechtes Matching von Ladung und Kapazität sowie langes Leerlaufen.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Klassische Disposition stützt sich auf statische Karten, Fahrerfahrung und manuelle Entscheidungen. Dynamische Faktoren wie Live‑Verkehr, Wetter, Zeitfenster und Fahrzeugeffizienz bleiben oft unberücksichtigt – mit Umwegen, Verspätungen und Mehrverbrauch. KI‑basierte Routenoptimierung nutzt hingegen Algorithmen, um die effizienteste Stopp Sequenz für eine Flotte zu erzeugen. Modelle und Heuristiken verarbeiten Daten aus Telematik, Sensorik, Wetterdiensten, Fahrzeugspezifika und Auftragsrestriktionen, um Distanz, Fahrzeit oder Emissionen zu minimieren.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "So funktioniert KI‑Routenoptimierung"},
-    {"type": "paragraph", "children": [{"text": "KI‑Routenoptimierung vereint mehrere Technologien:", "bold": false}]},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Echtzeit Dateneinbindung: Fahrzeugtelematik und IoT‑Sensoren liefern Positions‑, Verbrauchs‑ und Zustandsdaten. Verkehrs APIs geben Live‑Stauinfos, Wetterdienste prognostizieren Bedingungen, die Geschwindigkeit und Sicherheit beeinflussen können.", "bold": false}],
-      [{"text": "Optimierungsalgorithmen: Varianten des Vehicle Routing Problem (VRP) – z. B. zeitfensterbasiert, kapazitätsbeschränkt oder mit Pickup/Delivery – erzeugen Touren, die Nebenbedingungen (Öffnungszeiten, Fahrerzeiterfassung, Fahrzeugklassen, Emissionsziele) respektieren.", "bold": false}],
-      [{"text": "Lernkomponenten: Machine Learning verbessert Reisezeitprognosen, schätzt Emissionen je Fahrzeug und passt Parameter an historische Daten an.", "bold": false}],
-      [{"text": "Mehr Zielgrößen: Neben Kosten/Distanz optimieren moderne Systeme auf Emissionen – etwa durch Routenwahl mit weniger Steigungen oder Stop‑and‑Go sowie durch Lastverteilung zur Auslastungserhöhung.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Praxisnutzen: Kosten und CO2 gleichzeitig senken"},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Weniger Leerfahrten: Bessere Zuordnung von Hin‑ und Rückladungen erhöht Auslastung und senkt Emissionen.", "bold": false}],
-      [{"text": "Kürzere Streckenzeiten: Live‑Verkehr und Wetter vermeiden Staus und Umwege.", "bold": false}],
-      [{"text": "Stabile Servicelevel: Termintreue durch realistische ETAs und dynamisches Re‑Routing.", "bold": false}],
-      [{"text": "Transparente Emissionen: Berechnungen pro Sendung erleichtern Reporting und Routenwahl mit geringerem CO2.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Integration in digitale Speditionsplattformen"},
-    {"type": "paragraph", "children": [{"text": "Das volle Potenzial entsteht in Verbindung mit digitaler Spedition. Plattformen bündeln Daten aus TMS, WMS, Kundenaufträgen und Carrier Netzwerken und ermöglichen:", "bold": false}]},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Sofortangebote und Buchung: KI kalkuliert Angebote anhand Live‑Raten, Lane Kapazität und Servicelevel – statt manueller Prozesse, die Tage oder gar 100 Stunden dauern können.", "bold": false}],
-      [{"text": "Automatisierte Dokumente: Elektronische Frachtbriefe, Zollanmeldungen und POD‑Bilder reduzieren Papier und Fehler.", "bold": false}],
-      [{"text": "Echtzeit Sichtbarkeit: Verlader und Empfänger verfolgen Sendungen auf Karten und Dashboards, inkl. Warnungen bei Verzögerungen.", "bold": false}],
-      [{"text": "Emissions Monitoring: Routingdaten kombiniert mit Emissionsfaktoren liefern CO2 je Sendung und erlauben eine bewusste Wahl.", "bold": false}]
-    ]},
-    {"type": "paragraph", "children": [{"text": "Die Logifie Plattform verbindet KI‑Routenoptimierung mit einem modernen TMS. Kunden planen, buchen Carrier und überwachen Nachhaltigkeitskennzahlen an einem Ort. Routine wird automatisiert, Daten zentralisiert – Teams gewinnen Zeit für Lösungen und Service.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Herausforderungen und Erfolgsfaktoren"},
-    {"type": "paragraph", "children": [{"text": "Die Einführung erfordert Planung. Zentrale Punkte sind:", "bold": false}]},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Datenverfügbarkeit und Qualität: Präzises Routing hängt von hochauflösenden Fahrzeug‑, Auftrags‑ und Infrastrukturdaten ab; Lücken führen zu schlechten Entscheidungen.", "bold": false}],
-      [{"text": "Kosten und Change Management: Software, Sensorik und Training kosten. Studien nennen hohe Implementierungskosten und Datenschutz als Hürden. Veränderungsmanagement für Disposition und Fahrer ist essenziell.", "bold": false}],
-      [{"text": "Integration: KI‑Routing muss sich nahtlos in TMS/WMS fügen – Legacy Systeme verlangen sorgfältige Planung.", "bold": false}],
-      [{"text": "Regeln und Verträge: Lenk‑/Ruhezeiten, Tarifverträge und SLAs begrenzen die Freiheitsgrade von Algorithmen.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Auf dem Weg zu grünerer Logistik"},
-    {"type": "paragraph", "children": [{"text": "KI‑gestützte Routenoptimierung ist ein wirkungsvolles Instrument zur Dekarbonisierung. Durch weniger Leerfahrten, kürzere Wege und bessere Ressourcennutzung sinken Kosten und CO2 zugleich. Fallstudien – etwa UPS ORION – zeigen deutliche Einsparungen. In digitale Plattformen integriert, entstehen Echtzeit‑Transparenz, besseres Kundenerlebnis und höhere Resilienz.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Wer Netto Null anstrebt und wettbewerbsfähig bleiben will, sollte KI‑Routing strategisch priorisieren. Mit einem technologiegetriebenen Partner wie Logifie nutzen Unternehmen KI ohne eigene Tool Entwicklung. Starten Sie mit einer Analyse der heutigen Routing Effizienz, schließen Sie Datengaps und pilotieren Sie KI‑Routing in einem Flottenausschnitt. Messen Sie Verbrauch, Emissionen und Servicelevel – und rollen Sie anschließend aus, ergänzt um grüne Flotteninvestitionen und kollaboratives Shipping.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Wer KI‑Routenoptimierung heute einsetzt, macht einen großen Schritt zu nachhaltigem, kosteneffizientem Straßengüterverkehr.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Quellen"},
-    {"type": "citation", "text": "Transport (Global Change Data Lab, 2023) – Statistik zu globalen Verkehrsemissionen; Straßenverkehr ca. 15 % der globalen CO2‑Emissionen, Güter Lkw rund 29 % der verkehrsbedingten Emissionen.", "author": "Hannah Ritchie, Max Roser", "url": "https://ourworldindata.org/transport"},
-    {"type": "citation", "text": "Artificial Intelligence for sustainable logistics (IJSRA, 2025) – KI‑basiertes Routing kann in Szenarien bis zu 15 % CO2 und 30 % Kraftstoff sparen; Implementierungskosten und Datenschutz bleiben Hürden.", "author": "Orcun Sarioguz", "url": "https://www.researchgate.net/publication/393169189_Artificial_Intelligence_for_sustainable_logistics_Reducing_carbon_emissions_and_fuel_consumption_through_route_optimization"},
-    {"type": "citation", "text": "Route Optimization White Paper (Finmile, 2024) – Algorithmische Planung spart 10–20 % Meilen, 30–40 % Routen und steigert Effizienz um 25–30 %; UPS ORION als Benchmark.", "author": "Finmile", "url": "https://www.finmile.com/whitepaper-route-optimization"},
-    {"type": "citation", "text": "UPS ORION Fallstudie (BSR, 2020) – Umsetzung von ORION mit Einsparungen von ~100 Mio. Meilen und 10 Mio. Gallonen Kraftstoff p. a.; ~100.000 t THG vermieden.", "author": "BSR, UPS", "url": "https://www.bsr.org/en/case-studies/ups-orion"},
-    {"type": "citation", "text": "Driving sustainability: Reducing empty miles (Einride, 2023) – 15–20 % Leerfahrten in den USA; ~87 Mio. t CO2e p. a.; teils >30 % in EU Ländern.", "author": "Einride", "url": "https://www.einride.tech/news/reducing-empty-miles"},
-    {"type": "citation", "text": "Digital Freight Networks Can Reduce Truck Emissions (ACEEE, 2024) – Digitale Netzwerke erhöhen Auslastung; mittlerer Load Factor ~57 %; bessere Matching‑Algorithmen senken Emissionen.", "author": "Anna Bermiss", "url": "https://www.aceee.org/blog-post/2024/01/digital-freight-networks-can-reduce-truck-emissions"},
-    {"type": "citation", "text": "Intelligent Transport, Greener Future (WEF, 2025) – Logistik ~8 % der globalen THG; KI könnte Emissionen durch optimierte Abläufe um bis zu 15 % senken.", "author": "World Economic Forum", "url": "https://reports.weforum.org/intelligent-transport-greener-future/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Im Straßengüterverkehr ist Zeit oft Geld – und zunehmend auch CO2. Lkw durchqueren den Kontinent, um Lieferketten am Laufen zu halten, doch Dieselmotoren emittieren große Mengen Treibhausgase (THG). Der Straßenverkehr steht für etwa 15 % der globalen CO2-Emissionen, Güter Lkw verursachen rund 29 % der verkehrsbedingten Emissionen. Spediteure stehen damit vor einer doppelten Aufgabe: Kosten kontrollieren und Emissionen senken. KI-gestützte Routenoptimierung bietet einen praktischen Weg zu mehr Nachhaltigkeit ohne Einbußen bei Servicegraden.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "ai-route-optimization-visual.png",
+      "alt": "Digitale Karte zeigt, wie KI Lkw anhand von Live-Verkehr, Wetter und Emissionsdaten umleitet",
+      "caption": "Im Leitstand wird sichtbar, wie KI Lkw in Echtzeit umleitet, wenn sich Wetter, Verkehr und Emissionsfaktoren ändern."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Warum der Straßengüterverkehr smarteres Routing braucht"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Der Verkehr verursacht inzwischen rund ein Fünftel der weltweiten CO2-Emissionen. Schwerlast Lkw – das Rückgrat des Güterverkehrs – verbrauchen viel Diesel und stoßen CO2, Stickoxide und Feinstaub aus. Ineffizienzen verschärfen das Problem: In den USA sind 15–20 % der Lkw-Kilometer leer, was schätzungsweise 87 Mio. Tonnen CO2e verschwendet; in manchen EU-Ländern liegen die Leerfahrten über 30 %. Weitere Treiber sind Stau, suboptimale Routen, schlechtes Matching von Ladung und Kapazität sowie langes Leerlaufen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Klassische Disposition stützt sich auf statische Karten, Fahrerfahrung und manuelle Entscheidungen. Dynamische Faktoren wie Live-Verkehr, Wetter, Zeitfenster und Fahrzeugeffizienz bleiben oft unberücksichtigt – mit Umwegen, Verspätungen und Mehrverbrauch. KI-basierte Routenoptimierung nutzt hingegen Algorithmen, um die effizienteste Stopp Sequenz für eine Flotte zu erzeugen. Modelle und Heuristiken verarbeiten Daten aus Telematik, Sensorik, Wetterdiensten, Fahrzeugspezifika und Auftragsrestriktionen, um Distanz, Fahrzeit oder Emissionen zu minimieren.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "So funktioniert KI-Routenoptimierung"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "KI-Routenoptimierung vereint mehrere Technologien:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Echtzeit Dateneinbindung: Fahrzeugtelematik und IoT-Sensoren liefern Positions-, Verbrauchs- und Zustandsdaten. Verkehrs APIs geben Live-Stauinfos, Wetterdienste prognostizieren Bedingungen, die Geschwindigkeit und Sicherheit beeinflussen können.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Optimierungsalgorithmen: Varianten des Vehicle Routing Problem (VRP) – z. B. zeitfensterbasiert, kapazitätsbeschränkt oder mit Pickup/Delivery – erzeugen Touren, die Nebenbedingungen (Öffnungszeiten, Fahrerzeiterfassung, Fahrzeugklassen, Emissionsziele) respektieren.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Lernkomponenten: Machine Learning verbessert Reisezeitprognosen, schätzt Emissionen je Fahrzeug und passt Parameter an historische Daten an.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Mehr Zielgrößen: Neben Kosten/Distanz optimieren moderne Systeme auf Emissionen – etwa durch Routenwahl mit weniger Steigungen oder Stop-and-Go sowie durch Lastverteilung zur Auslastungserhöhung.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Praxisnutzen: Kosten und CO2 gleichzeitig senken"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Weniger Leerfahrten: Bessere Zuordnung von Hin- und Rückladungen erhöht Auslastung und senkt Emissionen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kürzere Streckenzeiten: Live-Verkehr und Wetter vermeiden Staus und Umwege.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Stabile Servicelevel: Termintreue durch realistische ETAs und dynamisches Re-Routing.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Transparente Emissionen: Berechnungen pro Sendung erleichtern Reporting und Routenwahl mit geringerem CO2.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Integration in digitale Speditionsplattformen"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Das volle Potenzial entsteht in Verbindung mit digitaler Spedition. Plattformen bündeln Daten aus TMS, WMS, Kundenaufträgen und Carrier Netzwerken und ermöglichen:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Sofortangebote und Buchung: KI kalkuliert Angebote anhand Live-Raten, Lane Kapazität und Servicelevel – statt manueller Prozesse, die Tage oder gar 100 Stunden dauern können.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Automatisierte Dokumente: Elektronische Frachtbriefe, Zollanmeldungen und POD-Bilder reduzieren Papier und Fehler.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Echtzeit Sichtbarkeit: Verlader und Empfänger verfolgen Sendungen auf Karten und Dashboards, inkl. Warnungen bei Verzögerungen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Emissions Monitoring: Routingdaten kombiniert mit Emissionsfaktoren liefern CO2 je Sendung und erlauben eine bewusste Wahl.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Die Logifie Plattform verbindet KI-Routenoptimierung mit einem modernen TMS. Kunden planen, buchen Carrier und überwachen Nachhaltigkeitskennzahlen an einem Ort. Routine wird automatisiert, Daten zentralisiert – Teams gewinnen Zeit für Lösungen und Service.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Herausforderungen und Erfolgsfaktoren"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Die Einführung erfordert Planung. Zentrale Punkte sind:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Datenverfügbarkeit und Qualität: Präzises Routing hängt von hochauflösenden Fahrzeug-, Auftrags- und Infrastrukturdaten ab; Lücken führen zu schlechten Entscheidungen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kosten und Change Management: Software, Sensorik und Training kosten. Studien nennen hohe Implementierungskosten und Datenschutz als Hürden. Veränderungsmanagement für Disposition und Fahrer ist essenziell.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Integration: KI-Routing muss sich nahtlos in TMS/WMS fügen – Legacy Systeme verlangen sorgfältige Planung.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Regeln und Verträge: Lenk-/Ruhezeiten, Tarifverträge und SLAs begrenzen die Freiheitsgrade von Algorithmen.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Auf dem Weg zu grünerer Logistik"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "KI-gestützte Routenoptimierung ist ein wirkungsvolles Instrument zur Dekarbonisierung. Durch weniger Leerfahrten, kürzere Wege und bessere Ressourcennutzung sinken Kosten und CO2 zugleich. Fallstudien – etwa UPS ORION – zeigen deutliche Einsparungen. In digitale Plattformen integriert, entstehen Echtzeit-Transparenz, besseres Kundenerlebnis und höhere Resilienz.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Wer Netto Null anstrebt und wettbewerbsfähig bleiben will, sollte KI-Routing strategisch priorisieren. Mit einem technologiegetriebenen Partner wie Logifie nutzen Unternehmen KI ohne eigene Tool Entwicklung. Starten Sie mit einer Analyse der heutigen Routing Effizienz, schließen Sie Datengaps und pilotieren Sie KI-Routing in einem Flottenausschnitt. Messen Sie Verbrauch, Emissionen und Servicelevel – und rollen Sie anschließend aus, ergänzt um grüne Flotteninvestitionen und kollaboratives Shipping.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Wer KI-Routenoptimierung heute einsetzt, macht einen großen Schritt zu nachhaltigem, kosteneffizientem Straßengüterverkehr.",
+          "bold": false
+        }
+      ]
+    },
+    { "type": "heading", "level": 3, "text": "Quellen" },
+    {
+      "type": "citation",
+      "text": "Transport (Global Change Data Lab, 2023) – Statistik zu globalen Verkehrsemissionen; Straßenverkehr ca. 15 % der globalen CO2-Emissionen, Güter Lkw rund 29 % der verkehrsbedingten Emissionen.",
+      "author": "Hannah Ritchie, Max Roser",
+      "url": "https://ourworldindata.org/transport"
+    },
+    {
+      "type": "citation",
+      "text": "Artificial Intelligence for sustainable logistics (IJSRA, 2025) – KI-basiertes Routing kann in Szenarien bis zu 15 % CO2 und 30 % Kraftstoff sparen; Implementierungskosten und Datenschutz bleiben Hürden.",
+      "author": "Orcun Sarioguz",
+      "url": "https://www.researchgate.net/publication/393169189_Artificial_Intelligence_for_sustainable_logistics_Reducing_carbon_emissions_and_fuel_consumption_through_route_optimization"
+    },
+    {
+      "type": "citation",
+      "text": "Route Optimization White Paper (Finmile, 2024) – Algorithmische Planung spart 10–20 % Meilen, 30–40 % Routen und steigert Effizienz um 25–30 %; UPS ORION als Benchmark.",
+      "author": "Finmile",
+      "url": "https://www.finmile.com/whitepaper-route-optimization"
+    },
+    {
+      "type": "citation",
+      "text": "UPS ORION Fallstudie (BSR, 2020) – Umsetzung von ORION mit Einsparungen von ~100 Mio. Meilen und 10 Mio. Gallonen Kraftstoff p. a.; ~100.000 t THG vermieden.",
+      "author": "BSR, UPS",
+      "url": "https://www.bsr.org/en/case-studies/ups-orion"
+    },
+    {
+      "type": "citation",
+      "text": "Driving sustainability: Reducing empty miles (Einride, 2023) – 15–20 % Leerfahrten in den USA; ~87 Mio. t CO2e p. a.; teils >30 % in EU Ländern.",
+      "author": "Einride",
+      "url": "https://www.einride.tech/news/reducing-empty-miles"
+    },
+    {
+      "type": "citation",
+      "text": "Digital Freight Networks Can Reduce Truck Emissions (ACEEE, 2024) – Digitale Netzwerke erhöhen Auslastung; mittlerer Load Factor ~57 %; bessere Matching-Algorithmen senken Emissionen.",
+      "author": "Anna Bermiss",
+      "url": "https://www.aceee.org/blog-post/2024/01/digital-freight-networks-can-reduce-truck-emissions"
+    },
+    {
+      "type": "citation",
+      "text": "Intelligent Transport, Greener Future (WEF, 2025) – Logistik ~8 % der globalen THG; KI könnte Emissionen durch optimierte Abläufe um bis zu 15 % senken.",
+      "author": "World Economic Forum",
+      "url": "https://reports.weforum.org/intelligent-transport-greener-future/"
+    }
   ],
   "tags": [
     "KI Routenoptimierung",
@@ -72,4 +312,3 @@
     "nachhaltige fracht"
   ]
 }
-

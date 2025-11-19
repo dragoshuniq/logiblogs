@@ -8,29 +8,170 @@
   "description": "Le cabotage réduit les trajets à vide et améliore l'efficacité, mais peut fausser la concurrence. Le Paquet Mobilité introduit des règles sur la période de carence, l'obligation de retour du véhicule et le détachement des conducteurs. Voici l'essentiel pour transporteurs et chargeurs...",
   "publishedAt": "2025-12-01T00:00:00.000Z",
   "category": "Transport",
-  "author": {"name": "Logifie Team", "role": "Experts en technologies logistiques", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experts en technologies logistiques",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "cabotage-rules-hero.png",
   "imageAlt": "Illustration d'une carte de l'UE avec un camion franchissant des frontières, flèches de cabotage et icône de calendrier pour la période de 4 jours",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Depuis longtemps, chargeurs et transporteurs profitent du cabotage qui réduit les retours à vide et équilibre les flux. Mais il peut créer une concurrence déloyale si des véhicules restent durablement dans des pays à bas coûts. Pour y répondre, le Paquet Mobilité encadre cabotage et détachement. Ce guide explique la période de carence, l'obligation de retour et les déclarations IMI.", "bold": false}]},
-    {"type": "image", "src": "cabotage-rules-visual-1.png", "alt": "Photo d'un camion européen regagnant sa base au coucher du soleil, entrepôt en arrière‑plan", "caption": "Retour à la base : l'obligation de retour fait partie du Paquet Mobilité."},
-    {"type": "heading", "level": 2, "text": "Qu'est‑ce que le cabotage ?"},
-    {"type": "paragraph", "children": [{"text": "Le cabotage s'applique lorsqu'un transporteur d'un État membre effectue un transport intérieur dans un autre État membre. Exemple : un transporteur polonais livre en France puis réalise des trajets domestiques avant de rentrer. Utile contre les trajets à vide, il est controversé quand il sert à contourner les règles sociales locales.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Le droit de l'UE autorise jusqu'à trois opérations de cabotage dans les sept jours suivant une livraison internationale, après la dépose de la marchandise.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Période de carence du Paquet Mobilité"},
-    {"type": "paragraph", "children": [{"text": "Pour éviter le cabotage continu, une période de carence de quatre jours s'applique : après un cabotage dans un pays, le transporteur doit attendre quatre jours avant d'en refaire dans ce même pays. Le délai court de 00:00 le lendemain de la dernière dépose à 23:59 le quatrième jour. Pendant ce temps, retour au pays, trajets internationaux vers d'autres États ou cabotage dans un autre pays sont possibles.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Objectif : empêcher une présence permanente dans des marchés à bas coûts tout en préservant la flexibilité transfrontière. Pour les chargeurs, la carence signifie parfois moins de capacité étrangère en pic : il faut anticiper et s'appuyer sur des partenaires fiables.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Obligation de retour du véhicule"},
-    {"type": "paragraph", "children": [{"text": "Autre pilier : organiser l'exploitation pour que chaque véhicule retourne périodiquement au centre d'exploitation dans l'État d'immatriculation (au moins toutes les huit semaines). Le but est d'éviter une expatriation permanente des flottes.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "L'obligation influe sur la planification de réseau, l'implantation des dépôts et les coûts. Les transporteurs gagnent à grouper itinéraires internationaux, cabotages et cycles de retour avec des outils numériques.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Détachement des conducteurs et portail IMI"},
-    {"type": "paragraph", "children": [{"text": "Pour le détachement, l'employeur déclare via le portail IMI et garde à bord les justificatifs (contrat, paies, CMR, données tachygraphe). Les autorités vérifient salaires minimaux et conditions locales.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Côté chargeur, la transparence sur les transporteurs et leur conformité devient clé – à sécuriser contractuellement (respect du détachement et fourniture de pièces).", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Recommandations"},
-    {"type": "list", "ordered": false, "items": [[{"text": "Planifier : intégrer fenêtres de cabotage et carences dans réseau et tournées", "bold": false}], [{"text": "Cycles de retour : organiser la flotte pour l'échéance des huit semaines", "bold": false}], [{"text": "Digitaliser : centraliser IMI, CMR et tachygraphe", "bold": false}], [{"text": "Choisir des partenaires conformes au droit de l'UE", "bold": false}]]},
-    {"type": "heading", "level": 2, "text": "Conclusion"},
-    {"type": "paragraph", "children": [{"text": "Le Paquet Mobilité harmonise les règles : carence, retour et détachement digital. Avec une planification avisée, une compliance robuste et des outils numériques, on réduit les risques tout en captant des gains d'efficacité.", "bold": false}]}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Depuis longtemps, chargeurs et transporteurs profitent du cabotage qui réduit les retours à vide et équilibre les flux. Mais il peut créer une concurrence déloyale si des véhicules restent durablement dans des pays à bas coûts. Pour y répondre, le Paquet Mobilité encadre cabotage et détachement. Ce guide explique la période de carence, l'obligation de retour et les déclarations IMI.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "cabotage-rules-visual-1.png",
+      "alt": "Photo d'un camion européen regagnant sa base au coucher du soleil, entrepôt en arrière-plan",
+      "caption": "Retour à la base : l'obligation de retour fait partie du Paquet Mobilité."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qu'est-ce que le cabotage ?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Le cabotage s'applique lorsqu'un transporteur d'un État membre effectue un transport intérieur dans un autre État membre. Exemple : un transporteur polonais livre en France puis réalise des trajets domestiques avant de rentrer. Utile contre les trajets à vide, il est controversé quand il sert à contourner les règles sociales locales.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Le droit de l'UE autorise jusqu'à trois opérations de cabotage dans les sept jours suivant une livraison internationale, après la dépose de la marchandise.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Période de carence du Paquet Mobilité"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Pour éviter le cabotage continu, une période de carence de quatre jours s'applique : après un cabotage dans un pays, le transporteur doit attendre quatre jours avant d'en refaire dans ce même pays. Le délai court de 00:00 le lendemain de la dernière dépose à 23:59 le quatrième jour. Pendant ce temps, retour au pays, trajets internationaux vers d'autres États ou cabotage dans un autre pays sont possibles.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Objectif : empêcher une présence permanente dans des marchés à bas coûts tout en préservant la flexibilité transfrontière. Pour les chargeurs, la carence signifie parfois moins de capacité étrangère en pic : il faut anticiper et s'appuyer sur des partenaires fiables.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Obligation de retour du véhicule"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Autre pilier : organiser l'exploitation pour que chaque véhicule retourne périodiquement au centre d'exploitation dans l'État d'immatriculation (au moins toutes les huit semaines). Le but est d'éviter une expatriation permanente des flottes.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "L'obligation influe sur la planification de réseau, l'implantation des dépôts et les coûts. Les transporteurs gagnent à grouper itinéraires internationaux, cabotages et cycles de retour avec des outils numériques.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Détachement des conducteurs et portail IMI"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Pour le détachement, l'employeur déclare via le portail IMI et garde à bord les justificatifs (contrat, paies, CMR, données tachygraphe). Les autorités vérifient salaires minimaux et conditions locales.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Côté chargeur, la transparence sur les transporteurs et leur conformité devient clé – à sécuriser contractuellement (respect du détachement et fourniture de pièces).",
+          "bold": false
+        }
+      ]
+    },
+    { "type": "heading", "level": 2, "text": "Recommandations" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Planifier : intégrer fenêtres de cabotage et carences dans réseau et tournées",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Cycles de retour : organiser la flotte pour l'échéance des huit semaines",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Digitaliser : centraliser IMI, CMR et tachygraphe",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Choisir des partenaires conformes au droit de l'UE",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    { "type": "heading", "level": 2, "text": "Conclusion" },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Le Paquet Mobilité harmonise les règles : carence, retour et détachement digital. Avec une planification avisée, une compliance robuste et des outils numériques, on réduit les risques tout en captant des gains d'efficacité.",
+          "bold": false
+        }
+      ]
+    }
   ],
-  "tags": ["règles de cabotage", "paquet mobilité ue", "période de carence", "retour du véhicule", "détachement de conducteurs", "portail imi", "fret routier europe"]
+  "tags": [
+    "règles de cabotage",
+    "paquet mobilité ue",
+    "période de carence",
+    "retour du véhicule",
+    "détachement de conducteurs",
+    "portail imi",
+    "fret routier europe"
+  ]
 }
-

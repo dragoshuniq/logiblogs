@@ -8,41 +8,176 @@
   "description": "Stijgende dieselprijzen, koolstofheffingen en groeiende tolsystemen zorgen ervoor dat transportkosten van maand tot maand sterk kunnen schommelen. Brandstoftoeslagen en tol zijn twee belangrijke kostendrivers in Europees wegvervoer...",
   "publishedAt": "2024-12-15T00:00:00Z",
   "category": "Financiën",
-  "author": {"name": "Logifie Team", "role": "Experts in logistieke technologie", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experts in logistieke technologie",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "fuel-surcharges-hero.png",
   "imageAlt": "Diagram dat laat zien hoe basisbrandstofprijs, indexwaarden en toeslagpercentages samenkomen op een vrachtnota",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Stijgende dieselprijzen, koolstofheffingen en uitbreidende tolheffing maken transportkosten volatiel. Brandstoftoeslagen en tol zijn twee grote kostendrivers in het Europese wegvervoer. Inzicht in de berekening en beheersing helpt verladers budgetten te sturen en eerlijke tarieven te onderhandelen.", "bold": false}]},
-    {"type": "image", "src": "fuel-surcharges-visual.png", "alt": "Vrachtwagen nadert een Europese tolpoort; digitale borden tonen toltarieven en CO2-heffingen", "caption": "Tolpoorten en CO2-prijssignalen illustreren hoe infrastructuurkosten in de brandstoftoeslagregel belanden."},
-    {"type": "heading", "level": 2, "text": "Wat is een brandstoftoeslag?"},
-    {"type": "paragraph", "children": [{"text": "Een variabele toeslag op vrachtnota's die schommelingen in diesel compenseert. Vervoerders baseren dit op het verschil tussen actuele dieselprijs en een basisprijs, vaak met publieke indexen. Stijgt diesel, dan stijgt de toeslag; daalt diesel, dan daalt de toeslag.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "In de VS kan bij LTL de toeslag oplopen tot 30 % van de vrachtkosten (Zero Down Supply Chain Solutions, 2025). In Europa verschilt het per land. Blue Water Shipping meldde in november 2025: 27,40 % binnenlands DK, 25 % in SE en 60,30 % voor zendingen van/naar DK en de rest van Europa (Blue Water Shipping A/S, 2025).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Hoe de toeslag wordt berekend"},
-    {"type": "paragraph", "children": [{"text": "Meestal gebaseerd op: (1) een basisprijs (bijv. EUR 1.00 per liter); (2) een brandstofprijsindex (bijv. Weekly Oil Bulletin van de Europese Commissie); en (3) een formule die prijsafwijkingen omzet in een km-toeslag of percentage. Voorbeeld: 0,5 % per EUR 0.01 boven de basisprijs. Sommige vervoerders publiceren tabellen; anderen onderhandelen een aparte regel.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Tol en milieukosten"},
-    {"type": "paragraph", "children": [{"text": "Naast brandstoftoeslagen spelen tol en milieukosten een rol. Onderzoek van Transport Intelligence, Upply en IRU toont dat tol ~14 % van de Europese vrachtkosten uitmaakt, tot 23 % op bepaalde routes (Logistics Business, 2025). Onder de herziene Eurovignet‑richtlijn stappen EU‑staten over op afstandsgebonden tol gekoppeld aan CO2‑emissies (Logistics Business, 2025). Duitsland voerde in december 2023 een CO2‑component van EUR 200 per ton CO2 in, waardoor kosten bijna verdubbelden (NOSTA Group, 2023).", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Lage‑emissiezones in steden zoals Parijs, Berlijn en Milaan rekenen extra kosten voor oudere voertuigen. Niet betalen of niet voldoen aan emissienormen leidt tot boetes en verstoringen.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Kosten voor brandstof en tol beperken"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Optimaliseer routes en belading. AI‑gestuurde routering en consolidatie verminderen lege kilometers en brandstofverbruik. ORION (UPS) schrapte 100 mln mijl en bespaarde 10 mln gallon per jaar.", "bold": false}],
-      [{"text": "Volg brandstofindexen. Houd indices bij en onderhandel formules met vervoerders. Sommige verladers dekken brandstof met futures.", "bold": false}],
-      [{"text": "Gebruik zuinige voertuigen. Investeren in Euro 6 of elektrisch verlaagt verbruik en vermijdt boetes in lage‑emissiezones.", "bold": false}],
-      [{"text": "Voorzie tolwijzigingen. Blijf op de hoogte van nieuwe systemen en CO2‑toeslagen; verwerk ze in budget en planning.", "bold": false}],
-      [{"text": "Consolideer zendingen. Groupage of intermodaal spreidt brandstof‑ en tolkosten en verlaagt stukskosten.", "bold": false}],
-      [{"text": "Overweeg multimodaal. Spoor of short‑sea kan op lange afstanden voorspelbaarder zijn.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Conclusie: zichtbaarheid en planning"},
-    {"type": "paragraph", "children": [{"text": "Brandstoftoeslagen en tol kunnen de winstgevendheid van wegvervoer maken of breken. Door berekening te begrijpen, brandstoftrends te volgen en tolveranderingen te voorzien, sturen verladers kosten proactief. Logifie gebruikt analytics om routes en belading te optimaliseren en toeslagen te beperken.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Bronnen"},
-    {"type": "citation", "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Legt uit dat brandstoftoeslagen dieselvolatiliteit compenseren; bij LTL tot 30 % en licht berekening toe.", "author": "Zero Down Supply Chain Solutions", "url": "https://zerodownsc.com/2025/09/fuel-surcharges/"},
-    {"type": "citation", "text": "Road transport surcharges and fees (November 2025) (Blue Water Shipping A/S, 2025) - Lijst met november 2025‑toeslagen: 27,40 % binnenlands DK, 25 % SE en 60,30 % voor Europa‑stromen.", "author": "Blue Water Shipping", "url": "https://www.bws.dk/surcharges-and-fees/"},
-    {"type": "citation", "text": "Tolls drive up European road transport prices (Logistics Business, 2025) - Meldt dat tol ~14 % uitmaakt, tot 23 %; EU‑staten vervangen tijdsvignetten door afstandstol gekoppeld aan CO2 (Eurovignet‑richtlijn).", "author": "Logistics Business Magazine", "url": "https://logisticsbusiness.com/transport-management/tolls-drive-up-european-road-transport-prices/"},
-    {"type": "citation", "text": "Germany introduces CO2 component to truck toll (NOSTA Group, 2023) - Maakt bekend dat DE per 1 dec 2023 ~EUR 200/ton CO2 toevoegde, bijna een verdubbeling.", "author": "NOSTA Group", "url": "https://www.nosta-group.com/en/news/truck-toll-co2/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Stijgende dieselprijzen, koolstofheffingen en uitbreidende tolheffing maken transportkosten volatiel. Brandstoftoeslagen en tol zijn twee grote kostendrivers in het Europese wegvervoer. Inzicht in de berekening en beheersing helpt verladers budgetten te sturen en eerlijke tarieven te onderhandelen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "fuel-surcharges-visual.png",
+      "alt": "Vrachtwagen nadert een Europese tolpoort; digitale borden tonen toltarieven en CO2-heffingen",
+      "caption": "Tolpoorten en CO2-prijssignalen illustreren hoe infrastructuurkosten in de brandstoftoeslagregel belanden."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Wat is een brandstoftoeslag?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Een variabele toeslag op vrachtnota's die schommelingen in diesel compenseert. Vervoerders baseren dit op het verschil tussen actuele dieselprijs en een basisprijs, vaak met publieke indexen. Stijgt diesel, dan stijgt de toeslag; daalt diesel, dan daalt de toeslag.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In de VS kan bij LTL de toeslag oplopen tot 30 % van de vrachtkosten (Zero Down Supply Chain Solutions, 2025). In Europa verschilt het per land. Blue Water Shipping meldde in november 2025: 27,40 % binnenlands DK, 25 % in SE en 60,30 % voor zendingen van/naar DK en de rest van Europa (Blue Water Shipping A/S, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Hoe de toeslag wordt berekend"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Meestal gebaseerd op: (1) een basisprijs (bijv. EUR 1.00 per liter); (2) een brandstofprijsindex (bijv. Weekly Oil Bulletin van de Europese Commissie); en (3) een formule die prijsafwijkingen omzet in een km-toeslag of percentage. Voorbeeld: 0,5 % per EUR 0.01 boven de basisprijs. Sommige vervoerders publiceren tabellen; anderen onderhandelen een aparte regel.",
+          "bold": false
+        }
+      ]
+    },
+    { "type": "heading", "level": 2, "text": "Tol en milieukosten" },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Naast brandstoftoeslagen spelen tol en milieukosten een rol. Onderzoek van Transport Intelligence, Upply en IRU toont dat tol ~14 % van de Europese vrachtkosten uitmaakt, tot 23 % op bepaalde routes (Logistics Business, 2025). Onder de herziene Eurovignet-richtlijn stappen EU-staten over op afstandsgebonden tol gekoppeld aan CO2-emissies (Logistics Business, 2025). Duitsland voerde in december 2023 een CO2-component van EUR 200 per ton CO2 in, waardoor kosten bijna verdubbelden (NOSTA Group, 2023).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lage-emissiezones in steden zoals Parijs, Berlijn en Milaan rekenen extra kosten voor oudere voertuigen. Niet betalen of niet voldoen aan emissienormen leidt tot boetes en verstoringen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Kosten voor brandstof en tol beperken"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Optimaliseer routes en belading. AI-gestuurde routering en consolidatie verminderen lege kilometers en brandstofverbruik. ORION (UPS) schrapte 100 mln mijl en bespaarde 10 mln gallon per jaar.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Volg brandstofindexen. Houd indices bij en onderhandel formules met vervoerders. Sommige verladers dekken brandstof met futures.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Gebruik zuinige voertuigen. Investeren in Euro 6 of elektrisch verlaagt verbruik en vermijdt boetes in lage-emissiezones.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Voorzie tolwijzigingen. Blijf op de hoogte van nieuwe systemen en CO2-toeslagen; verwerk ze in budget en planning.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Consolideer zendingen. Groupage of intermodaal spreidt brandstof- en tolkosten en verlaagt stukskosten.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Overweeg multimodaal. Spoor of short-sea kan op lange afstanden voorspelbaarder zijn.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusie: zichtbaarheid en planning"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Brandstoftoeslagen en tol kunnen de winstgevendheid van wegvervoer maken of breken. Door berekening te begrijpen, brandstoftrends te volgen en tolveranderingen te voorzien, sturen verladers kosten proactief. Logifie gebruikt analytics om routes en belading te optimaliseren en toeslagen te beperken.",
+          "bold": false
+        }
+      ]
+    },
+    { "type": "heading", "level": 3, "text": "Bronnen" },
+    {
+      "type": "citation",
+      "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Legt uit dat brandstoftoeslagen dieselvolatiliteit compenseren; bij LTL tot 30 % en licht berekening toe.",
+      "author": "Zero Down Supply Chain Solutions",
+      "url": "https://zerodownsc.com/2025/09/fuel-surcharges/"
+    },
+    {
+      "type": "citation",
+      "text": "Road transport surcharges and fees (November 2025) (Blue Water Shipping A/S, 2025) - Lijst met november 2025-toeslagen: 27,40 % binnenlands DK, 25 % SE en 60,30 % voor Europa-stromen.",
+      "author": "Blue Water Shipping",
+      "url": "https://www.bws.dk/surcharges-and-fees/"
+    },
+    {
+      "type": "citation",
+      "text": "Tolls drive up European road transport prices (Logistics Business, 2025) - Meldt dat tol ~14 % uitmaakt, tot 23 %; EU-staten vervangen tijdsvignetten door afstandstol gekoppeld aan CO2 (Eurovignet-richtlijn).",
+      "author": "Logistics Business Magazine",
+      "url": "https://logisticsbusiness.com/transport-management/tolls-drive-up-european-road-transport-prices/"
+    },
+    {
+      "type": "citation",
+      "text": "Germany introduces CO2 component to truck toll (NOSTA Group, 2023) - Maakt bekend dat DE per 1 dec 2023 ~EUR 200/ton CO2 toevoegde, bijna een verdubbeling.",
+      "author": "NOSTA Group",
+      "url": "https://www.nosta-group.com/en/news/truck-toll-co2/"
+    }
   ],
   "tags": [
     "brandstoftoeslag wegvervoer",
     "tol europa weg",
-    "lkw‑tol duitsland",
+    "lkw-tol duitsland",
     "kostenopbouw vracht",
     "berekening brandstoftoeslag",
     "prijsstelling wegvervoer europa",

@@ -8,27 +8,176 @@
   "description": "Forwarding küresel ticaretin kalbinde yer alır. On yıllarca: telefon, faks ve tablolar. Artık dijital platformlar anlık fiyat, gerçek zamanlı takip ve otomatik evrak sunuyor. Dijital forwarding nasıl farklı ve göndericiler için neden önemli?...",
   "publishedAt": "2025-02-02T00:00:00Z",
   "category": "Teknoloji",
-  "author": {"name": "Logifie Team", "role": "Lojistik teknolojisi uzmanları", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Lojistik teknolojisi uzmanları",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "digital-forwarding-hero.png",
   "imageAlt": "Bölünmüş sahne: kağıt yüklü geleneksel ofis ile yalın bir dijital kontrol odası",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Forwarderlar malların okyanus, sınır ve son mil boyunca hareketini orkestre eder. On yıllar boyunca telefon, faks ve tablolar kullanıldı. Bugün dijital platformlar anlık fiyat, canlı takip ve otomatik belge akışları sunuyor. Dijital forwarder gelenekselden nasıl ayrılır ve bu gönderici için neden önemlidir? Bu yazı, iki yaklaşımı karşılaştırır ve doğru lojistik ortağını seçmeye yardımcı olur.", "bold": false}]},
-    {"type": "image", "src": "digital-forwarding-visual.png", "alt": "Anlık fiyat, canlı takip ve karbon metrikleri içeren dijital forwarder paneli", "caption": "Dijital panel, anlık fiyatları, emisyon metriklerini ve otomatik evrakı öne çıkarır."},
-    {"type": "heading", "level": 2, "text": "Miras model: manuel süreçler ve sınırlı görünürlük"},
-    {"type": "paragraph", "children": [{"text": "Geleneksel forwarding, belgelerin yükten daha yavaş gittiği dönemde oluştu. Konteyner rezervasyonu çoğu zaman broker, taşıyıcı ve gümrükle e‑posta/telefon zincirleri demekti. Bir teklif, çoklu tarif kontrolü ve manuel evrak nedeniyle 100 saate kadar sürebilirdi. BL ve beyanların faks/kurye ile iletilmesi hata ve gecikme doğururdu.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Manuel iş akışları müşteri deneyimini yavaşlatır ve maliyeti artırır. BCG, otomasyonun backoffice/operasyon maliyetlerini %40'a kadar düşürebileceğini öngörür. Yine de birçok oyuncu e‑posta ve elden devire dayanır; anlık teklif azdır. TMS, WMS ve gümrük entegrasyonu olmadan görünürlük sınırlıdır; sapmalara geç tepki verilir.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "*Altyazı: solda kağıt yüklü geleneksel ofis, sağda panolu ve akışlı dijital kontrol odası ile bölünmüş ekran illüstrasyonu.*", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Dijital forwarding: platformlar, API'ler ve otomasyon"},
-    {"type": "paragraph", "children": [{"text": "Dijital forwarderlar forwarding'i yazılım odaklı bir hizmet olarak yeniden kurgular. Gönderici, taşıyıcı, gümrük ve depoları bağlayan platformlar kurarlar. Temel özellikler:", "bold": false}]},
-    {"type": "list", "ordered": false, "items": [[{"text": "Anlık fiyat ve rezervasyon", "bold": false}], [{"text": "Gerçek zamanlı görünürlük (IoT, entegrasyonlar), tahmini ETA ve istisna uyarıları", "bold": false}], [{"text": "Otomatik belgeler (e‑BL, beyanlar, POD)", "bold": false}], [{"text": "Gönderi başına emisyon hesaplama", "bold": false}], [{"text": "Açık API'ler ile TMS/WMS entegrasyonu", "bold": false}]]},
-    {"type": "heading", "level": 2, "text": "Doğru forwarder seçimi"},
-    {"type": "paragraph", "children": [{"text": "Değerlendirin: teknoloji, hizmet portföyü (gümrük, depolama, sigorta), ağ ve ölçek, müşteri desteği, sürdürülebilirlik (emisyon ölçüm/azaltım) ve veri yönetişimi (mülkiyet, güvenlik, mevzuat uyumu).", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Seçim ikili olmak zorunda değil: birçok gönderici hibrit model kullanır – standartlar için dijital platform, kompleks işler için geleneksel partnerler. Logifie, AI rota ve canlı takip ile karmaşık sevkiyatlarda insan uzmanlığını birleştirir.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Trendler"},
-    {"type": "list", "ordered": false, "items": [[{"text": "Yapay zeka ve öngörü analitiği (talep, rota, dinamik fiyat)", "bold": false}], [{"text": "Blockchain ve dijital dokümantasyon (güvenli değişim, hızlı gümrük)", "bold": false}], [{"text": "IoT ve akıllı konteynerler (konum, sıcaklık, darbe)", "bold": false}], [{"text": "Sürdürülebilirlik/şeffaflık (CSRD) – karbon hesaplayıcılar ve düşük karbon rotası", "bold": false}], [{"text": "Platform konsolidasyonu ve çok modlu one‑stop‑shop", "bold": false}]]},
-    {"type": "heading", "level": 2, "text": "Sonuç"},
-    {"type": "paragraph", "children": [{"text": "Dijital forwarding teklif hızını artırır, görünürlük sağlar ve rutini otomatikleştirir; geleneksel model karmaşık işlerde güçlüdür. En iyi tercih yükünüz, hatlarınız ve süreçlerinize bağlıdır; çoğu zaman hibrit strateji en iyisidir.", "bold": false}]}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Forwarderlar malların okyanus, sınır ve son mil boyunca hareketini orkestre eder. On yıllar boyunca telefon, faks ve tablolar kullanıldı. Bugün dijital platformlar anlık fiyat, canlı takip ve otomatik belge akışları sunuyor. Dijital forwarder gelenekselden nasıl ayrılır ve bu gönderici için neden önemlidir? Bu yazı, iki yaklaşımı karşılaştırır ve doğru lojistik ortağını seçmeye yardımcı olur.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "digital-forwarding-visual.png",
+      "alt": "Anlık fiyat, canlı takip ve karbon metrikleri içeren dijital forwarder paneli",
+      "caption": "Dijital panel, anlık fiyatları, emisyon metriklerini ve otomatik evrakı öne çıkarır."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Miras model: manuel süreçler ve sınırlı görünürlük"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Geleneksel forwarding, belgelerin yükten daha yavaş gittiği dönemde oluştu. Konteyner rezervasyonu çoğu zaman broker, taşıyıcı ve gümrükle e-posta/telefon zincirleri demekti. Bir teklif, çoklu tarif kontrolü ve manuel evrak nedeniyle 100 saate kadar sürebilirdi. BL ve beyanların faks/kurye ile iletilmesi hata ve gecikme doğururdu.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Manuel iş akışları müşteri deneyimini yavaşlatır ve maliyeti artırır. BCG, otomasyonun backoffice/operasyon maliyetlerini %40'a kadar düşürebileceğini öngörür. Yine de birçok oyuncu e-posta ve elden devire dayanır; anlık teklif azdır. TMS, WMS ve gümrük entegrasyonu olmadan görünürlük sınırlıdır; sapmalara geç tepki verilir.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "*Altyazı: solda kağıt yüklü geleneksel ofis, sağda panolu ve akışlı dijital kontrol odası ile bölünmüş ekran illüstrasyonu.*",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dijital forwarding: platformlar, API'ler ve otomasyon"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Dijital forwarderlar forwarding'i yazılım odaklı bir hizmet olarak yeniden kurgular. Gönderici, taşıyıcı, gümrük ve depoları bağlayan platformlar kurarlar. Temel özellikler:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [{ "text": "Anlık fiyat ve rezervasyon", "bold": false }],
+        [
+          {
+            "text": "Gerçek zamanlı görünürlük (IoT, entegrasyonlar), tahmini ETA ve istisna uyarıları",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Otomatik belgeler (e-BL, beyanlar, POD)",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Gönderi başına emisyon hesaplama",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Açık API'ler ile TMS/WMS entegrasyonu",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Doğru forwarder seçimi"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Değerlendirin: teknoloji, hizmet portföyü (gümrük, depolama, sigorta), ağ ve ölçek, müşteri desteği, sürdürülebilirlik (emisyon ölçüm/azaltım) ve veri yönetişimi (mülkiyet, güvenlik, mevzuat uyumu).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Seçim ikili olmak zorunda değil: birçok gönderici hibrit model kullanır – standartlar için dijital platform, kompleks işler için geleneksel partnerler. Logifie, AI rota ve canlı takip ile karmaşık sevkiyatlarda insan uzmanlığını birleştirir.",
+          "bold": false
+        }
+      ]
+    },
+    { "type": "heading", "level": 2, "text": "Trendler" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Yapay zeka ve öngörü analitiği (talep, rota, dinamik fiyat)",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Blockchain ve dijital dokümantasyon (güvenli değişim, hızlı gümrük)",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "IoT ve akıllı konteynerler (konum, sıcaklık, darbe)",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sürdürülebilirlik/şeffaflık (CSRD) – karbon hesaplayıcılar ve düşük karbon rotası",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Platform konsolidasyonu ve çok modlu one-stop-shop",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    { "type": "heading", "level": 2, "text": "Sonuç" },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Dijital forwarding teklif hızını artırır, görünürlük sağlar ve rutini otomatikleştirir; geleneksel model karmaşık işlerde güçlüdür. En iyi tercih yükünüz, hatlarınız ve süreçlerinize bağlıdır; çoğu zaman hibrit strateji en iyisidir.",
+          "bold": false
+        }
+      ]
+    }
   ],
   "tags": ["dijital forwarder", "lojistik teknolojisi"]
 }
-

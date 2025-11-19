@@ -16,32 +16,150 @@
   "image": "sustainability-hero.png",
   "imageAlt": "Lastbilschaufför kör mjukt och bränslesnålt på en trädkantad europeisk landsväg",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Branschen erkänner behovet av att dekarbonisera vägtransporter, men alla företag kan inte investera i el‑lastbilar, telematik och AI. Det finns däremot många låg‑teknologiska och beteenderelaterade åtgärder som tydligt minskar utsläpp och driftskostnader. Den här artikeln listar praktiska åtgärder som flottor och avsändare kan ta direkt, utan stora investeringar.", "bold": false}]},
-    {"type": "image", "src": "sustainability-visual.png", "alt": "Närbild av lastbil som tankar biodiesel på landsbygdsstation", "caption": "Att byta från diesel till biodieselblandningar vid pumpen är en snabb vinst i hållbarhetslistan."},
-    {"type": "heading", "level": 2, "text": "Varför hållbarhet spelar roll"},
-    {"type": "paragraph", "children": [{"text": "Transport och logistik står för cirka 25 % av de globala koldioxidutsläppen (Ct Global Freight Audit, 2023). Vägtransporter är den största källan och utsläppen ökar utan åtgärder. Minskning förbättrar luftkvalitet, sänker bränslekostnader och stärker varumärket.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Praktiska steg för grönare vägtransporter"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Eco‑driving. Utbilda förare i mjuk acceleration, jämn fart, framförhållning och att undvika onödig tomgång ger tydliga bränslebesparingar. Rätt däcktryck och måttlig AC‑användning ökar effektiviteten.", "bold": false}],
-      [{"text": "Regelbunden service. Motortuning, luftfilterbyte, hjulinställning och lågviskösa smörjmedel minskar förbrukningen. Förebyggande underhåll minimerar driftstopp och förlänger livslängden.", "bold": false}],
-      [{"text": "Lastoptimering och konsolidering. Fullare bilar och samordnade sändningar minskar tomkörning. Returlaster hjälper att matcha volymer med kapacitet.", "bold": false}],
-      [{"text": "Ruttplanering. Även utan AI går det att välja rutter med mindre trängsel och backar. Nattkörning kan sänka förbrukningen genom att undvika trafik.", "bold": false}],
-      [{"text": "Alternativa bränslen och blandningar. Biobränslen som biodiesel eller HVO minskar CO2 med 50-90 % jämfört med standarddiesel. De kräver inga motorändringar och är en brygga till elektrifiering, även om de kan kosta mer.", "bold": false}],
-      [{"text": "Intermodalt. Kombinera väg med järnväg eller short‑sea för att minska körsträcka och utsläpp. Järnväg har lägre CO2 per tonkilometer och passar långa sträckor.", "bold": false}],
-      [{"text": "Lättare emballage och utrustning. Lättare pallar och förpackningar minskar vikt. Återanvändbara pallar och returpack minskar avfall.", "bold": false}],
-      [{"text": "Förarengagemang och incitament. Incitamentsprogram för bränslesnål körning driver beteendeförändring. Feedback via kvitton och enkla dashboards hjälper uppföljning.", "bold": false}],
-      [{"text": "Samarbeta i kedjan. Dela data om volymer och tidtabeller för effektivare rutter och färre tomturer.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Bevis och fallstudier"},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Fördelar med eco‑driving. Program visar 5-15 % lägre förbrukning. ICCT nämner upp till 0,15 liter/km i besparing (Ct Global Freight Audit, 2023).", "bold": false}],
-      [{"text": "Bränslesnåla fordon. Euro 6 och aerodynamiska tillägg minskar förbrukningen 5-10 %; låg rullmotståndsdäck ger extra besparingar (Ct Global Freight Audit, 2023).", "bold": false}],
-      [{"text": "Alternativa bränslen. HVO ger betydande CO2‑minskningar utan motorändringar. EU‑kommissionen främjar hållbara bränslen och intermodalt för att nå målen (Ct Global Freight Audit, 2023).", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Slutsats: små steg, stor effekt"},
-    {"type": "paragraph", "children": [{"text": "Hållbarhet i vägtransport kräver inte alltid avancerad teknik. Enkla operativa åtgärder - eco‑driving, service, konsolidering och ruttplanering - minskar utsläpp och kostnader. Biobränslen och intermodalt förstärker nyttan. Med engagerade förare och samarbete i kedjan når företag verkliga framsteg mot dekarbonisering och förbereder sig för framtida teknik.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Källa"},
-    {"type": "citation", "text": "Why is Reducing Carbon Emissions in Transportation and Logistics Important? (Ct Global Freight Audit, 2023) - Upp till 90 % av ett företags utsläpp kan komma från leveranskedjan och transport/logistik står för nära 25 % globalt. Åtgärder: eco‑driving, ruttplanering, intermodalt, alternativa bränslen och flottilleffektivitet.", "author": "Ct Global Freight Audit", "url": "https://ctglobal-freightaudit.com/why-is-reducing-carbon-emissions-in-transportation-and-logistics-important/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Branschen erkänner behovet av att dekarbonisera vägtransporter, men alla företag kan inte investera i el-lastbilar, telematik och AI. Det finns däremot många låg-teknologiska och beteenderelaterade åtgärder som tydligt minskar utsläpp och driftskostnader. Den här artikeln listar praktiska åtgärder som flottor och avsändare kan ta direkt, utan stora investeringar.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "sustainability-visual.png",
+      "alt": "Närbild av lastbil som tankar biodiesel på landsbygdsstation",
+      "caption": "Att byta från diesel till biodieselblandningar vid pumpen är en snabb vinst i hållbarhetslistan."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Varför hållbarhet spelar roll"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transport och logistik står för cirka 25 % av de globala koldioxidutsläppen (Ct Global Freight Audit, 2023). Vägtransporter är den största källan och utsläppen ökar utan åtgärder. Minskning förbättrar luftkvalitet, sänker bränslekostnader och stärker varumärket.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Praktiska steg för grönare vägtransporter"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Eco-driving. Utbilda förare i mjuk acceleration, jämn fart, framförhållning och att undvika onödig tomgång ger tydliga bränslebesparingar. Rätt däcktryck och måttlig AC-användning ökar effektiviteten.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Regelbunden service. Motortuning, luftfilterbyte, hjulinställning och lågviskösa smörjmedel minskar förbrukningen. Förebyggande underhåll minimerar driftstopp och förlänger livslängden.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Lastoptimering och konsolidering. Fullare bilar och samordnade sändningar minskar tomkörning. Returlaster hjälper att matcha volymer med kapacitet.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ruttplanering. Även utan AI går det att välja rutter med mindre trängsel och backar. Nattkörning kan sänka förbrukningen genom att undvika trafik.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Alternativa bränslen och blandningar. Biobränslen som biodiesel eller HVO minskar CO2 med 50-90 % jämfört med standarddiesel. De kräver inga motorändringar och är en brygga till elektrifiering, även om de kan kosta mer.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Intermodalt. Kombinera väg med järnväg eller short-sea för att minska körsträcka och utsläpp. Järnväg har lägre CO2 per tonkilometer och passar långa sträckor.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Lättare emballage och utrustning. Lättare pallar och förpackningar minskar vikt. Återanvändbara pallar och returpack minskar avfall.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Förarengagemang och incitament. Incitamentsprogram för bränslesnål körning driver beteendeförändring. Feedback via kvitton och enkla dashboards hjälper uppföljning.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Samarbeta i kedjan. Dela data om volymer och tidtabeller för effektivare rutter och färre tomturer.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Bevis och fallstudier"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Fördelar med eco-driving. Program visar 5-15 % lägre förbrukning. ICCT nämner upp till 0,15 liter/km i besparing (Ct Global Freight Audit, 2023).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Bränslesnåla fordon. Euro 6 och aerodynamiska tillägg minskar förbrukningen 5-10 %; låg rullmotståndsdäck ger extra besparingar (Ct Global Freight Audit, 2023).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Alternativa bränslen. HVO ger betydande CO2-minskningar utan motorändringar. EU-kommissionen främjar hållbara bränslen och intermodalt för att nå målen (Ct Global Freight Audit, 2023).",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Slutsats: små steg, stor effekt"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Hållbarhet i vägtransport kräver inte alltid avancerad teknik. Enkla operativa åtgärder - eco-driving, service, konsolidering och ruttplanering - minskar utsläpp och kostnader. Biobränslen och intermodalt förstärker nyttan. Med engagerade förare och samarbete i kedjan når företag verkliga framsteg mot dekarbonisering och förbereder sig för framtida teknik.",
+          "bold": false
+        }
+      ]
+    },
+    { "type": "heading", "level": 3, "text": "Källa" },
+    {
+      "type": "citation",
+      "text": "Why is Reducing Carbon Emissions in Transportation and Logistics Important? (Ct Global Freight Audit, 2023) - Upp till 90 % av ett företags utsläpp kan komma från leveranskedjan och transport/logistik står för nära 25 % globalt. Åtgärder: eco-driving, ruttplanering, intermodalt, alternativa bränslen och flottilleffektivitet.",
+      "author": "Ct Global Freight Audit",
+      "url": "https://ctglobal-freightaudit.com/why-is-reducing-carbon-emissions-in-transportation-and-logistics-important/"
+    }
   ],
   "tags": [
     "hållbar vägtransport",
@@ -53,4 +171,3 @@
     "grönare vägtransport utan teknik"
   ]
 }
-

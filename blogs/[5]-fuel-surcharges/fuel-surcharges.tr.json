@@ -8,36 +8,175 @@
   "description": "Artan dizel fiyatları, karbon vergileri ve genişleyen geçiş ücreti sistemleri, taşıma maliyetlerinin aydan aya ciddi dalgalanmasına yol açıyor. Yakıt ek ücretleri ve yol geçiş ücretleri, Avrupa karayolu taşımacılığında iki ana maliyet unsurudur...",
   "publishedAt": "2024-12-15T00:00:00Z",
   "category": "Finans",
-  "author": {"name": "Logifie Team", "role": "Lojistik teknolojileri uzmanları", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Lojistik teknolojileri uzmanları",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "fuel-surcharges-hero.png",
   "imageAlt": "Taban yakıt fiyatı, endeksler ve ek ücret yüzdelerinin bir taşıma faturasına nasıl yansıdığını gösteren diyagram",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Artan dizel fiyatları, karbon vergileri ve geçiş ücretleri maliyetleri oynak hale getiriyor. Yakıt ek ücretleri ve yol geçiş ücretleri, Avrupa karayolu taşımacılığında iki önemli maliyet sürücüsüdür. Bunların nasıl hesaplandığını ve nasıl yönetileceğini anlamak, yük verenlerin bütçeleri kontrol etmesine ve adil fiyatlar müzakere etmesine yardımcı olur.", "bold": false}]},
-    {"type": "image", "src": "fuel-surcharges-visual.png", "alt": "Bir kamyon Avrupa'da bir gişeye yaklaşıyor; dijital panolarda ücretler ve CO2 ekleri görünüyor", "caption": "Gişeler ve CO2 fiyat işaretleri, altyapı ücretlerinin yakıt ek ücreti satırına nasıl yansıdığını gösterir."},
-    {"type": "heading", "level": 2, "text": "Yakıt ek ücreti nedir?"},
-    {"type": "paragraph", "children": [{"text": "Dizel fiyatlarındaki değişimi dengelemek için taşıma faturalarına eklenen değişken bir ücrettir. Taşıyıcılar, genellikle kamuya açık endeksleri kullanarak, geçerli dizel fiyatı ile baz fiyat arasındaki farka göre hesaplar. Dizel yükseldiğinde ek ücret artar; fiyat düşünce azalır.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "ABD'de LTL'de yakıt ek ücreti, taşıma maliyetinin %30'una kadar çıkabilir (Zero Down Supply Chain Solutions, 2025). Avrupa'da ise ülkelere göre değişir. Blue Water Shipping, Kasım 2025'te Danimarka iç taşımacılığında %27,40, İsveç'te %25 ve Danimarka ile Avrupa'nın geri kalanı arası taşımalar için %60,30 raporlamıştır (Blue Water Shipping A/S, 2025).", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Ek ücret nasıl hesaplanır"},
-    {"type": "paragraph", "children": [{"text": "Genellikle şu temellere dayanır: (1) baz yakıt fiyatı (ör. EUR 1.00/litre); (2) yakıt fiyat endeksi (ör. Avrupa Komisyonu Weekly Oil Bulletin); (3) fiyat sapmasını km‑başına veya yüzde ek ücrete çeviren bir formül. Örneğin, baz fiyat üzerindeki her EUR 0.01 için %0,5 ek. Bazıları tablolar yayımlar; bazıları ayrı kalem olarak müzakere eder.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Geçiş ücretleri ve çevresel bedeller"},
-    {"type": "paragraph", "children": [{"text": "Yakıt ek ücretine ek olarak, yol geçiş ücretleri ve çevresel bedeller de vardır. Transport Intelligence, Upply ve IRU'ya göre geçiş ücretleri Avrupa'da taşıma maliyetlerinin yaklaşık %14'ünü, bazı hatlarda %23'e kadarını oluşturur (Logistics Business, 2025). Revize Eurovignette Direktifi kapsamında AB ülkeleri, CO2 emisyonlarına bağlı mesafe bazlı ücretlere geçmektedir (Logistics Business, 2025). Almanya Aralık 2023'te ton başına EUR 200 CO2 bileşeni getirmiş ve maliyeti neredeyse ikiye katlamıştır (NOSTA Group, 2023).", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Paris, Berlin ve Milano gibi şehirlerde düşük emisyon bölgeleri, eski araçlar için ek bedeller uygular. Ücretleri ödememek veya emisyon standartlarına uymamak cezalara ve sefer aksamalarına yol açar.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Yakıt ve geçiş maliyetlerini düşürme yolları"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Rotaları ve yüklemeyi optimize edin. Yapay zeka destekli yönlendirme ve konsolidasyon boş kilometreleri azaltır ve yakıt tasarrufu sağlar. ORION (UPS) yılda 100 milyon mil ortadan kaldırmış ve 10 milyon galon yakıt tasarrufu sağlamıştır.", "bold": false}],
-      [{"text": "Yakıt endekslerini izleyin. Endeksleri takip edin ve taşıyıcılarla ek ücret formülleri üzerinde anlaşın. Bazı yük verenler vadeli işlemlerle yakıtı hedge eder.", "bold": false}],
-      [{"text": "Enerji verimli araçlar kullanın. Euro 6 veya elektrikli kamyonlar tüketimi azaltır ve LEZ bölgelerinde cezaları önler.", "bold": false}],
-      [{"text": "Ücret değişimlerini planlayın. Yeni sistemler ve CO2 ekleri hakkında bilgi sahibi olun; bütçelere ve rotalara yansıtın.", "bold": false}],
-      [{"text": "Sevkiyatları konsolide edin. Grupaj veya intermodal çözümler yakıt ve geçiş maliyetlerini birden çok gönderiye yayarak birim maliyeti düşürür.", "bold": false}],
-      [{"text": "Multimodal çözümleri değerlendirin. Demiryolu veya short‑sea uzun mesafelerde daha öngörülebilir maliyet sunabilir.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Sonuç: görünürlük ve planlama"},
-    {"type": "paragraph", "children": [{"text": "Yakıt ek ücretleri ve geçiş ücretleri, bir karayolu taşımasının kârlılığını belirleyebilir. Hesaplamayı anlayıp fiyat trendlerini takip ederek ve ücret sistemlerindeki değişimleri öngörerek maliyetleri proaktif yönetirsiniz. Logifie, rotaları ve yüklemeyi optimize etmek ve ek ücretleri ile çevresel bedelleri azaltmak için analitik kullanır.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Kaynaklar"},
-    {"type": "citation", "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Yakıt ek ücretlerinin dizel oynaklığını telafi ettiğini açıklar; LTL'de %30'a kadar; hesaplamayı anlatır.", "author": "Zero Down Supply Chain Solutions", "url": "https://zerodownsc.com/2025/09/fuel-surcharges/"},
-    {"type": "citation", "text": "Road transport surcharges and fees (November 2025) (Blue Water Shipping A/S, 2025) - Kasım 2025 ek ücretleri: DK iç %27,40, SE %25 ve Avrupa akışları için %60,30.", "author": "Blue Water Shipping", "url": "https://www.bws.dk/surcharges-and-fees/"},
-    {"type": "citation", "text": "Tolls drive up European road transport prices (Logistics Business, 2025) - Geçiş ücretlerinin maliyetlerde ~%14 ve bazı hatlarda %23'e kadar payı olduğunu; AB'nin CO2 bağlı mesafe bazlı ücrete geçtiğini belirtir (Eurovignette).", "author": "Logistics Business Magazine", "url": "https://logisticsbusiness.com/transport-management/tolls-drive-up-european-road-transport-prices/"},
-    {"type": "citation", "text": "Germany introduces CO2 component to truck toll (NOSTA Group, 2023) - Almanya'nın 1.12.2023'ten itibaren ton başına ~EUR 200 CO2 bileşeni eklediğini ve ücretleri neredeyse ikiye katladığını duyurur.", "author": "NOSTA Group", "url": "https://www.nosta-group.com/en/news/truck-toll-co2/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Artan dizel fiyatları, karbon vergileri ve geçiş ücretleri maliyetleri oynak hale getiriyor. Yakıt ek ücretleri ve yol geçiş ücretleri, Avrupa karayolu taşımacılığında iki önemli maliyet sürücüsüdür. Bunların nasıl hesaplandığını ve nasıl yönetileceğini anlamak, yük verenlerin bütçeleri kontrol etmesine ve adil fiyatlar müzakere etmesine yardımcı olur.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "fuel-surcharges-visual.png",
+      "alt": "Bir kamyon Avrupa'da bir gişeye yaklaşıyor; dijital panolarda ücretler ve CO2 ekleri görünüyor",
+      "caption": "Gişeler ve CO2 fiyat işaretleri, altyapı ücretlerinin yakıt ek ücreti satırına nasıl yansıdığını gösterir."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Yakıt ek ücreti nedir?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Dizel fiyatlarındaki değişimi dengelemek için taşıma faturalarına eklenen değişken bir ücrettir. Taşıyıcılar, genellikle kamuya açık endeksleri kullanarak, geçerli dizel fiyatı ile baz fiyat arasındaki farka göre hesaplar. Dizel yükseldiğinde ek ücret artar; fiyat düşünce azalır.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "ABD'de LTL'de yakıt ek ücreti, taşıma maliyetinin %30'una kadar çıkabilir (Zero Down Supply Chain Solutions, 2025). Avrupa'da ise ülkelere göre değişir. Blue Water Shipping, Kasım 2025'te Danimarka iç taşımacılığında %27,40, İsveç'te %25 ve Danimarka ile Avrupa'nın geri kalanı arası taşımalar için %60,30 raporlamıştır (Blue Water Shipping A/S, 2025).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ek ücret nasıl hesaplanır"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Genellikle şu temellere dayanır: (1) baz yakıt fiyatı (ör. EUR 1.00/litre); (2) yakıt fiyat endeksi (ör. Avrupa Komisyonu Weekly Oil Bulletin); (3) fiyat sapmasını km-başına veya yüzde ek ücrete çeviren bir formül. Örneğin, baz fiyat üzerindeki her EUR 0.01 için %0,5 ek. Bazıları tablolar yayımlar; bazıları ayrı kalem olarak müzakere eder.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Geçiş ücretleri ve çevresel bedeller"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Yakıt ek ücretine ek olarak, yol geçiş ücretleri ve çevresel bedeller de vardır. Transport Intelligence, Upply ve IRU'ya göre geçiş ücretleri Avrupa'da taşıma maliyetlerinin yaklaşık %14'ünü, bazı hatlarda %23'e kadarını oluşturur (Logistics Business, 2025). Revize Eurovignette Direktifi kapsamında AB ülkeleri, CO2 emisyonlarına bağlı mesafe bazlı ücretlere geçmektedir (Logistics Business, 2025). Almanya Aralık 2023'te ton başına EUR 200 CO2 bileşeni getirmiş ve maliyeti neredeyse ikiye katlamıştır (NOSTA Group, 2023).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Paris, Berlin ve Milano gibi şehirlerde düşük emisyon bölgeleri, eski araçlar için ek bedeller uygular. Ücretleri ödememek veya emisyon standartlarına uymamak cezalara ve sefer aksamalarına yol açar.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Yakıt ve geçiş maliyetlerini düşürme yolları"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Rotaları ve yüklemeyi optimize edin. Yapay zeka destekli yönlendirme ve konsolidasyon boş kilometreleri azaltır ve yakıt tasarrufu sağlar. ORION (UPS) yılda 100 milyon mil ortadan kaldırmış ve 10 milyon galon yakıt tasarrufu sağlamıştır.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Yakıt endekslerini izleyin. Endeksleri takip edin ve taşıyıcılarla ek ücret formülleri üzerinde anlaşın. Bazı yük verenler vadeli işlemlerle yakıtı hedge eder.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Enerji verimli araçlar kullanın. Euro 6 veya elektrikli kamyonlar tüketimi azaltır ve LEZ bölgelerinde cezaları önler.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ücret değişimlerini planlayın. Yeni sistemler ve CO2 ekleri hakkında bilgi sahibi olun; bütçelere ve rotalara yansıtın.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sevkiyatları konsolide edin. Grupaj veya intermodal çözümler yakıt ve geçiş maliyetlerini birden çok gönderiye yayarak birim maliyeti düşürür.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Multimodal çözümleri değerlendirin. Demiryolu veya short-sea uzun mesafelerde daha öngörülebilir maliyet sunabilir.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sonuç: görünürlük ve planlama"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Yakıt ek ücretleri ve geçiş ücretleri, bir karayolu taşımasının kârlılığını belirleyebilir. Hesaplamayı anlayıp fiyat trendlerini takip ederek ve ücret sistemlerindeki değişimleri öngörerek maliyetleri proaktif yönetirsiniz. Logifie, rotaları ve yüklemeyi optimize etmek ve ek ücretleri ile çevresel bedelleri azaltmak için analitik kullanır.",
+          "bold": false
+        }
+      ]
+    },
+    { "type": "heading", "level": 3, "text": "Kaynaklar" },
+    {
+      "type": "citation",
+      "text": "How fuel surcharges are calculated and why they matter (Zero Down Supply Chain Solutions, 2025) - Yakıt ek ücretlerinin dizel oynaklığını telafi ettiğini açıklar; LTL'de %30'a kadar; hesaplamayı anlatır.",
+      "author": "Zero Down Supply Chain Solutions",
+      "url": "https://zerodownsc.com/2025/09/fuel-surcharges/"
+    },
+    {
+      "type": "citation",
+      "text": "Road transport surcharges and fees (November 2025) (Blue Water Shipping A/S, 2025) - Kasım 2025 ek ücretleri: DK iç %27,40, SE %25 ve Avrupa akışları için %60,30.",
+      "author": "Blue Water Shipping",
+      "url": "https://www.bws.dk/surcharges-and-fees/"
+    },
+    {
+      "type": "citation",
+      "text": "Tolls drive up European road transport prices (Logistics Business, 2025) - Geçiş ücretlerinin maliyetlerde ~%14 ve bazı hatlarda %23'e kadar payı olduğunu; AB'nin CO2 bağlı mesafe bazlı ücrete geçtiğini belirtir (Eurovignette).",
+      "author": "Logistics Business Magazine",
+      "url": "https://logisticsbusiness.com/transport-management/tolls-drive-up-european-road-transport-prices/"
+    },
+    {
+      "type": "citation",
+      "text": "Germany introduces CO2 component to truck toll (NOSTA Group, 2023) - Almanya'nın 1.12.2023'ten itibaren ton başına ~EUR 200 CO2 bileşeni eklediğini ve ücretleri neredeyse ikiye katladığını duyurur.",
+      "author": "NOSTA Group",
+      "url": "https://www.nosta-group.com/en/news/truck-toll-co2/"
+    }
   ],
   "tags": [
     "yakıt ek ücreti karayolu taşımacılığı avrupa",
@@ -49,4 +188,3 @@
     "lojistik maliyet yapısı"
   ]
 }
-

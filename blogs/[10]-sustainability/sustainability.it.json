@@ -14,34 +14,152 @@
     "avatar": "/logos/slogo.png"
   },
   "image": "sustainability-hero.png",
-  "imageAlt": "Autista pratica eco‑driving fluido lungo una strada europea alberata",
+  "imageAlt": "Autista pratica eco-driving fluido lungo una strada europea alberata",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Gli operatori della logistica riconoscono la necessità di decarbonizzare il trasporto stradale, ma non tutte le aziende possono investire in camion elettrici, telematica e IA. Fortunatamente, esistono molte misure low‑tech e cambiamenti comportamentali che possono ridurre sensibilmente emissioni e costi operativi. Questo articolo illustra misure pratiche che flotte e spedizionieri possono adottare subito, senza grandi investimenti.", "bold": false}]},
-    {"type": "image", "src": "sustainability-visual.png", "alt": "Primo piano di un camion che fa rifornimento di biodiesel in una stazione rurale", "caption": "Passare a miscele di biodiesel alla pompa è un rapido vantaggio nella check‑list di sostenibilità."},
-    {"type": "heading", "level": 2, "text": "Perché la sostenibilità è importante"},
-    {"type": "paragraph", "children": [{"text": "Trasporto e logistica rappresentano circa il 25 % delle emissioni globali di carbonio (Ct Global Freight Audit, 2023). Il trasporto su strada è il principale contributore e, senza azioni, le emissioni cresceranno. Ridurle migliora la qualità dell'aria, abbassa i costi del carburante e rafforza la reputazione aziendale.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Passi pratici per un trasporto più verde"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Eco‑driving. Formare i conducenti ad accelerare dolcemente, mantenere velocità costanti, anticipare il traffico ed evitare soste a motore acceso riduce i consumi. Pressione corretta degli pneumatici e uso moderato del climatizzatore aumentano l'efficienza.", "bold": false}],
-      [{"text": "Manutenzione regolare. Taratura motore, sostituzione filtri aria, convergenza e lubrificanti a bassa viscosità riducono il consumo. La manutenzione preventiva minimizza i guasti e prolunga la vita del veicolo.", "bold": false}],
-      [{"text": "Ottimizzazione e consolidamento del carico. Riempire i camion e combinare spedizioni riduce i viaggi a vuoto. Accordi di backhaul aiutano a bilanciare carico e capacità.", "bold": false}],
-      [{"text": "Pianificazione dei percorsi. Anche senza IA, si possono scegliere percorsi con meno traffico e pendenze. La guida notturna può ridurre i consumi evitando la congestione.", "bold": false}],
-      [{"text": "Carburanti alternativi e miscele. Biocarburanti come biodiesel o HVO riducono il CO2 del 50‑90 % rispetto al diesel standard. Anche se possono costare di più, non richiedono modifiche ai motori e sono un ponte verso l'elettrificazione.", "bold": false}],
-      [{"text": "Intermodale. Combinare strada con ferrovia o short‑sea riduce la percorrenza su gomma e quindi le emissioni. Il treno emette meno CO2 per tonnellata‑chilometro, adatto alle lunghe distanze.", "bold": false}],
-      [{"text": "Imballaggi ed equipaggiamento leggeri. Alleggerire pallet e imballaggi riduce i consumi. Pallet riutilizzabili e imballaggi a rendere tagliano gli sprechi.", "bold": false}],
-      [{"text": "Coinvolgimento e incentivi ai conducenti. Programmi di incentivi alla guida efficiente favoriscono il cambiamento. Feedback tramite scontrini carburante e dashboard semplici aiuta a monitorare le performance.", "bold": false}],
-      [{"text": "Collaborare lungo la filiera. Condividere dati su volumi e orari consente di pianificare percorsi efficienti e ridurre i viaggi a vuoto.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Evidenze e casi di studio"},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Benefici dell'eco‑driving. Programmi di formazione mostrano riduzioni del 5‑15 % nei consumi. L'ICCT riporta risparmi fino a 0,15 l/km (Ct Global Freight Audit, 2023).", "bold": false}],
-      [{"text": "Veicoli efficienti. Passare a Euro 6 e montare dispositivi aerodinamici riduce i consumi del 5‑10 %; pneumatici a bassa resistenza portano ulteriori risparmi (Ct Global Freight Audit, 2023).", "bold": false}],
-      [{"text": "Carburanti alternativi. L'HVO offre riduzioni importanti di CO2 senza modifiche al motore. La Commissione europea promuove carburanti sostenibili e intermodalità per raggiungere gli obiettivi (Ct Global Freight Audit, 2023).", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Conclusione: piccoli cambiamenti, grande impatto"},
-    {"type": "paragraph", "children": [{"text": "La sostenibilità nel trasporto su strada non richiede sempre alta tecnologia. Misure operative semplici - eco‑driving, manutenzione, consolidamento e pianificazione - riducono emissioni e costi. Esplorare biocarburanti e intermodalità amplifica i benefici. Coinvolgendo i conducenti e collaborando lungo la filiera, le aziende avanzano verso la decarbonizzazione e si preparano alle tecnologie future.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Fonti"},
-    {"type": "citation", "text": "Why is Reducing Carbon Emissions in Transportation and Logistics Important? (Ct Global Freight Audit, 2023) - Sottolinea che fino al 90 % delle emissioni può provenire dalla supply chain e che trasporto/logistica rappresentano circa il 25 % delle emissioni globali. Elenca misure: eco‑driving, pianificazione percorsi, intermodale, carburanti alternativi ed efficienza di flotta.", "author": "Ct Global Freight Audit", "url": "https://ctglobal-freightaudit.com/why-is-reducing-carbon-emissions-in-transportation-and-logistics-important/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Gli operatori della logistica riconoscono la necessità di decarbonizzare il trasporto stradale, ma non tutte le aziende possono investire in camion elettrici, telematica e IA. Fortunatamente, esistono molte misure low-tech e cambiamenti comportamentali che possono ridurre sensibilmente emissioni e costi operativi. Questo articolo illustra misure pratiche che flotte e spedizionieri possono adottare subito, senza grandi investimenti.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "sustainability-visual.png",
+      "alt": "Primo piano di un camion che fa rifornimento di biodiesel in una stazione rurale",
+      "caption": "Passare a miscele di biodiesel alla pompa è un rapido vantaggio nella check-list di sostenibilità."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Perché la sostenibilità è importante"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Trasporto e logistica rappresentano circa il 25 % delle emissioni globali di carbonio (Ct Global Freight Audit, 2023). Il trasporto su strada è il principale contributore e, senza azioni, le emissioni cresceranno. Ridurle migliora la qualità dell'aria, abbassa i costi del carburante e rafforza la reputazione aziendale.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Passi pratici per un trasporto più verde"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Eco-driving. Formare i conducenti ad accelerare dolcemente, mantenere velocità costanti, anticipare il traffico ed evitare soste a motore acceso riduce i consumi. Pressione corretta degli pneumatici e uso moderato del climatizzatore aumentano l'efficienza.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Manutenzione regolare. Taratura motore, sostituzione filtri aria, convergenza e lubrificanti a bassa viscosità riducono il consumo. La manutenzione preventiva minimizza i guasti e prolunga la vita del veicolo.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ottimizzazione e consolidamento del carico. Riempire i camion e combinare spedizioni riduce i viaggi a vuoto. Accordi di backhaul aiutano a bilanciare carico e capacità.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Pianificazione dei percorsi. Anche senza IA, si possono scegliere percorsi con meno traffico e pendenze. La guida notturna può ridurre i consumi evitando la congestione.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Carburanti alternativi e miscele. Biocarburanti come biodiesel o HVO riducono il CO2 del 50-90 % rispetto al diesel standard. Anche se possono costare di più, non richiedono modifiche ai motori e sono un ponte verso l'elettrificazione.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Intermodale. Combinare strada con ferrovia o short-sea riduce la percorrenza su gomma e quindi le emissioni. Il treno emette meno CO2 per tonnellata-chilometro, adatto alle lunghe distanze.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Imballaggi ed equipaggiamento leggeri. Alleggerire pallet e imballaggi riduce i consumi. Pallet riutilizzabili e imballaggi a rendere tagliano gli sprechi.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Coinvolgimento e incentivi ai conducenti. Programmi di incentivi alla guida efficiente favoriscono il cambiamento. Feedback tramite scontrini carburante e dashboard semplici aiuta a monitorare le performance.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Collaborare lungo la filiera. Condividere dati su volumi e orari consente di pianificare percorsi efficienti e ridurre i viaggi a vuoto.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Evidenze e casi di studio"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Benefici dell'eco-driving. Programmi di formazione mostrano riduzioni del 5-15 % nei consumi. L'ICCT riporta risparmi fino a 0,15 l/km (Ct Global Freight Audit, 2023).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Veicoli efficienti. Passare a Euro 6 e montare dispositivi aerodinamici riduce i consumi del 5-10 %; pneumatici a bassa resistenza portano ulteriori risparmi (Ct Global Freight Audit, 2023).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Carburanti alternativi. L'HVO offre riduzioni importanti di CO2 senza modifiche al motore. La Commissione europea promuove carburanti sostenibili e intermodalità per raggiungere gli obiettivi (Ct Global Freight Audit, 2023).",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusione: piccoli cambiamenti, grande impatto"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La sostenibilità nel trasporto su strada non richiede sempre alta tecnologia. Misure operative semplici - eco-driving, manutenzione, consolidamento e pianificazione - riducono emissioni e costi. Esplorare biocarburanti e intermodalità amplifica i benefici. Coinvolgendo i conducenti e collaborando lungo la filiera, le aziende avanzano verso la decarbonizzazione e si preparano alle tecnologie future.",
+          "bold": false
+        }
+      ]
+    },
+    { "type": "heading", "level": 3, "text": "Fonti" },
+    {
+      "type": "citation",
+      "text": "Why is Reducing Carbon Emissions in Transportation and Logistics Important? (Ct Global Freight Audit, 2023) - Sottolinea che fino al 90 % delle emissioni può provenire dalla supply chain e che trasporto/logistica rappresentano circa il 25 % delle emissioni globali. Elenca misure: eco-driving, pianificazione percorsi, intermodale, carburanti alternativi ed efficienza di flotta.",
+      "author": "Ct Global Freight Audit",
+      "url": "https://ctglobal-freightaudit.com/why-is-reducing-carbon-emissions-in-transportation-and-logistics-important/"
+    }
   ],
   "tags": [
     "trasporto stradale sostenibile",
@@ -53,4 +171,3 @@
     "strada più verde senza tecnologia"
   ]
 }
-

@@ -16,41 +16,154 @@
   "image": "sustainability-hero.png",
   "imageAlt": "Vrachtwagenchauffeur past vloeiende eco-driving toe op een met bomen omzoomde Europese weg",
   "content": [
-    {"type": "paragraph", "children": [{"text": "De sector erkent de noodzaak om wegvervoer te decarboniseren, maar niet elke organisatie kan investeren in elektrische trucks, telematica en AI. Er zijn echter veel low‑tech en gedragsmaatregelen die emissies en operationele kosten merkbaar verlagen. Dit artikel geeft praktische stappen die vlooten en verladers direct kunnen nemen, zonder grote investeringen.", "bold": false}]},
-    {"type": "image", "src": "sustainability-visual.png", "alt": "Close-up van een truck die biodiesel tankt bij een landelijke pomp", "caption": "Overstappen op biodieselmengsels aan de pomp is een snelle winst in de duurzaamheidschecklist."},
-    {"type": "heading", "level": 2, "text": "Waarom duurzaamheid telt"},
-    {"type": "paragraph", "children": [{"text": "Transport en logistiek zijn goed voor circa 25 % van de wereldwijde CO2‑emissies (Ct Global Freight Audit, 2023). Wegvervoer draagt het meest bij en emissies nemen toe zonder actie. Terugdringen verbetert de luchtkwaliteit, verlaagt brandstofkosten en versterkt reputatie.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Praktische stappen voor groener vervoer"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Eco‑driving. Chauffeurs trainen in rustig optrekken, constante snelheid, anticiperen en stationair draaien vermijden levert forse besparingen op. Juiste bandenspanning en minder airco‑gebruik verhogen de efficiëntie.", "bold": false}],
-      [{"text": "Regelmatig onderhoud. Motortuning, luchtfilters, uitlijning en smeermiddelen met lage viscositeit verlagen het verbruik. Preventief onderhoud beperkt storingen en verlengt levensduur.", "bold": false}],
-      [{"text": "Beladingsoptimalisatie en consolidatie. Volle ladingen en zendingen bundelen verminderen lege kilometers. Backhaul‑afspraken matchen lading en capaciteit.", "bold": false}],
-      [{"text": "Routeplanning. Ook zonder AI zijn files en stijgingsrijke routes te vermijden. Nachtelijk rijden kan verbruik drukken.", "bold": false}],
-      [{"text": "Alternatieve brandstoffen en mengsels. Biobrandstoffen zoals biodiesel of HVO verminderen CO2 met 50‑90 % t.o.v. diesel. Ze vragen geen motoraanpassingen en vormen een brug naar elektrificatie, al zijn ze soms duurder.", "bold": false}],
-      [{"text": "Intermodaal. Weg combineren met spoor of short‑sea verkort gereden afstand en emissies. Spoor stoot minder CO2 per tonkilometer uit en is geschikt voor lange afstanden.", "bold": false}],
-      [{"text": "Lichtgewicht verpakking en materiaal. Lichtere pallets en verpakkingen verlagen het gewicht. Herbruikbare pallets en retourverpakkingen beperken afval.", "bold": false}],
-      [{"text": "Betrokkenheid en incentives voor chauffeurs. Beloningsprogramma's voor zuinig rijden stimuleren gedrag. Feedback via tankbonnen en eenvoudige dashboards helpt prestaties volgen.", "bold": false}],
-      [{"text": "Samenwerken in de keten. Volumes en planningen delen maakt efficiënte routes en minder lege ritten mogelijk.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Bewijs en cases"},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Eco‑driving werkt. Programma's tonen 5‑15 % brandstofbesparing. ICCT meldt tot 0,15 liter per km besparing (Ct Global Freight Audit, 2023).", "bold": false}],
-      [{"text": "Zuinigere voertuigen. Overstap naar Euro 6 en aerodynamica reduceert verbruik 5‑10 %; banden met lage rolweerstand leveren extra winst (Ct Global Freight Audit, 2023).", "bold": false}],
-      [{"text": "Alternatieve brandstoffen. HVO geeft forse CO2‑reductie zonder motoraanpassingen. De Europese Commissie stimuleert duurzame brandstoffen en intermodaal vervoer (Ct Global Freight Audit, 2023).", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Conclusie: kleine stappen, groot effect"},
-    {"type": "paragraph", "children": [{"text": "Duurzaamheid in wegvervoer vraagt niet altijd hightech. Eenvoudige operationele maatregelen - eco‑driving, onderhoud, bundeling en routeplanning - verlagen emissies en kosten. Biobrandstoffen en intermodaal versterken het effect. Met betrokken chauffeurs en samenwerking in de keten boeken bedrijven tastbare vooruitgang en bereiden ze zich voor op toekomstige technologie.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Bron"},
-    {"type": "citation", "text": "Why is Reducing Carbon Emissions in Transportation and Logistics Important? (Ct Global Freight Audit, 2023) - Stelt dat tot 90 % van de uitstoot uit de supply chain kan komen en transport/logistiek bijna 25 % van de mondiale uitstoot vormt. Somt stappen op: eco‑driving, routeplanning, intermodaal, alternatieve brandstoffen en vlootefficiëntie.", "author": "Ct Global Freight Audit", "url": "https://ctglobal-freightaudit.com/why-is-reducing-carbon-emissions-in-transportation-and-logistics-important/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "De sector erkent de noodzaak om wegvervoer te decarboniseren, maar niet elke organisatie kan investeren in elektrische trucks, telematica en AI. Er zijn echter veel low-tech en gedragsmaatregelen die emissies en operationele kosten merkbaar verlagen. Dit artikel geeft praktische stappen die vlooten en verladers direct kunnen nemen, zonder grote investeringen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "sustainability-visual.png",
+      "alt": "Close-up van een truck die biodiesel tankt bij een landelijke pomp",
+      "caption": "Overstappen op biodieselmengsels aan de pomp is een snelle winst in de duurzaamheidschecklist."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Waarom duurzaamheid telt"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transport en logistiek zijn goed voor circa 25 % van de wereldwijde CO2-emissies (Ct Global Freight Audit, 2023). Wegvervoer draagt het meest bij en emissies nemen toe zonder actie. Terugdringen verbetert de luchtkwaliteit, verlaagt brandstofkosten en versterkt reputatie.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Praktische stappen voor groener vervoer"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Eco-driving. Chauffeurs trainen in rustig optrekken, constante snelheid, anticiperen en stationair draaien vermijden levert forse besparingen op. Juiste bandenspanning en minder airco-gebruik verhogen de efficiëntie.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Regelmatig onderhoud. Motortuning, luchtfilters, uitlijning en smeermiddelen met lage viscositeit verlagen het verbruik. Preventief onderhoud beperkt storingen en verlengt levensduur.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Beladingsoptimalisatie en consolidatie. Volle ladingen en zendingen bundelen verminderen lege kilometers. Backhaul-afspraken matchen lading en capaciteit.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Routeplanning. Ook zonder AI zijn files en stijgingsrijke routes te vermijden. Nachtelijk rijden kan verbruik drukken.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Alternatieve brandstoffen en mengsels. Biobrandstoffen zoals biodiesel of HVO verminderen CO2 met 50-90 % t.o.v. diesel. Ze vragen geen motoraanpassingen en vormen een brug naar elektrificatie, al zijn ze soms duurder.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Intermodaal. Weg combineren met spoor of short-sea verkort gereden afstand en emissies. Spoor stoot minder CO2 per tonkilometer uit en is geschikt voor lange afstanden.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Lichtgewicht verpakking en materiaal. Lichtere pallets en verpakkingen verlagen het gewicht. Herbruikbare pallets en retourverpakkingen beperken afval.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Betrokkenheid en incentives voor chauffeurs. Beloningsprogramma's voor zuinig rijden stimuleren gedrag. Feedback via tankbonnen en eenvoudige dashboards helpt prestaties volgen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Samenwerken in de keten. Volumes en planningen delen maakt efficiënte routes en minder lege ritten mogelijk.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    { "type": "heading", "level": 2, "text": "Bewijs en cases" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Eco-driving werkt. Programma's tonen 5-15 % brandstofbesparing. ICCT meldt tot 0,15 liter per km besparing (Ct Global Freight Audit, 2023).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Zuinigere voertuigen. Overstap naar Euro 6 en aerodynamica reduceert verbruik 5-10 %; banden met lage rolweerstand leveren extra winst (Ct Global Freight Audit, 2023).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Alternatieve brandstoffen. HVO geeft forse CO2-reductie zonder motoraanpassingen. De Europese Commissie stimuleert duurzame brandstoffen en intermodaal vervoer (Ct Global Freight Audit, 2023).",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusie: kleine stappen, groot effect"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Duurzaamheid in wegvervoer vraagt niet altijd hightech. Eenvoudige operationele maatregelen - eco-driving, onderhoud, bundeling en routeplanning - verlagen emissies en kosten. Biobrandstoffen en intermodaal versterken het effect. Met betrokken chauffeurs en samenwerking in de keten boeken bedrijven tastbare vooruitgang en bereiden ze zich voor op toekomstige technologie.",
+          "bold": false
+        }
+      ]
+    },
+    { "type": "heading", "level": 3, "text": "Bron" },
+    {
+      "type": "citation",
+      "text": "Why is Reducing Carbon Emissions in Transportation and Logistics Important? (Ct Global Freight Audit, 2023) - Stelt dat tot 90 % van de uitstoot uit de supply chain kan komen en transport/logistiek bijna 25 % van de mondiale uitstoot vormt. Somt stappen op: eco-driving, routeplanning, intermodaal, alternatieve brandstoffen en vlootefficiëntie.",
+      "author": "Ct Global Freight Audit",
+      "url": "https://ctglobal-freightaudit.com/why-is-reducing-carbon-emissions-in-transportation-and-logistics-important/"
+    }
   ],
   "tags": [
     "duurzaam wegvervoer",
     "groene logistiek europa",
     "CO2 verminderen in wegvervoer",
     "milieuvriendelijke logistiekpraktijken",
-    "laag‑carbonoplossingen",
+    "laag-carbonoplossingen",
     "duurzame transportoperaties",
     "groener wegvervoer zonder technologie"
   ]
 }
-

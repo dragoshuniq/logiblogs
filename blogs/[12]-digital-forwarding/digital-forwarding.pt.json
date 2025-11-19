@@ -8,39 +8,181 @@
   "description": "A expedição está no centro do comércio global. Durante décadas: telefone, fax e folhas de cálculo. Hoje, plataformas digitais prometem cotações instantâneas, tracking em tempo real e documentos automatizados. Em que difere a expedição digital e por que isso importa para os embarcadores?...",
   "publishedAt": "2025-02-02T00:00:00Z",
   "category": "Tecnologia",
-  "author": {"name": "Logifie Team", "role": "Especialistas em tecnologia logística", "avatar": "/logos/slogo.png"},
+  "author": {
+    "name": "Logifie Team",
+    "role": "Especialistas em tecnologia logística",
+    "avatar": "/logos/slogo.png"
+  },
   "image": "digital-forwarding-hero.png",
   "imageAlt": "Cenário dividido: um escritório tradicional cheio de papel ao lado de uma sala de controlo digital simplificada",
   "content": [
-    {"type": "paragraph", "children": [{"text": "A expedição orquestra o movimento de mercadorias por mar, fronteiras e última milha. Durante décadas, baseou‑se em chamadas, faxes e folhas de cálculo. Hoje, plataformas digitais oferecem cotações instantâneas, tracking em tempo real e documentação automática. Como diferem os transitários digitais dos tradicionais e por que isso importa? Este artigo contrasta ambos os modelos e dá critérios de escolha do parceiro logístico.", "bold": false}]},
-    {"type": "image", "src": "digital-forwarding-visual.png", "alt": "Painel de uma plataforma de forwarding digital com cotações instantâneas, tracking ao vivo e métricas de carbono", "caption": "O painel destaca cotações instantâneas, métricas de emissões e papelada automatizada."},
-    {"type": "heading", "level": 2, "text": "O modelo legado: processos manuais e visibilidade limitada"},
-    {"type": "paragraph", "children": [{"text": "A expedição tradicional surgiu quando os documentos viajavam mais devagar do que a carga. Reservar um contentor implicava cadeias de e‑mails e chamadas com corretores, transportadoras e despachantes aduaneiros. Uma cotação podia levar até 100 horas enquanto se verificavam tarifas e se produziam documentos manualmente. BL e declarações por fax ou estafeta geravam erros e atrasos.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Workflows manuais não só atrasam a experiência do cliente como aumentam custos. A BCG estima que a automação pode reduzir até 40 % os custos de backoffice e operações. Ainda assim, muitos transitários continuam dependentes de e‑mail e passagens manuais, com poucos a oferecer cotação instantânea. Sem integração entre TMS, WMS e despachantes, os embarcadores têm pouca visibilidade para reagir a exceções.", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "*Legenda: ilustração em ecrã dividido comparando um escritório tradicional repleto de papel com uma sala de controlo digital com dashboards e workflows.*", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Expedição digital: plataformas, APIs e automação"},
-    {"type": "paragraph", "children": [{"text": "Transitários digitais reimaginam a expedição como um serviço orientado por software. Em vez de silos, constroem plataformas que ligam embarcadores, transportadoras, alfândega e armazéns. Funcionalidades principais:", "bold": false}]},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Cotações e reservas instantâneas", "bold": false}],
-      [{"text": "Visibilidade em tempo real (IoT e integrações) com ETA preditiva e alertas de exceção", "bold": false}],
-      [{"text": "Documentação automatizada (BL eletrónico, declarações, POD)", "bold": false}],
-      [{"text": "Cálculo e reporting de emissões por envio", "bold": false}],
-      [{"text": "APIs abertas para integrar TMS/WMS e parceiros", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Escolher o transitário certo"},
-    {"type": "paragraph", "children": [{"text": "Avalie: capacidade tecnológica, portefólio de serviços (aduanas, armazenagem, seguros), rede e escala, suporte ao cliente, sustentabilidade (medição/redução de emissões, iniciativas verdes) e governação de dados (propriedade, segurança, conformidade).", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "A escolha não tem de ser binária: muitos adotam um modelo híbrido – plataforma digital para envios padrão e transitários tradicionais para casos complexos. Fornecedores como a Logifie integram IA de ruteamento e tracking em tempo real com apoio humano para envios exigentes.", "bold": false}]},
-    {"type": "heading", "level": 2, "text": "Tendências futuras"},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "IA e analítica preditiva (procura, rotas, pricing dinâmico)", "bold": false}],
-      [{"text": "Blockchain e documentação digital para trocas invioláveis e desalfandegamento mais rápido", "bold": false}],
-      [{"text": "IoT e contentores inteligentes (posição, temperatura, humidade, choques)", "bold": false}],
-      [{"text": "Sustentabilidade e transparência (CSRD) com calculadoras de carbono e seleção de rotas de baixo carbono", "bold": false}],
-      [{"text": "Consolidação de plataformas e oferta multimodal ‘one‑stop‑shop’", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Conclusão"},
-    {"type": "paragraph", "children": [{"text": "A expedição digital acelera cotações, dá visibilidade e automatiza rotina; a tradicional é valiosa para operações complexas e suporte dedicado. A melhor opção depende da carga, corredores e processos internos; muitas vezes, a estratégia híbrida é a ideal.", "bold": false}]}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A expedição orquestra o movimento de mercadorias por mar, fronteiras e última milha. Durante décadas, baseou-se em chamadas, faxes e folhas de cálculo. Hoje, plataformas digitais oferecem cotações instantâneas, tracking em tempo real e documentação automática. Como diferem os transitários digitais dos tradicionais e por que isso importa? Este artigo contrasta ambos os modelos e dá critérios de escolha do parceiro logístico.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "digital-forwarding-visual.png",
+      "alt": "Painel de uma plataforma de forwarding digital com cotações instantâneas, tracking ao vivo e métricas de carbono",
+      "caption": "O painel destaca cotações instantâneas, métricas de emissões e papelada automatizada."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "O modelo legado: processos manuais e visibilidade limitada"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A expedição tradicional surgiu quando os documentos viajavam mais devagar do que a carga. Reservar um contentor implicava cadeias de e-mails e chamadas com corretores, transportadoras e despachantes aduaneiros. Uma cotação podia levar até 100 horas enquanto se verificavam tarifas e se produziam documentos manualmente. BL e declarações por fax ou estafeta geravam erros e atrasos.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Workflows manuais não só atrasam a experiência do cliente como aumentam custos. A BCG estima que a automação pode reduzir até 40 % os custos de backoffice e operações. Ainda assim, muitos transitários continuam dependentes de e-mail e passagens manuais, com poucos a oferecer cotação instantânea. Sem integração entre TMS, WMS e despachantes, os embarcadores têm pouca visibilidade para reagir a exceções.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "*Legenda: ilustração em ecrã dividido comparando um escritório tradicional repleto de papel com uma sala de controlo digital com dashboards e workflows.*",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Expedição digital: plataformas, APIs e automação"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transitários digitais reimaginam a expedição como um serviço orientado por software. Em vez de silos, constroem plataformas que ligam embarcadores, transportadoras, alfândega e armazéns. Funcionalidades principais:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Cotações e reservas instantâneas",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Visibilidade em tempo real (IoT e integrações) com ETA preditiva e alertas de exceção",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Documentação automatizada (BL eletrónico, declarações, POD)",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Cálculo e reporting de emissões por envio",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "APIs abertas para integrar TMS/WMS e parceiros",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Escolher o transitário certo"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Avalie: capacidade tecnológica, portefólio de serviços (aduanas, armazenagem, seguros), rede e escala, suporte ao cliente, sustentabilidade (medição/redução de emissões, iniciativas verdes) e governação de dados (propriedade, segurança, conformidade).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A escolha não tem de ser binária: muitos adotam um modelo híbrido – plataforma digital para envios padrão e transitários tradicionais para casos complexos. Fornecedores como a Logifie integram IA de ruteamento e tracking em tempo real com apoio humano para envios exigentes.",
+          "bold": false
+        }
+      ]
+    },
+    { "type": "heading", "level": 2, "text": "Tendências futuras" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "IA e analítica preditiva (procura, rotas, pricing dinâmico)",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Blockchain e documentação digital para trocas invioláveis e desalfandegamento mais rápido",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "IoT e contentores inteligentes (posição, temperatura, humidade, choques)",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sustentabilidade e transparência (CSRD) com calculadoras de carbono e seleção de rotas de baixo carbono",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Consolidação de plataformas e oferta multimodal ‘one-stop-shop’",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    { "type": "heading", "level": 2, "text": "Conclusão" },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A expedição digital acelera cotações, dá visibilidade e automatiza rotina; a tradicional é valiosa para operações complexas e suporte dedicado. A melhor opção depende da carga, corredores e processos internos; muitas vezes, a estratégia híbrida é a ideal.",
+          "bold": false
+        }
+      ]
+    }
   ],
   "tags": ["expedição digital", "tecnologia logística"]
 }
-

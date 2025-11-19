@@ -16,49 +16,238 @@
   "image": "freight-forwarder-hero.png",
   "imageAlt": "Speditørens kontrolrum med live dashboards, kort og dokumenter under behandling",
   "content": [
-    {"type": "paragraph", "children": [{"text": "Speditører fungerer som transportens arkitekter, de orkestrerer multimodale kæder og tager sig af dokumenter, efterlevelse og koordinering for at flytte varer fra oprindelse til destination. For afsendere kan forståelse af speditørens rolle og samarbejdsform øge effektiviteten og reducere stress. Denne artikel forklarer speditørers daglige aktiviteter, værdien de leverer og hvordan man vælger den rigtige partner.", "bold": false}]},
-    {"type": "image", "src": "freight-forwarder-visual.png", "alt": "Logistikchef og speditør gennemgår fragtpapirer sammen på et kontor", "caption": "Speditør og afsender gennemgår bookingpapirer, før lastbilerne forlader lageret."},
-    {"type": "heading", "level": 2, "text": "Hvad er en speditør?"},
-    {"type": "paragraph", "children": [{"text": "FIATA (International Federation of Freight Forwarders Associations) definerer speditør- og logistikydelser som enhver tjeneste knyttet til befordring, konsolidering, oplagring, håndtering, pakning eller distribution af varer samt støtte- og rådgivningsydelser som told- og skatteforhold, forsikring og betalingsafvikling (FIATA, 2004). En speditør sikrer, at varer ankommer det rigtige sted, på rette tid, i god stand og til rimelig pris (FIATA, 2004).", "bold": false}]},
-    {"type": "paragraph", "children": [{"text": "Speditører bidrager med ekspertise på flere områder:", "bold": false}]},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Logistikplanlægning: speditører designer ruter og vælger transportformer, forhandler priser med vognmænd for at balancere pris, hastighed og pålidelighed (FIATA, 2004).", "bold": false}],
-      [{"text": "Regel­efterlevelse: de håndterer eksport- og importdokumenter, toldangivelser og sikrer, at krav overholdes (FIATA, 2004).", "bold": false}],
-      [{"text": "Risikostyring: de rådgiver om forsikring, håndterer risiko for tab eller skade og hjælper ved krav (FIATA, 2004).", "bold": false}],
-      [{"text": "Finans og betaling: de faciliterer betalinger mellem køber og sælger og arrangerer kredit- eller forsikringsinstrumenter (FIATA, 2004).", "bold": false}],
-      [{"text": "Tværgående integration: med IT integrerer de data mellem afsendere, vognmænd og myndigheder for bedre synlighed (FIATA, 2004).", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Samarbejdet i dagligdagen"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Tilbud og booking. Afsender angiver godstype, vægt, mål, afhentnings- og leveringssted samt ønsket transittid. Speditøren tjekker kapacitet og udarbejder tilbud med basisfragt, brændstoftillæg, vejafgifter og gebyrer. Digitale speditører giver ofte straks­tilbud; klassiske kan være længere om det.", "bold": false}],
-      [{"text": "Dokumentation. Efter booking indsamler speditøren handelsfakturaer, pakkelister og nødvendige tilladelser/certifikater. Udarbejder CMR, toldangivelser og transitdokumenter (T1/T2). Ved ADR kontrolleres godkendelser og sikkerhedsdatablade.", "bold": false}],
-      [{"text": "Transportkoordinering. Speditøren planlægger afhentning, koordinerer med lagre og overvåger forsendelser via terminaler. Håndterer grænseformaliteter; chauffører medbringer udstationeringsbeviser og tachografdata.", "bold": false}],
-      [{"text": "Sporing og afvigelsesstyring. Statusopdateringer via e‑mail, telefon eller dashboard. Ved forsinkelser (toldstop, vejr) aftales omrute eller justeret ETA.", "bold": false}],
-      [{"text": "Levering og afslutning. Efter levering indhenter speditøren POD og opdaterer CMR. Afstemmer fakturaer og betaler vognmænd. Ved DDP kan importafgifter betales på sælgers vegne.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Fordele ved at bruge speditør"},
-    {"type": "list", "ordered": false, "items": [
-      [{"text": "Ekspertise og skalafordele. Speditører forhandler bedre priser og kender komplekse regler.", "bold": false}],
-      [{"text": "Mindre administration. De håndterer dokumenter, told og compliance, så afsenderen kan fokusere på kerneforretningen.", "bold": false}],
-      [{"text": "Transparens og styring. Digitale speditører tilbyder sporing i realtid og omkostningsindsigt.", "bold": false}],
-      [{"text": "Risikoreduktion. Rådgivning om forsikringsdækning og hjælp ved krav.", "bold": false}],
-      [{"text": "Fleksibilitet. Ved forstyrrelser kan transportør, mode eller rute skiftes.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Sådan vælger du den rigtige speditør"},
-    {"type": "list", "ordered": true, "items": [
-      [{"text": "Referencer og erfaring. Kig efter FIATA-medlemskab eller nationale forbund. Spørg til erfaring med dine varer og ruter.", "bold": false}],
-      [{"text": "Digitale kapabiliteter. Moderne speditører tilbyder onlinebooking, sporing, automatiske dokumenter og TMS-integrationer.", "bold": false}],
-      [{"text": "Nettets styrke. Relationer til vognmænd og agenter ved afgang/destination påvirker kapacitet og service.", "bold": false}],
-      [{"text": "Kundeservice. Vurder responstid og evne til problemløsning.", "bold": false}],
-      [{"text": "Compliance-historik. Tjek efterlevelse af konkurrenceregler og myndighedskrav.", "bold": false}]
-    ]},
-    {"type": "heading", "level": 2, "text": "Konklusion: partnerskab er nøglen"},
-    {"type": "paragraph", "children": [{"text": "Speditører er mere end mellemled; de er partnere, der designer og styrer komplekse logistikoperationer. Ved at forstå deres roller og forventninger kan afsendere opbygge produktive relationer, strømline processer og sikre smidige vareflows over grænser. En partner som Logifie, der kombinerer brancheekspertise med digitale værktøjer, giver en konkurrencefordel i et dynamisk logistikmiljø.", "bold": false}]},
-    {"type": "heading", "level": 3, "text": "Kilder"},
-    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Definerer speditør- og logistikydelser: befordring, konsolidering, oplagring, håndtering, pakning, distribution samt told, forsikring og betalingsafvikling.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
-    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Forklarer logistikplanlægning: forhandling med vognmænd for servicekæder, der balancerer pris, hastighed og pålidelighed.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
-    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Beskriver roller i compliance, risikostyring og rådgivning om forsikrings- og valutarisiko.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"},
-    {"type": "citation", "text": "About Freight Forwarding (FIATA, 2004) - Noterer, at speditører håndterer finansielle forhold og med IT understøtter tværgående integration.", "author": "FIATA International Federation of Freight Forwarders Associations", "url": "https://fiata.org/about-freight-forwarding/"}
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Speditører fungerer som transportens arkitekter, de orkestrerer multimodale kæder og tager sig af dokumenter, efterlevelse og koordinering for at flytte varer fra oprindelse til destination. For afsendere kan forståelse af speditørens rolle og samarbejdsform øge effektiviteten og reducere stress. Denne artikel forklarer speditørers daglige aktiviteter, værdien de leverer og hvordan man vælger den rigtige partner.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "freight-forwarder-visual.png",
+      "alt": "Logistikchef og speditør gennemgår fragtpapirer sammen på et kontor",
+      "caption": "Speditør og afsender gennemgår bookingpapirer, før lastbilerne forlader lageret."
+    },
+    { "type": "heading", "level": 2, "text": "Hvad er en speditør?" },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "FIATA (International Federation of Freight Forwarders Associations) definerer speditør- og logistikydelser som enhver tjeneste knyttet til befordring, konsolidering, oplagring, håndtering, pakning eller distribution af varer samt støtte- og rådgivningsydelser som told- og skatteforhold, forsikring og betalingsafvikling (FIATA, 2004). En speditør sikrer, at varer ankommer det rigtige sted, på rette tid, i god stand og til rimelig pris (FIATA, 2004).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Speditører bidrager med ekspertise på flere områder:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Logistikplanlægning: speditører designer ruter og vælger transportformer, forhandler priser med vognmænd for at balancere pris, hastighed og pålidelighed (FIATA, 2004).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Regel­efterlevelse: de håndterer eksport- og importdokumenter, toldangivelser og sikrer, at krav overholdes (FIATA, 2004).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Risikostyring: de rådgiver om forsikring, håndterer risiko for tab eller skade og hjælper ved krav (FIATA, 2004).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Finans og betaling: de faciliterer betalinger mellem køber og sælger og arrangerer kredit- eller forsikringsinstrumenter (FIATA, 2004).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Tværgående integration: med IT integrerer de data mellem afsendere, vognmænd og myndigheder for bedre synlighed (FIATA, 2004).",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Samarbejdet i dagligdagen"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Tilbud og booking. Afsender angiver godstype, vægt, mål, afhentnings- og leveringssted samt ønsket transittid. Speditøren tjekker kapacitet og udarbejder tilbud med basisfragt, brændstoftillæg, vejafgifter og gebyrer. Digitale speditører giver ofte straks­tilbud; klassiske kan være længere om det.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Dokumentation. Efter booking indsamler speditøren handelsfakturaer, pakkelister og nødvendige tilladelser/certifikater. Udarbejder CMR, toldangivelser og transitdokumenter (T1/T2). Ved ADR kontrolleres godkendelser og sikkerhedsdatablade.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Transportkoordinering. Speditøren planlægger afhentning, koordinerer med lagre og overvåger forsendelser via terminaler. Håndterer grænseformaliteter; chauffører medbringer udstationeringsbeviser og tachografdata.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sporing og afvigelsesstyring. Statusopdateringer via e-mail, telefon eller dashboard. Ved forsinkelser (toldstop, vejr) aftales omrute eller justeret ETA.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Levering og afslutning. Efter levering indhenter speditøren POD og opdaterer CMR. Afstemmer fakturaer og betaler vognmænd. Ved DDP kan importafgifter betales på sælgers vegne.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fordele ved at bruge speditør"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Ekspertise og skalafordele. Speditører forhandler bedre priser og kender komplekse regler.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Mindre administration. De håndterer dokumenter, told og compliance, så afsenderen kan fokusere på kerneforretningen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Transparens og styring. Digitale speditører tilbyder sporing i realtid og omkostningsindsigt.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Risikoreduktion. Rådgivning om forsikringsdækning og hjælp ved krav.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Fleksibilitet. Ved forstyrrelser kan transportør, mode eller rute skiftes.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sådan vælger du den rigtige speditør"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Referencer og erfaring. Kig efter FIATA-medlemskab eller nationale forbund. Spørg til erfaring med dine varer og ruter.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Digitale kapabiliteter. Moderne speditører tilbyder onlinebooking, sporing, automatiske dokumenter og TMS-integrationer.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Nettets styrke. Relationer til vognmænd og agenter ved afgang/destination påvirker kapacitet og service.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kundeservice. Vurder responstid og evne til problemløsning.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Compliance-historik. Tjek efterlevelse af konkurrenceregler og myndighedskrav.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Konklusion: partnerskab er nøglen"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Speditører er mere end mellemled; de er partnere, der designer og styrer komplekse logistikoperationer. Ved at forstå deres roller og forventninger kan afsendere opbygge produktive relationer, strømline processer og sikre smidige vareflows over grænser. En partner som Logifie, der kombinerer brancheekspertise med digitale værktøjer, giver en konkurrencefordel i et dynamisk logistikmiljø.",
+          "bold": false
+        }
+      ]
+    },
+    { "type": "heading", "level": 3, "text": "Kilder" },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Definerer speditør- og logistikydelser: befordring, konsolidering, oplagring, håndtering, pakning, distribution samt told, forsikring og betalingsafvikling.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Forklarer logistikplanlægning: forhandling med vognmænd for servicekæder, der balancerer pris, hastighed og pålidelighed.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Beskriver roller i compliance, risikostyring og rådgivning om forsikrings- og valutarisiko.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    },
+    {
+      "type": "citation",
+      "text": "About Freight Forwarding (FIATA, 2004) - Noterer, at speditører håndterer finansielle forhold og med IT understøtter tværgående integration.",
+      "author": "FIATA International Federation of Freight Forwarders Associations",
+      "url": "https://fiata.org/about-freight-forwarding/"
+    }
   ],
   "tags": [
     "hvad laver en speditør",
@@ -70,4 +259,3 @@
     "hvordan vælger man speditør"
   ]
 }
-
