@@ -1,0 +1,231 @@
+{
+  "id": "eu-cabotage-rules-and-the-mobility-package-navigating-cooling-off-periods-and-vehicle-return-requirements",
+  "shortId": "eu-cabotage-rules",
+  "language": "dk",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "EU-cabotageregler og mobilitetspakken: Forståelse af cooling-off-perioder og krav om returnering af køretøjer",
+  "description": "Europæiske afsendere og transportører har længe nydt godt af cabotage - retten for vognmænd fra ét EU-land til at udføre indenrigskørsel i et andet medlemsland - fordi det hjælper med at reducere tomkørsel og øge effektiviteten. Men cabotage kan også...",
+  "publishedAt": "2025-12-01T00:00:00.000Z",
+  "category": "Transport",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperter i logistikteknologi",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "cabotage-rules-hero.png",
+  "imageAlt": "Illustration af et EU-kort, der viser en lastbil, der krydser grænser med pile, der angiver cabotageruter, samt et kalenderikon, der illustrerer den fire dages cooling-off-periode.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Europæiske afsendere og transportører har længe nydt godt af cabotage - retten for vognmænd fra ét EU-land til at udføre indenrigskørsel i et andet medlemsland - fordi det hjælper med at reducere tomkørsel og øge effektiviteten. Men cabotage kan også forvride markeder og muliggøre urimelig konkurrence, hvis køretøjer bliver på ubestemt tid i lande, hvor omkostningerne er lavere. For at imødegå dette introducerer EU's mobilitetspakke nye regler for cabotage og udstationering af chauffører. Denne artikel forklarer, hvad disse regler betyder for transportører og afsendere, med fokus på cooling-off-perioder, krav om returnering til hjemlandet og digitale udstationeringserklæringer.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "cabotage-rules-visual-1.png",
+      "alt": "Foto af en europæisk lastbil, der vender tilbage til sin hjemmebase ved solnedgang, med et lager i baggrunden.",
+      "caption": "Foto af en europæisk lastbil, der vender tilbage til sin hjemmebase ved solnedgang, med et lager i baggrunden."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hvad er cabotage?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Cabotage finder sted, når en vognmand, der er registreret i ét EU-medlemsland, udfører indenrigstransport i et andet medlemsland. For eksempel udfører en polsk vognmand, der leverer varer til Frankrig og derefter tager flere indenrigslæs i Frankrig, før han vender hjem, cabotagekørsel. Cabotage hjælper med at reducere tomkørsel og understøtter afbalancerede strømme i hele Europa, men det har været kontroversielt, fordi nogle operatører har brugt det til at omgå lokale arbejdsregler og lønninger.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "I henhold til EU-lovgivningen må en ikke-hjemmehørende vognmand udføre op til tre cabotagekørsler inden for syv dage efter en international levering. Disse operationer skal finde sted, efter at varerne er blevet losset fra den indgående internationale last.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mobilitetspakkens cooling-off-periode"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "For at forhindre kontinuerlig cabotagekørsel indfører mobilitetspakken en \"cooling-off\"-periode. Efter at have afsluttet en cabotagekørsel i et medlemsland skal en vognmand vente fire dage, før han udfører yderligere cabotagekørsel i det samme land. Fire-dages-perioden starter kl. 00:00 dagen efter den sidste aflæsning i den pågældende stat og slutter kl. 23:59 på den fjerde dag. I denne periode kan vognmanden enten vende tilbage til sit hjemland, tage internationale læs til andre medlemsstater eller udføre cabotagekørsel i en anden medlemsstat.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Denne regel har til formål at sikre, at udenlandske lastbiler ikke forbliver permanent på lavtlønsmarkeder, samtidig med at der stadig er fleksibilitet for grænseoverskridende operationer. For afsendere betyder cooling-off-perioden, at der kan være færre udenlandske transportører til rådighed for indenrigstransport med kort varsel i spidsbelastningsperioder, så planlægning på forhånd og brug af etablerede speditions-partnere bliver afgørende.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Krav om returnering af køretøj til hjemlandet"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Et andet centralt element i mobilitetspakken er kravet om returnering af køretøjet. Transportvirksomheder skal organisere deres drift, så hvert køretøj, der anvendes til international vejtransport, vender tilbage til etableringsmedlemsstaten mindst én gang hver ottende uge. Selvom EU-Domstolen annullerede den præskriptive forpligtelse, er det overordnede formål fortsat: lastbiler bør ikke opholde sig i et andet land i længere perioder. Denne regel gælder for køretøjer med en totalvægt på over 2,5 tons, der udfører international transport.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Vognmænd skal planlægge køreplaner og læs, så de inkluderer en returrejse inden for otteugersvinduet. Manglende overholdelse kan resultere i bøder eller tab af cabotagerettigheder. For afsendere, der arbejder med udenlandske transportører, er det klogt at verificere, at deres partnere overholder returkravet, da manglende overholdelse kan forstyrre leverancer.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Udstationering af chauffører og IMI-portalen"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Mobilitetspakken indeholder også et \"Lex specialis\"-direktiv om udstationering af chauffører (direktiv 2020/1057). Cabotage- og krydshandelsoperationer (successive internationale forsendelser mellem tredjelande) betragtes som udstationering, hvilket betyder, at chauffører skal aflønnes i overensstemmelse med værtslandets mindsteløn og arbejdsvilkår. For at forenkle overholdelsen skal erklæringer indsendes elektronisk via portalen for information om det indre marked (IMI). IRU bemærker, at IMI-portalen er det eneste officielle værktøj til udstationeringserklæringer, og at nationale myndigheder ikke må pålægge yderligere anmeldelsessystemer.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Chauffører skal medbringe en kopi af udstationeringserklæringen, dokumentation for transportoperationer og takografdata for at påvise overholdelse under vejkontroller. I modsætning hertil er bilateral transport (én udgående og én indgående tur med eventuelle yderligere krydshandelsture) undtaget fra udstationeringsreglerne.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Smarte takografer og håndhævelse"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Mobilitetspakken kræver installation af andengenerations smarte takografer i køretøjer, der udfører international transport, for at registrere grænseovergange og cabotageaktiviteter. Køretøjer mellem 2,5 og 3,5 tons vil være omfattet af takografregler for grænseoverskridende operationer fra midten af 2026, hvilket bringer mindre varevogne ind i den lovgivningsmæssige ramme.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Smarte takografer registrerer automatisk grænseovergange og køretøjets position under lastning og losning, hvilket gør det lettere for håndhævelsesmyndighederne at verificere cooling-off-perioder og returnering af køretøjer. Vognmænd bør planlægge eftermonteringsplaner og afsætte ressourcer til takografopgraderinger.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Praktiske råd til afsendere og transportører"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Kontroller vognmandens overholdelse: Sørg for, at de vognmænd, du indgår aftale med, overholder cooling-off-perioder og returkrav. Bed om dokumentation for udstationeringserklæringer og takografdata, når det er nødvendigt.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Planlæg omkring cooling-off-perioder: Hvis din drift er afhængig af udenlandske transportører, skal du tage højde for det fire-dages cabotagefrie vindue, når du planlægger indenrigsforsendelser.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Brug digital dokumentation: Opfordr vognmænd til at indsende udstationeringserklæringer via IMI-portalen og vedligeholde elektroniske fragtbreve (e-CMR) for at strømline overholdelsen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Engager en betroet speditør: En digital speditør som Logifie kan hjælpe med at administrere overholdelse af cabotageregler, udstationeringserklæringer og ruteplanlægning, hvilket reducerer den administrative byrde for afsendere.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Konklusion"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "EU's mobilitetspakke omformer reglerne for cabotage og udstationering for at skabe balance mellem et åbent marked og fair konkurrence. Cooling-off-perioder og krav om returnering af køretøjer betyder, at transportører skal planlægge driften omhyggeligt, mens afsendere skal sikre, at partnerne overholder reglerne. Ved at forstå disse regler og bruge digitale værktøjer kan logistikchefer navigere i det nye landskab og fortsætte med at optimere den grænseoverskridende vejgodstransport.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kilder"
+    },
+    {
+      "type": "citation",
+      "text": "Spørgsmål og svar: Mobilitetspakke I - Cabotage (Europa-Kommissionen, 2021) - Forklarer den fire-dages cooling-off-periode efter en cabotagekørsel og begrænsninger for at udføre cabotagekørsel i samme medlemsstat i denne periode.",
+      "author": "Europa-Kommissionen",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021XC0816(01)"
+    },
+    {
+      "type": "citation",
+      "text": "Mobilitetspakke I - Hjemrejsepligt og licensering (Forbundsministeriet for Digitalisering og Transport, 2023) - Beskriver kravet om, at køretøjer i international transport skal vende tilbage til deres etableringsmedlemsstat mindst hver ottende uge og bemærker, at køretøjer over 2,5 t har brug for en fællesskabslicens.",
+      "author": "Forbundsministeriet for Digitalisering og Transport",
+      "url": "https://www.bmdv.bund.de/SharedDocs/EN/Articles/G/mobility-package.html"
+    },
+    {
+      "type": "citation",
+      "text": "Udstationering af chauffører: Lex specialis (International Road Transport Union, 2023) - Forklarer, at cabotage- og krydshandelsoperationer behandles som udstationering, hvilket kræver erklæringer via IMI-portalen, og præciserer, at bilaterale operationer ikke betragtes som udstationering.",
+      "author": "International Road Transport Union",
+      "url": "https://www.iru.org/news-resources/iru-advises-on-posting-of-drivers-legislation"
+    }
+  ],
+  "tags": [
+    "cabotageregler",
+    "EU mobilitetspakke",
+    "cooling-off periode",
+    "lastbil retur til hjemland",
+    "udstationering af chauffører",
+    "IMI-portal",
+    "vejgodstransport Europa"
+  ]
+}

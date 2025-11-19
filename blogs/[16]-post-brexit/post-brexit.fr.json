@@ -1,0 +1,181 @@
+{
+  "id": "post-brexit-road-freight-between-the-eu-and-uk-customs-sps-checks-and-border-challenges",
+  "shortId": "post-brexit-road",
+  "language": "fr",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Fret routier post-Brexit entre l'UE et le Royaume-Uni : Douanes, contrôles SPS et défis frontaliers",
+  "description": "Depuis que le Royaume-Uni a quitté l'union douanière et le marché unique de l'UE fin 2020, les règles régissant le fret routier entre l'UE et le Royaume-Uni ont fondamentalement changé. Les marchandises traversant la frontière doivent désormais se conformer aux formalités douanières, aux règles d'origine...",
+  "publishedAt": "2025-12-04T00:00:00.000Z",
+  "category": "Transport",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experts en technologies logistiques",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "post-brexit-hero.png",
+  "imageAlt": "Photo de camions faisant la queue au poste de contrôle frontalier Royaume-Uni-UE avec des douaniers inspectant la documentation, temps nuageux.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Depuis que le Royaume-Uni a quitté l'union douanière et le marché unique de l'UE fin 2020, les règles régissant le fret routier entre l'UE et le Royaume-Uni ont fondamentalement changé. Les marchandises traversant la frontière doivent désormais se conformer aux formalités douanières, aux règles d'origine et aux contrôles sanitaires et phytosanitaires (SPS). Pour les entreprises qui expédient des marchandises à travers la Manche, la compréhension de ces procédures est essentielle pour éviter les retards et les pénalités.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "post-brexit-visual-1.png",
+      "alt": "Illustration d'un diagramme de chaîne d'approvisionnement montrant les déclarations douanières, les certificats d'origine et les contrôles SPS entre l'UE et le Royaume-Uni.",
+      "caption": "Illustration d'un diagramme de chaîne d'approvisionnement montrant les déclarations douanières, les certificats d'origine et les contrôles SPS entre l'UE et le Royaume-Uni"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Déclarations douanières et règles d'origine"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "En vertu de l'Accord de commerce et de coopération (ACC) entre l'UE et le Royaume-Uni, les marchandises peuvent circuler sans droits de douane et sans quotas si elles respectent les règles d'origine. La bibliothèque de la Chambre des communes note que la conformité peut être lourde et que seulement 10 à 53 % des exportations de textiles et de vêtements du Royaume-Uni ont bénéficié de tarifs préférentiels en 2022. Les marchandises ne respectant pas les règles d'origine peuvent entraîner des droits de douane. Les entreprises doivent déterminer l'origine des composants et conserver les déclarations des fournisseurs.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Les déclarations douanières sont obligatoires pour toutes les marchandises entrant en Grande-Bretagne depuis l'UE et vice versa. L'UE a introduit des contrôles douaniers complets le 1er janvier 2021, tandis que le Royaume-Uni a progressivement mis en place ses propres contrôles, certaines vérifications frontalières étant encore en cours de mise en œuvre. Les systèmes douaniers numériques tels que le service de déclaration douanière (CDS) du Royaume-Uni et le système de contrôle des importations 2 (ICS2) de l'UE sont essentiels pour le traitement des déclarations.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Contrôles sanitaires et phytosanitaires (SPS)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Les importations d'animaux vivants, de produits animaux et de certaines plantes sont soumises à des contrôles SPS. L'Institute for Government explique que ces marchandises doivent être pré-notifiées via le système britannique d'importation de produits, d'animaux, d'aliments et de fourrages (IPAFFS) ou le système TRACES de l'UE et acheminées via les postes de contrôle frontaliers (PCF). À ces postes, les envois subissent des contrôles documentaires, d'identité et physiques pour assurer la conformité avec les règles de santé animale et de sécurité alimentaire. Les entreprises doivent prévoir un délai supplémentaire aux PCF et s'assurer que les documents sont exacts.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Modèle opérationnel cible aux frontières (BTOM)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Le modèle opérationnel cible aux frontières du Royaume-Uni propose une approche basée sur les risques pour les contrôles SPS et introduit une fenêtre commerciale unique pour les procédures d'importation numériques. Selon la bibliothèque de la Chambre des communes, le BTOM vise à simplifier les processus frontaliers et mettra en place de nouveaux contrôles progressivement sur plusieurs années. Le modèle envisage différents niveaux d'examen en fonction de la catégorie de risque des marchandises (faible, moyen, élevé). Les entreprises devraient suivre le déploiement du BTOM pour ajuster les délais et les exigences en matière de documentation.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cabotage et détachement au Royaume-Uni"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Les règles du paquet Mobilité de l'UE sur le cabotage et le détachement affectent également les transporteurs de l'UE opérant au Royaume-Uni. Le cabotage (transport intérieur dans un pays étranger) est limité à deux opérations dans les sept jours suivant une livraison internationale au Royaume-Uni. La période de carence de quatre jours après le cabotage, décrite précédemment, ne s'applique pas aux opérations en dehors de l'UE, mais le Royaume-Uni a adopté des restrictions similaires. Les opérations de cross-trade (par exemple, Irlande-Royaume-Uni-France) peuvent être restreintes, et les conducteurs peuvent avoir besoin de déclarations de détachement dans l'UE via le portail IMI.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Étapes pratiques pour les expéditeurs et les transporteurs"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Comprendre les règles d'origine : Compiler une base de données des déclarations des fournisseurs pour prouver l'origine. Envisager de faire appel à des conseillers en libre-échange pour déterminer quels produits sont éligibles à des droits de douane nuls.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Préparer des déclarations douanières précises : S'assurer que vous ou votre agent en douane disposez de tous les codes nécessaires (codes de marchandises, valeur, poids) et utilisez des systèmes informatiques appropriés (CDS, NCTS).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Anticiper les contrôles SPS : Si vous expédiez des aliments ou des plantes, pré-notifier les envois et prévoir du temps pour les inspections aux PCF. Les véhicules à température contrôlée peuvent devoir faire la queue dans des installations spéciales.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Partenariat avec des transitaires expérimentés : Un transitaire numérique peut gérer les formalités douanières, garantir les carnets TIR et gérer le cross-docking dans les hubs frontaliers.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusion"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Le commerce post-Brexit introduit de nouvelles couches administratives pour le fret routier UE-Royaume-Uni. Les déclarations douanières, les règles d'origine et les inspections SPS doivent être prises en compte dans les temps de transit et les coûts. Les entreprises qui investissent dans la compréhension de ces exigences et collaborent avec des partenaires compétents géreront le paysage post-Brexit plus facilement et maintiendront des chaînes d'approvisionnement fiables.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sources"
+    },
+    {
+      "type": "citation",
+      "text": "Commerce avec l'UE après le Brexit (Bibliothèque de la Chambre des communes, 2023) - Discute de l'accord de commerce et de coopération UE-Royaume-Uni, notant que les marchandises doivent respecter les règles d'origine pour bénéficier de droits de douane nuls et que seulement 10 à 53 % des exportations de textiles et de vêtements ont bénéficié de tarifs préférentiels en 2022 ; note également les contrôles douaniers complets et la mise en œuvre continue des contrôles frontaliers du Royaume-Uni.",
+      "author": "Bibliothèque de la Chambre des communes",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-8397/CBP-8397.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Modèle opérationnel cible aux frontières (Bibliothèque de la Chambre des communes, 2023) - Explique le modèle opérationnel cible aux frontières du Royaume-Uni, qui propose une approche basée sur les risques pour les contrôles SPS et le développement d'une fenêtre commerciale unique.",
+      "author": "Bibliothèque de la Chambre des communes",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-9710/CBP-9710.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Explicatif : La frontière Grande-Bretagne-UE (Institute for Government, 2022) - Décrit les exigences SPS pour les marchandises traversant la frontière GB-UE, indiquant que les produits animaux et végétaux doivent être pré-notifiés via IPAFFS ou TRACES et subir des contrôles documentaires, d'identité et physiques aux postes de contrôle frontaliers.",
+      "author": "Institute for Government",
+      "url": "https://www.instituteforgovernment.org.uk/explainer/gb-eu-border"
+    }
+  ],
+  "tags": [
+    "fret routier post-Brexit",
+    "douanes UE-RU",
+    "contrôles SPS",
+    "règles d'origine",
+    "ACC RU",
+    "procédures frontalières",
+    "fret routier Europe"
+  ]
+}

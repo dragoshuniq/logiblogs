@@ -1,0 +1,195 @@
+{
+  "id": "low-emission-zones-and-the-eurovignette-what-europe-s-new-toll-reforms-mean-for-freight-costs",
+  "shortId": "low-emission-zones",
+  "language": "nl",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Lage-emissiezones en Eurovignette: wat betekenen de nieuwe tolhervormingen voor uw transportkosten?",
+  "description": "Het Europese wegvervoer staat onder toenemende druk om te verduurzamen. Steden breiden lage-emissiezones (LEZ’s) uit en nationale overheden hervormen de tolheffing op basis van de herziene Eurovignette-richtlijn. Voor logistiek managers is het cruciaal te begrijpen hoe deze maatregelen doorwerken in de kostprijs...",
+  "publishedAt": "2025-12-02T00:00:00.000Z",
+  "category": "Duurzaamheid",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experts in logistieke technologie",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "low-emission-zones-hero.png",
+  "imageAlt": "Illustratie van een Europese stadskaart met gemarkeerde lage-emissiezones, tolpoorten en gekleurde vrachtwagens voor Euro VI en elektrische voertuigen.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Het Europese wegvervoer moet zijn CO2-uitstoot snel terugdringen. Steden rollen lage-emissiezones (LEZ’s) uit en nationale overheden hervormen de tolheffing in lijn met de herziene Eurovignette-richtlijn. Voor logistiek managers die langeafstandstrajecten en stedelijke distributie plannen, is het essentieel te begrijpen hoe deze ontwikkelingen de kostprijsstructuur veranderen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "low-emission-zones-visual-1.png",
+      "alt": "Zware elektrische vrachtwagen die langs een tolpoort op een Europese snelweg rijdt, met windturbines op de achtergrond.",
+      "caption": "Een elektrische truck bij een tolpoort illustreert de verschuiving naar schonere voertuigen en CO2-gedifferentieerde tolheffing."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Groeiend netwerk van lage-emissiezones"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "LEZ’s beperken de toegang van de meest vervuilende voertuigen tot binnensteden. Volgens de Clean Cities Campaign telde Europa 228 actieve LEZ’s in 2019 en 320 in 2022 – een stijging van circa 40 %. Tegen 2025 wordt een verdere toename van 58 % verwacht, doordat steden de emissienormen aanscherpen. 27 steden willen bestaande zones uitbreiden of strenger maken en minstens 35 plannen nul-emissiezones tegen 2030. Alleen al Londen’s Ultra Low Emission Zone (ULEZ) verlaagde de CO2-uitstoot tussen 2019 en 2022 met ongeveer 800.000 ton en reduceerde NO2 met tot wel 46 %. ",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Hoewel LEZ’s de luchtkwaliteit verbeteren, kunnen ze de logistiek verstoren wanneer oudere dieseltrucks worden geweerd of hoge dagtarieven moeten betalen. Fleet managers doen er goed aan LEZ’s langs belangrijke corridors in kaart te brengen, alternatieve routes te plannen en de omschakeling naar Euro VI of zero-emissievoertuigen te versnellen om toegang tot stadscentra te behouden.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Eurovignette: van tijdgebaseerde vignetten naar afstands- en CO2-gebaseerde tol"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "De Eurovignette-richtlijn (richtlijn (EU) 2022/362) regelt hoe lidstaten zware voertuigen belasten op het Trans-Europees vervoersnetwerk (TEN-T). De herziene regels schrijven voor dat tijdgebaseerde vignetten op het kernnetwerk uiterlijk in 2030 moeten verdwijnen. Vanaf 2024 moeten tol- en vignetbedragen voor zware voertuigen variëren op basis van CO2-emissies, zodat schonere trucks worden beloond. Vanaf 2026 moeten toltarieven bovendien de externe kosten van luchtverontreiniging weerspiegelen, zodat gebruikers betalen voor sociale en milieuschade.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "De nieuwe regels geven lidstaten de mogelijkheid om zero-emissie trucks tot december 2025 vrij te stellen van tol; de Europese Commissie stelt voor deze periode te verlengen tot juni 2031. Landen kunnen volledige of gedeeltelijke vrijstelling verlenen, waardoor de aantrekkelijkheid van elektrische trucks per markt verschilt. Volgens het European Alternative Fuels Observatory zijn zware voertuigen verantwoordelijk voor 27,5 % van de CO2-uitstoot van het wegvervoer in de EU – gedifferentieerde tolheffing is dus een krachtig decarbonisatie-instrument. Momenteel bieden slechts enkele landen volledige vrijstelling, maar dat aantal zal naar verwachting stijgen naarmate de richtlijn wordt uitgerold.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Effect van tol en LEZ’s op transportkosten"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Recente analyses tonen aan dat tolheffing een substantieel deel van de totale transportkosten vormt. Onderzoek van logistieke data-aanbieders en de IRU geeft aan dat tol gemiddeld rond 14 % van de kosten kan uitmaken en op sommige routes tot 23 % (cijfers Q2 2025). De verschuiving van vaste vignetten naar afstands- en CO2-gebaseerde tol zal de kostengap tussen schone en vervuilende voertuigen verder vergroten. Tegelijkertijd verwacht de Clean Cities Campaign dat uitbreiding van LEZ’s de stedelijke NO2-concentraties met gemiddeld zo’n 20 % blijft verlagen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Om grip te houden op kosten kunnen vervoerders:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Investeren in schonere voertuigen: De overstap naar Euro VI of zero-emissie trucks verlaagt toltarieven en voorkomt boetes in LEZ’s.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Routes optimaliseren: Routes zo plannen dat meerdere LEZ’s of dure toltrajecten worden vermeden, levert kosten- en CO2-besparingen op.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Nationale beleidswijzigingen volgen: Elke lidstaat heeft een eigen tolsysteem en eigen LEZ-regels. Houd vrijstellingen voor zero-emissie trucks en wijzigingen in emissieklassen nauwlettend in de gaten.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Intermodale alternatieven overwegen: Op langere afstanden kunnen spoor of gecombineerd transport LEZ-beperkingen omzeilen en de tolcomponent in de kostprijs verlagen.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "De transitie naar zero-emissie plannen"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "De Eurovignette-hervorming en uitbreiding van LEZ’s geven een duidelijk signaal: het exploiteren van oudere verbrandingsmotortrucks wordt steeds duurder. Logistiek managers moeten roadmaps opstellen voor elektrificatie of andere low-carbon oplossingen. Zero-emissie trucks zijn nog duur en laadinfra is ongelijk verdeeld, maar early adopters profiteren van tolvrijstelling en betere toegang tot steden. Vlootvernieuwingsprogramma’s en subsidies kunnen de investeringspijn verzachten.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusie"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lage-emissiezones en tolhervormingen herschrijven de kostenstructuur van het Europese wegvervoer. Door de Eurovignette-richtlijn te begrijpen en de uitbreiding van LEZ’s te volgen, kunnen verladers en vervoerders voorspellen waar kosten stijgen en tijdig investeren in schonere voertuigen en slimmere routeplanning. Op de lange termijn verminderen deze maatregelen CO2- en luchtverontreiniging en creëren ze een gelijker speelveld voor duurzame vervoerders.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Bronnen"
+    },
+    {
+      "type": "citation",
+      "text": "Low-Emission Zones: The Essential Guide (Clean Cities Campaign, 2023) – Geeft statistieken over het aantal LEZ’s in Europa, meldt een groei van 40 % tussen 2019 en 2022 en laat zien dat de Londense ULEZ de CO2-uitstoot met 800.000 ton en NO2 met tot 46 % reduceerde.",
+      "author": "Clean Cities Campaign",
+      "url": "https://cleancitiescampaign.org/wp-content/uploads/2023/05/Low-Emission-Zones-The-Essential-Guide.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Road charging: Eurovignette directive (European Commission, 2023) – Vat de herziene Eurovignette-richtlijn samen, met de verplichting om tijdvignetten uiterlijk in 2030 uit te faseren en tol vanaf 2024 te koppelen aan CO2-emissies, inclusief externe luchtverontreinigingskosten vanaf 2026.",
+      "author": "European Commission",
+      "url": "https://transport.ec.europa.eu/transport-themes/road/road-charging_en"
+    },
+    {
+      "type": "citation",
+      "text": "Zero-emission truck toll exemption until 2025 (European Alternative Fuels Observatory, 2024) – Meldt dat zware voertuigen 27,5 % van de CO2-uitstoot van het EU-wegvervoer veroorzaken en dat de Eurovignette-richtlijn lidstaten toestaat zero-emissie trucks tot december 2025 van tol vrij te stellen, met een voorgestelde verlenging tot 2031.",
+      "author": "European Alternative Fuels Observatory",
+      "url": "https://alternative-fuels-observatory.ec.europa.eu/policies/eurovignette-zero-emission-trucks"
+    }
+  ],
+  "tags": [
+    "lage-emissiezones",
+    "Eurovignette-richtlijn",
+    "tolhervorming",
+    "CO2-gebaseerde tol",
+    "zero-emissie trucks",
+    "transportkostprijs",
+    "LEZ Europa"
+  ]
+}
+

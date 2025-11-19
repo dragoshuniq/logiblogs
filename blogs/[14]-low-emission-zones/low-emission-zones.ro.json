@@ -1,0 +1,195 @@
+{
+  "id": "low-emission-zones-and-the-eurovignette-what-europe-s-new-toll-reforms-mean-for-freight-costs",
+  "shortId": "low-emission-zones",
+  "language": "ro",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Zone cu emisii reduse și Eurovignette: ce înseamnă noile reforme ale taxelor de drum pentru costurile de transport",
+  "description": "Transportul rutier este supus unei presiuni tot mai mari de decarbonizare. Orașele europene extind zonele cu emisii reduse (LEZ), iar guvernele naționale reformează taxarea rutieră conform versiunii revizuite a Directivei Eurovignette. Înțelegerea modului în care aceste măsuri influențează costurile este esențială pentru managerii de logistică care planifică transporturi pe distanțe lungi și livrări urbane în toată Europa...",
+  "publishedAt": "2025-12-02T00:00:00.000Z",
+  "category": "Sustenabilitate",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experți în tehnologii pentru logistică",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "low-emission-zones-hero.png",
+  "imageAlt": "Ilustrație cu harta unui oraș european în care sunt evidențiate zonele cu emisii reduse, porțile de taxare și camioane colorate diferit pentru vehicule Euro VI și electrice.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transportul rutier este supus unei presiuni tot mai mari de decarbonizare. Orașele europene extind zonele cu emisii reduse (LEZ), iar guvernele naționale reformează sistemele de taxare rutieră conform versiunii revizuite a Directivei Eurovignette. Pentru managerii de logistică care planifică curse internaționale și distribuție urbană pe tot continentul, este esențial să înțeleagă cum se traduc aceste măsuri în costuri.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "low-emission-zones-visual-1.png",
+      "alt": "Camion electric greu trece printr-o poartă de taxare pe o autostradă europeană, cu turbine eoliene în fundal.",
+      "caption": "Un camion electric greu trece printr-o poartă de taxare, ilustrând modul în care infrastructura și politicile de taxare direcționează investițiile către vehicule cu emisii reduse."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rețeaua în creștere de zone cu emisii reduse"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Zonele cu emisii reduse limitează accesul vehiculelor cele mai poluante în zonele centrale ale orașelor. Campania Clean Cities arată că în Europa existau 228 de LEZ active în 2019 și 320 în 2022, o creștere de aproximativ 40 %. Până în 2025, numărul ar urma să crească cu încă 58 %, pe măsură ce orașele înăspresc standardele de emisii. 27 de orașe plănuiesc extinderea sau înăsprirea LEZ existente, iar cel puțin 35 intenționează să introducă zone cu emisii zero până în 2030. Doar în Londra, zona Ultra Low Emission Zone (ULEZ) a redus emisiile de CO2 cu aproximativ 800.000 de tone între 2019 și 2022 și a tăiat dioxidul de azot cu până la 46 %.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Deși LEZ îmbunătățesc calitatea aerului, ele pot perturba operațiunile de transport dacă vehiculele diesel mai vechi sunt interzise sau supuse unor taxe zilnice ridicate. Managerii de flotă ar trebui să cartografieze LEZ de pe principalele coridoare, să planifice rute alternative și să prioritizeze trecerea la camioane Euro VI sau vehicule zero emisii pentru acces sigur în orașe.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Eurovignette: de la viniete temporale la taxe pe distanță și CO2"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Directiva Eurovignette (Directiva 2022/362/UE) stabilește modul în care statele membre taxează vehiculele grele pe rețeaua de transport transeuropeană (TEN-T). Regulile revizuite cer eliminarea graduală a vinietelor bazate pe timp pe rețeaua centrală TEN-T până în 2030. Din 2024, taxele și vinietele pentru vehiculele grele trebuie diferențiate în funcție de emisiile de CO2, recompensând camioanele mai curate. Din 2026, taxele trebuie să includă și costurile externe ale poluării aerului, astfel încât utilizatorii să plătească pentru impactul social și de mediu.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Noile reguli permit statelor membre să scutească de taxe camioanele cu zero emisii până în decembrie 2025, iar Comisia Europeană propune prelungirea acestei perioade până în iunie 2031. Statele au libertatea de a oferi scutiri totale sau parțiale, astfel că atractivitatea camioanelor electrice variază de la o țară la alta. Observatorul European pentru Combustibili Alternativi estimează că vehiculele grele generează 27,5 % din emisiile de CO2 ale transportului rutier din UE, ceea ce face din diferențierea taxelor un instrument puternic de decarbonizare. În prezent doar câteva țări oferă scutiri complete, dar se așteaptă ca numărul lor să crească pe măsură ce directiva este implementată.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cum influențează taxele și LEZ costurile de transport"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Analize recente arată că taxele de drum reprezintă o parte importantă din costurile de transport rutier. Cercetări realizate de furnizori de inteligență logistică și de IRU sugerează că taxele pot ajunge la aproximativ 14 % din costurile totale de transport și până la 23 % pe anumite rute (date T2 2025). Trecerea de la viniete cu tarif fix la taxe pe distanță diferențiate în funcție de CO2 amplifică diferențele de cost între vehiculele curate și cele poluante. În paralel, Clean Cities Campaign estimează că extinderea LEZ continuă să reducă dioxidul de azot în orașe cu aproximativ 20 %. ",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Pentru a ține sub control costurile, transportatorii pot:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Investi în vehicule mai curate: Trecerea la camioane Euro VI sau la vehicule zero emisii reduce nivelul taxelor și evită penalitățile în zonele cu emisii reduse.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Folosirea optimizării rutelor: Optimizarea rutelor pentru a evita mai multe LEZ sau secțiuni de drum cu taxe ridicate poate genera economii și scădea emisiile.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Monitorizarea politicilor naționale: Fiecare stat membru are propriile structuri de taxare și reguli LEZ. Urmărește scutirile pentru camioane zero emisii și modificările claselor de emisii.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Luarea în calcul a alternativelor intermodale: Pe distanțe lungi, soluțiile feroviare sau combinate pot ocoli restricțiile LEZ și pot reduce cheltuielile cu taxele de drum.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Planificarea tranziției către transport zero emisii"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Reforma Eurovignette și extinderea LEZ transmit un mesaj clar: exploatarea camioanelor vechi pe combustie va deveni din ce în ce mai scumpă. Managerii de logistică ar trebui să dezvolte foi de parcurs pentru electrificare sau adoptarea unor alternative cu emisii reduse. Camioanele zero emisii sunt încă scumpe, iar infrastructura de încărcare este inegal distribuită, însă adopția timpurie poate aduce beneficii prin scutiri de taxe și acces preferențial în orașe. Programele de reînnoire a flotei și stimulentele guvernamentale pot compensa o parte din costuri.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Concluzie"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Zonele cu emisii reduse și reformele de taxare rutieră rescriu structura costurilor în transportul rutier european. Înțelegând Directiva Eurovignette și urmărind extinderea LEZ, expeditorii și transportatorii pot anticipa unde vor crește costurile și pot planifica investiții în echipamente mai curate și în rutare mai inteligentă. Pe termen lung, aceste măsuri nu doar reduc emisiile de CO2 și poluarea aerului, ci și susțin o concurență mai echitabilă pentru operatorii sustenabili.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Surse"
+    },
+    {
+      "type": "citation",
+      "text": "Low-Emission Zones: The Essential Guide (Clean Cities Campaign, 2023) - Oferă statistici despre numărul zonelor cu emisii reduse în Europa, indică o creștere de 40 % între 2019 și 2022 și menționează că ULEZ Londra a redus emisiile de CO2 cu 800.000 de tone și NO2 cu până la 46 %.",
+      "author": "Clean Cities Campaign",
+      "url": "https://cleancitiescampaign.org/wp-content/uploads/2023/05/Low-Emission-Zones-The-Essential-Guide.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Road charging: Eurovignette directive (European Commission, 2023) - Rezumă versiunea revizuită a Directivei Eurovignette, explicând că vinietele trebuie eliminate până în 2030 și că, din 2024, taxele variază în funcție de emisiile de CO2, iar din 2026 includ costurile externe ale poluării aerului.",
+      "author": "European Commission",
+      "url": "https://transport.ec.europa.eu/transport-themes/road/road-charging_en"
+    },
+    {
+      "type": "citation",
+      "text": "Zero-emission truck toll exemption until 2025 (European Alternative Fuels Observatory, 2024) - Notează că vehiculele grele generează 27,5 % din emisiile de CO2 ale transportului rutier din UE și explică faptul că Directiva Eurovignette permite statelor membre să scutească de taxe camioanele zero emisii până în decembrie 2025, cu o propunere de prelungire până în 2031.",
+      "author": "European Alternative Fuels Observatory",
+      "url": "https://alternative-fuels-observatory.ec.europa.eu/policies/eurovignette-zero-emission-trucks"
+    }
+  ],
+  "tags": [
+    "zone cu emisii reduse",
+    "Directiva Eurovignette",
+    "reforme taxe de drum",
+    "taxe rutiere bazate pe CO2",
+    "camioane zero emisii",
+    "costuri transport rutier",
+    "LEZ Europa"
+  ]
+}
+

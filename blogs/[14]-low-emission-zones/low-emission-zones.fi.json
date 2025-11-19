@@ -1,0 +1,195 @@
+{
+  "id": "low-emission-zones-and-the-eurovignette-what-europe-s-new-toll-reforms-mean-for-freight-costs",
+  "shortId": "low-emission-zones",
+  "language": "fi",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Päästöalueet ja Eurovignette: mitä uudet tietulliuudistukset merkitsevät kuljetuskustannuksille",
+  "description": "Eurooppalainen maantiekuljetus on kasvavan paineen alla vähentää päästöjä. Kaupungit laajentavat päästörajoitusalueita ja valtiot uudistavat tiemaksuja päivitetyn Eurovignette-direktiivin mukaisesti. Logistiikkapäälliköille on ratkaisevan tärkeää ymmärtää, miten nämä toimet vaikuttavat kustannusrakenteeseen...",
+  "publishedAt": "2025-12-02T00:00:00.000Z",
+  "category": "Kestävä kehitys",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistiikkateknologian asiantuntijat",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "low-emission-zones-hero.png",
+  "imageAlt": "Kuvitus eurooppalaisen kaupungin kartasta, jossa on merkitty päästörajoitusalueet, tietullit ja Euro VI -sekä sähkökuorma-autojen ikonit.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Euroopan maantiekuljetusten on vähennettävä päästöjään nopeasti. Kaupungit ottavat käyttöön yhä enemmän päästörajoitusalueita (low-emission zones, LEZ), ja valtiot uudistavat tiemaksujärjestelmiä päivitetyn Eurovignette-direktiivin mukaisesti. Pitkien runkokuljetusten ja kaupunkijakelun parissa työskenteleville logistiikkapäälliköille on olennaista ymmärtää, miten nämä muutokset vaikuttavat kuljetus- ja rahtikustannuksiin.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "low-emission-zones-visual-1.png",
+      "alt": "Raskas sähkökuorma-auto ohittaa tietullin eurooppalaisella moottoritiellä, taustalla näkyy tuulivoimaloita.",
+      "caption": "Sähkökuorma-auto tietullilla symboloi siirtymää puhtaampiin ajoneuvoihin ja CO2-perusteisiin tiemaksuihin."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Kasvava päästörajoitusalueiden verkosto"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "LEZ-alueet rajoittavat saastuttavimpien ajoneuvojen pääsyä kaupunkien keskustoihin. Clean Cities Campaignin mukaan Euroopassa oli 228 LEZ-aluetta vuonna 2019 ja 320 vuonna 2022 – noin 40 % kasvu. Vuoteen 2025 mennessä määrän arvioidaan kasvavan vielä 58 %, kun kaupungit kiristävät päästörajoja. 27 kaupunkia suunnittelee nykyisten alueiden laajentamista tai tiukentamista ja vähintään 35 tähtää nollapäästöalueisiin vuoteen 2030 mennessä. Lontoon Ultra Low Emission Zone (ULEZ) on yksin vähentänyt hiilidioksidipäästöjä arviolta 800 000 tonnilla vuosina 2019–2022 ja laskenut NO2-pitoisuuksia jopa 46 %. ",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Vaikka LEZ-alueet parantavat ilmanlaatua, ne voivat häiritä kuljetusketjuja, jos vanhemmat dieselkuorma-autot kielletään tai niille määrätään korkeita päiväkohtaisia maksuja. Kalustosta vastaavien kannattaa kartoittaa LEZ-alueet tärkeimmillä reiteillä, suunnitella vaihtoehtoisia reittejä ja priorisoida siirtymä Euro VI - tai nollapäästöisiin kuorma-autoihin kaupunkien saavutettavuuden säilyttämiseksi.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Eurovignette: aikaperusteisista vignetoista matka- ja CO2-pohjaisiin maksuihin"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Eurovignette-direktiivi (direktiivi (EU) 2022/362) määrittelee, miten jäsenvaltiot voivat periä maksuja raskaista ajoneuvoista Euroopan laajuisella TEN-T-verkolla. Uudistettujen sääntöjen mukaan aikaperusteiset vignetit on poistettava TEN-T:n runkoverkolta vuoteen 2030 mennessä. Vuodesta 2024 alkaen raskaiden ajoneuvojen tiemaksujen tulee vaihdella CO2-päästöjen mukaan, jolloin puhtaammat kuorma-autot hyötyvät alemmista maksuista. Vuodesta 2026 lähtien maksujen on sisällettävä myös ilmanlaadun heikkenemisestä aiheutuvat ulkoiskustannukset, jotta käyttäjät maksavat myös ympäristö- ja terveysvaikutuksista.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sääntöjen mukaan jäsenvaltiot voivat vapauttaa nollapäästökuorma-autot tiemaksuista joulukuuhun 2025 asti; komissio ehdottaa vapautuksen jatkamista kesäkuuhun 2031. Maat voivat myöntää täysiä tai osittaisia vapautuksia, joten sähköisen ja muun nollapäästökaluston kannattavuus vaihtelee markkinasta toiseen. European Alternative Fuels Observatory arvioi, että raskaat ajoneuvot tuottavat 27,5 % EU:n tieliikenteen CO2-päästöistä – maksujen porrastaminen päästöjen mukaan on siten tärkeä väline päästöjen vähentämisessä. Toistaiseksi vain harvat maat tarjoavat täyden vapautuksen, mutta lukumäärä kasvaa direktiivin toimeenpanon myötä.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Miten tiemaksut ja LEZ vaikuttavat kuljetuskustannuksiin?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Tuoreet analyysit osoittavat, että tiemaksut muodostavat merkittävän osan maantiekuljetusten kokonaiskustannuksista. Logistiikka-analytiikan toimijoiden ja IRU:n tutkimusten mukaan maksut voivat olla keskimäärin noin 14 % kokonaiskustannuksista ja jopa 23 % tietyillä reiteillä (toisen vuosineljänneksen 2025 lukuja). Siirtymä kiinteistä vigneteistä matka- ja CO2-pohjaisiin maksuihin kasvattaa kustannuseroa puhtaan ja paljon päästävän kaluston välillä. Samalla Clean Cities Campaign arvioi, että LEZ-alueiden laajentaminen voi vähentää kaupunkien NO2-pitoisuuksia keskimäärin noin 20 %.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kuljetusyritykset voivat hallita kustannuksia esimerkiksi näin:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Investoi puhtaampaan kalustoon: Euro VI - tai nollapäästökuorma-autot alentavat tiemaksuja ja vähentävät sakkojen riskiä LEZ-alueilla.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Optimoi reitit: Suunnittele reitit niin, että vältät useita LEZ-alueita tai erityisen kalliita maksullisia osuuksia – näin säästät sekä kustannuksia että CO2-päästöjä.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Seuraa kansallista sääntelyä: Jokaisella maalla on oma maksujärjestelmänsä ja omat LEZ-sääntönsä. On tärkeää seurata, miten nollapäästöajoneuvojen vapautukset ja päästöluokat kehittyvät.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Hyödynnä intermodaaliratkaisuja: Pitkillä välimatkoilla rautatie- tai yhdistetyt kuljetukset voivat kiertää osan LEZ-rajoituksista ja pienentää tiemaksujen osuutta kokonaiskustannuksista.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Polku kohti nollapäästöisiä kuljetuksia"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Eurovignette-uudistus ja LEZ-alueiden kasvu lähettävät selvän viestin: vanhan polttomoottorikaluston ajaminen käy asteittain kalliimmaksi. Logistiikkapäälliköiden on laadittava tiekartat sähköistämiselle tai muille vähäpäästöisille vaihtoehdoille. Nollapäästökuorma-autot ovat vielä kalliita ja latausinfrastruktuuri epätasaisesti jakautunutta, mutta edelläkävijät voivat hyötyä maksuvapautuksista ja paremmasta kaupunkipääsystä. Kaluston uusimista tukevat ohjelmat ja julkiset tuet voivat osaltaan kattaa investointikustannuksia.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Yhteenveto"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Päästörajoitusalueet ja tiemaksujen uudistus muuttavat eurooppalaisen maantiekuljetuksen kustannusrakennetta. Eurovignette-direktiivin ja LEZ-kehityksen ymmärtäminen auttaa tavaranomistajia ja kuljetusyrityksiä ennakoimaan, missä kustannukset nousevat, sekä suunnittelemaan investoinnit puhtaampaan kalustoon ja fiksumpaan reittisuunnitteluun. Pitkällä aikavälillä nämä toimet vähentävät CO2-päästöjä ja ilmansaasteita ja luovat tasapuolisemmat kilpailuolosuhteet kestävälle kuljetukselle.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lähteet"
+    },
+    {
+      "type": "citation",
+      "text": "Low-Emission Zones: The Essential Guide (Clean Cities Campaign, 2023) – Esittelee tilastoja LEZ-alueiden määrästä Euroopassa, raportoi 40 % kasvusta vuosien 2019 ja 2022 välillä ja siitä, että Lontoon ULEZ vähensi CO2-päästöjä 800 000 tonnilla ja NO2-tasoja jopa 46 %. ",
+      "author": "Clean Cities Campaign",
+      "url": "https://cleancitiescampaign.org/wp-content/uploads/2023/05/Low-Emission-Zones-The-Essential-Guide.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Road charging: Eurovignette directive (European Commission, 2023) – Yhteenveto uudistetusta Eurovignette-direktiivistä; aikaperusteiset vignetit on poistettava vuoteen 2030 mennessä, ja vuodesta 2024 alkaen maksujen on vaihdeltava CO2-päästöjen mukaan sekä sisällettävä ilmanlaadun heikkenemisen ulkoiskustannuksia vuodesta 2026 alkaen.",
+      "author": "European Commission",
+      "url": "https://transport.ec.europa.eu/transport-themes/road/road-charging_en"
+    },
+    {
+      "type": "citation",
+      "text": "Zero-emission truck toll exemption until 2025 (European Alternative Fuels Observatory, 2024) – Toteaa, että raskaat ajoneuvot tuottavat 27,5 % EU:n tieliikenteen CO2-päästöistä ja että Eurovignette-direktiivi mahdollistaa nollapäästökuorma-autojen vapauttamisen tiemaksuista joulukuuhun 2025 asti, jatkoehdotuksella vuoteen 2031.",
+      "author": "European Alternative Fuels Observatory",
+      "url": "https://alternative-fuels-observatory.ec.europa.eu/policies/eurovignette-zero-emission-trucks"
+    }
+  ],
+  "tags": [
+    "päästörajoitusalueet",
+    "Eurovignette-direktiivi",
+    "tiemaksu-uudistus",
+    "CO2-perusteiset tiemaksut",
+    "nollapäästökuorma-autot",
+    "maantiekuljetusten kustannukset",
+    "LEZ Euroopassa"
+  ]
+}
+

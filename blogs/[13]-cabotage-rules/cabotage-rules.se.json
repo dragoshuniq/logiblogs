@@ -1,0 +1,231 @@
+{
+  "id": "eu-cabotage-rules-and-the-mobility-package-navigating-cooling-off-periods-and-vehicle-return-requirements",
+  "shortId": "eu-cabotage-rules",
+  "language": "se",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "EU:s cabotageregler och mobilitetspaketet: Att navigera i karenstider och krav på att fordon ska återvända",
+  "description": "Europeiska speditörer och transportörer har länge dragit nytta av cabotage - rätten för vägtransportörer från ett EU-land att utföra inrikesresor i en annan medlemsstat - eftersom det hjälper till att minska tomkörningar och öka effektiviteten. Men cabotage kan också...",
+  "publishedAt": "2025-12-01T00:00:00.000Z",
+  "category": "Transport",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experter på logistikteknik",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "cabotage-rules-hero.png",
+  "imageAlt": "Illustration av en EU-karta som visar en lastbil som korsar gränser med pilar som indikerar cabotagerutter, med en kalenderikon som illustrerar den fyra dagar långa karenstiden.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Europeiska speditörer och transportörer har länge dragit nytta av cabotage – rätten för vägtransportörer från ett EU-land att utföra inrikesresor i en annan medlemsstat – eftersom det hjälper till att minska tomkörningar och öka effektiviteten. Men cabotage kan också snedvrida marknader och möjliggöra orättvis konkurrens om fordon stannar på obestämd tid i länder där kostnaderna är lägre. För att hantera detta inför EU:s mobilitetspaket nya regler för cabotage och utstationering av förare. Den här artikeln förklarar vad dessa regler innebär för transportörer och speditörer, med fokus på karenstider, krav på hemresa och digitala utstationeringsdeklarationer.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "cabotage-rules-visual-1.png",
+      "alt": "Foto av en europeisk lastbil som återvänder till sin hemmabasdepå i solnedgången, med ett lager i bakgrunden.",
+      "caption": "Foto av en europeisk lastbil som återvänder till sin hemmabasdepå i solnedgången, med ett lager i bakgrunden."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vad är cabotage?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Cabotage inträffar när en transportör som är registrerad i en EU-medlemsstat utför inrikes transport inom en annan medlemsstat. Till exempel, en polsk transportör som levererar varor till Frankrike och sedan tar flera inrikes laster inom Frankrike innan han återvänder hem, ägnar sig åt cabotage. Cabotage hjälper till att minska tomkörningar och stöder balanserade flöden över Europa, men det har varit kontroversiellt eftersom vissa operatörer har använt det för att kringgå lokala arbetsregler och löner.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Enligt EU-lagstiftningen får en transportör som inte är bosatt i landet utföra upp till tre cabotagetransporter inom sju dagar efter en internationell leverans. Dessa operationer måste äga rum efter att varorna har lossats från den inkommande internationella lasten.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mobilitetspaketets karenstid"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "För att förhindra kontinuerligt cabotage inför mobilitetspaketet en \"karenstid\". Efter att ha slutfört en cabotagetransport i en medlemsstat måste en transportör vänta i fyra dagar innan han får utföra ytterligare cabotage i samma land. Fyradagarsperioden börjar kl. 00:00 dagen efter den sista lossningen i den staten och slutar kl. 23:59 den fjärde dagen. Under denna tid kan transportören antingen återvända till sitt hemland, ta på sig internationella laster till andra medlemsstater eller utföra cabotage i en annan medlemsstat.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Denna regel syftar till att säkerställa att utländska lastbilar inte stannar permanent på lågkostnadsarbetsmarknader samtidigt som den fortfarande tillåter flexibilitet för gränsöverskridande operationer. För speditörer innebär karenstiden att det kan finnas färre utländska transportörer tillgängliga för inrikes transport med kort varsel under rusningstid, så att planera i förväg och använda etablerade speditions-partners blir avgörande.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Krav på att fordonet ska återvända hem"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ett annat centralt inslag i mobilitetspaketet är kravet på att fordonet ska återvända. Transportföretag måste organisera sin verksamhet så att varje fordon som används i internationell vägtransport återvänder till sin etableringsmedlemsstat minst en gång var åttonde vecka. Även om Europeiska domstolen ogiltigförklarade den föreskrivande skyldigheten, kvarstår det övergripande målet: lastbilar ska inte stanna i ett annat land under långa perioder. Denna regel gäller fordon med en bruttovikt på mer än 2,5 ton som är verksamma inom internationell transport.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transportörer måste planera scheman och laster för att inkludera en återresa inom åttaveckorsfönstret. Underlåtenhet att följa detta kan leda till böter eller förlust av cabotagerättigheter. För speditörer som arbetar med utländska transportörer är det klokt att verifiera att deras partners respekterar återvändandekravet, eftersom bristande efterlevnad kan störa leveranser.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Utstationering av förare och IMI-portalen"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Mobilitetspaketet innehåller också ett \"Lex specialis\"-direktiv om utstationering av förare (direktiv 2020/1057). Cabotage- och korstrafikoperationer (successiva internationella transporter mellan tredjeländer) betraktas som utstationering, vilket innebär att förarna måste betalas enligt värdlandets minimilön och arbetsvillkor. För att förenkla efterlevnaden måste deklarationer lämnas in elektroniskt via informationssystemet för den inre marknaden (IMI). IRU noterar att IMI-portalen är det enda officiella verktyget för utstationeringsdeklarationer och att nationella myndigheter inte får införa ytterligare anmälningssystem.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Förare måste ha med sig en kopia av utstationeringsdeklarationen, bevis på transportoperationer och färdskrivarregister för att visa efterlevnad vid vägkontroller. Däremot är bilateral transport (en utgående och en inkommande etapp med eventuella ytterligare korstrafiketapper) undantagna från utstationeringsreglerna.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Smarta färdskrivare och efterlevnad"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Mobilitetspaketet kräver installation av andra generationens smarta färdskrivare på fordon som är verksamma inom internationell transport för att registrera gränsövergångar och cabotageaktiviteter. Fordon mellan 2,5 och 3,5 ton kommer att omfattas av färdskrivarregler för gränsöverskridande operationer från mitten av 2026, vilket för in mindre skåpbilar i regelverket.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Smarta färdskrivare registrerar automatiskt gränsövergångar och fordonets position under lastning och lossning, vilket gör det lättare för tillsynsmyndigheterna att verifiera karenstider och fordonsåtervändande. Transportörer bör planera eftermonteringsscheman och avsätta resurser för färdskrivaruppgraderingar.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Praktiska råd för speditörer och transportörer"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Kontrollera transportörens efterlevnad: Se till att transportörer du anlitar följer karenstider och återvändandekrav. Be om bevis på utstationeringsdeklarationer och färdskrivardata vid behov.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Planera runt karenstider: Om din verksamhet är beroende av utländska transportörer, överväg det fyra dagar långa fönstret utan cabotage när du schemalägger inrikes transporter.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Använd digital dokumentation: Uppmuntra transportörer att lämna in utstationeringsdeklarationer via IMI-portalen och underhålla elektroniska fraktsedlar (e-CMR) för att effektivisera efterlevnaden.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Anlita en betrodd speditör: En digital speditör som Logifie kan hjälpa till att hantera cabotageefterlevnad, utstationeringsdeklarationer och ruttplanering, vilket minskar den administrativa bördan för speditörer.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Slutsats"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "EU:s mobilitetspaket omformar reglerna för cabotage och utstationering för att balansera marknadsöppenhet med rättvis konkurrens. Karenstider och krav på att fordon ska återvända innebär att transportörer måste planera verksamheten noggrant, medan speditörer måste se till att partnerna följer reglerna. Genom att förstå dessa regler och använda digitala verktyg kan logistikchefer navigera i det nya landskapet och fortsätta att optimera den gränsöverskridande vägfrakten.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Källor"
+    },
+    {
+      "type": "citation",
+      "text": "Frågor och svar: Mobilitetspaket I - Cabotage (Europeiska kommissionen, 2021) - Förklarar den fyra dagar långa karenstiden efter en cabotagetransport och restriktioner för att utföra cabotage i samma medlemsstat under denna period.",
+      "author": "Europeiska kommissionen",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021XC0816(01)"
+    },
+    {
+      "type": "citation",
+      "text": "Mobilitetspaket I - Återvändandeskyldighet och licensiering (Förbundsministeriet för digitalisering och transport, 2023) - Beskriver kravet på att fordon i internationell transport ska återvända till sin etableringsmedlemsstat minst var åttonde vecka och noterar att fordon över 2,5 ton behöver en gemenskapslicens.",
+      "author": "Förbundsministeriet för digitalisering och transport",
+      "url": "https://www.bmdv.bund.de/SharedDocs/EN/Articles/G/mobility-package.html"
+    },
+    {
+      "type": "citation",
+      "text": "Utstationering av förare: Lex specialis (Internationella vägtransportunionen, 2023) - Förklarar att cabotage- och korstrafikoperationer behandlas som utstationering, vilket kräver deklarationer via IMI-portalen, och klargör att bilaterala operationer inte betraktas som utstationering.",
+      "author": "Internationella vägtransportunionen",
+      "url": "https://www.iru.org/news-resources/iru-advises-on-posting-of-drivers-legislation"
+    }
+  ],
+  "tags": [
+    "cabotageregler",
+    "EU mobilitetspaket",
+    "karenstid",
+    "lastbil återvända hem",
+    "utstationering av förare",
+    "IMI-portal",
+    "vägfrakt Europa"
+  ]
+}

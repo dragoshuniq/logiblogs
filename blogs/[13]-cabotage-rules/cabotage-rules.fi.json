@@ -1,0 +1,231 @@
+{
+  "id": "eu-cabotage-rules-and-the-mobility-package-navigating-cooling-off-periods-and-vehicle-return-requirements",
+  "shortId": "eu-cabotage-rules",
+  "language": "fi",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "EU:n kabotaasisäännöt ja liikkuvuuspaketti: Jäähdyttelyjaksojen ja ajoneuvojen palautusvaatimusten ymmärtäminen",
+  "description": "Eurooppalaiset rahdinantajat ja liikenteenharjoittajat ovat jo pitkään hyötyneet kabotaasista - yhdestä EU-maasta kotoisin olevien maantiekuljetusyritysten oikeudesta harjoittaa kotimaanliikennettä toisessa jäsenvaltiossa - koska se auttaa vähentämään tyhjiä kilometrejä ja lisäämään tehokkuutta. Kabotaasi voi kuitenkin myös...",
+  "publishedAt": "2025-12-01T00:00:00.000Z",
+  "category": "Kuljetus",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistiikkateknologian asiantuntijat",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "cabotage-rules-hero.png",
+  "imageAlt": "Kuvitus EU:n kartasta, jossa näkyy rajoja ylittävä kuorma-auto, nuolet osoittavat kabotaasireittejä ja kalenterikuvake kuvaa neljän päivän jäähdyttelyjaksoa.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Eurooppalaiset rahdinantajat ja liikenteenharjoittajat ovat jo pitkään hyötyneet kabotaasista – yhdestä EU-maasta kotoisin olevien maantiekuljetusyritysten oikeudesta harjoittaa kotimaanliikennettä toisessa jäsenvaltiossa – koska se auttaa vähentämään tyhjiä kilometrejä ja lisäämään tehokkuutta. Kabotaasi voi kuitenkin myös vääristää markkinoita ja mahdollistaa epäreilun kilpailun, jos ajoneuvot pysyvät loputtomiin maissa, joissa kustannukset ovat alhaisemmat. Tämän ratkaisemiseksi EU:n liikkuvuuspaketti esittelee uusia sääntöjä kabotaasista ja kuljettajien lähettämisestä. Tämä artikkeli selittää, mitä nämä säännöt merkitsevät liikenteenharjoittajille ja rahdinantajille, keskittyen jäähdyttelyjaksoihin, kotiinpaluuvaatimuksiin ja digitaalisiin lähettämisilmoituksiin.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "cabotage-rules-visual-1.png",
+      "alt": "Kuva eurooppalaisesta kuorma-autosta, joka palaa kotitukikohtaansa auringonlaskun aikaan, taustalla varasto.",
+      "caption": "Kuva eurooppalaisesta kuorma-autosta, joka palaa kotitukikohtaansa auringonlaskun aikaan, taustalla varasto."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mitä on kabotaasi?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kabotaasia tapahtuu, kun yhdessä EU:n jäsenvaltiossa rekisteröity liikenteenharjoittaja suorittaa kotimaisia kuljetuksia toisessa jäsenvaltiossa. Esimerkiksi puolalainen liikenteenharjoittaja, joka toimittaa tavaroita Ranskaan ja ottaa sitten useita kotimaisia kuormia Ranskan sisällä ennen kotiinpaluutaan, harjoittaa kabotaasia. Kabotaasi auttaa vähentämään tyhjiä ajoja ja tukee tasapainoisia virtauksia Euroopassa, mutta se on ollut kiistanalainen, koska jotkut toimijat ovat käyttäneet sitä kiertääkseen paikallisia työlainsäädäntöjä ja palkkoja.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "EU-lain mukaan ulkomainen liikenteenharjoittaja voi suorittaa enintään kolme kabotaasitoimintoa seitsemän päivän kuluessa kansainvälisestä toimituksesta. Nämä toiminnot on suoritettava sen jälkeen, kun tavarat on purettu saapuvasta kansainvälisestä kuormasta.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Liikkuvuuspaketin jäähdyttelyjakso"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Jatkuvan kabotaasin estämiseksi liikkuvuuspaketti esittelee \"jäähdyttelyjakson\". Suoritettuaan kabotaasitoiminnon jäsenvaltiossa liikenteenharjoittajan on odotettava neljä päivää ennen kuin hän voi suorittaa lisää kabotaasia samassa maassa. Neljän päivän jakso alkaa klo 00:00 viimeisen purkamisen jälkeisenä päivänä kyseisessä valtiossa ja päättyy klo 23:59 neljäntenä päivänä. Tänä aikana liikenteenharjoittaja voi joko palata kotimaahansa, ottaa kansainvälisiä kuormia muihin jäsenvaltioihin tai suorittaa kabotaasia toisessa jäsenvaltiossa.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Tämän säännön tarkoituksena on varmistaa, että ulkomaiset kuorma-autot eivät pysy pysyvästi matalapalkkaisilla työmarkkinoilla, samalla kun se sallii joustavuuden rajat ylittäville toiminnoille. Rahdinantajille jäähdyttelyjakso tarkoittaa, että lyhyen varoitusajan kotimaan kuljetuksiin saattaa olla vähemmän ulkomaisia liikenteenharjoittajia saatavilla ruuhka-aikoina, joten ennakointi ja vakiintuneiden huolintakumppaneiden käyttö on ratkaisevan tärkeää.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ajoneuvon kotiinpaluuvaatimus"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Toinen keskeinen osa liikkuvuuspakettia on ajoneuvon palautusvaatimus. Kuljetusyritysten on järjestettävä toimintansa siten, että jokainen kansainvälisessä maantiekuljetuksessa käytettävä ajoneuvo palaa sijoittautumisjäsenvaltioonsa vähintään kerran kahdeksassa viikossa. Vaikka Euroopan unionin tuomioistuin kumosi velvoittavan määräyksen, yleinen tavoite säilyy: kuorma-autot eivät saa oleskella toisessa maassa pitkiä aikoja. Tämä sääntö koskee yli 2,5 tonnin painoisia ajoneuvoja, jotka harjoittavat kansainvälistä liikennettä.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Liikenteenharjoittajien on suunniteltava aikataulut ja kuormat siten, että ne sisältävät paluumatkan kahdeksan viikon ikkunan sisällä. Noudattamatta jättäminen voi johtaa sakkoihin tai kabotaasioikeuksien menettämiseen. Ulkomaisten liikenteenharjoittajien kanssa työskentelevien rahdinantajien on viisasta varmistaa, että heidän kumppaninsa noudattavat palautusvaatimusta, koska noudattamatta jättäminen voi häiritä toimituksia.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Kuljettajien lähettäminen ja IMI-portaali"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Liikkuvuuspaketti sisältää myös \"Lex specialis\" -direktiivin kuljettajien lähettämisestä (direktiivi 2020/1057). Kabotaasi- ja cross-trade-toiminnot (peräkkäiset kansainväliset kuljetukset kolmansien maiden välillä) katsotaan lähettämiseksi, mikä tarkoittaa, että kuljettajille on maksettava isäntämaan vähimmäispalkan ja työehtojen mukaisesti. Yhdenmukaisuuden yksinkertaistamiseksi ilmoitukset on toimitettava sähköisesti sisämarkkinoiden tietojenvaihtojärjestelmän (IMI) kautta. IRU toteaa, että IMI-portaali on ainoa virallinen työkalu lähettämisilmoituksille ja että kansalliset viranomaiset eivät saa asettaa ylimääräisiä ilmoitusjärjestelmiä.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kuljettajien on pidettävä mukanaan kopio lähettämisilmoituksesta, todisteet kuljetustoiminnoista ja ajopiirturitiedot osoittaakseen vaatimustenmukaisuuden tienvarsitarkastusten aikana. Sitä vastoin kahdenvälinen liikenne (yksi meno- ja yksi paluumatka mahdollisilla ylimääräisillä cross-trade-osuuksilla) on suljettu pois lähettämissääntöjen ulkopuolelta.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Älykkäät ajopiirturit ja valvonta"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Liikkuvuuspaketti edellyttää toisen sukupolven älykkäiden ajopiirtureiden asentamista kansainvälisessä liikenteessä käytettäviin ajoneuvoihin rajanylitysten ja kabotaasitoimintojen tallentamiseksi. 2,5–3,5 tonnin painoiset ajoneuvot tulevat ajopiirturisääntöjen piiriin rajat ylittävässä liikenteessä vuoden 2026 puolivälistä alkaen, mikä tuo pienemmät pakettiautot sääntelyn piiriin.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Älykkäät ajopiirturit rekisteröivät automaattisesti rajanylitykset ja ajoneuvon sijainnin lastauksen ja purkamisen aikana, mikä helpottaa valvontaviranomaisten jäähdyttelyjaksojen ja ajoneuvojen palautusten todentamista. Liikenteenharjoittajien tulisi suunnitella jälkiasennusaikatauluja ja varata resursseja ajopiirturien päivityksiin.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Käytännön neuvoja rahdinantajille ja liikenteenharjoittajille"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Tarkista liikenteenharjoittajan vaatimustenmukaisuus: Varmista, että sopimuskumppanisi noudattavat jäähdyttelyjaksoja ja palautusvaatimuksia. Pyydä tarvittaessa todisteet lähettämisilmoituksista ja ajopiirturitiedoista.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Suunnittele jäähdyttelyjaksojen ympärille: Jos toimintasi perustuu ulkomaisiin liikenteenharjoittajiin, ota huomioon neljän päivän kabotaasikielto suunnitellessasi kotimaan kuljetuksia.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Käytä digitaalista dokumentaatiota: Kannusta liikenteenharjoittajia toimittamaan lähettämisilmoitukset IMI-portaalin kautta ja ylläpitämään sähköisiä rahtikirjoja (e-CMR) vaatimustenmukaisuuden tehostamiseksi.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ota käyttöön luotettava huolitsija: Digitaalinen huolitsija, kuten Logifie, voi auttaa hallitsemaan kabotaasin vaatimustenmukaisuutta, lähettämisilmoituksia ja reittisuunnittelua, mikä vähentää rahdinantajien hallinnollista taakkaa.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Johtopäätös"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "EU:n liikkuvuuspaketti muokkaa kabotaasi- ja lähettämissääntöjä tasapainottaakseen markkinoiden avoimuutta ja reilua kilpailua. Jäähdyttelyjaksot ja ajoneuvojen palautusvaatimukset tarkoittavat, että liikenteenharjoittajien on suunniteltava toimintansa huolellisesti, kun taas rahdinantajien on varmistettava kumppaneiden vaatimustenmukaisuus. Ymmärtämällä nämä säännöt ja käyttämällä digitaalisia työkaluja logistiikkapäälliköt voivat navigoida uudessa ympäristössä ja jatkaa rajat ylittävän maantierahdin optimointia.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lähteet"
+    },
+    {
+      "type": "citation",
+      "text": "Kysymyksiä ja vastauksia: Liikkuvuuspaketti I - Kabotaasi (Euroopan komissio, 2021) - Selittää neljän päivän jäähdyttelyjakson kabotaasitoiminnon jälkeen ja rajoitukset kabotaasin suorittamiselle samassa jäsenvaltiossa tämän jakson aikana.",
+      "author": "Euroopan komissio",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021XC0816(01)"
+    },
+    {
+      "type": "citation",
+      "text": "Liikkuvuuspaketti I - Palautusvelvollisuus ja lisensointi (Liikenne- ja viestintäministeriö, 2023) - Kuvaa vaatimusta, että kansainvälisessä liikenteessä käytettävien ajoneuvojen on palattava sijoittautumisjäsenvaltioonsa vähintään kahdeksan viikon välein, ja toteaa, että yli 2,5 tonnin painoiset ajoneuvot tarvitsevat yhteisön toimiluvan.",
+      "author": "Liikenne- ja viestintäministeriö",
+      "url": "https://www.bmdv.bund.de/SharedDocs/EN/Articles/G/mobility-package.html"
+    },
+    {
+      "type": "citation",
+      "text": "Kuljettajien lähettäminen: Lex specialis (Kansainvälinen maantiekuljetusliitto, 2023) - Selittää, että kabotaasi- ja cross-trade-toiminnot käsitellään lähettämisenä, mikä edellyttää ilmoituksia IMI-portaalin kautta, ja selventää, että kahdenvälisiä operaatioita ei pidetä lähettämisenä.",
+      "author": "Kansainvälinen maantiekuljetusliitto",
+      "url": "https://www.iru.org/news-resources/iru-advises-on-posting-of-drivers-legislation"
+    }
+  ],
+  "tags": [
+    "kabotaasisäännöt",
+    "EU-liikkuvuuspaketti",
+    "jäähdyttelyjakso",
+    "kuorma-auton paluu kotiin",
+    "kuljettajan lähettäminen",
+    "IMI-portaali",
+    "maantierahti Eurooppa"
+  ]
+}

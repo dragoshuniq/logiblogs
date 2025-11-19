@@ -1,0 +1,195 @@
+{
+  "id": "low-emission-zones-and-the-eurovignette-what-europe-s-new-toll-reforms-mean-for-freight-costs",
+  "shortId": "low-emission-zones",
+  "language": "it",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Zone a basse emissioni ed Eurovignette: cosa significano le nuove riforme dei pedaggi per i costi di trasporto",
+  "description": "Il trasporto stradale di merci è sotto crescente pressione per decarbonizzarsi. Le città europee ampliano le zone a basse emissioni (LEZ) e i governi nazionali riformano i sistemi di pedaggio in base alla direttiva Eurovignette rivista. Capire come queste misure incidono sui costi è fondamentale per i responsabili logistici...",
+  "publishedAt": "2025-12-02T00:00:00.000Z",
+  "category": "Sostenibilità",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Esperti in tecnologie per la logistica",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "low-emission-zones-hero.png",
+  "imageAlt": "Illustrazione di una mappa di una città europea con evidenziate zone a basse emissioni, caselli autostradali e icone di camion Euro VI ed elettrici.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Il trasporto stradale di merci in Europa deve ridurre rapidamente le emissioni. Le città stanno ampliando le zone a basse emissioni (Low-Emission Zones, LEZ) e i governi nazionali riformano la tariffazione stradale secondo la direttiva Eurovignette rivista. Per i responsabili logistici che pianificano tratte di lungo raggio e distribuzione urbana in tutta Europa è essenziale capire in che modo queste misure si traducono in costi.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "low-emission-zones-visual-1.png",
+      "alt": "Camion pesante elettrico che attraversa un casello su un’autostrada europea, con turbine eoliche sullo sfondo.",
+      "caption": "Un camion elettrico che attraversa un casello rappresenta il passaggio verso veicoli più puliti e pedaggi legati alle emissioni di CO2."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Una rete in espansione di zone a basse emissioni"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Le LEZ limitano l’accesso dei veicoli più inquinanti alle aree centrali. Secondo la Clean Cities Campaign, in Europa erano attive 228 LEZ nel 2019 e 320 nel 2022, con un incremento di circa il 40 %. Entro il 2025 il numero dovrebbe aumentare di un ulteriore 58 %, man mano che le città inaspriscono gli standard. Ventisette città prevedono di ampliare o irrigidire le LEZ esistenti e almeno 35 intendono introdurre zone a emissioni zero entro il 2030. La sola Ultra Low Emission Zone (ULEZ) di Londra ha ridotto le emissioni di CO2 di circa 800.000 tonnellate tra il 2019 e il 2022 e ha tagliato il biossido di azoto fino al 46 %. ",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Le LEZ migliorano la qualità dell’aria, ma possono creare difficoltà operative se i camion diesel più vecchi vengono vietati o soggetti a tariffe giornaliere elevate. I fleet manager dovrebbero mappare le LEZ lungo i corridoi principali, pianificare percorsi alternativi e dare priorità all’aggiornamento della flotta a veicoli Euro VI o a emissioni zero, per garantire l’accesso ai centri urbani.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Eurovignette: dalle vignette temporali ai pedaggi per distanza e CO2"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La direttiva Eurovignette (direttiva (UE) 2022/362) disciplina il modo in cui gli Stati membri applicano i pedaggi ai veicoli pesanti sulla rete transeuropea di trasporto (TEN-T). Le norme riviste prevedono l’eliminazione graduale delle vignette basate sul tempo sulla rete centrale TEN-T entro il 2030. Dal 2024, pedaggi e vignette per i veicoli pesanti devono variare in funzione delle emissioni di CO2, premiando i camion più puliti. Dal 2026, i pedaggi devono includere anche i costi esterni dell’inquinamento atmosferico, affinché gli utenti paghino gli impatti sociali e ambientali.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Le nuove regole consentono agli Stati membri di esentare dai pedaggi i camion a zero emissioni fino a dicembre 2025; la Commissione europea propone di prorogare l’esenzione fino a giugno 2031. Gli Stati possono concedere esenzioni totali o parziali, per cui la convenienza economica degli autocarri elettrici varia da paese a paese. Secondo lo European Alternative Fuels Observatory, i veicoli pesanti generano il 27,5 % delle emissioni di CO2 del trasporto su strada nell’UE, rendendo la modulazione dei pedaggi un potente strumento di decarbonizzazione. Attualmente solo pochi Paesi offrono esenzioni complete, ma il numero è destinato a crescere con l’attuazione della direttiva.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Come pedaggi e LEZ incidono sui costi di trasporto"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Analisi recenti indicano che i pedaggi rappresentano una quota significativa dei costi del trasporto stradale. Studi di provider di intelligence logistica e dell’IRU suggeriscono che i pedaggi possono arrivare a circa il 14 % dei costi totali e fino al 23 % su alcune tratte (dati del secondo trimestre 2025). Il passaggio da vignette a tariffa fissa a pedaggi chilometrici differenziati in base al CO2 accentuerà il divario di costo tra flotte pulite e altamente emissive. Parallelamente, la Clean Cities Campaign stima che l’espansione delle LEZ continuerà a ridurre le concentrazioni di NO2 nelle città di circa il 20 % in media.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Per tenere sotto controllo i costi, i trasportatori possono:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Investire in veicoli più puliti: Aggiornare la flotta a camion Euro VI o a emissioni zero riduce i pedaggi e evita penalità nelle LEZ.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ottimizzare i percorsi: Pianificare itinerari che evitino più LEZ o tratti con pedaggi molto elevati può generare risparmi e tagliare le emissioni di CO2.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Monitorare le politiche nazionali: Ogni Stato definisce la propria struttura tariffaria e le regole per le LEZ. È fondamentale seguire le esenzioni per i veicoli a zero emissioni e i cambiamenti nelle classi emissive.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Valutare alternative intermodali: Per le lunghe distanze, soluzioni ferroviarie o combinate possono aggirare le restrizioni delle LEZ e ridurre i costi di pedaggio complessivi.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pianificare la transizione verso il trasporto a zero emissioni"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La riforma dell’Eurovignette e l’espansione delle LEZ mandano un messaggio chiaro: gestire vecchi camion a combustione diventerà sempre più costoso. I responsabili della logistica devono definire roadmap per l’elettrificazione o per l’adozione di alternative low-carbon. Anche se i camion a zero emissioni restano costosi e l’infrastruttura di ricarica è disomogenea, i first mover possono beneficiare di esenzioni dai pedaggi e di un accesso preferenziale ai centri urbani. Programmi di rinnovo della flotta e incentivi pubblici possono compensare parte dell’investimento iniziale.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusioni"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Le zone a basse emissioni e le riforme dei pedaggi stanno ridisegnando la struttura dei costi del trasporto stradale europeo. Comprendendo la direttiva Eurovignette e seguendo l’espansione delle LEZ, mittenti e trasportatori possono anticipare dove i costi aumenteranno e pianificare investimenti in mezzi più puliti e in una pianificazione dei percorsi più intelligente. Nel lungo periodo queste misure ridurranno le emissioni di CO2 e l’inquinamento atmosferico e favoriranno condizioni di concorrenza più eque per gli operatori sostenibili.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fonti"
+    },
+    {
+      "type": "citation",
+      "text": "Low-Emission Zones: The Essential Guide (Clean Cities Campaign, 2023) – Fornisce statistiche sul numero di LEZ in Europa, segnala un aumento del 40 % tra il 2019 e il 2022 e indica che l’ULEZ di Londra ha ridotto le emissioni di CO2 di 800.000 tonnellate e il NO2 fino al 46 %. ",
+      "author": "Clean Cities Campaign",
+      "url": "https://cleancitiescampaign.org/wp-content/uploads/2023/05/Low-Emission-Zones-The-Essential-Guide.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Road charging: Eurovignette directive (European Commission, 2023) – Riassume la direttiva Eurovignette rivista, spiegando che le vignette basate sul tempo devono sparire entro il 2030 e che dal 2024 i pedaggi devono variare in base alle emissioni di CO2 e includere dal 2026 i costi esterni dell’inquinamento.",
+      "author": "European Commission",
+      "url": "https://transport.ec.europa.eu/transport-themes/road/road-charging_en"
+    },
+    {
+      "type": "citation",
+      "text": "Zero-emission truck toll exemption until 2025 (European Alternative Fuels Observatory, 2024) – Indica che i veicoli pesanti rappresentano il 27,5 % delle emissioni di CO2 del trasporto stradale dell’UE e spiega che la direttiva Eurovignette consente agli Stati membri di esentare i camion a zero emissioni dai pedaggi fino a dicembre 2025, con una proposta di proroga fino al 2031.",
+      "author": "European Alternative Fuels Observatory",
+      "url": "https://alternative-fuels-observatory.ec.europa.eu/policies/eurovignette-zero-emission-trucks"
+    }
+  ],
+  "tags": [
+    "zone a basse emissioni",
+    "direttiva Eurovignette",
+    "riforma dei pedaggi",
+    "pedaggi legati al CO2",
+    "camion a zero emissioni",
+    "costi del trasporto stradale",
+    "LEZ Europa"
+  ]
+}
+

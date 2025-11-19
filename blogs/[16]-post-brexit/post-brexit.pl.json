@@ -1,0 +1,181 @@
+{
+  "id": "post-brexit-road-freight-between-the-eu-and-uk-customs-sps-checks-and-border-challenges",
+  "shortId": "post-brexit-road",
+  "language": "pl",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Transport drogowy po Brexicie między UE a Wielką Brytanią: Cło, kontrole SPS i wyzwania graniczne",
+  "description": "Odkąd Zjednoczone Królestwo opuściło unię celną i jednolity rynek UE pod koniec 2020 r., zasady dotyczące transportu drogowego między UE a Wielką Brytanią uległy fundamentalnym zmianom. Towary przekraczające granicę muszą teraz spełniać formalności celne, zasady pochodzenia...",
+  "publishedAt": "2025-12-04T00:00:00.000Z",
+  "category": "Transport",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperci ds. technologii logistycznych",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "post-brexit-hero.png",
+  "imageAlt": "Zdjęcie ciężarówek w kolejce na przejściu granicznym między Wielką Brytanią a UE, z celnikami sprawdzającymi dokumenty, pochmurna pogoda.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Odkąd Zjednoczone Królestwo opuściło unię celną i jednolity rynek UE pod koniec 2020 r., zasady dotyczące transportu drogowego między UE a Wielką Brytanią uległy fundamentalnym zmianom. Towary przekraczające granicę muszą teraz spełniać formalności celne, zasady pochodzenia oraz kontrole sanitarne i fitosanitarne (SPS). Dla firm wysyłających towary przez Kanał La Manche zrozumienie tych procedur jest niezbędne, aby uniknąć opóźnień i kar.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "post-brexit-visual-1.png",
+      "alt": "Ilustracja diagramu łańcucha dostaw pokazująca deklaracje celne, certyfikaty pochodzenia i kontrole SPS między UE a Wielką Brytanią.",
+      "caption": "Ilustracja diagramu łańcucha dostaw pokazująca deklaracje celne, certyfikaty pochodzenia i kontrole SPS między UE a Wielką Brytanią"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Deklaracje celne i zasady pochodzenia"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Zgodnie z Umową o Handlu i Współpracy (TCA) między UE a Wielką Brytanią, towary mogą być przemieszczane bezcłowo i bez ograniczeń ilościowych, jeśli spełniają wymogi dotyczące zasad pochodzenia. Biblioteka Izby Gmin odnotowuje, że zgodność może być uciążliwa i że w 2022 roku tylko 10-53% brytyjskiego eksportu tekstyliów i odzieży korzystało z preferencyjnych stawek celnych. Towary niespełniające zasad pochodzenia mogą podlegać cłom. Firmy muszą określić pochodzenie komponentów i przechowywać deklaracje dostawców.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Deklaracje celne są obowiązkowe dla wszystkich towarów wwożonych do Wielkiej Brytanii z UE i odwrotnie. UE wprowadziła pełną kontrolę celną 1 stycznia 2021 r., podczas gdy Wielka Brytania stopniowo wprowadza własne kontrole, przy czym niektóre kontrole graniczne są nadal wdrażane. Cyfrowe systemy celne, takie jak brytyjski Customs Declaration Service (CDS) i unijny Import Control System 2 (ICS2), są kluczowe dla przetwarzania deklaracji.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Kontrole sanitarne i fitosanitarne (SPS)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Import żywych zwierząt, produktów zwierzęcych i niektórych roślin podlega kontrolom SPS. Instytut Rządowy wyjaśnia, że takie towary muszą być zgłoszone z wyprzedzeniem za pośrednictwem brytyjskiego systemu Import of Products, Animals, Food and Feed System (IPAFFS) lub unijnego systemu TRACES i kierowane przez placówki kontroli granicznej (BCP). W tych placówkach przesyłki podlegają kontrolom dokumentowym, identyfikacyjnym i fizycznym w celu zapewnienia zgodności z zasadami zdrowia zwierząt i bezpieczeństwa żywności. Firmy powinny uwzględnić dodatkowy czas w BCP i upewnić się, że dokumentacja jest dokładna.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Model Operacyjny Celu Granicznego (BTOM)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Brytyjski Border Target Operating Model proponuje podejście oparte na ryzyku do kontroli SPS i wprowadza jedno okno handlowe dla cyfrowych procedur importowych. Według Biblioteki Izby Gmin, BTOM ma na celu uproszczenie procesów granicznych i będzie stopniowo wprowadzał nowe kontrole przez kilka lat. Model przewiduje różne poziomy kontroli w zależności od kategorii ryzyka towarów (niskie, średnie, wysokie). Firmy powinny monitorować wdrażanie BTOM, aby dostosować czasy realizacji i wymagania dotyczące dokumentacji.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Kabotaż i delegowanie w Wielkiej Brytanii"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Zasady Pakietu Mobilności UE dotyczące kabotażu i delegowania wpływają również na przewoźników z UE działających w Wielkiej Brytanii. Kabotaż (przewóz krajowy w obcym kraju) jest ograniczony do dwóch operacji w ciągu siedmiu dni od dostawy międzynarodowej w Wielkiej Brytanii. Czterodniowy okres cooling-off po kabotażu, opisany wcześniej, nie dotyczy operacji poza UE, ale Wielka Brytania przyjęła podobne ograniczenia. Operacje cross-trade (np. Irlandia-Wielka Brytania-Francja) mogą być ograniczone, a kierowcy mogą potrzebować deklaracji delegowania w UE za pośrednictwem portalu IMI.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Praktyczne kroki dla załadowców i przewoźników"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Zrozumienie zasad pochodzenia: Skompiluj bazę danych deklaracji dostawców, aby udowodnić pochodzenie. Rozważ skorzystanie z doradców ds. wolnego handlu, aby określić, które produkty kwalifikują się do zerowych stawek celnych.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Przygotowanie dokładnych deklaracji celnych: Upewnij się, że Ty lub Twój agent celny posiadacie wszystkie niezbędne kody (kody towarowe, wartość, waga) i używasz odpowiednich systemów informatycznych (CDS, NCTS).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Przewidywanie kontroli SPS: W przypadku wysyłki żywności lub roślin, zgłoś przesyłki z wyprzedzeniem i zaplanuj czas na inspekcje w BCP. Pojazdy z kontrolowaną temperaturą mogą wymagać kolejki w specjalnych obiektach.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Współpraca z doświadczonymi spedytorami: Cyfrowy spedytor może obsługiwać dokumentację celną, gwarantować karnety TIR i zarządzać przeładunkiem w hubach granicznych.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Wnioski"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Handel po Brexicie wprowadza nowe warstwy administracyjne dla transportu drogowego między UE a Wielką Brytanią. Deklaracje celne, zasady pochodzenia i inspekcje SPS muszą być uwzględnione w czasach tranzytu i kosztach. Firmy, które inwestują w zrozumienie tych wymagań i współpracują z doświadczonymi partnerami, sprawniej poradzą sobie w środowisku po Brexicie i utrzymają niezawodne łańcuchy dostaw.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Źródła"
+    },
+    {
+      "type": "citation",
+      "text": "Handel z UE po Brexicie (House of Commons Library, 2023) - Omawia Umowę o Handlu i Współpracy między UE a Wielką Brytanią, zauważając, że towary muszą spełniać zasady pochodzenia, aby kwalifikować się do zerowych stawek celnych i że w 2022 r. tylko 10-53% eksportu tekstyliów i odzieży korzystało z preferencyjnych stawek; odnotowuje również pełną kontrolę celną i bieżące wdrażanie brytyjskich kontroli granicznych.",
+      "author": "House of Commons Library",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-8397/CBP-8397.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Model Operacyjny Celu Granicznego (House of Commons Library, 2023) - Wyjaśnia brytyjski Model Operacyjny Celu Granicznego, który proponuje podejście oparte na ryzyku do kontroli SPS i rozwój jednolitego okna handlowego.",
+      "author": "House of Commons Library",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-9710/CBP-9710.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Wyjaśnienie: Granica Wielka Brytania-UE (Institute for Government, 2022) - Opisuje wymagania SPS dla towarów przekraczających granicę GB-UE, stwierdzając, że produkty zwierzęce i roślinne muszą być zgłoszone z wyprzedzeniem za pośrednictwem IPAFFS lub TRACES i podlegać kontrolom dokumentowym, identyfikacyjnym i fizycznym w placówkach kontroli granicznej.",
+      "author": "Institute for Government",
+      "url": "https://www.instituteforgovernment.org.uk/explainer/gb-eu-border"
+    }
+  ],
+  "tags": [
+    "transport drogowy po Brexicie",
+    "cło UE-Wielka Brytania",
+    "kontrole SPS",
+    "zasady pochodzenia",
+    "TCA UK",
+    "procedury graniczne",
+    "transport drogowy Europa"
+  ]
+}

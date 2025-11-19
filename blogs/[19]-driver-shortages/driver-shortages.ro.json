@@ -1,0 +1,210 @@
+{
+  "id": "driver-shortages-in-european-road-transport-causes-impacts-and-solutions",
+  "shortId": "driver-shortages-european",
+  "language": "ro",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Criza de șoferi în transportul rutier european: cauze, impact și soluții",
+  "description": "În toată Europa, managerii de logistică se luptă să găsească suficienți șoferi profesioniști. Îmbătrânirea forței de muncă, barierele ridicate de intrare și condițiile dificile de lucru alimentează o criză care amenință fiabilitatea transportului rutier. Acest articol analizează amploarea și cauzele deficitului de șoferi și propune măsuri practice pentru atragerea și retenția acestora...",
+  "publishedAt": "2025-12-07T00:00:00.000Z",
+  "category": "Operațiuni",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experți în tehnologii pentru logistică",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "driver-shortages-hero.png",
+  "imageAlt": "Rând de autocamioane parcate într-un parc auto european, cu un panou de angajare în prim-plan.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "În toată Europa, managerii de logistică se confruntă cu lipsa de șoferi calificați. Îmbătrânirea forței de muncă, barierele ridicate de intrare și condițiile dificile de lucru alimentează o criză de forță de muncă ce pune în pericol fiabilitatea transportului rutier. Acest articol analizează dimensiunea și cauzele deficitului de șoferi și propune măsuri practice pentru a atrage și păstra personalul.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "driver-shortages-visual-1.png",
+      "alt": "Ilustrație care prezintă distribuția demografică în transportul rutier: șoferi în vârstă, tineri, costuri de obținere a permisului și decalaj de gen.",
+      "caption": "Profilul demografic al șoferilor arată o forță de muncă îmbătrânită, puțini tineri și un deficit semnificativ de femei în transportul rutier."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dimensiunea deficitului"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Uniunea Internațională a Transporturilor Rutiere (IRU) descrie deficitul de șoferi drept o criză globală. În Europa, IRU estimează că posturile neocupate de șoferi de camion, autobuz și autocar sunt de ordinul sutelor de mii, iar la nivel mondial peste 3,6 milioane de posturi sunt vacante. Șoferii tineri sunt rari: mai puțin de 6,5 % dintre șoferii profesioniști au sub 25 de ani, în timp ce peste 40 % au peste 55 de ani. Femeile reprezintă mai puțin de 7 % din forța de muncă, pe fondul îngrijorărilor legate de siguranță și a facilităților insuficiente.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Un raport al pieței muncii ELA/EURES notează că sectorul transporturilor terestre cuprinde aproximativ 1,06 milioane de întreprinderi care angajează circa 5,78 milioane de persoane și că multe țări raportează lipsuri acute de șoferi de camioane grele și mecanici. Barierele de intrare includ costul obținerii permisului de conducere pentru vehicule grele și al certificatului de competență profesională (CPC), care poate depăși 2.000 EUR în unele state. Recunoașterea permiselor pentru șoferii din țări terțe este complexă și de durată, limitând recrutarea din afara UE.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cauzele lipsei de șoferi"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Mai mulți factori contribuie la deficitul de șoferi:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Demografie și pensionare: Populația de șoferi îmbătrânește. Cu peste 40 % dintre șoferi având peste 55 de ani, mulți se vor pensiona în următorul deceniu. Prea puțini tineri privesc meseria de șofer ca pe o carieră atractivă, ceea ce creează un gol în pipeline.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Condiții de muncă: Programul lung, nopțile petrecute în cabină, orarele neregulate și lipsa parcărilor sigure cu toalete și dușuri descurajează candidații. Raportul ELA/EURES arată că salariile slabe și îngrijorările legate de siguranță descurajează mai ales femeile și tinerii.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Costuri de permis și formare: Obținerea permisului pentru vehicule grele și a CPC‑ului poate costa mii de euro. Un articol Trans.info menționează că în Polonia un permis de șofer de camion costă aproximativ 10.000 PLN (~2.340 EUR), iar costuri similare există și în alte țări. Fără subvenții, puțini tineri își permit formarea.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Complexitate administrativă: Recunoașterea neuniformă a permiselor între statele membre și cerințele de viză împovărătoare încetinesc recrutarea șoferilor din afara UE.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Competiție din alte sectoare: Transporturile concurează cu construcțiile, depozitarea și joburile din economia de tip gig, care pot oferi programe mai previzibile.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Impact asupra logisticii"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Deficitul de șoferi împinge salariile și tarifele de transport în sus, contribuie la întârzieri și reduce flexibilitatea. Flotele sunt nevoite uneori să țină vehiculele pe loc din lipsă de șoferi, ceea ce limitează capacitatea în perioadele de vârf. Potrivit Trans.info, deficitul de șoferi din Europa se apropie de 500.000, iar flotele din Polonia se confruntă singure cu un deficit de 100.000–200.000 de șoferi. Fără măsuri, IRU avertizează că transportul mărfurilor esențiale va fi afectat.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Soluții și recomandări"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Reducerea barierelor de intrare: Guvernele pot subvenționa costurile permiselor și ale formării sau pot oferi vouchere. Italia, de exemplu, oferă vouchere care acoperă până la 80 % din costul permisului. Simplificarea recunoașterii permiselor și a procedurilor de viză poate atrage șoferi din țările vecine.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Îmbunătățirea condițiilor de lucru: Crearea de spații de odihnă sigure, cu facilități sanitare și securitate. Încurajarea programelor flexibile, a tururilor mai scurte și a rutelor regionale pentru a face profesia compatibilă cu viața de familie.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Atragerea grupurilor subreprezentate: Programele de recrutare a femeilor și tinerilor trebuie să pună accent pe siguranță, egalitate de remunerare și perspective de carieră. Camioanele moderne, cu cabine confortabile și sisteme avansate de asistență, pot face profesia mai atractivă.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Investiții în automatizare și intermodal: Deși automatizarea nu va înlocui rapid șoferii, tehnologii precum încărcarea automată la rampă, sistemele de asistență a șoferului și platooning‑ul de camioane pot crește productivitatea. Transportul intermodal reduce numărul de curse lungi, diminuând presiunea asupra șoferilor.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Promovarea unei imagini profesionale: Evidențiază rolul strategic al șoferilor în lanțurile de aprovizionare. Programele de ucenicie și parteneriatele cu școli profesionale pot construi un flux de talente pe termen lung.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Concluzie"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Criza de șoferi amenință reziliența lanțurilor de aprovizionare europene. Rezolvarea ei necesită acțiune coordonată din partea guvernelor, transportatorilor și expeditorilor pentru a reduce barierele de intrare, a îmbunătăți condițiile de lucru și a moderniza profesia. Investițiile în formare, diversitate și tehnologie vor ajuta la atragerea unei noi generații de șoferi și vor asigura că transportul rutier poate susține cererea în creștere.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Surse"
+    },
+    {
+      "type": "citation",
+      "text": "Global driver shortage reaches crisis point (International Road Transport Union, 2024) - Afirmă că milioane de posturi de șofer sunt neocupate la nivel global, că mai puțin de 6,5 % dintre șoferi au sub 25 de ani, în timp ce peste 40 % au peste 55 de ani, și că deficitul amenință transportul bunurilor esențiale.",
+      "author": "International Road Transport Union",
+      "url": "https://www.iru.org/news-resources/newsroom/driver-shortage-global-crisis"
+    },
+    {
+      "type": "citation",
+      "text": "ELA/EURES labour market report 2024 (European Labour Authority, EURES, 2024) - Arată că sectorul transporturilor terestre din UE cuprinde aproximativ 1,06 milioane de întreprinderi cu 5,78 milioane de angajați, evidențiază lipsa de șoferi de camioane grele și mecanici, costurile mari pentru permis și condițiile de lucru precare și subliniază subreprezentarea femeilor.",
+      "author": "European Labour Authority, EURES",
+      "url": "https://ec.europa.eu/social/main.jsp?catId=738&langId=en&pubId=8407"
+    },
+    {
+      "type": "citation",
+      "text": "Driver shortage leaves fleets idle and costs increase for system (Trans.info, 2025) - Evidențiază faptul că deficitul de șoferi din Europa se apropie de 500.000; menționează costurile ridicate ale permisului (~2.340 EUR) și prezintă schema de vouchere a Italiei, care acoperă până la 80 % din costurile de formare; sugerează că transportul intermodal poate înlocui 30–40 de semiremorci printr‑un singur tren.",
+      "author": "Trans.info",
+      "url": "https://trans.info/en/driver-shortage-idle-fleets-421938"
+    }
+  ],
+  "tags": [
+    "criza de șoferi",
+    "șofer camion",
+    "criză de forță de muncă",
+    "cost permis camion",
+    "condiții de lucru șoferi",
+    "logistică europeană",
+    "forța de muncă în transporturi"
+  ]
+}
+

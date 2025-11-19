@@ -1,0 +1,181 @@
+{
+  "id": "post-brexit-road-freight-between-the-eu-and-uk-customs-sps-checks-and-border-challenges",
+  "shortId": "post-brexit-road",
+  "language": "dk",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Post-Brexit vejgodstransport mellem EU og Storbritannien: Told, SPS-kontroller og grænseudfordringer",
+  "description": "Siden Storbritannien forlod EU's toldunion og indre marked i slutningen af 2020, er reglerne for vejgodstransport mellem EU og Storbritannien fundamentalt ændret. Varer, der krydser grænsen, skal nu overholde toldformaliteter, oprindelsesregler...",
+  "publishedAt": "2025-12-04T00:00:00.000Z",
+  "category": "Transport",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperter i logistikteknologi",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "post-brexit-hero.png",
+  "imageAlt": "Foto af lastbiler, der holder i kø ved grænsekontrolposten mellem Storbritannien og EU, med toldbetjente, der inspicerer dokumentation, overskyet vejr.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Siden Storbritannien forlod EU's toldunion og indre marked i slutningen af 2020, er reglerne for vejgodstransport mellem EU og Storbritannien fundamentalt ændret. Varer, der krydser grænsen, skal nu overholde toldformaliteter, oprindelsesregler og sanitære og plantesundhedsmæssige (SPS) kontroller. For virksomheder, der shipper over Kanalen, er det afgørende at forstå disse procedurer for at undgå forsinkelser og bøder.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "post-brexit-visual-1.png",
+      "alt": "Illustration af et forsyningskædediagram, der viser tolddeklarationer, oprindelsescertifikater og SPS-kontroller mellem EU og Storbritannien.",
+      "caption": "Illustration af et forsyningskædediagram, der viser tolddeklarationer, oprindelsescertifikater og SPS-kontroller mellem EU og Storbritannien"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tolddeklarationer og oprindelsesregler"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "I henhold til handels- og samarbejdsaftalen (TCA) mellem EU og Storbritannien kan varer bevæge sig told- og kvotefrit, hvis de opfylder oprindelsesreglerne. House of Commons Library bemærker, at overholdelse kan være besværlig, og at kun 10-53 % af Storbritanniens tekstil- og beklædningseksport benyttede præferencetoldssatser i 2022. Varer, der ikke opfylder oprindelsesreglerne, kan medføre told. Virksomheder skal fastlægge komponenternes oprindelse og opretholde leverandørdeklarationer.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Tolddeklarationer er obligatoriske for alle varer, der kommer ind i Storbritannien fra EU og omvendt. EU indførte fuld toldkontrol den 1. januar 2021, mens Storbritannien har indfaset sin egen kontrol, hvor nogle grænsekontroller stadig implementeres. Digitale toldsystemer som Storbritanniens Customs Declaration Service (CDS) og EU's Import Control System 2 (ICS2) er centrale for behandlingen af deklarationer.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sanitære og plantesundhedsmæssige (SPS) kontroller"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Import af levende dyr, animalske produkter og visse planter er underlagt SPS-kontroller. Institute for Government forklarer, at sådanne varer skal forhåndsanmeldes gennem Storbritanniens Import of Products, Animals, Food and Feed System (IPAFFS) eller EU's TRACES-system og ledes gennem grænsekontrolposter (BCP'er). Ved disse poster gennemgår forsendelser dokumentar-, identitets- og fysiske kontroller for at sikre overholdelse af dyresundheds- og fødevaresikkerhedsregler. Virksomheder bør medregne ekstra tid ved BCP'er og sikre, at papirarbejdet er korrekt.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Border Target Operating Model (BTOM)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Storbritanniens Border Target Operating Model foreslår en risikobaseret tilgang til SPS-kontroller og introducerer et enkelt handelsvindue for digitale importprocedurer. Ifølge House of Commons Library sigter BTOM mod at forenkle grænseprocesserne og vil indfase nye kontroller over flere år. Modellen forestiller sig forskellige niveauer af kontrol afhængigt af varernes risikokategori (lav, medium, høj). Virksomheder bør overvåge BTOM-udrulningen for at justere leveringstider og dokumentationskrav.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cabotage og udstationering i Storbritannien"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "EU's mobilitetspakkeregler for cabotage og udstationering påvirker også EU-transportører, der opererer i Storbritannien. Cabotage (indenrigstransport i et fremmed land) er begrænset til to operationer inden for syv dage efter en international levering i Storbritannien. Den fire-dages cooling-off-periode efter cabotage, der er beskrevet tidligere, gælder ikke for operationer uden for EU, men Storbritannien har vedtaget lignende restriktioner. Cross-trade-operationer (f.eks. Irland-Storbritannien-Frankrig) kan være begrænsede, og chauffører kan kræve udstationeringsdeklarationer i EU via IMI-portalen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Praktiske trin for afsendere og transportører"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Forstå oprindelsesregler: Udarbejd en database over leverandørdeklarationer for at bevise oprindelse. Overvej at bruge frihandelsrådgivere til at bestemme, hvilke produkter der kvalificerer sig til nultariffer.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Udarbejd nøjagtige tolddeklarationer: Sørg for, at du eller din toldagent har alle nødvendige koder (varekoder, værdi, vægt) og bruger passende IT-systemer (CDS, NCTS).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Forudse SPS-kontroller: Hvis du sender fødevarer eller planter, skal du forhåndsanmelde forsendelser og planlægge tid til inspektioner ved BCP'er. Temperaturkontrollerede køretøjer kan være nødt til at holde i kø ved særlige faciliteter.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Partner med erfarne speditører: En digital speditør kan håndtere toldpapirarbejde, garantere TIR-carneter og styre cross-docking ved grænseknudepunkter.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Konklusion"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Post-Brexit-handel introducerer nye administrative lag for vejgodstransport mellem EU og Storbritannien. Tolddeklarationer, oprindelsesregler og SPS-inspektioner skal indregnes i transittider og omkostninger. Virksomheder, der investerer i at forstå disse krav og samarbejder med kyndige partnere, vil navigere mere gnidningsløst i post-Brexit-landskabet og opretholde pålidelige forsyningskæder.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kilder"
+    },
+    {
+      "type": "citation",
+      "text": "Handel med EU efter Brexit (House of Commons Library, 2023) - Diskuterer handels- og samarbejdsaftalen mellem EU og Storbritannien og bemærker, at varer skal opfylde oprindelsesreglerne for at kvalificere sig til nultold og at kun 10-53 % af tekstil- og beklædningseksporten benyttede præferencetoldsatser i 2022; bemærker også fuld toldkontrol og løbende implementering af Storbritanniens grænsekontrol.",
+      "author": "House of Commons Library",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-8397/CBP-8397.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Border Target Operating Model (House of Commons Library, 2023) - Forklarer Storbritanniens Border Target Operating Model, der foreslår en risikobaseret tilgang til SPS-kontroller og udviklingen af et enkelt handelsvindue.",
+      "author": "House of Commons Library",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-9710/CBP-9710.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Forklaring: Grænsen mellem Storbritannien og EU (Institute for Government, 2022) - Beskriver SPS-krav til varer, der krydser grænsen mellem Storbritannien og EU, idet det anføres, at animalske og vegetabilske produkter skal forhåndsanmeldes via IPAFFS eller TRACES og gennemgå dokument-, identitets- og fysiske kontroller ved grænsekontrolposter.",
+      "author": "Institute for Government",
+      "url": "https://www.instituteforgovernment.org.uk/explainer/gb-eu-border"
+    }
+  ],
+  "tags": [
+    "post-Brexit vejgodstransport",
+    "EU-UK told",
+    "SPS-kontroller",
+    "oprindelsesregler",
+    "TCA UK",
+    "grænseprocedurer",
+    "vejgodstransport Europa"
+  ]
+}

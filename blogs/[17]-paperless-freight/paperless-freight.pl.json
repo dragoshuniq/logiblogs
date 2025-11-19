@@ -1,0 +1,214 @@
+{
+  "id": "towards-paperless-freight-efti-and-e-cmr-driving-digitalisation-in-europe",
+  "shortId": "towards-paperless-freight",
+  "language": "pl",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "W kierunku transportu bezpapierowego: eFTI i e-CMR napędzają digitalizację w Europie",
+  "description": "Papier nadal dominuje w transporcie towarowym w Europie. Listy przewozowe, konosamenty, formularze celne i zezwolenia są drukowane, stemplowane i archiwizowane, co tworzy obciążenia administracyjne i zwiększa ryzyko błędów. Aby usprawnić operacje i wspierać cele środowiskowe...",
+  "publishedAt": "2025-12-05T00:00:00.000Z",
+  "category": "Technologia",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperci ds. technologii logistycznych",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "paperless-freight-hero.png",
+  "imageAlt": "Ilustracja tabletu wyświetlającego list przewozowy (e-CMR) z zaznaczeniami i ikoną ciężarówki, gwiazdy UE w tle.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Papier nadal dominuje w transporcie towarowym w Europie. Listy przewozowe, konosamenty, formularze celne i zezwolenia są drukowane, stemplowane i archiwizowane, co tworzy obciążenia administracyjne i zwiększa ryzyko błędów. Aby usprawnić operacje i wspierać cele środowiskowe, UE zmierza w kierunku elektronicznych informacji o transporcie towarowym (eFTI) i cyfrowych listów przewozowych (e-CMR). Ten blog wyjaśnia czynniki regulacyjne, korzyści i wyzwania związane z bezpapierowym transportem towarowym.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "paperless-freight-visual-1.png",
+      "alt": "Zdjęcie kierowcy ciężarówki używającego urządzenia ręcznego do pokazywania elektronicznych dokumentów przewozowych na przejściu granicznym w Europie.",
+      "caption": "Zdjęcie kierowcy ciężarówki używającego urządzenia ręcznego do pokazywania elektronicznych dokumentów przewozowych na przejściu granicznym w Europie"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dlaczego digitalizacja jest ważna"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Operatorzy transportu drogowego często przewożą stosy dokumentów papierowych, począwszy od listów przewozowych CMR po deklaracje towarów niebezpiecznych. Brak jednolitej ramy prawnej dla dokumentów cyfrowych stanowił główną barierę w wymianie danych elektronicznych. Rozporządzenie (UE) 2020/1056 ma na celu przezwyciężenie tego problemu, wymagając od właściwych organów akceptacji elektronicznych informacji o transporcie towarowym, gdy operatorzy gospodarczy są zobowiązani do dostarczania informacji regulacyjnych. Do 2027 r. władze muszą akceptować informacje elektroniczne za pośrednictwem certyfikowanych platform eFTI i komunikować się elektronicznie.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rozporządzenie eFTI: kluczowe elementy"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Rozporządzenie eFTI ustanawia standardy techniczne dla platform, zbiorów danych i procedur. Zobowiązuje państwa członkowskie do utworzenia cyfrowych portali i wymaga od operatorów gospodarczych dostarczania informacji o frachcie elektronicznie, jeśli tak wybiorą. Oczekuje się, że rozporządzenie zmniejszy koszty administracyjne, szczególnie dla MŚP, eliminując powielanie danych i fizyczną obsługę dokumentów.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kluczowe cechy to:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Akceptacja danych elektronicznych: Właściwe organy muszą akceptować dane dostarczane za pośrednictwem certyfikowanych platform eFTI zamiast papieru.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Bezpieczeństwo i interoperacyjność: Platformy muszą spełniać wymagania cyberbezpieczeństwa i używać wspólnych zbiorów danych, aby informacje mogły być udostępniane transgranicznie.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Harmonogram wdrożenia: Państwa członkowskie muszą przyjąć niezbędne specyfikacje techniczne do 2026 r. i w pełni akceptować dokumenty eFTI do lipca 2027 r.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "e-CMR: cyfrowe listy przewozowe"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Konwencja CMR reguluje międzynarodowy transport drogowy. Od 2008 r. protokół pozwala na elektroniczne listy przewozowe (e-CMR). Przyjęcie było powolne: tylko około 36 krajów europejskich ratyfikowało protokół eCMR, a jego wykorzystanie pozostaje nierówne. Niemniej jednak fala projektów pilotażowych i systemów krajowych przyspiesza postęp. Raport branżowy zauważa, że do lipca 2027 r. władze krajowe muszą akceptować cyfrowe dokumenty transportowe za pośrednictwem certyfikowanych platform, a wdrożenie na dużą skalę oczekiwane jest do 2026 r. z obowiązkowym zastosowaniem w 2029 r.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Cyfrowe listy przewozowe oferują kilka korzyści: eliminują obsługę papieru, zmniejszają ryzyko utraty lub uszkodzenia, umożliwiają aktualizacje statusu w czasie rzeczywistym i skracają czas oczekiwania na granicach. Według Międzynarodowej Unii Transportu Drogowego, eCMR redukuje biurokrację, obniża koszty obsługi i pozwala ciężarówkom unikać postojów na granicach, poprawiając wydajność.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Wyzwania i możliwości"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Interoperacyjność: Różne krajowe systemy eCMR nie są jeszcze interoperacyjne. Rozporządzenie eFTI ma na celu harmonizację formatów danych, ale podmioty z branży muszą przyjąć wspólne standardy i interfejsy.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Pewność prawna: Chociaż rozporządzenie eFTI nakłada obowiązek akceptacji danych elektronicznych, przewoźnicy i załadowcy muszą upewnić się, że ich systemy spełniają wszystkie wymagania dotyczące uwierzytelniania, integralności i poufności.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Inwestycje: MŚP mogą borykać się z kosztami integracji platform eFTI, ale krajowe finansowanie i programy UE (np. Connecting Europe Facility) mogą zapewnić wsparcie.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Zarządzanie zmianą: Przyjęcie wymaga szkolenia personelu i przejścia od procesów papierowych. Połączenie cyfrowych listów przewozowych z optymalizacją tras, telematyką i automatycznym składaniem deklaracji celnych może przynieść większe korzyści.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Przygotowanie do transportu bezpapierowego"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Menedżerowie logistyki powinni zacząć od analizy obecnych przepływów dokumentów i identyfikacji miejsc, w których rozwiązania cyfrowe mogą zastąpić papier. Współpraca z platformami cyfrowymi, które są certyfikowane zgodnie ze specyfikacjami eFTI, zapewni zgodność. Wczesne przyjęcie eCMR zapewnia doświadczenie i może poprawić przejrzystość dla klienta. Współpraca z partnerami w całym łańcuchu dostaw jest kluczowa dla zapewnienia interoperacyjności i jakości danych.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Wnioski"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Europa stoi u progu transformacji w kierunku bezpapierowego transportu towarowego. Rozporządzenie eFTI i protokół eCMR stanowią ramy prawne dla dokumentów elektronicznych, obiecując niższe koszty, szybszą odprawę graniczną i lepszą zrównoważony rozwój. Inwestując w platformy cyfrowe i procesy współpracy, załadowcy i przewoźnicy mogą znaleźć się na czele tej zmiany.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Źródła"
+    },
+    {
+      "type": "citation",
+      "text": "Rozporządzenie (UE) 2020/1056 w sprawie elektronicznych informacji o transporcie towarowym (Parlament Europejski, Rada Unii Europejskiej, 2020) - Ustanawia ramy prawne dla elektronicznych informacji o transporcie towarowym i wymaga od władz akceptacji danych elektronicznych dostarczanych za pośrednictwem certyfikowanych platform eFTI, usuwając bariery dla digitalizacji i ustalając termin akceptacji na lipiec 2027 r.",
+      "author": "Parlament Europejski, Rada Unii Europejskiej",
+      "url": "https://eur-lex.europa.eu/eli/reg/2020/1056/oj"
+    },
+    {
+      "type": "citation",
+      "text": "Papierowe listy przewozowe zostaną wycofane, eCMR nadchodzi (Trans.info, 2023) - Informuje, że do lipca 2027 r. władze krajowe muszą akceptować cyfrowe dokumenty transportowe za pośrednictwem certyfikowanych platform eFTI, a wdrożenie eCMR na dużą skalę oczekiwane jest do 2026 r.",
+      "author": "Trans.info",
+      "url": "https://trans.info/en/ecmr-replacing-paper-cmr-279235"
+    },
+    {
+      "type": "citation",
+      "text": "UNECE i IRU wzywają do wprowadzenia cyfrowych listów przewozowych (Międzynarodowa Unia Transportu Drogowego, 2023) - Wyjaśnia, że protokół eCMR został ratyfikowany przez ponad 30 krajów i że cyfrowe listy przewozowe zmniejszają biurokrację, obniżają koszty obsługi i pozwalają ciężarówkom unikać postojów na granicach, poprawiając wydajność.",
+      "author": "Międzynarodowa Unia Transportu Drogowego",
+      "url": "https://www.iru.org/news-resources/newsroom/unece-and-iru-call-digital-consignment-notes"
+    }
+  ],
+  "tags": [
+    "transport bezpapierowy",
+    "eFTI",
+    "e-CMR",
+    "cyfrowy list przewozowy",
+    "elektroniczne informacje o transporcie towarowym",
+    "logistyka UE",
+    "digitalizacja"
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "id": "eu-cabotage-rules-and-the-mobility-package-navigating-cooling-off-periods-and-vehicle-return-requirements",
+  "shortId": "eu-cabotage-rules",
+  "language": "no",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "EU-kabotasjeregler og mobilitetspakken: Navigering i avkjølingsperioder og krav til retur av kjøretøy",
+  "description": "Europeiske avsendere og transportører har lenge dratt nytte av kabotasje - retten for veitransportører fra ett EU-land til å utføre innenlandske reiser i en annen medlemsstat - fordi det bidrar til å redusere tomkjøring og øke effektiviteten. Likevel kan kabotasje også...",
+  "publishedAt": "2025-12-01T00:00:00.000Z",
+  "category": "Transport",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperter på logistikkteknologi",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "cabotage-rules-hero.png",
+  "imageAlt": "Illustrasjon av et EU-kart som viser en lastebil som krysser grenser med piler som indikerer kabotasjeruter, med et kalenderikon som illustrerer den fire dager lange avkjølingsperioden.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Europeiske avsendere og transportører har lenge dratt nytte av kabotasje – retten for veitransportører fra ett EU-land til å utføre innenlandske reiser i en annen medlemsstat – fordi det bidrar til å redusere tomkjøring og øke effektiviteten. Likevel kan kabotasje også forvrenge markeder og muliggjøre urettferdig konkurranse hvis kjøretøy blir på ubestemt tid i land der kostnadene er lavere. For å løse dette, introduserer EUs mobilitetspakke nye regler for kabotasje og utstasjonering av sjåfører. Denne artikkelen forklarer hva disse reglene betyr for transportører og avsendere, med fokus på avkjølingsperioder, krav til hjemreise og digitale utstajoneringserklæringer.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "cabotage-rules-visual-1.png",
+      "alt": "Foto av en europeisk lastebil som returnerer til hjemmebasen ved solnedgang, med et lager i bakgrunnen.",
+      "caption": "Foto av en europeisk lastebil som returnerer til hjemmebasen ved solnedgang, med et lager i bakgrunnen."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hva er kabotasje?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kabotasje oppstår når en transportør registrert i én EU-medlemsstat utfører innenlandske transportoperasjoner i en annen medlemsstat. For eksempel, en polsk transportør som leverer varer til Frankrike og deretter tar flere innenlandske laster i Frankrike før han returnerer hjem, driver med kabotasje. Kabotasje bidrar til å redusere tomkjøring og støtter balanserte strømmer over hele Europa, men det har vært kontroversielt fordi noen operatører har brukt det til å omgå lokale arbeidsregler og lønninger.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Under EU-lovgivningen kan en ikke-hjemmehørende transportør utføre opptil tre kabotasjeoperasjoner innen sju dager etter en internasjonal levering. Disse operasjonene må finne sted etter at varene er losset fra den innkommende internasjonale lasten.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mobilitetspakkens avkjølingsperiode"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "For å forhindre kontinuerlig kabotasje, introduserer mobilitetspakken en \"avkjølingsperiode\". Etter å ha fullført en kabotasjeoperasjon i en medlemsstat, må en transportør vente i fire dager før han kan utføre ytterligere kabotasje i samme land. Fire-dagersperioden starter kl. 00:00 dagen etter siste lossing i den staten og slutter kl. 23:59 på den fjerde dagen. I løpet av denne tiden kan transportøren enten returnere til hjemlandet, ta internasjonale laster til andre medlemsstater, eller utføre kabotasje i en annen medlemsstat.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Denne regelen har som mål å sikre at utenlandske lastebiler ikke forblir permanent i lavkostarbeidsmarkeder, samtidig som den tillater fleksibilitet for grenseoverskridende operasjoner. For avsendere betyr avkjølingsperioden at det kan være færre utenlandske transportører tilgjengelig for innenlandstransport på kort varsel i travle perioder, så det blir avgjørende å planlegge fremover og bruke etablerte spedisjonspartnere.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Krav om retur av kjøretøy til hjemlandet"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Et annet sentralt element i mobilitetspakken er kravet om retur av kjøretøy. Transportselskaper må organisere driften slik at hvert kjøretøy som brukes i internasjonal veitransport, returnerer til etableringsmedlemsstaten minst én gang hver åttende uke. Selv om EU-domstolen annullerte den preskriptive forpliktelsen, er det overordnede målet fortsatt: lastebiler skal ikke oppholde seg i et annet land over lengre perioder. Denne regelen gjelder for kjøretøy med en totalvekt på over 2,5 tonn som driver internasjonal transport.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transportører må planlegge tidsplaner og laster for å inkludere en returreise innenfor åtteukersvinduet. Unnlatelse av å overholde kan føre til bøter eller tap av kabotasjerettigheter. For avsendere som jobber med utenlandske transportører, er det lurt å verifisere at partnerne deres respekterer returkravet, da manglende overholdelse kan forstyrre leveranser.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Utstasjonering av sjåfører og IMI-portalen"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Mobilitetspakken inkluderer også et \"Lex specialis\"-direktiv om utstasjonering av sjåfører (direktiv 2020/1057). Kabotasje- og krysstransportoperasjoner (etterfølgende internasjonale forsendelser mellom tredjeland) anses som utstasjonering, noe som betyr at sjåfører må betales i henhold til vertslandets minstelønn og arbeidsforhold. For å forenkle overholdelsen må erklæringer sendes inn elektronisk via informasjonsportalen for det indre marked (IMI). IRU bemerker at IMI-portalen er det eneste offisielle verktøyet for utstasjoneringserklæringer, og at nasjonale myndigheter ikke kan pålegge ytterligere varslingssystemer.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sjåfører må ha med seg en kopi av utstasjoneringserklæringen, bevis på transportoperasjoner og fartsskriverdata for å demonstrere overholdelse under veikontroller. I motsetning til dette er bilateral transport (én utgående og én inngående tur med mulige ekstra krysstransportetapper) unntatt fra utstasjoneringsreglene.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Smarte fartsskrivere og håndhevelse"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Mobilitetspakken krever installasjon av andregenerasjons smarte fartsskrivere på kjøretøy som driver internasjonal transport for å registrere grensepasseringer og kabotasjeaktiviteter. Kjøretøy mellom 2,5 og 3,5 tonn vil bli underlagt fartsskriverregler for grenseoverskridende operasjoner fra midten av 2026, noe som bringer mindre varebiler inn i regelverket.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Smarte fartsskrivere registrerer automatisk grensepasseringer og kjøretøyets posisjon under lasting og lossing, noe som gjør det lettere for håndhevingsmyndighetene å verifisere avkjølingsperioder og retur av kjøretøy. Transportører bør planlegge ettermonteringsplaner og tildele ressurser til fartsskriveroppgraderinger.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Praktiske råd for avsendere og transportører"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Sjekk transportørens etterlevelse: Sørg for at transportørene du inngår kontrakt med, overholder avkjølingsperioder og returkrav. Be om bevis på utstasjoneringserklæringer og fartsskriverdata ved behov.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Planlegg rundt avkjølingsperioder: Hvis driften din er avhengig av utenlandske transportører, bør du ta hensyn til det fire dager lange kabotasjefrie vinduet når du planlegger innenlandsforsendelser.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Bruk digital dokumentasjon: Oppfordre transportører til å sende inn utstasjoneringserklæringer via IMI-portalen og vedlikeholde elektroniske fraktbrev (e-CMR) for å effektivisere etterlevelsen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Engasjer en betrodd speditør: En digital speditør som Logifie kan hjelpe til med å administrere kabotasjeetterlevelse, utstasjoneringserklæringer og ruteplanlegging, noe som reduserer den administrative byrden for avsendere.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Konklusjon"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "EUs mobilitetspakke omformer reglene for kabotasje og utstasjonering for å balansere markedsåpenhet med rettferdig konkurranse. Avkjølingsperioder og krav til retur av kjøretøy betyr at transportører må planlegge driften nøye, mens avsendere må sørge for at partnerne overholder reglene. Ved å forstå disse reglene og bruke digitale verktøy kan logistikksjefer navigere i det nye landskapet og fortsette å optimalisere grenseoverskridende veitransport.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kilder"
+    },
+    {
+      "type": "citation",
+      "text": "Spørsmål og svar: Mobilitetspakke I - Kabotasje (Europakommisjonen, 2021) - Forklarer den fire dager lange avkjølingsperioden etter en kabotasjeoperasjon og restriksjoner på å utføre kabotasje i samme medlemsstat i løpet av denne perioden.",
+      "author": "Europakommisjonen",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021XC0816(01)"
+    },
+    {
+      "type": "citation",
+      "text": "Mobilitetspakke I - Returplikt og lisensiering (Forbundsdepartementet for digitalisering og transport, 2023) - Beskriver kravet om at kjøretøy i internasjonal transport skal returnere til etableringsmedlemsstaten minst hver åttende uke, og bemerker at kjøretøy over 2,5 tonn trenger en fellesskapslisens.",
+      "author": "Forbundsdepartementet for digitalisering og transport",
+      "url": "https://www.bmdv.bund.de/SharedDocs/EN/Articles/G/mobility-package.html"
+    },
+    {
+      "type": "citation",
+      "text": "Utstasjonering av sjåfører: Lex specialis (International Road Transport Union, 2023) - Forklarer at kabotasje- og krysstransportoperasjoner behandles som utstasjonering, noe som krever erklæringer via IMI-portalen, og presiserer at bilaterale operasjoner ikke anses som utstasjonering.",
+      "author": "International Road Transport Union",
+      "url": "https://www.iru.org/news-resources/iru-advises-on-posting-of-drivers-legislation"
+    }
+  ],
+  "tags": [
+    "kabotasjeregler",
+    "EU mobilitetspakke",
+    "avkjølingsperiode",
+    "lastebil retur til hjemland",
+    "sjåførutstasjonering",
+    "IMI-portal",
+    "veitransport Europa"
+  ]
+}

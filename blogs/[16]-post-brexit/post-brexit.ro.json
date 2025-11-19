@@ -1,0 +1,182 @@
+{
+  "id": "post-brexit-road-freight-between-the-eu-and-uk-customs-sps-checks-and-border-challenges",
+  "shortId": "post-brexit-road",
+  "language": "ro",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Transport rutier UE‑UK după Brexit: vamă, controale SPS și provocări la frontieră",
+  "description": "De când Regatul Unit a părăsit uniunea vamală și piața unică a UE la final de 2020, regulile care guvernează transportul rutier între UE și UK s-au schimbat fundamental. Mărfurile care traversează Canalul trebuie să respecte formalități vamale, reguli de origine și controale sanitar-veterinare și fitosanitare (SPS)...",
+  "publishedAt": "2025-12-04T00:00:00.000Z",
+  "category": "Transport",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experți în tehnologii pentru logistică",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "post-brexit-hero.png",
+  "imageAlt": "Camioane la coadă la un punct de control la frontiera dintre Regatul Unit și UE, în timp ce ofițerii vamali verifică documentele, pe un cer înnorat.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "De la ieșirea Regatului Unit din uniunea vamală și piața unică a UE la sfârșitul lui 2020, regulile pentru transportul rutier între UE și UK s-au schimbat radical. Mărfurile care traversează frontiera trebuie să respecte formalitățile vamale, regulile de origine și controalele sanitar-veterinare și fitosanitare (SPS). Pentru companiile care expediază peste Canal, înțelegerea acestor proceduri este esențială pentru a evita întârzieri și penalități.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "post-brexit-visual-1.png",
+      "alt": "Diagramă de lanț logistic care arată declarații vamale, certificate de origine și controale SPS între UE și Regatul Unit.",
+      "caption": "Lanțul logistic post‑Brexit include declarații vamale, certificate de origine și controale SPS suplimentare între UE și Regatul Unit."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Declarații vamale și reguli de origine"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "În baza Acordului de Comerț și Cooperare UE‑UK (TCA), mărfurile pot circula fără taxe vamale și fără cote dacă îndeplinesc regulile de origine. Biblioteca Camerei Comunelor notează că respectarea acestor reguli poate fi împovărătoare și că doar 10–53 % din exporturile de textile și îmbrăcăminte ale Marii Britanii au beneficiat de tarife preferențiale în 2022. Mărfurile care nu îndeplinesc regulile de origine pot fi taxate, astfel că firmele trebuie să stabilească originea componentelor și să păstreze declarațiile furnizorilor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Declarațiile vamale sunt obligatorii pentru toate mărfurile care intră în Marea Britanie din UE și invers. UE a introdus controale vamale complete la 1 ianuarie 2021, în timp ce UK și-a fazat propriile controale, unele verificări fiind încă în curs de implementare. Sistemele digitale de vamă, precum Customs Declaration Service (CDS) în UK și Import Control System 2 (ICS2) în UE, sunt centrale pentru procesarea declarațiilor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Controale sanitar-veterinare și fitosanitare (SPS)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Importurile de animale vii, produse de origine animală și anumite plante sunt supuse controalelor SPS. Institute for Government explică faptul că aceste mărfuri trebuie pre‑notificate prin sistemul IPAFFS din UK sau prin TRACES în UE și dirijate către puncte de control la frontieră (BCP). La BCP, transporturile sunt supuse controalelor documentare, de identitate și fizice pentru a verifica respectarea regulilor de sănătate animală și siguranță alimentară. Companiile trebuie să ia în calcul timpul suplimentar la BCP și să se asigure că documentele sunt corecte.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Border Target Operating Model (BTOM)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Modelul operațional țintă la frontieră al Regatului Unit (BTOM) propune o abordare bazată pe risc pentru controalele SPS și introduce un Single Trade Window pentru procedurile digitale de import. Potrivit Bibliotecii Camerei Comunelor, BTOM își propune să simplifice procesele de frontieră și să introducă treptat noi controale pe parcursul mai multor ani. Modelul prevede niveluri diferite de verificare în funcție de categoria de risc a bunurilor (scăzut, mediu, ridicat). Companiile ar trebui să urmărească derularea BTOM pentru a ajusta timpii de tranzit și cerințele documentare.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cabotaj și detașare în Regatul Unit"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Regulile din Pachetul Mobilitate al UE privind cabotajul și detașarea șoferilor influențează și transportatorii din UE care operează în Regatul Unit. Cabotajul (transport intern într-o țară străină) este limitat la două operațiuni în decurs de șapte zile după o livrare internațională în UK. Perioada de pauză de patru zile după cabotaj, descrisă pentru operațiunile din UE, nu se aplică direct în afara UE, dar Regatul Unit a introdus restricții similare. Operațiunile de cross‑trade (de exemplu Irlanda–UK–Franța) pot fi limitate, iar șoferii pot avea nevoie de declarații de detașare în UE prin portalul IMI.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pași practici pentru expeditori și transportatori"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Înțelege regulile de origine: Creează o bază de date cu declarațiile furnizorilor pentru a putea dovedi originea. Ia în calcul apelarea la consultanți în comerț internațional pentru a stabili ce produse beneficiază de taxe zero.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Pregătește declarații vamale corecte: Asigură-te că tu sau reprezentantul tău vamal aveți toate codurile necesare (coduri tarifare, valoare, greutate) și folosiți sistemele IT adecvate (CDS, NCTS).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Anticipează controalele SPS: Dacă transporți produse alimentare sau plante, fă pre‑notificări pentru transporturi și alocă timp pentru inspecții în BCP. Vehiculele cu temperatură controlată pot necesita facilități speciale de staționare.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Colaborează cu expeditori experimentați: Un forwarder digital poate gestiona documentele vamale, garanțiile TIR și cross‑docking‑ul în huburi de frontieră.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Concluzie"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Comerțul post‑Brexit introduce noi straturi administrative pentru transportul rutier UE‑UK. Declarațiile vamale, regulile de origine și controalele SPS trebuie integrate în timpii de tranzit și în structura de costuri. Companiile care investesc în înțelegerea acestor cerințe și colaborează cu parteneri experimentați vor naviga mai ușor peisajul post‑Brexit și își vor menține lanțurile de aprovizionare fiabile.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Surse"
+    },
+    {
+      "type": "citation",
+      "text": "Trade with the EU after Brexit (House of Commons Library, 2023) - Analizează Acordul de Comerț și Cooperare UE‑UK, subliniind că mărfurile trebuie să îndeplinească regulile de origine pentru a beneficia de taxe zero și că doar 10–53 % din exporturile de textile și îmbrăcăminte au revendicat tarife preferențiale în 2022; menționează controalele vamale complete ale UE și implementarea treptată a controalelor de frontieră în UK.",
+      "author": "House of Commons Library",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-8397/CBP-8397.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Border Target Operating Model (House of Commons Library, 2023) - Explică modelul BTOM propus de Regatul Unit, care introduce o abordare bazată pe risc pentru controalele SPS și dezvoltarea unui Single Trade Window pentru procedurile digitale de import.",
+      "author": "House of Commons Library",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-9710/CBP-9710.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Explainer: The Great Britain-EU border (Institute for Government, 2022) - Descrie cerințele SPS pentru mărfurile care traversează frontiera dintre Marea Britanie și UE, arătând că produsele de origine animală și plantele trebuie pre‑notificate prin IPAFFS sau TRACES și verificate documentar, ca identitate și fizic în punctele de control la frontieră.",
+      "author": "Institute for Government",
+      "url": "https://www.instituteforgovernment.org.uk/explainer/gb-eu-border"
+    }
+  ],
+  "tags": [
+    "transport rutier post-Brexit",
+    "vama UE-UK",
+    "controale SPS",
+    "reguli de origine",
+    "acordul TCA UE-UK",
+    "proceduri la frontieră",
+    "transport rutier Europa"
+  ]
+}
+

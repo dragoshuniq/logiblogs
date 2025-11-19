@@ -1,0 +1,231 @@
+{
+  "id": "eu-cabotage-rules-and-the-mobility-package-navigating-cooling-off-periods-and-vehicle-return-requirements",
+  "shortId": "eu-cabotage-rules",
+  "language": "nl",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "EU-cabotageregels en het mobiliteitspakket: Navigeren door afkoelingsperiodes en vereisten voor terugkeer van voertuigen",
+  "description": "Europese verladers en vervoerders profiteren al lang van cabotage - het recht voor wegvervoerders uit één EU-land om binnenlandse ritten in een andere lidstaat uit te voeren - omdat het helpt lege kilometers te verminderen en de efficiëntie te verhogen. Toch kan cabotage ook...",
+  "publishedAt": "2025-12-01T00:00:00.000Z",
+  "category": "Vervoer",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experts in logistieke technologie",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "cabotage-rules-hero.png",
+  "imageAlt": "Illustratie van een EU-kaart met een vrachtwagen die grenzen overschrijdt met pijlen die cabotageroutes aangeven, met een kalendericoon dat de vierdaagse afkoelingsperiode illustreert.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Europese verladers en vervoerders profiteren al lang van cabotage – het recht voor wegvervoerders uit één EU-land om binnenlandse ritten in een andere lidstaat uit te voeren – omdat het helpt lege kilometers te verminderen en de efficiëntie te verhogen. Toch kan cabotage ook markten verstoren en oneerlijke concurrentie mogelijk maken als voertuigen voor onbepaalde tijd in landen blijven waar de kosten lager zijn. Om dit aan te pakken, introduceert het EU-mobiliteitspakket nieuwe regels voor cabotage en detachering van chauffeurs. Dit artikel legt uit wat deze regels betekenen for vervoerders en verladers, met de nadruk op afkoelingsperiodes, vereisten voor terugkeer naar huis en digitale detacheringsverklaringen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "cabotage-rules-visual-1.png",
+      "alt": "Foto van een Europese vrachtwagen die bij zonsondergang terugkeert naar zijn thuisbasis, met een magazijn op de achtergrond.",
+      "caption": "Foto van een Europese vrachtwagen die bij zonsondergang terugkeert naar zijn thuisbasis, met een magazijn op de achtergrond."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Wat is cabotage?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Cabotage vindt plaats wanneer een vervoerder die in de ene EU-lidstaat is geregistreerd, binnenlands vervoer in een andere lidstaat verricht. Bijvoorbeeld, een Poolse vervoerder die goederen levert in Frankrijk en vervolgens meerdere binnenlandse ladingen binnen Frankrijk vervoert voordat hij naar huis terugkeert, doet aan cabotage. Cabotage helpt lege ritten te verminderen en ondersteunt evenwichtige stromen in heel Europa, maar het is controversieel omdat sommige operatoren het hebben gebruikt om lokale arbeidsregels en lonen te omzeilen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Volgens de EU-wetgeving mag een niet-ingezeten vervoerder maximaal drie cabotageritten uitvoeren binnen zeven dagen na een internationale levering. Deze ritten moeten plaatsvinden nadat de goederen zijn gelost van de inkomende internationale lading.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Afkoelingsperiode van het mobiliteitspakket"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Om continue cabotage te voorkomen, introduceert het mobiliteitspakket een \"afkoelingsperiode\". Na het voltooien van een cabotagerit in een lidstaat moet een vervoerder vier dagen wachten voordat hij verdere cabotage in datzelfde land mag uitvoeren. De vierdaagse periode begint om 00:00 op de dag na de laatste lossing in die staat en eindigt om 23:59 op de vierde dag. Gedurende deze tijd kan de vervoerder ofwel terugkeren naar zijn thuisland, internationale ladingen naar andere lidstaten aannemen, of cabotage uitvoeren in een andere lidstaat.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Deze regel is bedoeld om te voorkomen dat buitenlandse vrachtwagens permanent in lagelonenmarkten blijven, terwijl er toch flexibiliteit voor grensoverschrijdende operaties mogelijk is. Voor verladers betekent de afkoelingsperiode dat er mogelijk minder buitenlandse vervoerders beschikbaar zijn voor binnenlands vervoer op korte termijn tijdens piekperiodes, dus vooruit plannen en gebruikmaken van gevestigde expeditiepartners wordt cruciaal.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vereiste voor terugkeer van het voertuig naar huis"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Een ander belangrijk element van het mobiliteitspakket is de terugkeerplicht voor voertuigen. Vervoersbedrijven moeten hun activiteiten zo organiseren dat elk voertuig dat wordt gebruikt in het internationale wegvervoer minstens eens in de acht weken terugkeert naar de lidstaat van vestiging. Hoewel het Europees Hof van Justitie de prescriptieve verplichting heeft vernietigd, blijft het algemene doel overeind: vrachtwagens mogen niet voor langere periodes in een ander land verblijven. Deze regel is van toepassing op voertuigen met een bruto voertuiggewicht van meer dan 2,5 ton die internationaal transport verrichten.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Vervoerders moeten schema's en ladingen plannen om een terugreis binnen het venster van acht weken op te nemen. Niet-naleving kan leiden tot boetes of verlies van cabotagerechten. Voor verladers die met buitenlandse vervoerders werken, is het verstandig om te controleren of hun partners de terugkeerplicht respecteren, aangezien niet-naleving de leveringen kan verstoren.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detachering van chauffeurs en het IMI-portaal"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Het mobiliteitspakket omvat ook een \"Lex specialis\"-richtlijn over de detachering van chauffeurs (Richtlijn 2020/1057). Cabotage- en cross-trade-operaties (opeenvolgende internationale zendingen tussen derde landen) worden beschouwd als detachering, wat betekent dat chauffeurs moeten worden betaald volgens het minimumloon en de arbeidsvoorwaarden van het gastland. Om de naleving te vereenvoudigen, moeten verklaringen elektronisch worden ingediend via het Informatiesysteem voor de interne markt (IMI). De IRU merkt op dat het IMI-portaal het enige officiële instrument is voor detacheringsverklaringen en dat nationale autoriteiten geen aanvullende meldingssystemen mogen opleggen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Chauffeurs moeten een kopie van de detacheringsverklaring, bewijs van vervoersoperaties en tachograafgegevens bij zich hebben om de naleving tijdens wegcontroles aan te tonen. Bilateraal vervoer (één uitgaande en één inkomende rit met mogelijke extra cross-trade ritten) is daarentegen uitgesloten van de detacheringsregels.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Slimme tachografen en handhaving"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Het mobiliteitspakket vereist de installatie van slimme tachografen van de tweede generatie op voertuigen die internationaal transport verrichten om grensovergangen en cabotageactiviteiten te registreren. Voertuigen tussen 2,5 en 3,5 ton zullen vanaf medio 2026 onderworpen zijn aan tachograafregels voor grensoverschrijdende operaties, waardoor kleinere bestelwagens binnen het regelgevingskader vallen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Slimme tachografen registreren automatisch grensovergangen en de positie van het voertuig tijdens het laden en lossen, waardoor het voor handhavingsinstanties gemakkelijker wordt om afkoelingsperiodes en terugkeer van voertuigen te controleren. Vervoerders moeten retrofittijden plannen en middelen toewijzen voor tachograafupgrades.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Praktisch advies voor verladers en vervoerders"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Controleer de naleving door de vervoerder: Zorg ervoor dat de vervoerders die u contracteert zich houden aan de afkoelingsperiodes en terugkeervereisten. Vraag indien nodig om bewijs van detacheringsverklaringen en tachograafgegevens.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Plan rond afkoelingsperiodes: Als uw activiteiten afhankelijk zijn van buitenlandse vervoerders, houd dan rekening met het vierdaagse cabotagevrije venster bij het plannen van binnenlandse zendingen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Gebruik digitale documentatie: Moedig vervoerders aan om detacheringsverklaringen in te dienen via het IMI-portaal en elektronische vrachtbrieven (e-CMR) te onderhouden om de naleving te stroomlijnen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Schakel een vertrouwde expediteur in: Een digitale expediteur zoals Logifie kan helpen bij het beheren van de cabotagenaleving, detacheringsverklaringen en routeplanning, waardoor de administratieve last voor verladers wordt verminderd.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusie"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Het EU-mobiliteitspakket hervormt de regels voor cabotage en detachering om een evenwicht te vinden tussen markttoegang en eerlijke concurrentie. Afkoelingsperiodes en vereisten voor de terugkeer van voertuigen betekenen dat vervoerders hun activiteiten zorgvuldig moeten plannen, terwijl verladers ervoor moeten zorgen dat partners zich aan de regels houden. Door deze regels te begrijpen en digitale hulpmiddelen te gebruiken, kunnen logistiek managers navigeren in het nieuwe landschap en het grensoverschrijdende wegvervoer blijven optimaliseren.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Bronnen"
+    },
+    {
+      "type": "citation",
+      "text": "Vragen en antwoorden: Mobiliteitspakket I - Cabotage (Europese Commissie, 2021) - Legt de vierdaagse afkoelingsperiode na een cabotagerit uit en de beperkingen op het uitvoeren van cabotage in dezelfde lidstaat gedurende deze periode.",
+      "author": "Europese Commissie",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021XC0816(01)"
+    },
+    {
+      "type": "citation",
+      "text": "Mobiliteitspakket I - Terugkeerverplichting en licenties (Federaal Ministerie voor Digitaal en Transport, 2023) - Beschrijft de vereiste voor voertuigen in het internationale transport om minstens elke acht weken terug te keren naar hun lidstaat van vestiging en merkt op dat voertuigen van meer dan 2,5 ton een communautaire licentie nodig hebben.",
+      "author": "Federaal Ministerie voor Digitaal en Transport",
+      "url": "https://www.bmdv.bund.de/SharedDocs/EN/Articles/G/mobility-package.html"
+    },
+    {
+      "type": "citation",
+      "text": "Detachering van chauffeurs: Lex specialis (International Road Transport Union, 2023) - Legt uit dat cabotage- en cross-trade-operaties worden behandeld als detachering, waarvoor verklaringen via het IMI-portaal vereist zijn, en verduidelijkt dat bilaterale operaties niet als detachering worden beschouwd.",
+      "author": "International Road Transport Union",
+      "url": "https://www.iru.org/news-resources/iru-advises-on-posting-of-drivers-legislation"
+    }
+  ],
+  "tags": [
+    "cabotageregels",
+    "EU-mobiliteitspakket",
+    "afkoelingsperiode",
+    "vrachtwagen terugkeer naar huis",
+    "chauffeursdetachering",
+    "IMI-portaal",
+    "wegvervoer Europa"
+  ]
+}

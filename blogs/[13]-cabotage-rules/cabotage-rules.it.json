@@ -1,0 +1,231 @@
+{
+  "id": "eu-cabotage-rules-and-the-mobility-package-navigating-cooling-off-periods-and-vehicle-return-requirements",
+  "shortId": "eu-cabotage-rules",
+  "language": "it",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Regole sul cabotaggio nell'UE e il Pacchetto Mobilità: Gestire i periodi di raffreddamento e i requisiti di ritorno del veicolo",
+  "description": "Committenti e vettori europei beneficiano da tempo del cabotaggio - il diritto per gli autotrasportatori di un paese dell'UE di effettuare trasporti nazionali in un altro stato membro - perché aiuta a ridurre i chilometri a vuoto e ad aumentare l'efficienza. Tuttavia, il cabotaggio può anche...",
+  "publishedAt": "2025-12-01T00:00:00.000Z",
+  "category": "Trasporti",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Esperti di tecnologia logistica",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "cabotage-rules-hero.png",
+  "imageAlt": "Illustrazione di una mappa dell'UE che mostra un camion che attraversa i confini con frecce che indicano le rotte di cabotaggio, con un'icona di calendario che illustra il periodo di raffreddamento di quattro giorni.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Committenti e vettori europei beneficiano da tempo del cabotaggio – il diritto per gli autotrasportatori di un paese dell'UE di effettuare trasporti nazionali in un altro stato membro – perché aiuta a ridurre i chilometri a vuoto e ad aumentare l'efficienza. Tuttavia, il cabotaggio può anche distorcere i mercati e consentire una concorrenza sleale se i veicoli rimangono a tempo indeterminato in paesi dove i costi sono inferiori. Per affrontare questo problema, il Pacchetto Mobilità dell'UE introduce nuove norme sul cabotaggio e sul distacco dei conducenti. Questo articolo spiega cosa significano queste norme per vettori e committenti, concentrandosi sui periodi di raffreddamento, i requisiti di ritorno in patria e le dichiarazioni di distacco digitali.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "cabotage-rules-visual-1.png",
+      "alt": "Foto di un camion europeo che torna al suo deposito di base al tramonto, con un magazzino sullo sfondo.",
+      "caption": "Foto di un camion europeo che torna al suo deposito di base al tramonto, con un magazzino sullo sfondo."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cos'è il cabotaggio?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Il cabotaggio si verifica quando un autotrasportatore registrato in uno stato membro dell'UE esegue operazioni di trasporto nazionale all'interno di un altro stato membro. Ad esempio, un autotrasportatore polacco che consegna merci in Francia e poi effettua più carichi nazionali in Francia prima di tornare a casa sta effettuando operazioni di cabotaggio. Il cabotaggio aiuta a ridurre i viaggi a vuoto e supporta flussi equilibrati in tutta Europa, ma è stato controverso perché alcuni operatori lo hanno utilizzato per eludere le norme e le retribuzioni locali sul lavoro.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Secondo la normativa UE, un autotrasportatore non residente può effettuare fino a tre operazioni di cabotaggio entro sette giorni da una consegna internazionale. Tali operazioni devono aver luogo dopo lo scarico delle merci dal carico internazionale in entrata.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Periodo di raffreddamento del Pacchetto Mobilità"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Per prevenire il cabotaggio continuo, il Pacchetto Mobilità introduce un periodo di \"raffreddamento\". Dopo aver completato un'operazione di cabotaggio in uno stato membro, un autotrasportatore deve attendere quattro giorni prima di poter effettuare ulteriori operazioni di cabotaggio in quello stesso paese. Il periodo di quattro giorni inizia alle 00:00 del giorno successivo all'ultimo scarico in quello stato e termina alle 23:59 del quarto giorno. Durante questo periodo, l'autotrasportatore può tornare nel proprio paese, assumere carichi internazionali verso altri stati membri o effettuare operazioni di cabotaggio in un diverso stato membro.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Questa regola mira a garantire che i camion stranieri non rimangano permanentemente in mercati del lavoro a basso costo, pur consentendo flessibilità per le operazioni transfrontaliere. Per i committenti, il periodo di raffreddamento significa che potrebbero esserci meno vettori stranieri disponibili per il trasporto nazionale con breve preavviso durante i periodi di punta, quindi pianificare in anticipo e utilizzare partner di spedizione consolidati diventa fondamentale.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Requisito di ritorno del veicolo in patria"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Un altro elemento chiave del Pacchetto Mobilità è il requisito di ritorno del veicolo. Le società di trasporto devono organizzare le loro operazioni in modo che ogni veicolo utilizzato nel trasporto internazionale su strada torni al suo stato membro di stabilimento almeno una volta ogni otto settimane. Sebbene la Corte di giustizia europea abbia annullato l'obbligo prescrittivo, l'obiettivo generale rimane: i camion non dovrebbero rimanere in un altro paese per lunghi periodi. Questa regola si applica ai veicoli con un peso lordo superiore a 2,5 tonnellate impegnati nel trasporto internazionale.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "I vettori devono pianificare orari e carichi per includere un viaggio di ritorno entro la finestra di otto settimane. Il mancato rispetto può comportare multe o la perdita dei diritti di cabotaggio. Per i committenti che lavorano con vettori stranieri, è prudente verificare che i loro partner rispettino il requisito di ritorno, poiché la non conformità potrebbe interrompere le consegne.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Distacco dei conducenti e il portale IMI"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Il Pacchetto Mobilità include anche una direttiva \"Lex specialis\" sul distacco dei conducenti (Direttiva 2020/1057). Le operazioni di cabotaggio e cross-trade (spedizioni internazionali successive tra paesi terzi) sono considerate distacco, il che significa che i conducenti devono essere pagati secondo il salario minimo e le condizioni di lavoro del paese ospitante. Per semplificare la conformità, le dichiarazioni devono essere presentate elettronicamente tramite il portale del Sistema di informazione del mercato interno (IMI). L'IRU rileva che il portale IMI è l'unico strumento ufficiale per le dichiarazioni di distacco e che le autorità nazionali non possono imporre sistemi di notifica aggiuntivi.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "I conducenti devono portare una copia della dichiarazione di distacco, la prova delle operazioni di trasporto e le registrazioni del tachigrafo per dimostrare la conformità durante i controlli su strada. Al contrario, il trasporto bilaterale (un viaggio di andata e uno di ritorno con possibili tratte di cross-trade aggiuntive) è escluso dalle norme sul distacco.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tachigrafi intelligenti e applicazione"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Il Pacchetto Mobilità richiede l'installazione di tachigrafi intelligenti di seconda generazione sui veicoli impegnati nel trasporto internazionale per registrare gli attraversamenti di frontiera e le attività di cabotaggio. I veicoli tra 2,5 e 3,5 tonnellate saranno soggetti alle norme sul tachigrafo per le operazioni transfrontaliere a partire dalla metà del 2026, portando i furgoni più piccoli nel quadro normativo.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "I tachigrafi intelligenti registrano automaticamente gli attraversamenti di frontiera e la posizione del veicolo durante il carico e lo scarico, rendendo più facile per le autorità di controllo verificare i periodi di raffreddamento e i ritorni dei veicoli. I vettori dovrebbero pianificare i programmi di adeguamento e allocare risorse per gli aggiornamenti del tachigrafo.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Consigli pratici per committenti e vettori"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Verificare la conformità del vettore: Assicurarsi che i vettori con cui si stipula un contratto aderiscano ai periodi di raffreddamento e ai requisiti di ritorno. Chiedere prova delle dichiarazioni di distacco e dei dati del tachigrafo quando necessario.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Pianificare tenendo conto dei periodi di raffreddamento: Se le vostre operazioni si basano su vettori stranieri, considerate la finestra di quattro giorni senza cabotaggio quando programmate le spedizioni nazionali.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Utilizzare la documentazione digitale: Incoraggiare i vettori a presentare le dichiarazioni di distacco tramite il portale IMI e a mantenere lettere di vettura elettroniche (e-CMR) per semplificare la conformità.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ingaggiare uno spedizioniere di fiducia: Uno spedizioniere digitale come Logifie può aiutare a gestire la conformità al cabotaggio, le dichiarazioni di distacco e la pianificazione del percorso, riducendo l'onere amministrativo per i committenti.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusione"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Il Pacchetto Mobilità dell'UE sta rimodellando le regole sul cabotaggio e sul distacco per bilanciare l'apertura del mercato con la concorrenza leale. I periodi di raffreddamento e i requisiti di ritorno del veicolo significano che i vettori devono pianificare attentamente le operazioni, mentre i committenti devono garantire che i partner siano conformi. Comprendendo queste regole e utilizzando strumenti digitali, i responsabili della logistica possono navigare nel nuovo panorama e continuare a ottimizzare il trasporto merci su strada transfrontaliero.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fonti"
+    },
+    {
+      "type": "citation",
+      "text": "Domande e risposte: Pacchetto Mobilità I - Cabotaggio (Commissione Europea, 2021) - Spiega il periodo di raffreddamento di quattro giorni dopo un'operazione di cabotaggio e le restrizioni all'esecuzione di operazioni di cabotaggio nello stesso stato membro durante questo periodo.",
+      "author": "Commissione Europea",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021XC0816(01)"
+    },
+    {
+      "type": "citation",
+      "text": "Pacchetto Mobilità I - Obbligo di ritorno e licenze (Ministero federale per il digitale e i trasporti, 2023) - Descrive l'obbligo per i veicoli nel trasporto internazionale di tornare al loro stato membro di stabilimento almeno ogni otto settimane e rileva che i veicoli di peso superiore a 2,5 t necessitano di una licenza comunitaria.",
+      "author": "Ministero federale per il digitale e i trasporti",
+      "url": "https://www.bmdv.bund.de/SharedDocs/EN/Articles/G/mobility-package.html"
+    },
+    {
+      "type": "citation",
+      "text": "Distacco dei conducenti: Lex specialis (Unione Internazionale dei Trasporti su Strada, 2023) - Spiega che le operazioni di cabotaggio e cross-trade sono trattate come distacco, richiedendo dichiarazioni tramite il portale IMI, e chiarisce che le operazioni bilaterali non sono considerate distacco.",
+      "author": "Unione Internazionale dei Trasporti su Strada",
+      "url": "https://www.iru.org/news-resources/iru-advises-on-posting-of-drivers-legislation"
+    }
+  ],
+  "tags": [
+    "regole cabotaggio",
+    "pacchetto mobilità UE",
+    "periodo di raffreddamento",
+    "ritorno camion in patria",
+    "distacco conducenti",
+    "portale IMI",
+    "trasporto merci su strada Europa"
+  ]
+}

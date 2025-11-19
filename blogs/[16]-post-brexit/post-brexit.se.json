@@ -1,0 +1,181 @@
+{
+  "id": "post-brexit-road-freight-between-the-eu-and-uk-customs-sps-checks-and-border-challenges",
+  "shortId": "post-brexit-road",
+  "language": "se",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Post-Brexit vägfrakt mellan EU och Storbritannien: Tull, SPS-kontroller och gränsutmaningar",
+  "description": "Sedan Storbritannien lämnade EU:s tullunion och inre marknad i slutet av 2020 har reglerna för vägfrakt mellan EU och Storbritannien förändrats fundamentalt. Varor som korsar gränsen måste nu följa tullformaliteter, ursprungsregler...",
+  "publishedAt": "2025-12-04T00:00:00.000Z",
+  "category": "Transport",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experter på logistikteknik",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "post-brexit-hero.png",
+  "imageAlt": "Foto av lastbilar som köar vid gränskontrollposten mellan Storbritannien och EU med tulltjänstemän som inspekterar dokumentation, mulet väder.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sedan Storbritannien lämnade EU:s tullunion och inre marknad i slutet av 2020 har reglerna för vägfrakt mellan EU och Storbritannien förändrats fundamentalt. Varor som korsar gränsen måste nu följa tullformaliteter, ursprungsregler och sanitära och fytosanitära (SPS) kontroller. För företag som skickar varor över kanalen är det viktigt att förstå dessa procedurer för att undvika förseningar och påföljder.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "post-brexit-visual-1.png",
+      "alt": "Illustration av ett försörjningskedjediagram som visar tulldeklarationer, ursprungscertifikat och SPS-kontroller mellan EU och Storbritannien.",
+      "caption": "Illustration av ett försörjningskedjediagram som visar tulldeklarationer, ursprungscertifikat och SPS-kontroller mellan EU och Storbritannien"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tulldeklarationer och ursprungsregler"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Enligt handels- och samarbetsavtalet (TCA) mellan EU och Storbritannien kan varor röra sig tull- och kvotfritt om de uppfyller ursprungsreglerna. Underhusbiblioteket noterar att efterlevnaden kan vara betungande och att endast 10-53 % av Storbritanniens textil- och klädexport gjorde anspråk på förmånliga tullsatser 2022. Varor som inte uppfyller ursprungsreglerna kan ådra sig tullar. Företag måste fastställa ursprunget för komponenter och upprätthålla leverantörsdeklarationer.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Tulldeklarationer är obligatoriska för alla varor som förs in i Storbritannien från EU och vice versa. EU införde fullständiga tullkontroller den 1 januari 2021, medan Storbritannien har infört egna kontroller gradvis, där vissa gränskontroller fortfarande implementeras. Digitala tullsystem som Storbritanniens Customs Declaration Service (CDS) och EU:s Import Control System 2 (ICS2) är centrala för att behandla deklarationer.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sanitära och fytosanitära (SPS) kontroller"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Import av levande djur, animaliska produkter och vissa växter är föremål för SPS-kontroller. Institute for Government förklarar att sådana varor måste förhandsanmälas via Storbritanniens system för import av produkter, djur, livsmedel och foder (IPAFFS) eller EU:s TRACES-system och dirigeras via gränskontrollstationer (BCP). Vid dessa stationer genomgår sändningar dokument-, identitets- och fysiska kontroller för att säkerställa efterlevnad av djurhälso- och livsmedelssäkerhetsregler. Företag bör räkna med extra tid vid BCP och se till att dokumentationen är korrekt.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Border Target Operating Model (BTOM)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Storbritanniens Border Target Operating Model föreslår en riskbaserad metod för SPS-kontroller och introducerar ett enda handelsfönster för digitala importprocedurer. Enligt Underhusbiblioteket syftar BTOM till att förenkla gränsprocesser och kommer att införa nya kontroller gradvis under flera år. Modellen förutser olika nivåer av granskning beroende på varornas riskkategori (låg, medel, hög). Företag bör övervaka införandet av BTOM för att anpassa ledtider och dokumentationskrav.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cabotage och utstationering i Storbritannien"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "EU:s mobilitetspaketregler för cabotage och utstationering påverkar också EU-transportörer som verkar i Storbritannien. Cabotage (inrikesgodstransporter i ett främmande land) är begränsad till två operationer inom sju dagar efter en internationell leverans i Storbritannien. Den fyrdagars karenstiden efter cabotage, som beskrivits tidigare, gäller inte för operationer utanför EU, men Storbritannien har antagit liknande begränsningar. Korstrafikoperationer (t.ex. Irland-Storbritannien-Frankrike) kan vara begränsade, och förare kan behöva utstationeringsdeklarationer i EU via IMI-portalen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Praktiska steg för speditörer och transportörer"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Förstå ursprungsreglerna: Sammanställ en databas med leverantörsdeklarationer för att bevisa ursprung. Överväg att använda frihandelsrådgivare för att avgöra vilka produkter som kvalificerar sig för nollavgifter.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Förbered korrekta tulldeklarationer: Se till att du eller din tullagent har alla nödvändiga koder (varukoder, värde, vikt) och använder lämpliga IT-system (CDS, NCTS).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Anta SPS-kontroller: Om du skickar livsmedel eller växter, förhandsanmäl sändningar och planera tid för inspektioner vid BCP. Temperaturkontrollerade fordon kan behöva köa vid speciella anläggningar.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Samarbeta med erfarna speditörer: En digital speditör kan hantera tullpapper, garantera TIR-carnets och hantera cross-docking vid gränshubbar.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Slutsats"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Handeln efter Brexit inför nya administrativa lager för vägfrakt mellan EU och Storbritannien. Tulldeklarationer, ursprungsregler och SPS-inspektioner måste beaktas i transittider och kostnader. Företag som investerar i att förstå dessa krav och samarbetar med kunniga partners kommer att navigera i post-Brexit-landskapet smidigare och upprätthålla pålitliga leveranskedjor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Källor"
+    },
+    {
+      "type": "citation",
+      "text": "Handel med EU efter Brexit (Underhusbiblioteket, 2023) - Diskuterar handels- och samarbetsavtalet mellan EU och Storbritannien, noterar att varor måste uppfylla ursprungsreglerna för att kvalificera sig för nollavgifter och att endast 10-53 % av textil- och klädexporten gjorde anspråk på förmånliga priser 2022; noterar också fullständiga tullkontroller och pågående implementering av Storbritanniens gränskontroller.",
+      "author": "Underhusbiblioteket",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-8397/CBP-8397.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Border Target Operating Model (Underhusbiblioteket, 2023) - Förklarar Storbritanniens Border Target Operating Model, som föreslår en riskbaserad metod för SPS-kontroller och utvecklingen av ett enda handelsfönster.",
+      "author": "Underhusbiblioteket",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-9710/CBP-9710.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Förklaring: Gränsen mellan Storbritannien och EU (Institute for Government, 2022) - Beskriver SPS-krav för varor som korsar gränsen mellan Storbritannien och EU, där det anges att djur- och växtprodukter måste förhandsanmälas via IPAFFS eller TRACES och genomgå dokument-, identitets- och fysiska kontroller vid gränskontrollstationer.",
+      "author": "Institute for Government",
+      "url": "https://www.instituteforgovernment.org.uk/explainer/gb-eu-border"
+    }
+  ],
+  "tags": [
+    "post-Brexit vägfrakt",
+    "EU-UK tull",
+    "SPS-kontroller",
+    "ursprungsregler",
+    "TCA UK",
+    "gränsförfaranden",
+    "vägfrakt Europa"
+  ]
+}

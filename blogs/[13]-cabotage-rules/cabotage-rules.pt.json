@@ -1,0 +1,231 @@
+{
+  "id": "eu-cabotage-rules-and-the-mobility-package-navigating-cooling-off-periods-and-vehicle-return-requirements",
+  "shortId": "eu-cabotage-rules",
+  "language": "pt",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Regras de Cabotagem da UE e o Pacote de Mobilidade: Navegando em Períodos de Arrefecimento e Requisitos de Retorno de Veículos",
+  "description": "Expedidores e transportadores europeus há muito que beneficiam da cabotagem - o direito de os transportadores rodoviários de um país da UE operarem viagens domésticas noutro estado-membro - porque ajuda a reduzir a quilometragem em vazio e a aumentar a eficiência. No entanto, a cabotagem também pode...",
+  "publishedAt": "2025-12-01T00:00:00.000Z",
+  "category": "Transporte",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Especialistas em Tecnologia de Logística",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "cabotage-rules-hero.png",
+  "imageAlt": "Ilustração de um mapa da UE mostrando um camião a atravessar fronteiras com setas a indicar rotas de cabotagem, com um ícone de calendário a ilustrar o período de arrefecimento de quatro dias.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Expedidores e transportadores europeus há muito que beneficiam da cabotagem – o direito de os transportadores rodoviários de um país da UE operarem viagens domésticas noutro estado-membro – porque ajuda a reduzir a quilometragem em vazio e a aumentar a eficiência. No entanto, a cabotagem também pode distorcer os mercados e permitir a concorrência desleal se os veículos permanecerem indefinidamente em países onde os custos são mais baixos. Para resolver esta questão, o Pacote de Mobilidade da UE introduz novas regras sobre cabotagem e destacamento de motoristas. Este artigo explica o que estas regras significam para transportadores e expedidores, focando-se nos períodos de arrefecimento, nos requisitos de regresso a casa e nas declarações de destacamento digital.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "cabotage-rules-visual-1.png",
+      "alt": "Foto de um camião europeu a regressar ao seu depósito de base ao pôr do sol, com um armazém em pano de fundo.",
+      "caption": "Foto de um camião europeu a regressar ao seu depósito de base ao pôr do sol, com um armazém em pano de fundo."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "O que é cabotagem?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A cabotagem ocorre quando um transportador registado num estado-membro da UE realiza operações de transporte doméstico noutro estado-membro. Por exemplo, um transportador polaco que entrega mercadorias em França e depois assume várias cargas domésticas em França antes de regressar a casa está a praticar cabotagem. A cabotagem ajuda a reduzir as viagens em vazio e apoia fluxos equilibrados em toda a Europa, mas tem sido controversa porque alguns operadores a utilizaram para contornar as regras e salários laborais locais.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "De acordo com a legislação da UE, um transportador não residente pode realizar até três operações de cabotagem no prazo de sete dias após uma entrega internacional. Estas operações devem ter lugar após a descarga das mercadorias da carga internacional de entrada.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Período de arrefecimento do Pacote de Mobilidade"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Para evitar a cabotagem contínua, o Pacote de Mobilidade introduz um período de \"arrefecimento\". Após completar uma operação de cabotagem num estado-membro, um transportador deve esperar quatro dias antes de realizar mais cabotagem nesse mesmo país. O período de quatro dias começa às 00:00 do dia seguinte à última descarga nesse estado e termina às 23:59 do quarto dia. Durante este tempo, o transportador pode regressar ao seu país de origem, assumir cargas internacionais para outros estados-membros ou realizar cabotagem num estado-membro diferente.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Esta regra visa garantir que os camiões estrangeiros não permaneçam permanentemente em mercados de trabalho de baixo custo, permitindo ainda flexibilidade para operações transfronteiriças. Para os expedidores, o período de arrefecimento significa que pode haver menos transportadores estrangeiros disponíveis para transporte doméstico de curta antecedência durante os períodos de pico, pelo que o planeamento antecipado e a utilização de parceiros de expedição estabelecidos tornam-se essenciais.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Requisito de regresso do veículo a casa"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Outro elemento fundamental do Pacote de Mobilidade é o requisito de regresso do veículo. As empresas de transporte devem organizar as suas operações de modo a que cada veículo utilizado no transporte rodoviário internacional regresse ao seu estado-membro de estabelecimento pelo menos uma vez a cada oito semanas. Embora o Tribunal de Justiça Europeu tenha anulado a obrigação prescritiva, o objetivo geral mantém-se: os camiões não devem permanecer noutro país por longos períodos. Esta regra aplica-se a veículos com um peso bruto superior a 2,5 toneladas envolvidos em transporte internacional.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Os transportadores devem planear horários e cargas para incluir uma viagem de regresso dentro da janela de oito semanas. O incumprimento pode resultar em multas ou na perda dos direitos de cabotagem. Para os expedidores que trabalham com transportadores estrangeiros, é prudente verificar se os seus parceiros respeitam o requisito de regresso, uma vez que o incumprimento pode perturbar as entregas.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Destacamento de motoristas e o portal IMI"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "O Pacote de Mobilidade inclui também uma diretiva \"Lex specialis\" sobre o destacamento de motoristas (Diretiva 2020/1057). As operações de cabotagem e de comércio cruzado (expedições internacionais sucessivas entre países terceiros) são consideradas destacamento, o que significa que os motoristas devem ser pagos de acordo com o salário mínimo e as condições de trabalho do país de acolhimento. Para simplificar a conformidade, as declarações devem ser submetidas eletronicamente através do portal do Sistema de Informação do Mercado Interno (IMI). A IRU nota que o portal IMI é a única ferramenta oficial para declarações de destacamento e que as autoridades nacionais não podem impor sistemas de notificação adicionais.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Os motoristas devem transportar uma cópia da declaração de destacamento, provas das operações de transporte e registos do tacógrafo para demonstrar a conformidade durante as fiscalizações na estrada. Em contrapartida, o transporte bilateral (uma perna de ida e uma de volta com possíveis pernas de comércio cruzado adicionais) está excluído das regras de destacamento.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tacógrafos inteligentes e fiscalização"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "O Pacote de Mobilidade exige a instalação de tacógrafos inteligentes de segunda geração em veículos envolvidos em transporte internacional para registar os cruzamentos de fronteira e as atividades de cabotagem. Os veículos entre 2,5 e 3,5 toneladas estarão sujeitos às regras do tacógrafo para operações transfronteiriças a partir de meados de 2026, trazendo as carrinhas mais pequenas para o quadro regulamentar.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Os tacógrafos inteligentes registam automaticamente os cruzamentos de fronteira e a posição do veículo durante a carga e a descarga, tornando mais fácil para as autoridades fiscalizadoras verificar os períodos de arrefecimento e os regressos dos veículos. Os transportadores devem planear os horários de adaptação e alocar recursos para as atualizações dos tacógrafos.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conselhos práticos para expedidores e transportadores"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Verifique a conformidade do transportador: Certifique-se de que os transportadores que contrata cumprem os períodos de arrefecimento e os requisitos de regresso. Peça provas das declarações de destacamento e dos dados do tacógrafo quando necessário.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Planeie em torno dos períodos de arrefecimento: Se as suas operações dependem de transportadores estrangeiros, considere a janela de quatro dias sem cabotagem ao agendar as expedições domésticas.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Use documentação digital: Incentive os transportadores a submeter as declarações de destacamento através do portal IMI e a manter guias de remessa eletrónicas (e-CMR) para simplificar a conformidade.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Contrate um transitário de confiança: Um transitário digital como a Logifie pode ajudar a gerir a conformidade da cabotagem, as declarações de destacamento e o planeamento de rotas, reduzindo a carga administrativa para os expedidores.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusão"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "O Pacote de Mobilidade da UE está a remodelar as regras de cabotagem e destacamento para equilibrar a abertura do mercado com a concorrência leal. Os períodos de arrefecimento e os requisitos de regresso de veículos significam que os transportadores devem planear as operações cuidadosamente, enquanto os expedidores precisam de garantir que os parceiros cumprem. Ao compreender estas regras e utilizar ferramentas digitais, os gestores de logística podem navegar no novo cenário e continuar a otimizar o transporte rodoviário de mercadorias transfronteiriço.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fontes"
+    },
+    {
+      "type": "citation",
+      "text": "Perguntas e respostas: Pacote de Mobilidade I - Cabotagem (Comissão Europeia, 2021) - Explica o período de arrefecimento de quatro dias após uma operação de cabotagem e as restrições à realização de cabotagem no mesmo estado-membro durante este período.",
+      "author": "Comissão Europeia",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021XC0816(01)"
+    },
+    {
+      "type": "citation",
+      "text": "Pacote de Mobilidade I - Obrigação de regresso e licenciamento (Ministério Federal do Digital e dos Transportes, 2023) - Descreve o requisito de os veículos no transporte internacional regressarem ao seu estado-membro de estabelecimento pelo menos a cada oito semanas e nota que os veículos com mais de 2,5 t necessitam de uma licença comunitária.",
+      "author": "Ministério Federal do Digital e dos Transportes",
+      "url": "https://www.bmdv.bund.de/SharedDocs/EN/Articles/G/mobility-package.html"
+    },
+    {
+      "type": "citation",
+      "text": "Destacamento de motoristas: Lex specialis (União Internacional de Transportes Rodoviários, 2023) - Explica que as operações de cabotagem e de comércio cruzado são tratadas como destacamento, exigindo declarações através do portal IMI, e esclarece que as operações bilaterais não são consideradas destacamento.",
+      "author": "União Internacional de Transportes Rodoviários",
+      "url": "https://www.iru.org/news-resources/iru-advises-on-posting-of-drivers-legislation"
+    }
+  ],
+  "tags": [
+    "regras de cabotagem",
+    "pacote de mobilidade da UE",
+    "período de arrefecimento",
+    "regresso de camião a casa",
+    "destacamento de motoristas",
+    "portal IMI",
+    "transporte rodoviário de mercadorias Europa"
+  ]
+}

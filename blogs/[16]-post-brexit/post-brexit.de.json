@@ -1,0 +1,181 @@
+{
+  "id": "post-brexit-road-freight-between-the-eu-and-uk-customs-sps-checks-and-border-challenges",
+  "shortId": "post-brexit-road",
+  "language": "de",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Post-Brexit-Güterkraftverkehr zwischen der EU und dem Vereinigten Königreich: Zoll, SPS-Kontrollen und Grenzübergangsprobleme",
+  "description": "Seit dem Austritt des Vereinigten Königreichs aus der Zollunion und dem Binnenmarkt der EU Ende 2020 haben sich die Regeln für den Güterkraftverkehr zwischen der EU und dem Vereinigten Königreich grundlegend geändert. Waren, die die Grenze überqueren, müssen nun Zollformalitäten, Ursprungsregeln und SPS-Kontrollen einhalten...",
+  "publishedAt": "2025-12-04T00:00:00.000Z",
+  "category": "Transport",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experten für Logistiktechnologie",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "post-brexit-hero.png",
+  "imageAlt": "Foto von Lastwagen, die an einem Grenzkontrollposten an der Grenze zwischen dem Vereinigten Königreich und der EU Schlange stehen, wobei Zollbeamte die Dokumente überprüfen, bewölktes Wetter.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Seit dem Austritt des Vereinigten Königreichs aus der Zollunion und dem Binnenmarkt der EU Ende 2020 haben sich die Regeln für den Güterkraftverkehr zwischen der EU und dem Vereinigten Königreich grundlegend geändert. Waren, die die Grenze überqueren, müssen nun Zollformalitäten, Ursprungsregeln und sanitäre und phytosanitäre (SPS) Kontrollen einhalten. Für Unternehmen, die über den Ärmelkanal versenden, ist das Verständnis dieser Verfahren unerlässlich, um Verzögerungen und Strafen zu vermeiden.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "post-brexit-visual-1.png",
+      "alt": "Illustration eines Lieferkettendiagramms, das Zollanmeldungen, Ursprungszeugnisse und SPS-Kontrollen zwischen der EU und dem Vereinigten Königreich zeigt.",
+      "caption": "Illustration eines Lieferkettendiagramms, das Zollanmeldungen, Ursprungszeugnisse und SPS-Kontrollen zwischen der EU und dem Vereinigten Königreich zeigt."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Zollanmeldungen und Ursprungsregeln"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Im Rahmen des Handels- und Kooperationsabkommens (TCA) zwischen der EU und dem Vereinigten Königreich können Waren zoll- und quotenfrei verkehren, wenn sie die Ursprungsregeln erfüllen. Die Bibliothek des Unterhauses stellt fest, dass die Einhaltung mühsam sein kann und dass nur 10-53 % der britischen Textil- und Bekleidungsexporte im Jahr 2022 Präferenzzollsätze in Anspruch nahmen. Waren, die die Ursprungsregeln nicht erfüllen, können Zölle nach sich ziehen. Unternehmen müssen den Ursprung von Komponenten bestimmen und Lieferantenerklärungen vorhalten.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Zollanmeldungen sind für alle Waren, die aus der EU nach Großbritannien und umgekehrt eingeführt werden, obligatorisch. Die EU führte am 1. Januar 2021 vollständige Zollkontrollen ein, während das Vereinigte Königreich seine eigenen Kontrollen schrittweise eingeführt hat, wobei einige Grenzkontrollen noch umgesetzt werden. Digitale Zollsysteme wie der britische Customs Declaration Service (CDS) und das EU-Import Control System 2 (ICS2) sind zentral für die Bearbeitung von Anmeldungen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sanitäre und phytosanitäre (SPS) Kontrollen"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Importe von lebenden Tieren, tierischen Produkten und bestimmten Pflanzen unterliegen SPS-Kontrollen. Das Institute for Government erklärt, dass solche Waren über das britische Import of Products, Animals, Food and Feed System (IPAFFS) oder das EU-TRACES-System vorab angemeldet und über Grenzkontrollstellen (BCPs) geleitet werden müssen. An diesen Stellen werden Sendungen Dokumenten-, Identitäts- und physischen Kontrollen unterzogen, um die Einhaltung der Tiergesundheits- und Lebensmittelsicherheitsvorschriften zu gewährleisten. Unternehmen sollten zusätzliche Zeit an den BCPs einplanen und sicherstellen, dass die Unterlagen korrekt sind.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Border Target Operating Model (BTOM)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Das britische Border Target Operating Model schlägt einen risikobasierten Ansatz für SPS-Kontrollen vor und führt ein Single Trade Window für digitale Importverfahren ein. Laut der Bibliothek des Unterhauses zielt das BTOM darauf ab, die Grenzprozesse zu vereinfachen und wird neue Kontrollen über mehrere Jahre schrittweise einführen. Das Modell sieht je nach Risikokategorie der Waren (niedrig, mittel, hoch) unterschiedliche Kontrollintensitäten vor. Unternehmen sollten die Einführung des BTOM beobachten, um Lieferzeiten und Dokumentationsanforderungen anzupassen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Kabotage und Entsendung im Vereinigten Königreich"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Die Regeln des EU-Mobilitätspakets für Kabotage und Entsendung betreffen auch EU-Spediteure, die im Vereinigten Königreich tätig sind. Kabotage (Inlandsverkehr in einem fremden Land) ist auf zwei Operationen innerhalb von sieben Tagen nach einer internationalen Lieferung im Vereinigten Königreich beschränkt. Der viertägige Abkühlzeitraum nach Kabotage, der zuvor beschrieben wurde, gilt nicht für Operationen außerhalb der EU, aber das Vereinigte Königreich hat ähnliche Beschränkungen erlassen. Cross-Trade-Operationen (z. B. Irland-Vereinigtes Königreich-Frankreich) können eingeschränkt sein, und Fahrer können Entsendungserklärungen in der EU über das IMI-Portal benötigen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Praktische Schritte für Verlader und Spediteure"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Ursprungsregeln verstehen: Erstellen Sie eine Datenbank mit Lieferantenerklärungen, um den Ursprung nachzuweisen. Ziehen Sie die Inanspruchnahme von Freihandelsberatern in Betracht, um zu bestimmen, welche Produkte für Nullzölle in Frage kommen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Genaue Zollanmeldungen vorbereiten: Stellen Sie sicher, dass Sie oder Ihr Zollagent alle erforderlichen Codes (Warencodes, Wert, Gewicht) besitzen und geeignete IT-Systeme (CDS, NCTS) verwenden.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "SPS-Kontrollen antizipieren: Wenn Sie Lebensmittel oder Pflanzen versenden, melden Sie Sendungen vorab an und planen Sie Zeit für Inspektionen an den BCPs ein. Temperaturgeführte Fahrzeuge müssen möglicherweise an speziellen Einrichtungen Schlange stehen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Partnerschaft mit erfahrenen Spediteuren: Ein digitaler Spediteur kann die Zollpapiere bearbeiten, TIR-Carnets garantieren und das Cross-Docking an Grenz-Hubs verwalten.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fazit"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Der Post-Brexit-Handel führt zu neuen administrativen Schichten für den Güterkraftverkehr zwischen der EU und dem Vereinigten Königreich. Zollanmeldungen, Ursprungsregeln und SPS-Inspektionen müssen in die Transitzeiten und Kosten einbezogen werden. Unternehmen, die in das Verständnis dieser Anforderungen investieren und mit sachkundigen Partnern zusammenarbeiten, werden die Post-Brexit-Landschaft reibungsloser bewältigen und zuverlässige Lieferketten aufrechterhalten.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Quellen"
+    },
+    {
+      "type": "citation",
+      "text": "Handel mit der EU nach dem Brexit (House of Commons Library, 2023) - Erörtert das Handels- und Kooperationsabkommen zwischen der EU und dem Vereinigten Königreich und stellt fest, dass Waren die Ursprungsregeln erfüllen müssen, um für Nullzölle in Frage zu kommen, und dass 2022 nur 10-53 % der Textil- und Bekleidungsexporte Präferenzzollsätze in Anspruch nahmen; weist auch auf vollständige Zollkontrollen und die laufende Umsetzung der britischen Grenzkontrollen hin.",
+      "author": "House of Commons Library",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-8397/CBP-8397.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Border Target Operating Model (House of Commons Library, 2023) - Erläutert das britische Border Target Operating Model, das einen risikobasierten Ansatz für SPS-Kontrollen und die Entwicklung eines Single Trade Window vorschlägt.",
+      "author": "House of Commons Library",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-9710/CBP-9710.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Erläuterung: Die Grenze zwischen Großbritannien und der EU (Institute for Government, 2022) - Beschreibt die SPS-Anforderungen für Waren, die die Grenze zwischen Großbritannien und der EU überqueren, und stellt fest, dass Tier- und Pflanzenprodukte über IPAFFS oder TRACES vorab angemeldet werden müssen und Dokumenten-, Identitäts- und physischen Kontrollen an Grenzkontrollstellen unterzogen werden.",
+      "author": "Institute for Government",
+      "url": "https://www.instituteforgovernment.org.uk/explainer/gb-eu-border"
+    }
+  ],
+  "tags": [
+    "Post-Brexit Güterkraftverkehr",
+    "EU-UK Zoll",
+    "SPS-Kontrollen",
+    "Ursprungsregeln",
+    "TCA UK",
+    "Grenzverfahren",
+    "Güterkraftverkehr Europa"
+  ]
+}

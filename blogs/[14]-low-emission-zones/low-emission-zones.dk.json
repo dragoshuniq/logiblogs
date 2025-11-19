@@ -1,0 +1,195 @@
+{
+  "id": "low-emission-zones-and-the-eurovignette-what-europe-s-new-toll-reforms-mean-for-freight-costs",
+  "shortId": "low-emission-zones",
+  "language": "dk",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Miljøzoner og Eurovignette: hvad betyder de nye vejafgiftsreformer for dine fragtomkostninger?",
+  "description": "Vejgodstransporten i Europa er under stigende pres for at reducere CO2. Europæiske byer udvider miljøzoner, og nationale regeringer reformerer vejafgifterne i henhold til det reviderede Eurovignette-direktiv. For logistikansvarlige er det afgørende at forstå, hvordan disse tiltag påvirker omkostningerne...",
+  "publishedAt": "2025-12-02T00:00:00.000Z",
+  "category": "Bæredygtighed",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperter i logistikteknologi",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "low-emission-zones-hero.png",
+  "imageAlt": "Illustration af et europæisk bykort med markerede miljøzoner, vejafgiftsporte og lastbilikoner for Euro VI og el-køretøjer.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Europæisk vejgodstransport skal hurtigt nedbringe sine emissioner. Flere og flere byer indfører miljøzoner (low-emission zones, LEZ), og nationale regeringer laver om på vejafgifterne i tråd med det reviderede Eurovignette-direktiv. For logistikchefer, der planlægger både lange stræk og bydistribution, er det vigtigt at forstå, hvordan disse ændringer påvirker fragtomkostningerne.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "low-emission-zones-visual-1.png",
+      "alt": "Tung el-lastbil passerer en vejafgiftsport på en europæisk motorvej med vindmøller i baggrunden.",
+      "caption": "En el-lastbil ved en vejafgiftsport illustrerer skiftet mod renere køretøjer og CO2-differentierede satser."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Et voksende netværk af miljøzoner"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Miljøzoner begrænser adgang for de mest forurenende køretøjer i bykerner. Ifølge Clean Cities Campaign fandtes der 228 aktive LEZ i Europa i 2019 og 320 i 2022 – en stigning på ca. 40 %. Frem mod 2025 forventes antallet at stige yderligere 58 %, efterhånden som byer skærper emissionskrav. 27 byer planlægger at udvide eller stramme eksisterende zoner, og mindst 35 vil indføre nul-emissionszoner inden 2030. Londons Ultra Low Emission Zone (ULEZ) har alene reduceret CO2-udledningerne med omkring 800.000 ton mellem 2019 og 2022 og sænket NO2 med op til 46 %. ",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Selv om LEZ forbedrer luftkvaliteten, kan de udfordre logistikken, hvis ældre diesel-lastbiler forbydes eller bliver pålagt høje dagsafgifter. Flådeansvarlige bør kortlægge miljøzoner langs hovedkorridorer, planlægge alternative ruter og prioritere investeringer i Euro VI- eller nul-emissionskøretøjer for at bevare adgangen til bymidter.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Eurovignette: fra tidsbaserede vignetter til afstands- og CO2-baserede afgifter"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Eurovignette-direktivet (direktiv (EU) 2022/362) fastlægger, hvordan medlemsstater kan opkræve afgifter for tunge køretøjer på det transeuropæiske transportnet (TEN-T). De reviderede regler kræver, at tidsbaserede vignetter udfases på TEN-T’s kernenet senest i 2030. Fra 2024 skal vejafgifter og vignetter for tunge køretøjer variere efter CO2-udledning for at belønne renere lastbiler. Fra 2026 skal afgifterne også inkludere de eksterne omkostninger ved luftforurening, så brugerne betaler for de sociale og miljømæssige konsekvenser.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Reglerne giver medlemsstater mulighed for at fritage nul-emissionslastbiler for afgifter frem til december 2025; Kommissionen foreslår at forlænge ordningen til juni 2031. Landene kan give fuld eller delvis fritagelse, så attraktiviteten ved at investere i el-lastbiler varierer på tværs af grænser. European Alternative Fuels Observatory anslår, at tunge køretøjer står for 27,5 % af CO2 fra vejtransport i EU – differentierede vejafgifter er derfor et stærkt redskab til at reducere udledningerne. Kun få lande tilbyder i dag fuld fritagelse, men tallet forventes at stige, efterhånden som direktivet implementeres.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hvordan vejafgifter og LEZ påvirker omkostningerne"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Analyser viser, at vejafgifter udgør en betydelig del af omkostningerne ved vejgodstransport. Studier fra logistikdata-leverandører og IRU indikerer, at afgifter kan stå for omkring 14 % af de samlede omkostninger og op til 23 % på visse ruter (tal for 2. kvartal 2025). Overgangen fra faste vignetter til afstands- og CO2-baserede afgifter vil øge omkostningsforskellen mellem rene og mere forurenende køretøjer. Samtidig vurderer Clean Cities Campaign, at udvidede miljøzoner kan sænke NO2-niveauerne i byer med i gennemsnit omkring 20 %. ",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "For at styre omkostningerne kan transportører blandt andet:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Investere i renere køretøjer: Opgradering til Euro VI- eller nul-emissionslastbiler reducerer afgifter og risikoen for bøder i miljøzoner.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Optimere ruter: Planlæg ruter, der undgår flere LEZ eller de dyreste betalingsstrækninger, for at spare både penge og CO2.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Følge national politik: Hvert land har sin egen afgiftstruktur og egne LEZ-regler. Det er vigtigt at følge med i fritagelser for nul-emissionskøretøjer og ændringer i emissionsklasser.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Overveje intermodale alternativer: På lange stræk kan jernbane eller kombineret transport omgå visse LEZ-begrænsninger og reducere vejafgiftselementet i den samlede kostpris.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Planlægning af overgangen til nul-emissionstransporter"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Eurovignette-reformen og udvidelsen af miljøzoner sender et klart signal: det bliver gradvist dyrere at køre med ældre lastbiler med forbrændingsmotor. Logistikchefer bør udvikle køreplaner for elektrificering eller andre lavemissionsløsninger. Nul-emissionslastbiler er fortsat dyre, og ladeinfrastruktur er ujævnt fordelt, men tidlige brugere kan drage fordel af afgiftsfritagelse og forbedret adgang til bycentre. Programer for flådefornyelse og offentlige tilskud kan hjælpe med at dække en del af investeringen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Konklusion"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Miljøzoner og vejafgiftsreformer er ved at ændre omkostningsstrukturen for europæisk vejgodstransport. Ved at forstå Eurovignette-direktivet og følge udbygningen af LEZ kan vareejere og transportører forudse, hvor omkostningerne vil stige, og planlægge investeringer i renere køretøjer og smartere ruteplanlægning. På sigt vil dette reducere CO2-udledninger og luftforurening og skabe mere lige konkurrencevilkår for bæredygtige operatører.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kilder"
+    },
+    {
+      "type": "citation",
+      "text": "Low-Emission Zones: The Essential Guide (Clean Cities Campaign, 2023) – Leverer statistik over antallet af miljøzoner i Europa, viser en stigning på 40 % mellem 2019 og 2022 og at Londons ULEZ reducerede CO2 med 800.000 ton og NO2 med op til 46 %. ",
+      "author": "Clean Cities Campaign",
+      "url": "https://cleancitiescampaign.org/wp-content/uploads/2023/05/Low-Emission-Zones-The-Essential-Guide.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Road charging: Eurovignette directive (European Commission, 2023) – Opsummerer det reviderede Eurovignette-direktiv og forklarer, at tidsbaserede vignetter skal være udfaset senest i 2030, og at afgifter fra 2024 skal variere efter CO2-udledning og indregne eksterne luftforureningsomkostninger fra 2026.",
+      "author": "European Commission",
+      "url": "https://transport.ec.europa.eu/transport-themes/road/road-charging_en"
+    },
+    {
+      "type": "citation",
+      "text": "Zero-emission truck toll exemption until 2025 (European Alternative Fuels Observatory, 2024) – Angiver, at tunge køretøjer står for 27,5 % af CO2 fra vejtransport i EU, og at Eurovignette-direktivet gør det muligt for medlemsstater at fritage nul-emissionslastbiler for afgifter frem til december 2025, med forslag om forlængelse til 2031.",
+      "author": "European Alternative Fuels Observatory",
+      "url": "https://alternative-fuels-observatory.ec.europa.eu/policies/eurovignette-zero-emission-trucks"
+    }
+  ],
+  "tags": [
+    "miljøzoner",
+    "Eurovignette-direktiv",
+    "vejafgiftsreform",
+    "CO2-baserede vejafgifter",
+    "nul-emissionslastbiler",
+    "omkostninger ved vejtransport",
+    "LEZ Europa"
+  ]
+}
+

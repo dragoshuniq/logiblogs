@@ -1,0 +1,173 @@
+{
+  "id": "eu-cabotage-rules-and-the-mobility-package-navigating-cooling-off-periods-and-vehicle-return-requirements",
+  "shortId": "eu-cabotage-rules",
+  "language": "ro",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Cabotajul în UE și Pachetul de Mobilitate: perioade de așteptare (cooling-off) și returnarea vehiculului",
+  "description": "Cabotajul reduce cursele fără încărcătură și crește eficiența, dar poate denatura concurența. Pachetul de Mobilitate introduce reguli privind perioada de așteptare, obligația de returnare a vehiculului și detașarea șoferilor. Iată esențialul pentru transportatori și expeditori...",
+  "publishedAt": "2025-12-01T00:00:00.000Z",
+  "category": "Transport",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experți în tehnologii pentru logistică",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "cabotage-rules-hero.png",
+  "imageAlt": "Ilustrație cu o hartă a UE și un camion care trece granițele, cu săgeți de cabotaj și o pictogramă de calendar pentru perioada de 4 zile",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "De mult timp, expeditorii și transportatorii beneficiază de pe urma cabotajului, care reduce cursele de retur fără încărcătură și echilibrează fluxurile. Însă acesta poate crea o concurență neloială dacă vehiculele rămân pe termen lung în țări cu costuri scăzute. Ca răspuns, Pachetul de Mobilitate reglementează cabotajul și detașarea. Acest ghid explică perioada de așteptare, obligația de returnare și declarațiile IMI.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "cabotage-rules-visual-1.png",
+      "alt": "Fotografie cu un camion european care se întoarce la bază la apus, cu un depozit în fundal",
+      "caption": "Înapoi la bază: obligația de returnare a vehiculului face parte din Pachetul de Mobilitate."
+    },
+    { "type": "heading", "level": 2, "text": "Ce este cabotajul?" },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Cabotajul se aplică atunci când un transportator dintr-un stat membru efectuează un transport intern într-un alt stat membru. De exemplu: un transportator polonez livrează în Franța, apoi efectuează curse interne înainte de a se întoarce. Deși util pentru a evita cursele fără încărcătură, este controversat atunci când este folosit pentru a ocoli regulile sociale locale.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Legislația UE permite până la trei operațiuni de cabotaj în termen de șapte zile de la o livrare internațională, după descărcarea mărfii.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Perioada de așteptare (cooling-off) din Pachetul de Mobilitate"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Pentru a evita cabotajul continuu, se aplică o perioadă de așteptare de patru zile: după o operațiune de cabotaj într-o țară, transportatorul trebuie să aștepte patru zile înainte de a efectua o nouă operațiune în aceeași țară. Perioada începe la ora 00:00 a doua zi după ultima descărcare și se încheie la ora 23:59 în a patra zi. În acest timp, sunt posibile întoarcerea în țara de origine, curse internaționale către alte state sau cabotajul într-o altă țară.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Obiectivul: prevenirea unei prezențe permanente pe piețele cu costuri reduse, menținând în același timp flexibilitatea transfrontalieră. Pentru expeditori, perioada de așteptare poate însemna o capacitate străină redusă în perioadele de vârf: este necesară anticiparea și colaborarea cu parteneri de încredere.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Obligația de returnare a vehiculului"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Un alt pilon: organizarea operațiunilor astfel încât fiecare vehicul să se întoarcă periodic la centrul operațional din statul de înmatriculare (cel puțin o dată la opt săptămâni). Scopul este de a evita expatrierea permanentă a flotelor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Această obligație influențează planificarea rețelei, amplasarea depozitelor și costurile. Transportatorii pot beneficia de gruparea rutelor internaționale, a cabotajelor și a ciclurilor de returnare cu ajutorul instrumentelor digitale.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detașarea șoferilor și portalul IMI"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "În cazul detașării, angajatorul depune o declarație prin portalul IMI și păstrează la bord documentele justificative (contract, state de plată, CMR, date tahograf). Autoritățile verifică salariile minime și condițiile locale.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Din perspectiva expeditorului, transparența privind transportatorii și conformitatea acestora devine esențială - de securizat contractual (respectarea normelor de detașare și furnizarea documentelor).",
+          "bold": false
+        }
+      ]
+    },
+    { "type": "heading", "level": 2, "text": "Recomandări" },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Planificați: integrați ferestrele de cabotaj și perioadele de așteptare în rețea și rute",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Cicluri de returnare: organizați flota pentru a respecta termenul de opt săptămâni",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Digitalizați: centralizați documentele IMI, CMR și datele tahograf",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Alegeți parteneri care respectă legislația UE",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    { "type": "heading", "level": 2, "text": "Concluzie" },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Pachetul de Mobilitate armonizează regulile: perioada de așteptare, returnarea și detașarea digitală. Cu o planificare atentă, o conformitate robustă și instrumente digitale, riscurile sunt reduse, în timp ce eficiența crește.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "reguli cabotaj",
+    "pachet de mobilitate ue",
+    "perioadă de așteptare",
+    "returnare vehicul",
+    "detașare șoferi",
+    "portal imi",
+    "transport rutier europa"
+  ]
+}

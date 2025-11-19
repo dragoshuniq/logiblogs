@@ -1,0 +1,204 @@
+{
+  "id": "intermodal-and-combined-transport-in-europe-opportunities-for-shifting-freight-from-road",
+  "shortId": "intermodal-combined-transport",
+  "language": "ro",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Transport intermodal și combinat în Europa: oportunități de mutare a mărfurilor de pe șosea",
+  "description": "Reducerea congestiei rutiere și a emisiilor de gaze cu efect de seră presupune mutarea unei părți mai mari din fluxurile de marfă de pe șosea pe calea ferată, căile navigabile interioare și transportul maritim de scurtă distanță. Transportul intermodal și combinat oferă cadrul operațional pentru această tranziție, folosind unități de încărcare standardizate și stimulente pentru combinațiile rutier‑feroviar...",
+  "publishedAt": "2025-12-06T00:00:00.000Z",
+  "category": "Planificare",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experți în tehnologii pentru logistică",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "intermodal-transport-hero.png",
+  "imageAlt": "Ilustrație a unei rețele logistice multimodale în Europa, cu containere care se deplasează între camioane, trenuri, barje și nave short-sea.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Reducerea congestiei rutiere și a emisiilor de gaze cu efect de seră presupune mutarea unei părți mai mari din volumele de marfă de pe șosea pe calea ferată, căile navigabile interioare și transportul maritim de scurtă distanță. Transportul intermodal și combinat oferă cadrul operațional pentru această tranziție, folosind unități de încărcare standardizate pe mai multe moduri și stimulente pentru combinațiile rutier‑feroviar. Acest articol prezintă stadiul actual al transportului combinat în Europa, factorii legislativi și aspectele practice pentru expeditori.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "intermodal-transport-visual-1.png",
+      "alt": "Terminal intermodal european unde un tren de marfă încarcă containere de pe camioane, cu macarale în fundal.",
+      "caption": "Terminal intermodal european în care containerele sunt transferate între camioane și trenuri, reducând kilometrii parcurși exclusiv pe șosea."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ce înseamnă transport combinat și intermodal"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transportul combinat se referă la transportul intermodal în care partea principală a traseului este realizată cu trenul, pe căi navigabile interioare sau pe mare, iar segmentele rutiere sunt limitate la porțiunile inițiale și finale. Directiva UE privind transportul combinat (92/106/CEE) încurajează astfel de operațiuni permițând transportatorilor rutieri să efectueze cabotaj fără autorizații suplimentare și oferind scutiri de la anumite restricții de acces pe drumuri. Un briefing al Parlamentului European notează că directiva este depășită, iar Comisia a propus în noiembrie 2023 modificări care să întărească stimulentele și să lărgească definiția.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "În sens mai larg, transportul intermodal înseamnă utilizarea a cel puțin două moduri diferite cu aceeași unitate de încărcare, cum ar fi un container sau un swap body. Strategiile logistice moderne combină șoseaua cu trenul, barja sau serviciile short‑sea pentru a îmbunătăți eficiența și a reduce amprenta de carbon.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Creșterea transportului combinat"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Raportul UIC/UIRR din 2024 evidențiază creșterea rapidă a transportului combinat în Europa. Între 2010 și 2023, volumele de transport combinat au crescut cu 59 %, iar flota de vagoane intermodale cu 40 %. În 2023, transportul combinat a reprezentat aproximativ 50 % din sectorul feroviar de marfă al Europei, iar 52 % dintre conexiuni au fost transfrontaliere. Raportul numără aproximativ 350 de conexiuni transfrontaliere cu plecări săptămânale și estimează veniturile sectorului la 6,4 miliarde EUR în 2022. Se preconizează o creștere anuală de circa 3 % până în 2040.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "În ciuda progreselor, șoseaua rămâne dominantă în transportul de marfă. Datele Eurostat arată că, în 2023, transportul rutier a reprezentat 25,3 % din transportul de marfă (tone‑kilometru) în UE, în timp ce calea ferată a avut 5,5 %, iar căile navigabile interioare 1,6 %. Transportul maritim rămâne modul cel mai important, cu 67,4 % din volum. Încurajarea schimbării modale rămâne astfel un obiectiv central al politicii de transport a UE.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Factori legislativi și de politică"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Revizuirea Directivei privind transportul combinat: Propunerea de amendare urmărește extinderea definiției transportului combinat, introducerea unor criterii mai clare de eligibilitate și îmbunătățirea monitorizării și raportării. De asemenea, vizează armonizarea stimulentelor, precum scutiri de taxe de drum, derogări de la interdicțiile de circulație pe timp de noapte și proceduri vamale simplificate.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "TEN‑T și managementul capacității: Revizuirea Regulamentului privind rețeaua transeuropeană de transport (TEN‑T) consolidează rolul nodurilor urbane și al terminalelor multimodale de marfă. Sunt analizate reguli de management al capacității pentru a prioritiza sloturile de marfă pe coridoarele feroviare.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "eFTI și digitalizare: Implementarea regulamentului eFTI și a platformelor de rezervare interoperabile va simplifica operațiunile multimodale și schimbul de informații între actori.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Stimulente verzi: Prețul carbonului, taxele de drum bazate pe CO2 și LEZ‑urile cresc atractivitatea relativă a transportului feroviar și pe căi navigabile interioare față de transportul exclusiv rutier.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Considerații practice pentru expeditori"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Evaluează caracteristicile rutelor: Transportul intermodal funcționează cel mai bine pe distanțe de peste 300 km, unde calea ferată oferă avantaje de cost și emisii. Identifică coridoare cu plecări frecvente de tren și servicii fiabile.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Înțelege unitățile de încărcare: Folosește containere sau swap body standardizate care pot fi manipulate cu macarale în terminale. Asigură-te că marfa este fixată corespunzător pentru manipulări multiple.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Planifică operațiunile în terminale: Ia în calcul timpii de transfer în terminale și eventualele întârzieri cauzate de congestionare. Rezervările electronice și programările de sosire în avans reduc timpii de staționare.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Colaborează cu parteneri specializați: Lucrează cu operatori feroviari, forwarderi și huburi logistice specializate în transport combinat. Platformele digitale de transport pot oferi vizibilitate end‑to‑end între moduri.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Aliniază-te la obiectivele de sustenabilitate: Comunică clienților beneficiile de carbon ale transportului intermodal. Tot mai multe companii urmăresc emisiile Scope 3 și preferă furnizori care utilizează moduri cu emisii reduse.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Concluzie"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Transportul intermodal și combinat crește rapid, dar reprezintă încă o parte minoritară a fluxurilor față de transportul exclusiv rutier. Valorificând legislația UE revizuită, o capacitate feroviară mai bună și platforme digitale, expeditorii își pot diversifica mixul modal, pot reduce costurile și pot contribui la decarbonizare. Forwarderi precum Logifie pot ajuta la proiectarea unor soluții multimodale adaptate rutelor și tipurilor de marfă specifice.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Surse"
+    },
+    {
+      "type": "citation",
+      "text": "Revision of the Combined Transport Directive (European Parliament Research Service, 2023) - Explică faptul că Directiva privind transportul combinat este depășită și că amendamentele propuse în noiembrie 2023 își propun să extindă definiția transportului combinat și să întărească stimulentele.",
+      "author": "European Parliament Research Service",
+      "url": "https://www.europarl.europa.eu/thinktank/en/document.html?reference=EPRS_BRI(2023)749778"
+    },
+    {
+      "type": "citation",
+      "text": "Combined Transport in Europe: Growth and Challenges (UIC, UIRR, 2024) - Raportează că volumele de transport combinat din Europa au crescut cu 59 % între 2010 și 2023, flota de vagoane intermodale cu 40 %, că transportul combinat reprezintă 50 % din marfa feroviară și că 52 % din conexiuni sunt transfrontaliere, cu venituri de 6,4 miliarde EUR.",
+      "author": "UIC, UIRR",
+      "url": "https://uic.org/commercial-platform/combined-transport-in-europe-2024-report/"
+    },
+    {
+      "type": "citation",
+      "text": "Most goods transported by sea within the EU in 2023 (Eurostat, 2025) - Notează că în 2023 transportul rutier a reprezentat 25,3 % din tone‑kilometru în UE, calea ferată 5,5 %, căile navigabile interioare 1,6 % și transportul maritim 67,4 %.",
+      "author": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250416-1"
+    }
+  ],
+  "tags": [
+    "transport combinat",
+    "marfă intermodală",
+    "transfer rutier-feroviar",
+    "repartizare modală",
+    "TEN-T",
+    "directiva transportului combinat",
+    "multimodal"
+  ]
+}
+

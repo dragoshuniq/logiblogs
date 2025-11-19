@@ -1,0 +1,195 @@
+{
+  "id": "low-emission-zones-and-the-eurovignette-what-europe-s-new-toll-reforms-mean-for-freight-costs",
+  "shortId": "low-emission-zones",
+  "language": "tr",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Düşük emisyon bölgeleri ve Eurovignette: yeni yol ücreti reformları navlun maliyetlerinizi nasıl etkiler?",
+  "description": "Avrupa karayolu taşımacılığı, emisyonları azaltmak için giderek artan bir baskı altında. Avrupa şehirleri düşük emisyon bölgelerini (LEZ) genişletirken ulusal hükümetler Eurovignette direktifinin revize edilmiş hâline göre yol ücretlerini yeniden düzenliyor. Lojistik yöneticileri için bu adımların maliyete etkisini anlamak kritik...",
+  "publishedAt": "2025-12-02T00:00:00.000Z",
+  "category": "Sürdürülebilirlik",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Lojistik teknolojileri uzmanları",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "low-emission-zones-hero.png",
+  "imageAlt": "Avrupa şehrinin haritasında düşük emisyon bölgeleri, gişeler ve Euro VI ile elektrikli kamyon ikonlarını gösteren bir illüstrasyon.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Avrupa’daki karayolu taşımacılığının emisyonlarını hızla azaltması gerekiyor. Şehirler düşük emisyon bölgeleri (low-emission zones, LEZ) kuruyor ve genişletiyor; ulusal hükümetler de Eurovignette direktifinin revize edilmiş sürümüne göre yol ücretlendirme sistemlerini değiştiriyor. Kıtalar arası karayolu seferleri ve şehir içi dağıtım planlayan lojistik yöneticileri için bu düzenlemelerin maliyet yapısını nasıl değiştirdiğini anlamak hayati önem taşıyor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "low-emission-zones-visual-1.png",
+      "alt": "Avrupa otoyolunda bir ağır hizmet tipi elektrikli kamyon gişeden geçerken arka planda rüzgar türbinleri görünüyor.",
+      "caption": "Bir elektrikli kamyonun gişeden geçişi, daha temiz araçlara ve CO2 temelli yol ücretlerine geçişi simgeliyor."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Büyüyen düşük emisyon bölgesi ağı"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "LEZ’ler en kirletici araçların şehir merkezlerine girişini sınırlar. Clean Cities Campaign’e göre Avrupa’da 2019’da 228, 2022’de ise 320 aktif LEZ bulunuyordu; bu da yaklaşık %40’lık bir artış anlamına geliyor. Şehirlerin emisyon standartlarını sıkılaştırmasıyla bu sayının 2025’e kadar %58 daha artması bekleniyor. 27 şehir mevcut bölgeleri genişletmeyi veya sıkılaştırmayı, en az 35 şehir ise 2030’a kadar sıfır emisyonlu bölgeler kurmayı planlıyor. Londra’nın Ultra Low Emission Zone’u (ULEZ) tek başına 2019–2022 arasında CO2 emisyonlarını yaklaşık 800.000 ton azalttı ve NO2’yi %46’ya varan oranlarda düşürdü. ",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "LEZ’ler hava kalitesini iyileştirirken, eski dizel kamyonların yasaklanması veya yüksek günlük ücretlere tabi olması durumunda taşımacılık operasyonlarını zorlaştırabilir. Filo yöneticileri, ana koridorlar üzerindeki LEZ’leri haritalandırmalı, alternatif rotalar planlamalı ve şehir merkezlerine erişimi korumak için filonun Euro VI veya sıfır emisyonlu araçlara geçişini hızlandırmalıdır.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Eurovignette: zamana dayalı vinyetlerden mesafe ve CO2 temelli ücretlere geçiş"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Eurovignette direktifi (Direktif (AB) 2022/362), üye devletlerin Trans-Avrupa Ulaştırma Ağı’nda (TEN-T) ağır vasıtalardan nasıl yol ücreti tahsil edebileceğini düzenler. Revize edilen kurallar, zamana dayalı vinyetlerin TEN-T çekirdek ağında 2030’a kadar aşamalı olarak kaldırılmasını öngörüyor. 2024’ten itibaren ağır vasıta ücretlerinin CO2 emisyonlarına göre farklılaştırılması ve daha temiz kamyonların ödüllendirilmesi gerekiyor. 2026’dan itibaren ise hava kirliliğinin dış maliyetleri de ücretlere dahil edilerek kullanıcıların sosyal ve çevresel etkileri ödemesi sağlanacak.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Yeni kurallar, üye devletlere sıfır emisyonlu kamyonları Aralık 2025’e kadar ücretlerden muaf tutma imkânı veriyor; Avrupa Komisyonu bu sürenin Haziran 2031’e kadar uzatılmasını öneriyor. Ülkeler tam veya kısmi muafiyetler tanımlayabildiğinden, elektrikli kamyon yatırımının çekiciliği sınırlar arasında değişiyor. European Alternative Fuels Observatory, ağır vasıtaların AB karayolu taşımacılığındaki CO2 emisyonlarının %27,5’inden sorumlu olduğunu belirtiyor; bu nedenle emisyona göre farklılaştırılmış ücretler, dekarbonizasyon için güçlü bir kaldıraç niteliğinde. Şu anda yalnızca birkaç ülke tam muafiyet sunuyor, ancak direktif hayata geçirildikçe bu sayının artması bekleniyor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Yol ücretleri ve LEZ’ler maliyetleri nasıl etkiler?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Son analizler, yol ücretlerinin karayolu taşımacılığı maliyetlerinin kayda değer bir bölümünü oluşturduğunu gösteriyor. Lojistik istihbarat sağlayıcıları ve IRU tarafından yapılan araştırmalara göre, ücretler toplam maliyetlerin yaklaşık %14’ünü, bazı güzergâhlarda ise %23’ünü bulabiliyor (2025 ikinci çeyrek verileri). Sabit vinyetlerden mesafe ve CO2 temelli ücretlere geçiş, temiz ve kirletici filolar arasındaki maliyet farkını daha da açacak. Aynı zamanda Clean Cities Campaign, LEZ’lerin genişlemesinin şehirlerdeki NO2 seviyelerini ortalama %20 civarında düşürmeye devam edeceğini öngörüyor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Maliyetleri yönetmek için taşıyıcılar şunları yapabilir:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Daha temiz araçlara yatırım yapmak: Filoyu Euro VI veya sıfır emisyonlu kamyonlara dönüştürmek, ücret seviyelerini düşürür ve LEZ içindeki cezaları önler.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Rotaları optimize etmek: Birden fazla LEZ’yi veya en yüksek ücretli kesitleri mümkün olduğunca atlayan rotalar planlamak, hem maliyet hem CO2 tasarrufu sağlar.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ulusal politikaları yakından takip etmek: Her ülkenin kendi ücret yapısı ve LEZ kuralları vardır. Sıfır emisyonlu araç muafiyetleri ve değişen emisyon sınıflarını düzenli olarak izlemek kritik öneme sahiptir.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Intermodal alternatifleri değerlendirmek: Uzun mesafelerde demiryolu veya kombine taşımacılık, bazı LEZ kısıtlarını aşmaya ve toplam yol ücreti bileşenini azaltmaya yardımcı olabilir.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sıfır emisyonlu taşımacılığa geçişi planlamak"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Eurovignette reformu ve LEZ’lerin yaygınlaşması net bir mesaj veriyor: eski içten yanmalı motorlu kamyonları işletmek giderek daha pahalı hale gelecek. Lojistik yöneticileri, elektrifikasyon veya düşük karbonlu alternatiflere geçiş için yol haritaları oluşturmalı. Sıfır emisyonlu kamyonlar hâlâ pahalı ve şarj altyapısı düzensiz olsa da, öncü kullanıcılar ücret muafiyetlerinden ve şehir erişimindeki avantajlardan faydalanabilir. Filo yenileme programları ve kamu teşvikleri, yatırım maliyetlerinin bir kısmını dengelemeye yardımcı olur.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sonuç"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Düşük emisyon bölgeleri ve yol ücreti reformları, Avrupa’daki karayolu taşımacılığının maliyet yapısını yeniden şekillendiriyor. Eurovignette direktifini anlayan ve LEZ genişlemesini yakından takip eden yük sahipleri ve taşıyıcılar, maliyetlerin nerede artacağını öngörebilir ve daha temiz araçlara ile daha akıllı rota planlamasına yönelik yatırımları zamanında yapabilir. Uzun vadede bu adımlar, CO2 ve hava kirleticilerini azaltırken sürdürülebilir operatörler için daha adil bir rekabet ortamı yaratacaktır.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kaynaklar"
+    },
+    {
+      "type": "citation",
+      "text": "Low-Emission Zones: The Essential Guide (Clean Cities Campaign, 2023) – Avrupa’daki düşük emisyon bölgelerinin sayısına ilişkin istatistikler sunar, 2019–2022 arasında %40’lık artışı ve Londra ULEZ’in CO2 emisyonlarını 800.000 ton, NO2’yi ise %46’ya kadar düşürdüğünü belirtir.",
+      "author": "Clean Cities Campaign",
+      "url": "https://cleancitiescampaign.org/wp-content/uploads/2023/05/Low-Emission-Zones-The-Essential-Guide.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Road charging: Eurovignette directive (European Commission, 2023) – Revize edilmiş Eurovignette direktifini özetler; zamana dayalı vinyetlerin 2030’a kadar kaldırılacağını ve 2024’ten itibaren ücretlerin CO2 emisyonlarına göre farklılaştırılacağını, 2026’dan itibaren ise hava kirliliği dış maliyetlerini içereceğini açıklar.",
+      "author": "European Commission",
+      "url": "https://transport.ec.europa.eu/transport-themes/road/road-charging_en"
+    },
+    {
+      "type": "citation",
+      "text": "Zero-emission truck toll exemption until 2025 (European Alternative Fuels Observatory, 2024) – Ağır vasıtaların, AB karayolu taşımacılığındaki CO2 emisyonlarının %27,5’inden sorumlu olduğunu ve Eurovignette direktifinin Aralık 2025’e kadar sıfır emisyonlu kamyonlar için yol ücreti muafiyetine izin verdiğini, bu sürenin 2031’e kadar uzatılmasının önerildiğini belirtir.",
+      "author": "European Alternative Fuels Observatory",
+      "url": "https://alternative-fuels-observatory.ec.europa.eu/policies/eurovignette-zero-emission-trucks"
+    }
+  ],
+  "tags": [
+    "düşük emisyon bölgesi",
+    "Eurovignette direktifi",
+    "yol ücreti reformu",
+    "CO2 temelli yol ücretleri",
+    "sıfır emisyonlu kamyonlar",
+    "karayolu taşımacılığı maliyetleri",
+    "LEZ Avrupa"
+  ]
+}
+

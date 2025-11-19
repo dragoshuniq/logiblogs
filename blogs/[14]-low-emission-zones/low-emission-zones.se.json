@@ -1,0 +1,195 @@
+{
+  "id": "low-emission-zones-and-the-eurovignette-what-europe-s-new-toll-reforms-mean-for-freight-costs",
+  "shortId": "low-emission-zones",
+  "language": "se",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Miljözoner och Eurovignette: hur nya vägtullsreformer påverkar dina fraktkostnader",
+  "description": "Vägtransporter i Europa står under växande press att minska utsläppen. Fler städer inför miljözoner och nationella regeringar reformerar vägtullarna enligt det reviderade Eurovignette-direktivet. För logistikansvariga är det avgörande att förstå hur dessa åtgärder påverkar kostnadsbilden...",
+  "publishedAt": "2025-12-02T00:00:00.000Z",
+  "category": "Hållbarhet",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experter på logistikteknik",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "low-emission-zones-hero.png",
+  "imageAlt": "Illustration av en europeisk stadskarta med markerade miljözoner, vägtullportaler och ikoniska lastbilar för Euro VI och elfordon.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Europeiska vägtransporter måste ställa om snabbt. Allt fler städer inför miljözoner (low-emission zones, LEZ) och nationella regeringar gör om vägtullssystemen i linje med det reviderade Eurovignette-direktivet. För logistikchefer som planerar långväga transporter och staddistribution är det viktigt att förstå hur detta slår mot fraktkostnaderna.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "low-emission-zones-visual-1.png",
+      "alt": "Tung eldriven lastbil passerar en vägtull på en europeisk motorväg, vindkraftverk syns i bakgrunden.",
+      "caption": "En eldriven lastbil vid en vägtull symboliserar skiftet mot renare fordon och CO2-baserade avgifter."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ett växande nät av miljözoner"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Miljözoner begränsar de mest förorenande fordonen från att köra in i centrala stadskärnor. Enligt Clean Cities Campaign fanns det 228 aktiva LEZ-zoner i Europa 2019 och 320 år 2022 – en ökning med cirka 40 %. Antalet väntas öka med ytterligare 58 % till 2025 när städerna skärper kraven. 27 städer planerar att utöka eller skärpa befintliga zoner och minst 35 planerar nollutsläppszoner till 2030. Londons ULEZ har ensamt minskat koldioxidutsläppen med cirka 800.000 ton mellan 2019 och 2022 och sänkt NO2 med upp till 46 %. ",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Samtidigt som LEZ förbättrar luftkvaliteten kan de störa logistikflöden om äldre diesellastbilar förbjuds eller får betala höga dagsavgifter. Flottchefer bör kartlägga miljözoner längs huvudkorridorer, planera alternativa rutter och prioritera investeringar i Euro VI- eller nollutsläppsfordon för att säkra tillgången till stadskärnor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Eurovignette: från tidsbaserade vinjetter till distans- och CO2-baserade avgifter"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Eurovignette-direktivet (direktiv (EU) 2022/362) reglerar hur medlemsstater får ta betalt av tunga fordon på det transeuropeiska transportnätet (TEN-T). De reviderade reglerna kräver att tidsbaserade vinjetter fasas ut på TEN-T:s stomnät senast 2030. Från 2024 ska vägavgifter för tunga fordon variera med CO2-utsläpp för att gynna renare lastbilar. Från 2026 ska avgifterna även inkludera externa kostnader för luftföroreningar, så att användarna betalar för sociala och miljömässiga effekter.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Reglerna gör det möjligt för medlemsstater att befria nollutsläppslastbilar från vägavgifter till december 2025; EU-kommissionen föreslår att detta förlängs till juni 2031. Länder kan ge fulla eller delvisa undantag, vilket innebär att attraktiviteten för eldrivna lastbilar varierar mellan marknader. Enligt European Alternative Fuels Observatory står tunga fordon för 27,5 % av CO2-utsläppen från vägtrafiken i EU – differentierade avgifter är därför ett viktigt verktyg för att minska utsläppen. Idag erbjuder bara ett fåtal länder fulla undantag, men antalet väntas öka när direktivet genomförs.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hur vägavgifter och LEZ påverkar kostnaderna"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Färska analyser visar att vägavgifter utgör en betydande del av kostnaderna för vägtransporter. Studier från logistikdata-leverantörer och IRU tyder på att avgifter står för omkring 14 % av de totala kostnaderna och upp till 23 % på vissa relationer (siffror för Q2 2025). Övergången från fasta vinjetter till distans- och CO2-baserade avgifter förstorar kostnadsgapet mellan rena och smutsiga fordon. Samtidigt bedömer Clean Cities Campaign att utökade LEZ-zoner kan sänka NO2-halterna i städer med runt 20 % i snitt.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "För att hålla kostnaderna under kontroll kan åkerier:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Investera i renare fordon: Uppgradering till Euro VI eller nollutsläppslastbilar sänker vägavgifter och minskar risken för böter i LEZ-zoner.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Optimera rutter: Planera rutter så att man undviker flera LEZ-zoner eller särskilt dyra avgiftssträckor för att spara både pengar och CO2-utsläpp.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Följa nationell politik: Varje land har sin egen avgiftsstruktur och egna LEZ-regler. Det är viktigt att hålla koll på undantag för nollutsläppsfordon och ändrade utsläppsklasser.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Överväga intermodala alternativ: På långa sträckor kan järnväg eller kombitransporter kringgå vissa LEZ-begränsningar och reducera den totala vägavgiftskomponenten i kostnadsbilden.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Planera övergången till nollutsläppstransporter"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Eurovignette-reformen och utbyggnaden av miljözoner skickar ett tydligt budskap: det blir successivt dyrare att köra äldre diesellastbilar. Logistikchefer bör ta fram färdplaner för elektrifiering eller andra lösningar med låga utsläpp. Nollutsläppslastbilar är fortfarande dyra och laddinfrastruktur ojämnt fördelad, men tidiga användare kan dra nytta av avgiftsbefrielser och bättre tillträde till stadskärnor. Program för förnyelse av fordonsflottor och offentliga stöd kan delvis kompensera investeringskostnaderna.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Slutsats"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Miljözoner och vägtullsreformer håller på att rita om kostnadskartan för europeiska vägtransporter. Genom att förstå Eurovignette-direktivet och följa utbyggnaden av LEZ kan varuägare och transportörer förutse var kostnaderna ökar och planera investeringar i renare fordon och smartare ruttplanering. På sikt minskar detta både CO2-utsläpp och luftföroreningar och skapar mer rättvisa konkurrensvillkor för hållbara aktörer.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Källor"
+    },
+    {
+      "type": "citation",
+      "text": "Low-Emission Zones: The Essential Guide (Clean Cities Campaign, 2023) – Redovisar statistik över antalet LEZ-zoner i Europa, visar en ökning på 40 % mellan 2019 och 2022 och att Londons ULEZ minskade CO2-utsläppen med 800.000 ton och NO2 med upp till 46 %. ",
+      "author": "Clean Cities Campaign",
+      "url": "https://cleancitiescampaign.org/wp-content/uploads/2023/05/Low-Emission-Zones-The-Essential-Guide.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Road charging: Eurovignette directive (European Commission, 2023) – Sammanfattar det reviderade Eurovignette-direktivet och förklarar att tidsbaserade vinjetter ska vara utfasade senast 2030 och att avgifter från 2024 ska variera med CO2-utsläpp och inkludera externa luftföroreningskostnader från 2026.",
+      "author": "European Commission",
+      "url": "https://transport.ec.europa.eu/transport-themes/road/road-charging_en"
+    },
+    {
+      "type": "citation",
+      "text": "Zero-emission truck toll exemption until 2025 (European Alternative Fuels Observatory, 2024) – Anger att tunga fordon står för 27,5 % av CO2-utsläppen från vägtrafiken i EU och att Eurovignette-direktivet gör det möjligt att befria nollutsläppslastbilar från avgifter till december 2025, med ett förslag om förlängning till 2031.",
+      "author": "European Alternative Fuels Observatory",
+      "url": "https://alternative-fuels-observatory.ec.europa.eu/policies/eurovignette-zero-emission-trucks"
+    }
+  ],
+  "tags": [
+    "miljözoner",
+    "Eurovignette-direktivet",
+    "vägtullsreform",
+    "CO2-baserade vägavgifter",
+    "nollutsläppslastbilar",
+    "transportkostnader väg",
+    "LEZ Europa"
+  ]
+}
+

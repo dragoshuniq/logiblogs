@@ -1,0 +1,195 @@
+{
+  "id": "low-emission-zones-and-the-eurovignette-what-europe-s-new-toll-reforms-mean-for-freight-costs",
+  "shortId": "low-emission-zones",
+  "language": "fr",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Zones à faibles émissions et Eurovignette : impact des nouvelles réformes de péage sur les coûts de transport",
+  "description": "Le transport routier est soumis à une pression croissante pour se décarboner. Les villes européennes étendent les zones à faibles émissions (ZFE) et les gouvernements réforment la tarification routière conformément à la directive Eurovignette révisée. Comprendre l’impact de ces mesures sur les coûts est essentiel pour les responsables logistiques...",
+  "publishedAt": "2025-12-02T00:00:00.000Z",
+  "category": "Durabilité",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experts en technologies logistiques",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "low-emission-zones-hero.png",
+  "imageAlt": "Illustration d’un plan de ville européenne avec des zones à faibles émissions, des portiques de péage et des icônes de camions Euro VI et électriques.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Le transport routier de marchandises fait face à une pression croissante pour réduire ses émissions. Les villes européennes multiplient les zones à faibles émissions (ZFE) et les États réforment les péages routiers dans le cadre de la directive Eurovignette révisée. Pour les responsables logistiques qui planifient des liaisons longue distance et des livraisons urbaines dans toute l’Europe, il est essentiel de comprendre comment ces mesures se traduisent en coûts.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "low-emission-zones-visual-1.png",
+      "alt": "Poids lourd électrique passant un poste de péage sur une autoroute européenne, avec des éoliennes en arrière-plan.",
+      "caption": "Un poids lourd électrique franchit un péage : un symbole du basculement vers des véhicules propres et des péages différenciés selon le CO2."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Un réseau en expansion de ZFE"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Les ZFE limitent l’accès des véhicules les plus polluants aux centres-villes. D’après la Clean Cities Campaign, l’Europe comptait 228 ZFE actives en 2019 et 320 en 2022, soit une hausse d’environ 40 %. Le nombre devrait encore augmenter de 58 % d’ici 2025 à mesure que les villes renforcent les normes d’émission. Vingt-sept villes prévoient d’étendre ou de durcir des ZFE existantes et au moins 35 veulent introduire des zones à zéro émission d’ici 2030. La seule zone ULEZ de Londres aurait réduit les émissions de CO2 d’environ 800.000 tonnes entre 2019 et 2022 et diminué le NO2 jusqu’à 46 %. ",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Si les ZFE améliorent la qualité de l’air, elles peuvent perturber les opérations de transport lorsque les camions diesel anciens sont interdits ou soumis à des droits d’entrée élevés. Les gestionnaires de flotte devraient cartographier les ZFE sur les principaux corridors, prévoir des itinéraires alternatifs et privilégier le renouvellement de flotte vers des véhicules Euro VI ou zéro émission pour préserver l’accès aux centres urbains.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Eurovignette : passer de vignettes temporelles à des péages au kilomètre et au CO2"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La directive Eurovignette (directive (UE) 2022/362) encadre la manière dont les États membres facturent les poids lourds sur le réseau transeuropéen de transport (RTE-T). Les règles révisées imposent la disparition progressive des vignettes temporelles sur le réseau central RTE-T d’ici 2030. À partir de 2024, les péages et vignettes pour les véhicules lourds doivent varier selon les émissions de CO2 afin de récompenser les camions les plus propres. À partir de 2026, les péages doivent également intégrer les coûts externes de la pollution atmosphérique, afin que les usagers paient les impacts sociaux et environnementaux.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Les nouvelles règles autorisent les États à exonérer les camions zéro émission de péages jusqu’en décembre 2025; la Commission propose de prolonger cette exemption jusqu’en juin 2031. Les États disposent d’une certaine marge de manœuvre pour accorder des exonérations totales ou partielles, de sorte que l’attractivité des camions électriques varie d’un pays à l’autre. Selon l’Observatoire européen des carburants alternatifs, les véhicules lourds génèrent 27,5 % des émissions de CO2 du transport routier de l’UE, ce qui fait de la différenciation des péages un levier fort de décarbonation. Seules quelques juridictions offrent pour l’instant une exonération totale, mais leur nombre devrait augmenter avec la mise en œuvre de la directive.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment les péages et les ZFE influencent les coûts"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Des analyses récentes montrent que les péages représentent une part importante des coûts de transport routier. Des recherches menées par des fournisseurs d’intelligence logistique et par l’IRU suggèrent que les péages peuvent représenter environ 14 % des coûts globaux, et jusqu’à 23 % sur certains axes (chiffres T2 2025). Le passage de vignettes forfaitaires à des péages au kilomètre différenciés en fonction du CO2 va accentuer les écarts de coûts entre flottes propres et polluantes. Parallèlement, la Clean Cities Campaign estime que l’extension des ZFE continuera de réduire les concentrations de NO2 dans les villes d’environ 20 % en moyenne.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Pour maîtriser les coûts, les transporteurs peuvent notamment :",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Investir dans des véhicules plus propres : Le passage à des camions Euro VI ou zéro émission réduit le montant des péages et évite les pénalités en ZFE.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Optimiser les itinéraires : La planification d’itinéraires pour éviter plusieurs ZFE ou des sections de péage très coûteuses permet d’économiser et de réduire les émissions.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Suivre les politiques nationales : Chaque État définit sa propre structure de péage et ses règles de ZFE. Il est crucial de surveiller les exonérations pour camions zéro émission et l’évolution des classes d’émission.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Considérer des options intermodales : Pour les longues distances, le rail ou le transport combiné peuvent contourner certaines ZFE et réduire les dépenses de péage.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Planifier la transition vers le zéro émission"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La réforme de l’Eurovignette et l’extension des ZFE envoient un message clair : exploiter des camions thermiques anciens coûtera de plus en plus cher. Les responsables logistiques doivent définir des feuilles de route pour l’électrification ou l’adoption d’alternatives à faible carbone. Les camions zéro émission restent coûteux et l’infrastructure de recharge est inégalement répartie, mais les premiers adoptants peuvent bénéficier d’exonérations de péage et de facilités d’accès aux centres-villes. Les programmes de renouvellement de flotte et les aides publiques peuvent amortir une partie des coûts.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusion"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Les ZFE et les réformes de péage redessinent la structure des coûts du transport routier européen. En comprenant la directive Eurovignette et en suivant l’extension des ZFE, les chargeurs et transporteurs peuvent anticiper là où les coûts augmenteront et planifier des investissements dans des équipements plus propres et une planification plus intelligente. À long terme, ces mesures réduiront les émissions de CO2 et la pollution de l’air tout en favorisant une concurrence plus équitable pour les opérateurs durables.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sources"
+    },
+    {
+      "type": "citation",
+      "text": "Low-Emission Zones: The Essential Guide (Clean Cities Campaign, 2023) – Fournit des statistiques sur le nombre de ZFE en Europe, fait état d’une hausse de 40 % entre 2019 et 2022 et indique que l’ULEZ de Londres a réduit les émissions de CO2 de 800.000 tonnes et le NO2 jusqu’à 46 %. ",
+      "author": "Clean Cities Campaign",
+      "url": "https://cleancitiescampaign.org/wp-content/uploads/2023/05/Low-Emission-Zones-The-Essential-Guide.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Road charging: Eurovignette directive (European Commission, 2023) – Résume la directive Eurovignette révisée, précisant que les vignettes doivent disparaître d’ici 2030 et que, dès 2024, les péages doivent varier selon les émissions de CO2 et inclure les coûts externes de pollution à partir de 2026.",
+      "author": "European Commission",
+      "url": "https://transport.ec.europa.eu/transport-themes/road/road-charging_en"
+    },
+    {
+      "type": "citation",
+      "text": "Zero-emission truck toll exemption until 2025 (European Alternative Fuels Observatory, 2024) – Indique que les poids lourds représentent 27,5 % des émissions de CO2 du transport routier de l’UE et explique que la directive Eurovignette permet aux États membres d’exonérer les camions zéro émission de péages jusqu’en décembre 2025, avec un projet de prolongation jusqu’en 2031.",
+      "author": "European Alternative Fuels Observatory",
+      "url": "https://alternative-fuels-observatory.ec.europa.eu/policies/eurovignette-zero-emission-trucks"
+    }
+  ],
+  "tags": [
+    "zones à faibles émissions",
+    "directive Eurovignette",
+    "réforme des péages",
+    "péages basés sur le CO2",
+    "camions zéro émission",
+    "coûts de transport routier",
+    "ZFE Europe"
+  ]
+}
+

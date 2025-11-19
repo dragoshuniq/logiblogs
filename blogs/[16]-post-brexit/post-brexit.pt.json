@@ -1,0 +1,181 @@
+{
+  "id": "post-brexit-road-freight-between-the-eu-and-uk-customs-sps-checks-and-border-challenges",
+  "shortId": "post-brexit-road",
+  "language": "pt",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Transporte Rodoviário Pós-Brexit entre a UE e o Reino Unido: Alfândegas, Controlos SPS e Desafios Fronteiriços",
+  "description": "Desde que o Reino Unido abandonou a união aduaneira e o mercado único da UE no final de 2020, as regras que regem o transporte rodoviário de mercadorias entre a UE e o Reino Unido mudaram fundamentalmente. As mercadorias que atravessam a fronteira devem agora cumprir as formalidades aduaneiras, as regras de origem...",
+  "publishedAt": "2025-12-04T00:00:00.000Z",
+  "category": "Transporte",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Especialistas em Tecnologia de Logística",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "post-brexit-hero.png",
+  "imageAlt": "Foto de camiões em fila no posto de controlo fronteiriço Reino Unido-UE com agentes aduaneiros a inspecionar a documentação, tempo nublado.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Desde que o Reino Unido abandonou a união aduaneira e o mercado único da UE no final de 2020, as regras que regem o transporte rodoviário de mercadorias entre a UE e o Reino Unido mudaram fundamentalmente. As mercadorias que atravessam a fronteira devem agora cumprir as formalidades aduaneiras, as regras de origem e os controlos sanitários e fitossanitários (SPS). Para as empresas que enviam mercadorias através do Canal da Mancha, a compreensão destes procedimentos é essencial para evitar atrasos e penalidades.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "post-brexit-visual-1.png",
+      "alt": "Ilustração de um diagrama da cadeia de abastecimento que mostra as declarações aduaneiras, os certificados de origem e os controlos SPS entre a UE e o Reino Unido.",
+      "caption": "Ilustração de um diagrama da cadeia de abastecimento que mostra as declarações aduaneiras, os certificados de origem e os controlos SPS entre a UE e o Reino Unido"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Declarações aduaneiras e regras de origem"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ao abrigo do Acordo de Comércio e Cooperação (ACC) entre a UE e o Reino Unido, as mercadorias podem circular sem tarifas e sem quotas se cumprirem os requisitos das regras de origem. A Biblioteca da Câmara dos Comuns observa que o cumprimento pode ser oneroso e que apenas 10-53% das exportações têxteis e de vestuário do Reino Unido reclamaram taxas pautais preferenciais em 2022. As mercadorias que não cumpram as regras de origem podem incorrer em tarifas. As empresas precisam de determinar a origem dos componentes e manter as declarações dos fornecedores.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "As declarações aduaneiras são obrigatórias para todas as mercadorias que entram na Grã-Bretanha a partir da UE e vice-versa. A UE introduziu controlos aduaneiros completos em 1 de janeiro de 2021, enquanto o Reino Unido tem implementado os seus próprios controlos gradualmente, com algumas verificações fronteiriças ainda a serem implementadas. Sistemas aduaneiros digitais como o Customs Declaration Service (CDS) do Reino Unido e o Import Control System 2 (ICS2) da UE são centrais para o processamento de declarações.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Controlos sanitários e fitossanitários (SPS)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "As importações de animais vivos, produtos de origem animal e certas plantas estão sujeitas a controlos SPS. O Institute for Government explica que tais mercadorias devem ser pré-notificadas através do Sistema de Importação de Produtos, Animais, Alimentos e Ração (IPAFFS) do Reino Unido ou do sistema TRACES da UE e encaminhadas através de Postos de Controlo Fronteiriços (PCF). Nestes postos, as remessas são submetidas a controlos documentais, de identidade e físicos para garantir o cumprimento das regras de sanidade animal e segurança alimentar. As empresas devem ter em conta o tempo adicional nos PCF e garantir que a documentação é precisa.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Modelo Operacional-Alvo de Fronteiras (BTOM)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "O Modelo Operacional-Alvo de Fronteiras do Reino Unido propõe uma abordagem baseada no risco para os controlos SPS e introduz uma Janela Única de Comércio para os procedimentos de importação digital. Segundo a Biblioteca da Câmara dos Comuns, o BTOM visa simplificar os processos fronteiriços e implementará novos controlos gradualmente ao longo de vários anos. O modelo prevê diferentes níveis de escrutínio dependendo da categoria de risco das mercadorias (baixo, médio, alto). As empresas devem monitorizar a implementação do BTOM para ajustar os prazos de entrega e os requisitos de documentação.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cabotagem e destacamento no Reino Unido"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "As regras do Pacote de Mobilidade da UE sobre cabotagem e destacamento também afetam os transportadores da UE que operam no Reino Unido. A cabotagem (transporte doméstico num país estrangeiro) é limitada a duas operações no prazo de sete dias após uma entrega internacional no Reino Unido. O período de arrefecimento de quatro dias após a cabotagem, descrito anteriormente, não se aplica a operações fora da UE, mas o Reino Unido adotou restrições semelhantes. As operações de comércio cruzado (por exemplo, Irlanda-Reino Unido-França) podem ser restritas, e os motoristas podem necessitar de declarações de destacamento na UE através do portal IMI.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Passos práticos para expedidores e transportadores"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Compreender as regras de origem: Compilar uma base de dados de declarações de fornecedores para provar a origem. Considerar a utilização de consultores de comércio livre para determinar quais os produtos que se qualificam para taxas nulas.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Preparar declarações aduaneiras precisas: Assegurar que você ou o seu agente aduaneiro possuem todos os códigos necessários (códigos de mercadorias, valor, peso) e utilizam sistemas de TI apropriados (CDS, NCTS).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Antecipar os controlos SPS: Se enviar alimentos ou plantas, pré-notifique as remessas e preveja tempo para as inspeções nos PCF. Os veículos com temperatura controlada podem precisar de fazer fila em instalações especiais.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Associar-se a transitários experientes: Um transitário digital pode gerir a documentação aduaneira, garantir os carnets TIR e gerir o cross-docking em centros fronteiriços.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusão"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "O comércio pós-Brexit introduz novas camadas administrativas para o transporte rodoviário de mercadorias UE-Reino Unido. As declarações aduaneiras, as regras de origem e as inspeções SPS devem ser tidas em conta nos tempos de trânsito e nos custos. As empresas que investirem na compreensão destes requisitos e colaborarem com parceiros experientes navegarão no cenário pós-Brexit de forma mais fluida e manterão cadeias de abastecimento fiáveis.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fontes"
+    },
+    {
+      "type": "citation",
+      "text": "Comércio com a UE após o Brexit (Biblioteca da Câmara dos Comuns, 2023) - Discute o Acordo de Comércio e Cooperação UE-Reino Unido, observando que as mercadorias devem cumprir as regras de origem para se qualificarem para tarifas nulas e que apenas 10-53% das exportações têxteis e de vestuário reclamaram taxas preferenciais em 2022; também observa controlos aduaneiros completos e a implementação contínua dos controlos fronteiriços do Reino Unido.",
+      "author": "Biblioteca da Câmara dos Comuns",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-8397/CBP-8397.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Modelo Operacional-Alvo de Fronteiras (Biblioteca da Câmara dos Comuns, 2023) - Explica o Modelo Operacional-Alvo de Fronteiras do Reino Unido, que propõe uma abordagem baseada no risco para os controlos SPS e o desenvolvimento de uma Janela Única de Comércio.",
+      "author": "Biblioteca da Câmara dos Comuns",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-9710/CBP-9710.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Explicação: A fronteira Grã-Bretanha-UE (Institute for Government, 2022) - Descreve os requisitos SPS para mercadorias que atravessam a fronteira GB-UE, afirmando que os produtos animais e vegetais devem ser pré-notificados via IPAFFS ou TRACES e submetidos a controlos documentais, de identidade e físicos nos Postos de Controlo Fronteiriços.",
+      "author": "Institute for Government",
+      "url": "https://www.instituteforgovernment.org.uk/explainer/gb-eu-border"
+    }
+  ],
+  "tags": [
+    "transporte rodoviário pós-Brexit",
+    "alfândegas UE-Reino Unido",
+    "controlos SPS",
+    "regras de origem",
+    "ACC Reino Unido",
+    "procedimentos fronteiriços",
+    "transporte rodoviário de mercadorias Europa"
+  ]
+}

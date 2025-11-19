@@ -1,0 +1,181 @@
+{
+  "id": "post-brexit-road-freight-between-the-eu-and-uk-customs-sps-checks-and-border-challenges",
+  "shortId": "post-brexit-road",
+  "language": "nl",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Post-Brexit wegvervoer tussen de EU en het VK: Douane, SPS-controles en grens-uitdagingen",
+  "description": "Sinds het Verenigd Koninkrijk eind 2020 de douane-unie en de interne markt van de EU heeft verlaten, zijn de regels voor wegvervoer tussen de EU en het VK fundamenteel veranderd. Goederen die de grens overschrijden moeten nu voldoen aan douaneformaliteiten, oorsprongsregels...",
+  "publishedAt": "2025-12-04T00:00:00.000Z",
+  "category": "Vervoer",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experts in logistieke technologie",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "post-brexit-hero.png",
+  "imageAlt": "Foto van vrachtwagens die in de rij staan bij de grenscontrolepost tussen het VK en de EU, met douanebeambten die documentatie inspecteren, bewolkt weer.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sinds het Verenigd Koninkrijk eind 2020 de douane-unie en de interne markt van de EU heeft verlaten, zijn de regels voor wegvervoer tussen de EU en het VK fundamenteel veranderd. Goederen die de grens overschrijden moeten nu voldoen aan douaneformaliteiten, oorsprongsregels en sanitaire en fytosanitaire (SPS) controles. Voor bedrijven die goederen over het Kanaal verzenden, is het begrijpen van deze procedures essentieel om vertragingen en boetes te voorkomen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "post-brexit-visual-1.png",
+      "alt": "Illustratie van een toeleveringsketendiagram dat douaneaangiften, oorsprongsdocumenten en SPS-controles tussen de EU en het VK toont.",
+      "caption": "Illustratie van een toeleveringsketendiagram dat douaneaangiften, oorsprongsdocumenten en SPS-controles tussen de EU en het VK toont"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Douaneaangiften en oorsprongsregels"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Onder de Handels- en Samenwerkingsovereenkomst (TCA) tussen de EU en het VK kunnen goederen tariefvrij en quotavrij worden vervoerd als ze voldoen aan de oorsprongsregels. De House of Commons Library merkt op dat naleving omslachtig kan zijn en dat slechts 10-53% van de Britse textiel- en kledingexport in 2022 aanspraak maakte op preferentiële tarieven. Goederen die niet voldoen aan de oorsprongsregels kunnen onderworpen zijn aan douanerechten. Bedrijven moeten de oorsprong van componenten bepalen en leveranciersverklaringen bewaren.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Douaneaangiften zijn verplicht voor alle goederen die vanuit de EU het Verenigd Koninkrijk binnenkomen en vice versa. De EU heeft op 1 januari 2021 volledige douanecontroles ingevoerd, terwijl het VK zijn eigen controles gefaseerd heeft ingevoerd, waarbij sommige grenscontroles nog worden geïmplementeerd. Digitale douanesystemen zoals de Britse Customs Declaration Service (CDS) en het EU's Import Control System 2 (ICS2) zijn van cruciaal belang voor het verwerken van aangiften.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sanitaire en fytosanitaire (SPS) controles"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "De invoer van levende dieren, dierlijke producten en bepaalde planten is onderworpen aan SPS-controles. Het Institute for Government legt uit dat dergelijke goederen vooraf moeten worden aangemeld via het Britse Import of Products, Animals, Food and Feed System (IPAFFS) of het EU's TRACES-systeem en moeten worden doorgeleid via grensovergangsposten (BCP's). Bij deze posten ondergaan zendingen document-, identiteits- en fysieke controles om naleving van de diergezondheids- en voedselveiligheidsregels te waarborgen. Bedrijven moeten rekening houden met extra tijd bij BCP's en ervoor zorgen dat het papierwerk accuraat is.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Border Target Operating Model (BTOM)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Het Britse Border Target Operating Model stelt een risicogebaseerde aanpak voor SPS-controles voor en introduceert een Single Trade Window voor digitale importprocedures. Volgens de House of Commons Library heeft het BTOM tot doel grensprocessen te vereenvoudigen en zal het over meerdere jaren nieuwe controles gefaseerd invoeren. Het model voorziet in verschillende controleniveaus, afhankelijk van de risicocategorie van goederen (laag, gemiddeld, hoog). Bedrijven moeten de uitrol van het BTOM volgen om levertijden en documentatievereisten aan te passen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cabotage en detachering in het VK"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "De regels van het EU-mobiliteitspakket inzake cabotage en detachering hebben ook gevolgen voor EU-vervoerders die in het VK actief zijn. Cabotage (binnenlands vervoer in een vreemd land) is beperkt tot twee operaties binnen zeven dagen na een internationale levering in het VK. De vierdaagse afkoelingsperiode na cabotage, die eerder is beschreven, is niet van toepassing op operaties buiten de EU, maar het VK heeft soortgelijke beperkingen overgenomen. Cross-trade-operaties (bijv. Ierland-VK-Frankrijk) kunnen worden beperkt, en chauffeurs kunnen detacheringsverklaringen in de EU nodig hebben via het IMI-portaal.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Praktische stappen voor verladers en vervoerders"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Begrijp de oorsprongsregels: Stel een database samen van verklaringen van leveranciers om de oorsprong te bewijzen. Overweeg het gebruik van vrijhandelsadviseurs om te bepalen welke producten in aanmerking komen voor nultarieven.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Bereid nauwkeurige douaneaangiften voor: Zorg ervoor dat u of uw douaneagent alle nodige codes (goederencodes, waarde, gewicht) bezitten en geschikte IT-systemen (CDS, NCTS) gebruiken.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Anticipeer op SPS-controles: Bij verzending van voedsel of planten, meld zendingen vooraf aan en plan tijd in voor inspecties bij BCP's. Gekoelde voertuigen moeten mogelijk in de rij staan bij speciale faciliteiten.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Werk samen met ervaren expediteurs: Een digitale expediteur kan douaneformulieren afhandelen, TIR-carnets garanderen en cross-docking beheren bij grenshubs.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusie"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "De post-Brexit handel introduceert nieuwe administratieve lagen voor het wegvervoer tussen de EU en het VK. Douaneaangiften, oorsprongsregels en SPS-inspecties moeten worden meegenomen in transittijden en kosten. Bedrijven die investeren in het begrijpen van deze vereisten en samenwerken met deskundige partners zullen het post-Brexit-landschap soepeler doorlopen en betrouwbare toeleveringsketens handhaven.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Bronnen"
+    },
+    {
+      "type": "citation",
+      "text": "Handel met de EU na de Brexit (House of Commons Library, 2023) - Bespreekt de Handels- en Samenwerkingsovereenkomst tussen de EU en het VK, en merkt op dat goederen moeten voldoen aan de oorsprongsregels om in aanmerking te komen voor nultarieven en dat in 2022 slechts 10-53% van de textiel- en kledingexport aanspraak maakte op preferentiële tarieven; merkt ook op dat er volledige douanecontroles zijn en dat de Britse grenscontroles voortdurend worden geïmplementeerd.",
+      "author": "House of Commons Library",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-8397/CBP-8397.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Border Target Operating Model (House of Commons Library, 2023) - Legt het Britse Border Target Operating Model uit, dat een risicogebaseerde aanpak voor SPS-controles en de ontwikkeling van een Single Trade Window voorstelt.",
+      "author": "House of Commons Library",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-9710/CBP-9710.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Uitleg: De grens tussen Groot-Brittannië en de EU (Institute for Government, 2022) - Beschrijft de SPS-vereisten voor goederen die de grens tussen Groot-Brittannië en de EU overschrijden, en stelt dat dierlijke en plantaardige producten vooraf moeten worden aangemeld via IPAFFS of TRACES en moeten worden onderworpen aan document-, identiteits- en fysieke controles bij grensovergangsposten.",
+      "author": "Institute for Government",
+      "url": "https://www.instituteforgovernment.org.uk/explainer/gb-eu-border"
+    }
+  ],
+  "tags": [
+    "post-Brexit wegvervoer",
+    "EU-VK douane",
+    "SPS-controles",
+    "oorsprongsregels",
+    "TCA VK",
+    "grens procedures",
+    "wegvervoer Europa"
+  ]
+}

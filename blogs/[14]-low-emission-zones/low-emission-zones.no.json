@@ -1,0 +1,195 @@
+{
+  "id": "low-emission-zones-and-the-eurovignette-what-europe-s-new-toll-reforms-mean-for-freight-costs",
+  "shortId": "low-emission-zones",
+  "language": "no",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Lavutslippssoner og Eurovignette: hvordan nye bompengerreformer påvirker transportkostnadene",
+  "description": "Veitrafikken i Europa står under økende press for å redusere utslipp. Byer utvider lavutslippssoner (LEZ), og nasjonale myndigheter reformerer bompenger i tråd med det reviderte Eurovignette-direktivet. For logistikkansvarlige er det avgjørende å forstå hvordan dette slår ut i kostnadsbildet...",
+  "publishedAt": "2025-12-02T00:00:00.000Z",
+  "category": "Bærekraft",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperter på logistikkteknologi",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "low-emission-zones-hero.png",
+  "imageAlt": "Illustrasjon av et europeisk bykart med markerte lavutslippssoner, bomstasjoner og ikoner for Euro VI- og elektriske lastebiler.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Europeisk godstransport på vei må raskt kutte utslipp. Stadig flere byer innfører lavutslippssoner (low-emission zones, LEZ), og nasjonale myndigheter legger om bompengesystemene i tråd med det reviderte Eurovignette-direktivet. For logistikkledere som planlegger langtransport og bydistribusjon, er det viktig å forstå hvordan disse tiltakene påvirker kostnadsstrukturen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "low-emission-zones-visual-1.png",
+      "alt": "Tung elektrisk lastebil passerer en bomstasjon på en europeisk motorvei, med vindmøller i bakgrunnen.",
+      "caption": "En elektrisk lastebil ved en bomstasjon symboliserer overgangen til renere kjøretøy og CO2-differensierte bompenger."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Et voksende nett av lavutslippssoner"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lavutslippssoner begrenser de mest forurensende kjøretøyene fra å kjøre inn i bysentra. Ifølge Clean Cities Campaign fantes det 228 aktive LEZ-soner i Europa i 2019 og 320 i 2022 – en økning på rundt 40 %. Innen 2025 ventes antallet å øke med ytterligere 58 % ettersom byene strammer til utslippskravene. 27 byer planlegger å utvide eller skjerpe eksisterende soner, og minst 35 har planer om nullutslippssoner innen 2030. Londons Ultra Low Emission Zone (ULEZ) alene har redusert CO2‑utslippene med om lag 800 000 tonn mellom 2019 og 2022 og NO2 med opptil 46 %. ",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Selv om LEZ forbedrer luftkvaliteten, kan de skape utfordringer for transportører dersom eldre diesellastebiler forbys eller ilegges høye dagsavgifter. Flåteansvarlige bør kartlegge lavutslippssoner langs hovedkorridorene, planlegge alternative ruter og prioritere investeringer i Euro VI- eller nullutslippskjøretøy for å sikre adgang til bysentra.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Eurovignette: fra tidsbaserte vignetter til avstands- og CO2-baserte avgifter"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Eurovignette-direktivet (direktiv (EU) 2022/362) regulerer hvordan medlemslandene kan kreve avgifter fra tunge kjøretøy på det transeuropeiske transportnettet (TEN-T). De reviderte reglene innebærer at tidsbaserte vignetter skal fases ut på TEN-Ts kjernenett innen 2030. Fra 2024 skal bompenger og vignetter for tunge kjøretøy variere etter CO2-utslipp, slik at renere lastebiler belønnes. Fra 2026 skal avgiftene også inkludere eksterne kostnader for luftforurensning, slik at brukerne betaler for sosiale og miljømessige konsekvenser.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "De nye reglene åpner for at medlemsstatene kan frita nullutslippslastebiler for bompenger frem til desember 2025; EU‑kommisjonen foreslår å forlenge ordningen til juni 2031. Land kan gi full eller delvis fritak, noe som gjør at lønnsomheten i å investere i elektriske lastebiler varierer mellom markeder. European Alternative Fuels Observatory anslår at tunge kjøretøy står for 27,5 % av CO2-utslippene fra veitrafikk i EU – differensierte avgifter er dermed et viktig virkemiddel for å kutte utslipp. Foreløpig tilbyr bare noen få land full fritak, men antallet vil trolig øke etter hvert som direktivet implementeres.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hvordan bompenger og LEZ påvirker kostnadene"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Analyser viser at bompenger utgjør en betydelig andel av kostnadene ved godstransport på vei. Studier fra logistikkdataleverandører og IRU antyder at avgiftene kan utgjøre rundt 14 % av totale kostnader og opptil 23 % på enkelte strekninger (tall for 2. kvartal 2025). Overgangen fra faste vignetter til avstands- og CO2-baserte avgifter vil øke kostnadsforskjellen mellom rene og mer forurensende kjøretøy. Samtidig anslår Clean Cities Campaign at utvidelse av lavutslippssoner kan redusere NO2-nivåene i byer med om lag 20 % i snitt.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "For å begrense kostnadene kan transportører:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Investere i renere kjøretøy: Oppgradering til Euro VI eller nullutslippslastebiler reduserer bompengesatser og risikoen for gebyr i lavutslippssoner.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Optimalisere ruter: Planlegg ruter som unngår flere LEZ-soner eller de dyreste bompengeavsnittene for å spare både kostnader og CO2-utslipp.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Følge nasjonal politikk: Hvert land har sin egen avgiftsstruktur og egne LEZ-regler. Det er viktig å følge med på fritak for nullutslippskjøretøy og endringer i utslippsklasser.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Vurdere intermodale alternativer: På lange avstander kan jernbane eller kombitransport omgå enkelte LEZ-begrensninger og dempe bompengeandelen i kostnadsbildet.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Planlegge overgangen til nullutslippstransporter"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Eurovignette-reformen og utvidelsen av lavutslippssoner sender et tydelig signal: det blir stadig dyrere å kjøre eldre lastebiler med forbrenningsmotor. Logistikkansvarlige bør utarbeide veikart for elektrifisering eller andre lavutslippsløsninger. Nullutslippslastebiler er fortsatt kostbare og ladeinfrastruktur ujevnt fordelt, men tidlige brukere kan dra nytte av bompengefritak og bedre tilgang til bysentra. Flottfornyelsesprogrammer og offentlige støtteordninger kan bidra til å dekke investeringene.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Konklusjon"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lavutslippssoner og bompenge­reformer er i ferd med å endre kostnadsstrukturen for europeisk godstransport på vei. Ved å forstå Eurovignette-direktivet og følge utviklingen av LEZ kan vareeiere og transportører forutse hvor kostnadene vil øke, og planlegge investeringer i renere kjøretøy og mer effektiv ruteplanlegging. På sikt vil dette redusere både CO2-utslipp og luftforurensning og gi mer rettferdige konkurransevilkår for bærekraftige aktører.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kilder"
+    },
+    {
+      "type": "citation",
+      "text": "Low-Emission Zones: The Essential Guide (Clean Cities Campaign, 2023) – Presenterer statistikk for antall lavutslippssoner i Europa, viser en økning på 40 % mellom 2019 og 2022 og at Londons ULEZ reduserte CO2-utslippene med 800 000 tonn og NO2 med opptil 46 %. ",
+      "author": "Clean Cities Campaign",
+      "url": "https://cleancitiescampaign.org/wp-content/uploads/2023/05/Low-Emission-Zones-The-Essential-Guide.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Road charging: Eurovignette directive (European Commission, 2023) – Oppsummerer det reviderte Eurovignette-direktivet og forklarer at tidsbaserte vignetter skal fases ut innen 2030 og at avgifter fra 2024 skal variere med CO2-utslipp og inkludere eksterne luftforurensningskostnader fra 2026.",
+      "author": "European Commission",
+      "url": "https://transport.ec.europa.eu/transport-themes/road/road-charging_en"
+    },
+    {
+      "type": "citation",
+      "text": "Zero-emission truck toll exemption until 2025 (European Alternative Fuels Observatory, 2024) – Angir at tunge kjøretøy står for 27,5 % av CO2-utslippene fra veitrafikk i EU og at Eurovignette-direktivet gir medlemsstatene mulighet til å frita nullutslippslastebiler for bompenger frem til desember 2025, med forslag om forlengelse til 2031.",
+      "author": "European Alternative Fuels Observatory",
+      "url": "https://alternative-fuels-observatory.ec.europa.eu/policies/eurovignette-zero-emission-trucks"
+    }
+  ],
+  "tags": [
+    "lavutslippssoner",
+    "Eurovignette-direktiv",
+    "bompengereform",
+    "CO2-baserte avgifter",
+    "nullutslippslastebiler",
+    "kostnader for veitransport",
+    "LEZ Europa"
+  ]
+}
+

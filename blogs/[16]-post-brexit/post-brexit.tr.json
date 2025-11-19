@@ -1,0 +1,181 @@
+{
+  "id": "post-brexit-road-freight-between-the-eu-and-uk-customs-sps-checks-and-border-challenges",
+  "shortId": "post-brexit-road",
+  "language": "tr",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "AB ve Birleşik Krallık Arasında Brexit Sonrası Karayolu Taşımacılığı: Gümrük, SPS Kontrolleri ve Sınır Zorlukları",
+  "description": "Birleşik Krallık'ın 2020 sonunda AB gümrük birliği ve tek pazarından ayrılmasından bu yana, AB ve Birleşik Krallık arasındaki karayolu taşımacılığını yöneten kurallar temelden değişti. Sınırı geçen mallar artık gümrük formalitelerine, menşe kurallarına uymak zorunda...",
+  "publishedAt": "2025-12-04T00:00:00.000Z",
+  "category": "Taşımacılık",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Lojistik Teknolojisi Uzmanları",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "post-brexit-hero.png",
+  "imageAlt": "Birleşik Krallık-AB sınır kontrol noktasında gümrük memurlarının belgeleri incelediği kamyonların kuyruğu, bulutlu hava.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Birleşik Krallık'ın 2020 sonunda AB gümrük birliği ve tek pazarından ayrılmasından bu yana, AB ve Birleşik Krallık arasındaki karayolu taşımacılığını yöneten kurallar temelden değişti. Sınırı geçen mallar artık gümrük formalitelerine, menşe kurallarına ve sıhhi ve bitki sağlığı (SPS) kontrollerine uymak zorundadır. Kanal boyunca mal taşıyan işletmeler için, gecikmeleri ve cezaları önlemek amacıyla bu prosedürleri anlamak çok önemlidir.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "post-brexit-visual-1.png",
+      "alt": "Gümrük beyannameleri, menşe kuralları sertifikaları ve AB ile Birleşik Krallık arasındaki SPS kontrollerini gösteren bir tedarik zinciri diyagramının illüstrasyonu.",
+      "caption": "Gümrük beyannameleri, menşe kuralları sertifikaları ve AB ile Birleşik Krallık arasındaki SPS kontrollerini gösteren bir tedarik zinciri diyagramının illüstrasyonu"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Gümrük beyannameleri ve menşe kuralları"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "AB-Birleşik Krallık Ticaret ve İşbirliği Anlaşması (TCA) kapsamında, mallar menşe kuralları gerekliliklerini karşılamaları halinde tarife ve kota içermeksizin hareket edebilir. Avam Kamarası Kütüphanesi, uyumun külfetli olabileceğini ve 2022'de Birleşik Krallık tekstil ve giyim ihracatının sadece %10-53'ünün tercihli tarife oranları talep ettiğini belirtiyor. Menşe kurallarına uymayan mallar tarifelere tabi olabilir. İşletmeler, bileşenlerin menşeini belirlemeli ve tedarikçi beyanlarını sürdürmelidir.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Gümrük beyannameleri, AB'den Büyük Britanya'ya ve tersine giren tüm mallar için zorunludur. AB, 1 Ocak 2021'de tam gümrük kontrollerini uygulamaya koyarken, Birleşik Krallık kendi kontrollerini aşamalı olarak uygulamaya koydu ve bazı sınır kontrolleri hala uygulanmaktadır. Birleşik Krallık'ın Gümrük Beyannamesi Hizmeti (CDS) ve AB'nin İthalat Kontrol Sistemi 2 (ICS2) gibi dijital gümrük sistemleri, beyannamelerin işlenmesinde merkezi bir rol oynamaktadır.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sıhhi ve bitki sağlığı (SPS) kontrolleri"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Canlı hayvan, hayvan ürünleri ve bazı bitki ithalatları SPS kontrollerine tabidir. Hükümet Enstitüsü, bu tür malların Birleşik Krallık'ın Ürün, Hayvan, Gıda ve Yem İthalat Sistemi (IPAFFS) veya AB'nin TRACES sistemi aracılığıyla önceden bildirilmesi ve Sınır Kontrol Noktaları (BCP'ler) aracılığıyla yönlendirilmesi gerektiğini açıklamaktadır. Bu noktalarda, sevkiyatlar hayvan sağlığı ve gıda güvenliği kurallarına uyumu sağlamak için belgesel, kimlik ve fiziksel kontrollere tabi tutulur. Şirketler, BCP'lerde ekstra zaman ayırmalı ve evrak işlerinin doğru olduğundan emin olmalıdır.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sınır Hedef Operasyon Modeli (BTOM)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Birleşik Krallık'ın Sınır Hedef Operasyon Modeli, SPS kontrollerine riske dayalı bir yaklaşım önermekte ve dijital ithalat prosedürleri için Tek Ticaret Penceresi sunmaktadır. Avam Kamarası Kütüphanesi'ne göre, BTOM sınır süreçlerini basitleştirmeyi amaçlamakta ve birkaç yıl içinde yeni kontrolleri aşamalı olarak uygulamaya koyacaktır. Model, malların risk kategorisine (düşük, orta, yüksek) bağlı olarak farklı düzeylerde inceleme öngörmektedir. İşletmeler, teslim sürelerini ve belgelendirme gereksinimlerini ayarlamak için BTOM'un uygulanmasını izlemelidir.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Birleşik Krallık'ta kabotaj ve görevlendirme"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "AB Mobilite Paketi'nin kabotaj ve görevlendirme kuralları, Birleşik Krallık'ta faaliyet gösteren AB taşıyıcılarını da etkiler. Kabotaj (yabancı bir ülkedeki yurtiçi taşımacılık), Birleşik Krallık'taki uluslararası bir teslimattan sonraki yedi gün içinde iki operasyonla sınırlıdır. Daha önce açıklanan kabotaj sonrası dört günlük bekleme süresi AB dışındaki operasyonlar için geçerli değildir, ancak Birleşik Krallık benzer kısıtlamalar benimsemiştir. Çapraz ticaret operasyonları (örneğin, İrlanda-Birleşik Krallık-Fransa) kısıtlanabilir ve sürücüler AB'de IMI portalı aracılığıyla görevlendirme beyanları isteyebilirler.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Nakliyeciler ve taşıyıcılar için pratik adımlar"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Menşe kurallarını anlayın: Menşei kanıtlamak için tedarikçi beyannamelerinin bir veritabanını derleyin. Hangi ürünlerin sıfır tarifeye hak kazandığını belirlemek için serbest ticaret danışmanlarını kullanmayı düşünün.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Doğru gümrük beyannameleri hazırlayın: Sizin veya gümrük temsilcinizin gerekli tüm kodlara (mal kodları, değer, ağırlık) sahip olduğundan ve uygun BT sistemlerini (CDS, NCTS) kullandığından emin olun.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "SPS kontrollerini tahmin edin: Yiyecek veya bitki gönderiyorsanız, sevkiyatları önceden bildirin ve BCP'lerdeki denetimler için zaman ayırın. Sıcaklık kontrollü araçlar özel tesislerde kuyrukta beklemek zorunda kalabilir.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Deneyimli nakliyecilerle ortaklık kurun: Dijital bir nakliyeci, gümrük evrak işlerini halledebilir, TIR karnelerini garanti edebilir ve sınır merkezlerindeki çapraz sevkiyatı yönetebilir.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sonuç"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Brexit sonrası ticaret, AB-Birleşik Krallık karayolu taşımacılığı için yeni idari katmanlar getiriyor. Gümrük beyannameleri, menşe kuralları ve SPS denetimleri, transit süreleri ve maliyetler dikkate alınmalıdır. Bu gereksinimleri anlamak için yatırım yapan ve bilgili ortaklarla işbirliği yapan işletmeler, Brexit sonrası ortamda daha sorunsuz ilerleyecek ve güvenilir tedarik zincirlerini sürdürecektir.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kaynaklar"
+    },
+    {
+      "type": "citation",
+      "text": "Brexit sonrası AB ile ticaret (Avam Kamarası Kütüphanesi, 2023) - AB-Birleşik Krallık Ticaret ve İşbirliği Anlaşması'nı tartışıyor, malların sıfır tarifeye hak kazanmak için menşe kurallarına uyması gerektiğini ve 2022'de tekstil ve giyim ihracatının sadece %10-53'ünün tercihli oranlar talep ettiğini belirtiyor; ayrıca tam gümrük kontrollerini ve Birleşik Krallık sınır kontrollerinin devam eden uygulamasını belirtiyor.",
+      "author": "Avam Kamarası Kütüphanesi",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-8397/CBP-8397.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Sınır Hedef Operasyon Modeli (Avam Kamarası Kütüphanesi, 2023) - Birleşik Krallık'ın Sınır Hedef Operasyon Modelini açıklıyor, SPS kontrollerine riske dayalı bir yaklaşım ve Tek Ticaret Penceresi'nin geliştirilmesini öneriyor.",
+      "author": "Avam Kamarası Kütüphanesi",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-9710/CBP-9710.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Açıklayıcı: Büyük Britanya-AB sınırı (Hükümet Enstitüsü, 2022) - GB-AB sınırını geçen mallar için SPS gereksinimlerini açıklıyor, hayvan ve bitki ürünlerinin IPAFFS veya TRACES aracılığıyla önceden bildirilmesi ve Sınır Kontrol Noktalarında belgesel, kimlik ve fiziksel kontrollere tabi tutulması gerektiğini belirtiyor.",
+      "author": "Hükümet Enstitüsü",
+      "url": "https://www.instituteforgovernment.org.uk/explainer/gb-eu-border"
+    }
+  ],
+  "tags": [
+    "Brexit sonrası karayolu taşımacılığı",
+    "AB-Birleşik Krallık gümrüğü",
+    "SPS kontrolleri",
+    "menşe kuralları",
+    "TCA Birleşik Krallık",
+    "sınır prosedürleri",
+    "karayolu taşımacılığı Avrupa"
+  ]
+}

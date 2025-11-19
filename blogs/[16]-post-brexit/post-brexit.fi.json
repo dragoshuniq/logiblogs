@@ -1,0 +1,181 @@
+{
+  "id": "post-brexit-road-freight-between-the-eu-and-uk-customs-sps-checks-and-border-challenges",
+  "shortId": "post-brexit-road",
+  "language": "fi",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Brexitin jälkeiset tieliikennerahtikuljetukset EU:n ja Yhdistyneen kuningaskunnan välillä: Tullit, SPS-tarkastukset ja rajahaasteet",
+  "description": "Siitä lähtien kun Yhdistynyt kuningaskunta erosi EU:n tulliliitosta ja sisämarkkinoilta vuoden 2020 lopussa, EU:n ja Yhdistyneen kuningaskunnan välisiä tieliikennerahtikuljetuksia säätelevät säännöt ovat muuttuneet perustavanlaatuisesti. Rajan ylittävien tavaroiden on nyt noudatettava tullimuodollisuuksia, alkuperäsääntöjä...",
+  "publishedAt": "2025-12-04T00:00:00.000Z",
+  "category": "Kuljetus",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Logistiikkateknologian asiantuntijat",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "post-brexit-hero.png",
+  "imageAlt": "Kuva kuorma-autoista jonossa Ison-Britannian ja EU:n rajatarkastuspisteellä tullivirkailijoiden tarkastaessa dokumentteja, pilvinen sää.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Siitä lähtien kun Yhdistynyt kuningaskunta erosi EU:n tulliliitosta ja sisämarkkinoilta vuoden 2020 lopussa, EU:n ja Yhdistyneen kuningaskunnan välisiä tieliikennerahtikuljetuksia säätelevät säännöt ovat muuttuneet perustavanlaatuisesti. Rajan ylittävien tavaroiden on nyt noudatettava tullimuodollisuuksia, alkuperäsääntöjä sekä saniteetti- ja kasvinsuojelutarkastuksia (SPS). Yrityksille, jotka kuljettavat tavaroita Kanaalin yli, näiden menettelyjen ymmärtäminen on olennaista viivästysten ja rangaistusten välttämiseksi.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "post-brexit-visual-1.png",
+      "alt": "Kuvitus toimitusketjun kaaviosta, joka näyttää tulliselvitykset, alkuperätodistukset ja SPS-tarkastukset EU:n ja Ison-Britannian välillä.",
+      "caption": "Kuvitus toimitusketjun kaaviosta, joka näyttää tulliselvitykset, alkuperätodistukset ja SPS-tarkastukset EU:n ja Ison-Britannian välillä"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tulliselvitykset ja alkuperäsäännöt"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "EU:n ja Yhdistyneen kuningaskunnan välisen kauppa- ja yhteistyösopimuksen (TCA) mukaisesti tavarat voivat liikkua tulli- ja kiintiöittä, jos ne täyttävät alkuperäsääntöjen vaatimukset. Alahuoneen kirjasto toteaa, että vaatimusten noudattaminen voi olla työlästä ja että vain 10–53 % Yhdistyneen kuningaskunnan tekstiili- ja vaatetuseksporteista vaati etuuskohteluun oikeuttavia tariffikantoja vuonna 2022. Tavarat, jotka eivät täytä alkuperäsääntöjä, voivat joutua tullien kohteeksi. Yritysten on määritettävä komponenttien alkuperä ja säilytettävä toimittajien ilmoitukset.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Tulliselvitykset ovat pakollisia kaikille tavaroille, jotka saapuvat Iso-Britanniaan EU:sta ja päinvastoin. EU otti käyttöön täydelliset tullivalvonnat 1. tammikuuta 2021, kun taas Yhdistynyt kuningaskunta on vaiheittain ottanut käyttöön omia valvontojaan, ja joitakin rajatarkastuksia toteutetaan edelleen. Digitaaliset tullijärjestelmät, kuten Yhdistyneen kuningaskunnan tulliselvityspalvelu (CDS) ja EU:n tuontivalvontajärjestelmä 2 (ICS2), ovat keskeisiä ilmoitusten käsittelyssä.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Saniteetti- ja kasvinsuojelutarkastukset (SPS)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Elävien eläinten, eläintuotteiden ja tiettyjen kasvien tuontiin sovelletaan SPS-tarkastuksia. Institute for Government selittää, että tällaiset tavarat on ilmoitettava ennakkoon Yhdistyneen kuningaskunnan tuotteiden, eläinten, elintarvikkeiden ja rehujen tuontijärjestelmän (IPAFFS) tai EU:n TRACES-järjestelmän kautta ja ohjattava rajatarkastuspisteiden (BCP) kautta. Näillä pisteillä lähetykset käyvät läpi asiakirja-, identiteetti- ja fyysiset tarkastukset eläinten terveys- ja elintarviketurvallisuussääntöjen noudattamisen varmistamiseksi. Yritysten tulisi varata ylimääräistä aikaa BCP-pisteillä ja varmistaa, että asiakirjat ovat virheettömiä.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Raja-alueen kohdennettu toimintamalli (BTOM)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Yhdistyneen kuningaskunnan raja-alueen kohdennettu toimintamalli (Border Target Operating Model, BTOM) ehdottaa riskipohjaista lähestymistapaa SPS-tarkastuksiin ja ottaa käyttöön yhden kauppapisteen digitaalisten tuontimenettelyjen osalta. Alahuoneen kirjaston mukaan BTOM pyrkii yksinkertaistamaan rajaprosesseja ja ottaa uudet tarkastukset käyttöön vaiheittain useiden vuosien aikana. Malli sisältää eri valvontatasoja tavaroiden riskiluokituksen (matala, keskitaso, korkea) mukaan. Yritysten tulisi seurata BTOM-käyttöönottoa mukauttaakseen toimitusaikoja ja dokumentointivaatimuksia.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Kabotaasi ja kuljettajien lähettäminen Yhdistyneessä kuningaskunnassa"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "EU:n liikkuvuuspaketin kabotaasia ja kuljettajien lähettämistä koskevat säännöt vaikuttavat myös Yhdistyneessä kuningaskunnassa toimiviin EU-kuljetusyrityksiin. Kabotaasi (kotimainen rahtikuljetus vieraassa maassa) on rajoitettu kahteen toimenpiteeseen seitsemän päivän kuluessa kansainvälisestä toimituksesta Yhdistyneessä kuningaskunnassa. Neljän päivän jäähdyttelyjakso kabotaasin jälkeen, jota kuvattiin aiemmin, ei koske EU:n ulkopuolisia toimia, mutta Yhdistynyt kuningaskunta on hyväksynyt vastaavia rajoituksia. Ristikkäiskaupan toimet (esim. Irlanti-Iso-Britannia-Ranska) voivat olla rajoitettuja, ja kuljettajat saattavat tarvita lähettämisilmoituksia EU:ssa IMI-portaalin kautta.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Käytännön toimenpiteet rahdinantajille ja kuljetusyrityksille"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Ymmärrä alkuperäsäännöt: Kokoa tietokanta toimittajien ilmoituksista todistaaksesi alkuperän. Harkitse vapaakauppaneuvojien käyttöä selvittääksesi, mitkä tuotteet oikeuttavat nollatariffeihin.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Valmistele tarkat tulliselvitykset: Varmista, että sinulla tai tullivälittäjälläsi on kaikki tarvittavat koodit (tavaroiden koodit, arvo, paino) ja että käytät asianmukaisia IT-järjestelmiä (CDS, NCTS).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Ennakoi SPS-tarkastukset: Jos lähetät elintarvikkeita tai kasveja, ilmoita lähetyksistä ennakkoon ja varaa aikaa tarkastuksiin BCP-pisteillä. Lämpötilasäädellyt ajoneuvot saattavat joutua jonottamaan erikoislaitoksissa.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Kumppanuus kokeneiden huolitsijoiden kanssa: Digitaalinen huolitsija voi hoitaa tulliasiakirjat, taata TIR-carnetit ja hallita ristikuormausta raja-alueiden solmukohdissa.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Yhteenveto"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Brexitin jälkeinen kauppa tuo uusia hallinnollisia kerroksia EU:n ja Yhdistyneen kuningaskunnan välisiin tieliikennerahtikuljetuksiin. Tulliselvitykset, alkuperäsäännöt ja SPS-tarkastukset on otettava huomioon kauttakulkuajoissa ja kustannuksissa. Yritykset, jotka investoivat näiden vaatimusten ymmärtämiseen ja tekevät yhteistyötä osaavien kumppaneiden kanssa, navigoivat Brexitin jälkeisessä maisemassa sujuvammin ja ylläpitävät luotettavia toimitusketjuja.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lähteet"
+    },
+    {
+      "type": "citation",
+      "text": "Kauppa EU:n kanssa Brexitin jälkeen (House of Commons Library, 2023) - Käsittelee EU:n ja Yhdistyneen kuningaskunnan kauppa- ja yhteistyösopimusta, jossa todetaan, että tavaroiden on täytettävä alkuperäsäännöt, jotta ne voivat saada nollatariffit, ja että vain 10-53 % Yhdistyneen kuningaskunnan tekstiili- ja vaatetuseksporteista vaati etuuskohteluun oikeuttavia tariffikantoja vuonna 2022; huomioi myös täydelliset tullivalvonnat ja Yhdistyneen kuningaskunnan rajatarkastusten jatkuvan toteuttamisen.",
+      "author": "House of Commons Library",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-8397/CBP-8397.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Raja-alueen kohdennettu toimintamalli (House of Commons Library, 2023) - Selittää Yhdistyneen kuningaskunnan raja-alueen kohdennetun toimintamallin, joka ehdottaa riskipohjaista lähestymistapaa SPS-tarkastuksiin ja yhden kauppapisteen kehittämistä.",
+      "author": "House of Commons Library",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-9710/CBP-9710.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Selitys: Ison-Britannian ja EU:n raja (Institute for Government, 2022) - Kuvaa SPS-vaatimuksia Ison-Britannian ja EU:n rajan ylittävälle tavaraliikenteelle, jossa todetaan, että eläin- ja kasviperäiset tuotteet on ilmoitettava ennakkoon IPAFFS- tai TRACES-järjestelmän kautta ja ohjattava rajatarkastuspisteiden kautta, joissa ne käyvät läpi asiakirja-, identiteetti- ja fyysiset tarkastukset.",
+      "author": "Institute for Government",
+      "url": "https://www.instituteforgovernment.org.uk/explainer/gb-eu-border"
+    }
+  ],
+  "tags": [
+    "Brexitin jälkeinen tieliikennerahti",
+    "EU-UK tulli",
+    "SPS-tarkastukset",
+    "alkuperäsäännöt",
+    "TCA UK",
+    "rajaprosessit",
+    "tieliikennerahti Eurooppa"
+  ]
+}

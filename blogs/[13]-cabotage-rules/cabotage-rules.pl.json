@@ -1,0 +1,231 @@
+{
+  "id": "eu-cabotage-rules-and-the-mobility-package-navigating-cooling-off-periods-and-vehicle-return-requirements",
+  "shortId": "eu-cabotage-rules",
+  "language": "pl",
+  "isVisible": true,
+  "readTime": 300,
+  "title": "Unijne przepisy dotyczące kabotażu i Pakiet Mobilności: Okresy cooling-off i obowiązek powrotu pojazdu",
+  "description": "Europejscy załadowcy i przewoźnicy od dawna czerpią korzyści z kabotażu - prawa przewoźników drogowych z jednego kraju UE do wykonywania przewozów krajowych w innym państwie członkowskim - ponieważ pomaga to zmniejszyć liczbę pustych przebiegów i zwiększyć wydajność. Jednak kabotaż może również...",
+  "publishedAt": "2025-12-01T00:00:00.000Z",
+  "category": "Transport",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Eksperci ds. technologii logistycznych",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "cabotage-rules-hero.png",
+  "imageAlt": "Ilustracja mapy UE pokazująca ciężarówkę przekraczającą granice ze strzałkami wskazującymi trasy kabotażowe, z ikoną kalendarza ilustrującą czterodniowy okres cooling-off.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Europejscy załadowcy i przewoźnicy od dawna czerpią korzyści z kabotażu – prawa przewoźników drogowych z jednego kraju UE do wykonywania przewozów krajowych w innym państwie członkowskim – ponieważ pomaga to zmniejszyć liczbę pustych przebiegów i zwiększyć wydajność. Jednak kabotaż może również zakłócać rynki i umożliwiać nieuczciwą konkurencję, jeśli pojazdy pozostają na stałe w krajach, w których koszty są niższe. Aby temu zaradzić, Pakiet Mobilności UE wprowadza nowe przepisy dotyczące kabotażu i delegowania kierowców. W tym artykule wyjaśniono, co te przepisy oznaczają dla przewoźników i załadowców, koncentrując się na okresach cooling-off, wymogach dotyczących powrotu do kraju i cyfrowych deklaracjach delegowania.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "cabotage-rules-visual-1.png",
+      "alt": "Zdjęcie europejskiej ciężarówki wracającej do swojej bazy o zachodzie słońca, w tle magazyn.",
+      "caption": "Zdjęcie europejskiej ciężarówki wracającej do swojej bazy o zachodzie słońca, w tle magazyn."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Co to jest kabotaż?"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kabotaż ma miejsce, gdy przewoźnik zarejestrowany w jednym państwie członkowskim UE wykonuje krajowe operacje transportowe w innym państwie członkowskim. Na przykład polski przewoźnik dostarczający towary do Francji, a następnie wykonujący wiele ładunków krajowych we Francji przed powrotem do domu, angażuje się w kabotaż. Kabotaż pomaga zmniejszyć puste przebiegi i wspiera zrównoważone przepływy w całej Europie, ale budzi kontrowersje, ponieważ niektórzy operatorzy wykorzystywali go do omijania lokalnych przepisów pracy i płac.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Zgodnie z prawem UE, przewoźnik niemający siedziby w danym kraju może wykonać do trzech operacji kabotażowych w ciągu siedmiu dni od dostawy międzynarodowej. Operacje te muszą odbyć się po rozładunku towarów z przychodzącego ładunku międzynarodowego.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Okres cooling-off w Pakiecie Mobilności"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Aby zapobiec ciągłemu kabotażowi, Pakiet Mobilności wprowadza okres \"cooling-off\". Po zakończeniu operacji kabotażowej w państwie członkowskim, przewoźnik musi odczekać cztery dni, zanim będzie mógł wykonać kolejne operacje kabotażowe w tym samym kraju. Okres czterech dni rozpoczyna się o godzinie 00:00 dnia następującego po ostatnim rozładunku w tym państwie i kończy o 23:59 czwartego dnia. W tym czasie przewoźnik może albo wrócić do swojego kraju, podjąć ładunki międzynarodowe do innych państw członkowskich, albo wykonać kabotaż w innym państwie członkowskim.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Celem tej zasady jest zapewnienie, że zagraniczne ciężarówki nie pozostaną na stałe na rynkach pracy o niskich kosztach, jednocześnie pozwalając na elastyczność w operacjach transgranicznych. Dla załadowców okres cooling-off oznacza, że w okresach szczytowych może być mniej dostępnych zagranicznych przewoźników do transportu krajowego na krótki termin, dlatego kluczowe staje się planowanie z wyprzedzeniem i korzystanie z usług uznanych partnerów spedycyjnych.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Wymóg powrotu pojazdu do kraju"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kolejnym kluczowym elementem Pakietu Mobilności jest wymóg powrotu pojazdu. Firmy transportowe muszą organizować swoje operacje w taki sposób, aby każdy pojazd używany w międzynarodowym transporcie drogowym wracał do państwa członkowskiego siedziby co najmniej raz na osiem tygodni. Chociaż Europejski Trybunał Sprawiedliwości unieważnił ten nakazowy obowiązek, ogólny cel pozostaje: ciężarówki nie powinny przebywać w innym kraju przez długi czas. Zasada ta dotyczy pojazdów o masie całkowitej powyżej 2,5 tony, zaangażowanych w transport międzynarodowy.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Przewoźnicy muszą planować harmonogramy i ładunki tak, aby uwzględnić podróż powrotną w ciągu ośmiotygodniowego okna. Niezastosowanie się do tego wymogu może skutkować grzywnami lub utratą praw do kabotażu. Dla załadowców współpracujących z zagranicznymi przewoźnikami rozsądne jest zweryfikowanie, czy ich partnerzy przestrzegają wymogu powrotu, ponieważ jego nieprzestrzeganie może zakłócić dostawy.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Delegowanie kierowców i portal IMI"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Pakiet Mobilności zawiera również dyrektywę \"Lex specialis\" w sprawie delegowania kierowców (dyrektywa 2020/1057). Operacje kabotażowe i cross-trade (kolejne przewozy międzynarodowe między krajami trzecimi) są uważane za delegowanie, co oznacza, że kierowcy muszą otrzymywać wynagrodzenie zgodne z minimalną płacą i warunkami pracy kraju przyjmującego. Aby uprościć zgodność, deklaracje muszą być składane elektronicznie za pośrednictwem portalu Systemu Wymiany Informacji na Rynku Wewnętrznym (IMI). IRU zauważa, że portal IMI jest jedynym oficjalnym narzędziem do składania deklaracji delegowania i że władze krajowe nie mogą nakładać dodatkowych systemów powiadamiania.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kierowcy muszą posiadać kopię deklaracji delegowania, dowody operacji transportowych i zapisy z tachografu, aby wykazać zgodność podczas kontroli drogowych. W przeciwieństwie do tego transport dwustronny (jeden etap w jedną stronę i jeden w stronę powrotną z możliwymi dodatkowymi etapami cross-trade) jest wyłączony z przepisów o delegowaniu.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Inteligentne tachografy i egzekwowanie przepisów"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Pakiet Mobilności wymaga instalacji inteligentnych tachografów drugiej generacji w pojazdach wykonujących transport międzynarodowy w celu rejestrowania przekroczeń granic i działań kabotażowych. Pojazdy o masie od 2,5 do 3,5 tony będą podlegać przepisom dotyczącym tachografów w operacjach transgranicznych od połowy 2026 r., co wprowadzi mniejsze furgonetki do ram regulacyjnych.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Inteligentne tachografy automatycznie rejestrują przekroczenia granic i pozycję pojazdu podczas załadunku i rozładunku, co ułatwia organom kontrolnym weryfikację okresów cooling-off i powrotów pojazdów. Przewoźnicy powinni planować harmonogramy modernizacji i przeznaczać środki na aktualizacje tachografów.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Praktyczne porady dla załadowców i przewoźników"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Sprawdzaj zgodność przewoźnika: Upewnij się, że przewoźnicy, z którymi podpisujesz umowy, przestrzegają okresów cooling-off i wymogów dotyczących powrotu. W razie potrzeby poproś o dowód deklaracji delegowania i dane z tachografu.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Planuj wokół okresów cooling-off: Jeśli Twoje operacje opierają się na zagranicznych przewoźnikach, weź pod uwagę czterodniowe okno bez kabotażu podczas planowania przesyłek krajowych.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Używaj dokumentacji cyfrowej: Zachęcaj przewoźników do składania deklaracji delegowania za pośrednictwem portalu IMI i prowadzenia elektronicznych listów przewozowych (e-CMR) w celu usprawnienia zgodności.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Zaangażuj zaufanego spedytora: Cyfrowy spedytor, taki jak Logifie, może pomóc w zarządzaniu zgodnością z przepisami kabotażowymi, deklaracjami delegowania i planowaniem tras, zmniejszając obciążenie administracyjne dla załadowców.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Wniosek"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Pakiet Mobilności UE przekształca przepisy dotyczące kabotażu i delegowania, aby zrównoważyć otwartość rynku z uczciwą konkurencją. Okresy cooling-off i wymogi dotyczące powrotu pojazdów oznaczają, że przewoźnicy muszą starannie planować operacje, podczas gdy załadowcy muszą zapewnić zgodność partnerów. Rozumiejąc te zasady i korzystając z narzędzi cyfrowych, menedżerowie logistyki mogą poruszać się po nowym krajobrazie i kontynuować optymalizację transgranicznego transportu drogowego.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Źródła"
+    },
+    {
+      "type": "citation",
+      "text": "Pytania i odpowiedzi: Pakiet Mobilności I - Kabotaż (Komisja Europejska, 2021) - Wyjaśnia czterodniowy okres cooling-off po operacji kabotażowej i ograniczenia w wykonywaniu kabotażu w tym samym państwie członkowskim w tym okresie.",
+      "author": "Komisja Europejska",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021XC0816(01)"
+    },
+    {
+      "type": "citation",
+      "text": "Pakiet Mobilności I - Obowiązek powrotu i licencjonowanie (Federalne Ministerstwo Cyfryzacji i Transportu, 2023) - Opisuje wymóg, aby pojazdy w transporcie międzynarodowym wracały do państwa członkowskiego siedziby co najmniej co osiem tygodni i zauważa, że pojazdy powyżej 2,5 t potrzebują licencji wspólnotowej.",
+      "author": "Federalne Ministerstwo Cyfryzacji i Transportu",
+      "url": "https://www.bmdv.bund.de/SharedDocs/EN/Articles/G/mobility-package.html"
+    },
+    {
+      "type": "citation",
+      "text": "Delegowanie kierowców: Lex specialis (Międzynarodowa Unia Transportu Drogowego, 2023) - Wyjaśnia, że operacje kabotażowe i cross-trade są traktowane jako delegowanie, co wymaga deklaracji za pośrednictwem portalu IMI, i wyjaśnia, że operacje dwustronne nie są uważane za delegowanie.",
+      "author": "Międzynarodowa Unia Transportu Drogowego",
+      "url": "https://www.iru.org/news-resources/iru-advises-on-posting-of-drivers-legislation"
+    }
+  ],
+  "tags": [
+    "przepisy kabotażowe",
+    "pakiet mobilności UE",
+    "okres cooling-off",
+    "powrót ciężarówki do kraju",
+    "delegowanie kierowców",
+    "portal IMI",
+    "transport drogowy w Europie"
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": "low-emission-zones-and-the-eurovignette-what-europe-s-new-toll-reforms-mean-for-freight-costs",
+  "shortId": "low-emission-zones",
+  "language": "es",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Zonas de bajas emisiones y Euroviñeta: impacto de las nuevas reformas de peaje en los costes de transporte",
+  "description": "El transporte de mercancías por carretera está bajo una presión creciente para descarbonizarse. Las ciudades europeas amplían las zonas de bajas emisiones (ZBE) y los gobiernos reforman los peajes de acuerdo con la Euroviñeta revisada. Entender cómo afectan estas medidas a los costes es clave para los responsables de logística...",
+  "publishedAt": "2025-12-02T00:00:00.000Z",
+  "category": "Sostenibilidad",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Expertos en tecnología logística",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "low-emission-zones-hero.png",
+  "imageAlt": "Ilustración de un mapa de una ciudad europea con zonas de bajas emisiones resaltadas, pórticos de peaje y camiones de distintos colores para vehículos Euro VI y eléctricos.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "El transporte por carretera está sometido a una presión creciente para reducir emisiones. Las ciudades europeas amplían las zonas de bajas emisiones (ZBE) y los gobiernos nacionales reforman los peajes de acuerdo con la Euroviñeta revisada. Para los gestores de logística que planifican trayectos de larga distancia y entregas urbanas en todo el continente, entender cómo se traducen estas medidas en costes es esencial.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "low-emission-zones-visual-1.png",
+      "alt": "Camión pesado eléctrico pasando por un peaje en una autopista europea con aerogeneradores al fondo.",
+      "caption": "Un camión pesado eléctrico atraviesa un peaje: la señal de que la infraestructura y la regulación están impulsando vehículos de bajas emisiones."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Una red creciente de zonas de bajas emisiones"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Las ZBE restringen la entrada de los vehículos más contaminantes a los centros urbanos. Según la Clean Cities Campaign, en Europa había 228 ZBE activas en 2019 y 320 en 2022, un aumento del 40 %. Se espera que el número crezca otro 58 % para 2025 a medida que las ciudades endurecen los estándares. Unas 27 ciudades planean ampliar o endurecer las ZBE existentes y al menos 35 quieren introducir zonas de cero emisiones antes de 2030. Solo la zona ULEZ de Londres redujo las emisiones de CO2 en unas 800.000 toneladas entre 2019 y 2022 y recortó el dióxido de nitrógeno hasta un 46 %. ",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Aunque las ZBE mejoran la calidad del aire, pueden alterar las operaciones de transporte si los camiones diésel antiguos son prohibidos o pagan tasas diarias elevadas. Los gestores de flota deben mapear las ZBE en los corredores clave, planificar rutas alternativas y priorizar la renovación hacia camiones Euro VI o vehículos de cero emisiones para mantener el acceso urbano.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Euroviñeta: de viñetas temporales a peajes por distancia y CO2"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La Directiva Euroviñeta (Directiva (UE) 2022/362) regula cómo cobran los Estados miembros a los vehículos pesados en la red transeuropea de transporte (RTE-T). Las normas revisadas obligan a eliminar progresivamente las viñetas basadas en tiempo en la red central RTE-T de aquí a 2030. A partir de 2024, los peajes y viñetas para vehículos pesados deben variar según las emisiones de CO2, premiando a los camiones más limpios. Desde 2026, los peajes deben incluir también los costes externos de la contaminación atmosférica, de modo que los usuarios paguen por los impactos sociales y ambientales.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Las nuevas normas permiten a los Estados miembros eximir del pago de peajes a los camiones de cero emisiones hasta diciembre de 2025, exención que la Comisión Europea propone prolongar hasta junio de 2031. Los países pueden conceder exenciones totales o parciales, por lo que la rentabilidad de invertir en camiones eléctricos varía entre fronteras. El Observatorio Europeo de Combustibles Alternativos calcula que los vehículos pesados generan el 27,5 % de las emisiones de CO2 del transporte por carretera de la UE, lo que convierte la diferenciación de peajes en una palanca potente para la descarbonización. Solo unos pocos países ofrecen exenciones completas por ahora, pero se espera que la cifra aumente a medida que se implemente la directiva.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cómo influyen peajes y ZBE en los costes de transporte"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Los análisis recientes muestran que los peajes representan una parte importante del gasto en transporte. Estudios de proveedores de inteligencia logística y de la IRU sugieren que los peajes pueden suponer en torno al 14 % de los costes totales y hasta el 23 % en determinadas rutas (cifras del segundo trimestre de 2025). El paso de viñetas de tarifa plana a peajes por distancia diferenciados según CO2 ampliará la brecha de costes entre flotas limpias y contaminantes. Al mismo tiempo, Clean Cities Campaign estima que la expansión de las ZBE seguirá reduciendo el NO2 urbano en torno a un 20 % de media.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Para controlar los costes, los transportistas pueden:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Invertir en vehículos más limpios: Renovar la flota hacia camiones Euro VI o de cero emisiones reduce los peajes y evita sanciones en las ZBE.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Optimizar las rutas: Ajustar rutas para evitar múltiples ZBE o tramos con peajes elevados puede generar ahorros y reducir CO2.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Seguir las políticas nacionales: Cada Estado define su propia estructura de peajes y normas de ZBE. Es clave seguir de cerca las exenciones para camiones de cero emisiones y los cambios en las clases de emisiones.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Valorar alternativas intermodales: En largas distancias, el ferrocarril o las soluciones combinadas pueden sortear restricciones de ZBE y reducir el gasto en peajes.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Planificar la transición hacia el transporte de cero emisiones"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Las reformas de la Euroviñeta y la expansión de las ZBE envían un mensaje claro: operar camiones antiguos de combustión será cada vez más caro. Los responsables de logística deben diseñar hojas de ruta para electrificar o adoptar alternativas de bajas emisiones. Aunque los camiones de cero emisiones siguen siendo caros y la infraestructura de recarga es desigual, los primeros adoptantes pueden beneficiarse de exenciones de peajes y ventajas de acceso urbano. Los programas de renovación de flota y las ayudas públicas pueden compensar parte de la inversión.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusión"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Las zonas de bajas emisiones y las reformas de peajes están reconfigurando la estructura de costes del transporte por carretera europeo. Entendiendo la Directiva Euroviñeta y siguiendo la expansión de las ZBE, cargadores y transportistas pueden anticipar dónde subirán los costes y planificar inversiones en equipos más limpios y rutas más inteligentes. A largo plazo, estas medidas no solo reducen CO2 y contaminantes, sino que también favorecen una competencia más equitativa para los operadores sostenibles.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fuentes"
+    },
+    {
+      "type": "citation",
+      "text": "Low-Emission Zones: The Essential Guide (Clean Cities Campaign, 2023) – Proporciona estadísticas sobre el número de ZBE en Europa, informa de un aumento del 40 % entre 2019 y 2022 y destaca que la ULEZ de Londres redujo las emisiones de CO2 en 800.000 toneladas y el NO2 hasta un 46 %. ",
+      "author": "Clean Cities Campaign",
+      "url": "https://cleancitiescampaign.org/wp-content/uploads/2023/05/Low-Emission-Zones-The-Essential-Guide.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Road charging: Eurovignette directive (European Commission, 2023) – Resume la Directiva Euroviñeta revisada, indicando que las viñetas deben desaparecer antes de 2030 y que, desde 2024, los peajes varían según las emisiones de CO2 e incluyen costes externos de contaminación a partir de 2026.",
+      "author": "European Commission",
+      "url": "https://transport.ec.europa.eu/transport-themes/road/road-charging_en"
+    },
+    {
+      "type": "citation",
+      "text": "Zero-emission truck toll exemption until 2025 (European Alternative Fuels Observatory, 2024) – Señala que los vehículos pesados representan el 27,5 % de las emisiones de CO2 del transporte por carretera de la UE y explica que la Directiva Euroviñeta permite eximir de peajes a los camiones de cero emisiones hasta diciembre de 2025, con una propuesta de prórroga hasta 2031.",
+      "author": "European Alternative Fuels Observatory",
+      "url": "https://alternative-fuels-observatory.ec.europa.eu/policies/eurovignette-zero-emission-trucks"
+    }
+  ],
+  "tags": [
+    "zonas de bajas emisiones",
+    "Directiva Euroviñeta",
+    "reforma de peajes",
+    "peajes basados en CO2",
+    "camiones de cero emisiones",
+    "costes de transporte",
+    "ZBE Europa"
+  ]
+}
+

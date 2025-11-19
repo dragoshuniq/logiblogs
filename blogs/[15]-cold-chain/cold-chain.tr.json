@@ -1,0 +1,212 @@
+{
+  "id": "cold-chain-logistics-in-europe-standards-compliance-and-best-practices",
+  "shortId": "cold-chain-logistics",
+  "language": "tr",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Avrupa'da Soğuk Zincir Lojistiği: Standartlar, Uyum ve En İyi Uygulamalar",
+  "description": "Boğazlanabilir gıdalar, ilaçlar ve hassas endüstriyel malzemeler, taşıma boyunca hassas sıcaklık aralıklarında kalmalıdır. Avrupa'da soğuk zincir, tüketicileri korumak için tasarlanmış karmaşık bir uluslararası anlaşma ve düzenleme ağı tarafından yönetilmektedir...",
+  "publishedAt": "2025-12-03T00:00:00.000Z",
+  "category": "Operasyonlar",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Lojistik Teknolojisi Uzmanları",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "cold-chain-hero.png",
+  "imageAlt": "Avrupa çapraz sevkiyat tesisinde paletli çabuk bozulabilen ürünleri yükleyen soğutmalı bir kamyonun fotoğrafı, sıcaklık sensörleri görünür.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Boğazlanabilir gıdalar, ilaçlar ve hassas endüstriyel malzemeler, taşıma boyunca hassas sıcaklık aralıklarında kalmalıdır. Avrupa'da soğuk zincir, tüketicileri korumak ve adil rekabeti sağlamak için tasarlanmış karmaşık bir uluslararası anlaşma ve düzenleme ağı tarafından yönetilmektedir. Bu makale, önemli standartları özetlemekte ve sınırlar ötesinde sıcaklık kontrolünü sağlayan nakliyeciler ve taşıyıcılar için pratik tavsiyeler sunmaktadır.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "cold-chain-visual-1.png",
+      "alt": "Avrupa'da bir soğuk zincir lojistik akışını gösteren illüstrasyon, ATP sertifikaları, HACCP prosedürleri, sıcaklık izleme ve düşük GWP'li soğutucu akışkanlar için simgeler dahil.",
+      "caption": "Avrupa'da bir soğuk zincir lojistik akışını gösteren illüstrasyon, ATP sertifikaları, HACCP prosedürleri, sıcaklık izleme ve düşük GWP'li soğutucu akışkanlar için simgeler dahil"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Düzenleyici çerçeve"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "ATP anlaşması"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Uluslararası Bozulabilir Gıda Maddelerinin Taşınması ve Bu Tür Taşımacılıkta Kullanılacak Özel Ekipmanlar Hakkında Anlaşma (ATP), bozulabilir malların taşınması için teknik standartları belirler. 48 anlaşma yapan ülke arasında gıda maddelerinin sınır ötesi taşınması için geçerlidir. Araçlar, onları yalıtımlı, soğutmalı veya belirlenmiş sıcaklık sınıflarına (A, B veya C) sahip mekanik olarak soğutmalı olarak sınıflandıran ATP sertifikaları taşımalıdır. Derin dondurulmuş kargo için güçlendirilmiş ekipman (F sınıfı) gereklidir. Uluslararası Nakliye Derneği, Avrupa'nın soğuk zincirinin çapraz sevkiyat, uzun mesafeli taşıma ve şehir içi teslimatları kapsadığını ve ATP sınıflarına uyumun sınır ötesi operasyonlar için bir ön koşul olduğunu belirtmektedir.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Gıda hijyeni ve HACCP"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "ATP'nin ötesinde, AB'deki tüm gıda işletmeleri gıda hijyeni hakkındaki 852/2004 sayılı (EC) Yönetmeliği'ne uymalıdır. Yönetmelik, operatörlerin üretim ve taşıma zinciri boyunca Tehlike Analizi ve Kritik Kontrol Noktaları (HACCP) ilkelerini uygulamasını gerektirir. Yönetmeliğin Ek I'i, temizlik ve sıcaklık kontrolü dahil olmak üzere birincil üretim ve taşıma sırasındaki hijyeni kapsarken, Ek II temizlik, taşıma, paketleme ve ısı tedavisini kapsar. İşletmeler, gıdanın güvenli kalmasını sağlamak için tehlikeleri belirlemeli, kritik limitleri belirlemeli, izlemeli ve kayıt tutmalıdır.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "İlaçlar için İyi Dağıtım Uygulamaları"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Tıbbi ürünler, AB'nin İyi Dağıtım Uygulamaları (GDP) kılavuzları kapsamındadır. Kılavuzlar, dağıtım ağının giderek karmaşıklaştığını vurgulamakta ve tıbbi ürünlerin depolama ve taşıma boyunca kalitesini ve bütünlüğünü korumayı amaçlamaktadır. Toptancılar, ürünlerin gerekli sıcaklık aralıklarında kalmasını sağlamak için sorumlulukları, süreçleri ve izlemeyi içeren bir kalite sistemi uygulamalıdır. Sahte ilaçlar ve sıcaklık sapmaları ciddi risklerdir; sağlam dokümantasyon ve eğitim esastır.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "F-gaz düzenlemesi ve soğutucu akışkanlar"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Soğuk zincir taşımacılığı, genellikle hidroflorokarbon (HFC) kullanan soğutma ünitelerine dayanır. AB'nin güncellenmiş F-gaz Yönetmeliği (Yönetmelik EU 2024/573), HFC üretimini ve tüketimini kademeli olarak azaltan kotalar belirler. 2036'ya kadar kota, başlangıç ​​seviyesinin %15'ine düşecek ve yönetmelik, emisyonları azaltmak için geri kazanım yükümlülüklerini ve dijital gümrük kontrollerini genişletecektir. Taşıyıcılar, CO2 veya hidrokarbonlar gibi düşük GWP'li soğutucu akışkanlar kullanan soğutma sistemlerini benimsemeyi planlamalıdır.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Soğuk zinciri sürdürmek için en iyi uygulamalar"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ürün bütünlüğünü korumak, yasal çerçevelere uyumdan daha fazlasını gerektirir. Nakliyeciler ve taşıyıcılar aşağıdaki en iyi uygulamaları uygulayabilirler:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Yolculuk öncesi denetimler: Yüklemeden önce izolasyonu, kapı contalarını, soğutma ünitelerini ve sıcaklık izleme cihazlarını kontrol edin. Ünitenin gerekli ayar noktasına önceden soğutulduğundan emin olun.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sürekli sıcaklık izleme: Geçiş boyunca sıcaklıkları kaydetmek için kalibre edilmiş veri kaydedicileri veya telematik sistemleri kullanın. Gerçek zamanlı uyarılar, sıcaklıklar değişirse sürücülerin ve sevk görevlilerinin müdahale etmesini sağlar.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Doğru yükleme: Hava sirkülasyonunu sağlamak için malları hızlı ve eşit bir şekilde yükleyin. Hava deliklerini tıkamaktan kaçının. Karışık yükler için farklı sıcaklık gereksinimleri olan ürünleri ayırın.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Belgelenmiş prosedürler: Yükleme ve boşaltma kontrol listelerini, temizlik programlarını ve düzeltici eylem kayıtlarını tutun. Açık dokümantasyon denetimler için çok önemlidir ve iddialara karşı savunma sağlayabilir.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Eğitim ve işbirliği: Sürücüleri ve depo personelini hijyen, elleçleme ve acil durum prosedürleri konusunda eğitin. Sıcaklık kontrolünü tehlikeye atabilecek gecikmeleri önlemek ve alım pencerelerini koordine etmek için tedarikçiler ve müşterilerle işbirliği yapın.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Avrupa'nın soğuk zincirindeki yükselen trendler"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Dijital teknolojiler, sıcaklığa duyarlı lojistikte görünürlüğü ve kontrolü geliştiriyor. IoT sensörlerinden gelen gerçek zamanlı veriler, tahmine dayalı bakımı ve otomatik uyarıları etkinleştirir. Değişmez sıcaklık kayıtları oluşturmak için Blockchain platformları test ediliyor. Bu arada, sera gazı emisyonlarını azaltmaya yönelik düzenleyici baskı, filo operatörlerini elektrikli veya hibrit soğutmalı araçlara ve alternatif soğutucu akışkanlara doğru itiyor. Sıcaklık kontrollü kentsel konsolidasyon merkezleri, mesafeleri azaltmaya ve düşük emisyon bölgelerine uyumu sağlamaya yardımcı olabilir.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sonuç"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Avrupa'nın soğuk zinciri ATP anlaşması, HACCP ilkeleri, GDP kılavuzları ve çevre düzenlemeleriyle desteklenmektedir. Nakliyeciler ve taşıyıcılar, sınırlar ötesinde ürün bütünlüğünü korumak için uyumlu ekipmanlara, titiz prosedürlere ve eğitime yatırım yapmalıdır. Teknolojiyi benimseyerek ve daha sıkı soğutucu akışkan kurallarına hazırlanarak, işletmeler sıcaklık kontrollü taşımacılıkta güvenilirliği ve sürdürülebilirliği artırabilir.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Kaynaklar"
+    },
+    {
+      "type": "citation",
+      "text": "Avrupa'nın ATP, HACCP ve GDP altındaki soğuk zinciri (Uluslararası Nakliye Derneği, 2025) - Avrupa'nın soğuk zincirini tanımlar ve operasyonların ATP anlaşması, HACCP ilkeleri ve GDP kılavuzları tarafından yönetilen çapraz sevkiyat, uzun mesafeli taşıma ve şehir içi teslimatları içerdiğini belirtir.",
+      "author": "Uluslararası Nakliye Derneği",
+      "url": "https://www.ifa-forwarding.net/en/cold-chain-logistics-europe-2025/"
+    },
+    {
+      "type": "citation",
+      "text": "852/2004 sayılı (EC) gıda hijyeni Yönetmeliği (Avrupa Komisyonu, 2004) - Gıda hijyeni yönetmeliğini özetler, işletmelerin iyi hijyen uygulamaları ve HACCP prosedürleri uygulaması gerektiğini ve Ek I ve II'nin taşıma, temizlik, paketleme ve sıcaklık kontrolü için gereksinimleri içerdiğini açıklar.",
+      "author": "Avrupa Komisyonu",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l21262"
+    },
+    {
+      "type": "citation",
+      "text": "Beşeri tıbbi ürünler için iyi dağıtım uygulamaları kılavuzları (Avrupa Komisyonu, 2013) - Tıbbi ürünler için dağıtım ağlarının giderek karmaşıklaştığını ve toptancıların depolama ve taşıma sırasında bir kalite sistemi aracılığıyla ürünlerin kalitesini ve bütünlüğünü koruması gerektiğini belirtir.",
+      "author": "Avrupa Komisyonu",
+      "url": "https://ec.europa.eu/health/sites/default/files/files/eudralex/vol-4/2013_gdp_guidelines_en.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Florlu sera gazları hakkında 2024/573 sayılı (EU) Yönetmelik (Avrupa Birliği, 2024) - Güncellenmiş F-gaz yönetmeliği, hidroflorokarbon kotalarını kademeli olarak azaltır, geri kazanım yükümlülüklerini genişletir ve dijital gümrük kontrolleri getirerek taşıyıcıları düşük GWP'li soğutucu akışkanları benimsemeye iter.",
+      "author": "Avrupa Birliği",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R0573"
+    }
+  ],
+  "tags": [
+    "soğuk zincir",
+    "ATP anlaşması",
+    "HACCP",
+    "GDP kılavuzları",
+    "F-gaz düzenlemesi",
+    "sıcaklık kontrolü",
+    "bozulabilir mallar"
+  ]
+}

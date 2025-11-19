@@ -1,0 +1,195 @@
+{
+  "id": "low-emission-zones-and-the-eurovignette-what-europe-s-new-toll-reforms-mean-for-freight-costs",
+  "shortId": "low-emission-zones",
+  "language": "pt",
+  "isVisible": true,
+  "readTime": 270,
+  "title": "Zonas de baixas emissões e Eurovignette: impacto das novas reformas de portagens nos custos de transporte",
+  "description": "O transporte rodoviário de mercadorias enfrenta uma pressão crescente para descarbonizar. As cidades europeias expandem as zonas de baixas emissões (ZBE) e os governos nacionais reformam os sistemas de portagens ao abrigo da diretiva Eurovignette revista. Perceber como estas medidas afetam os custos é essencial para os responsáveis de logística...",
+  "publishedAt": "2025-12-02T00:00:00.000Z",
+  "category": "Sustentabilidade",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Especialistas em tecnologia logística",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "low-emission-zones-hero.png",
+  "imageAlt": "Ilustração de um mapa de cidade europeia com zonas de baixas emissões destacadas, pórticos de portagem e ícones de camiões Euro VI e elétricos.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "O transporte rodoviário de mercadorias na Europa está sob crescente pressão para reduzir emissões. As cidades alargam zonas de baixas emissões (ZBE) e os governos reformam sistemas de cobrança rodoviária em linha com a diretiva Eurovignette revista. Para gestores de logística que planeiam serviços de longo curso e distribuição urbana, é fundamental compreender como estas mudanças alteram a estrutura de custos.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "low-emission-zones-visual-1.png",
+      "alt": "Camião pesado elétrico a passar por um pórtico de portagem numa autoestrada europeia com turbinas eólicas ao fundo.",
+      "caption": "Um camião elétrico a atravessar um pórtico de portagem simboliza a transição para veículos mais limpos e portagens indexadas ao CO2."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rede crescente de zonas de baixas emissões"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "As ZBE restringem a entrada dos veículos mais poluentes em áreas urbanas centrais. De acordo com a Clean Cities Campaign, a Europa tinha 228 ZBE ativas em 2019 e 320 em 2022, um aumento de cerca de 40 %. Até 2025, o número deverá crescer mais 58 %, à medida que as cidades endurecem normas de emissões. Vinte e sete cidades planeiam alargar ou reforçar ZBE existentes e pelo menos 35 pretendem introduzir zonas de emissões zero até 2030. Só a ULEZ de Londres reduziu as emissões de CO2 em cerca de 800.000 toneladas entre 2019 e 2022 e baixou o NO2 até 46 %. ",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Embora as ZBE melhorem a qualidade do ar, podem perturbar operações de transporte se camiões diesel antigos forem proibidos ou sujeitos a taxas diárias elevadas. Os gestores de frota devem mapear ZBE nos principais corredores, planear rotas alternativas e priorizar a renovação da frota para camiões Euro VI ou veículos de emissões zero, garantindo acesso a centros urbanos.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Eurovignette: de vinhetas temporais a portagens por distância e CO2"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A diretiva Eurovignette (Diretiva (UE) 2022/362) define como os Estados-Membros cobram veículos pesados na rede transeuropeia de transportes (RTE-T). As regras revistas exigem a eliminação gradual das vinhetas baseadas em tempo na rede principal da RTE-T até 2030. A partir de 2024, as portagens e vinhetas para veículos pesados devem variar em função das emissões de CO2, recompensando camiões mais limpos. A partir de 2026, as portagens devem também incluir os custos externos da poluição atmosférica, garantindo que os utilizadores pagam o impacto social e ambiental.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "As novas regras permitem que os Estados-Membros isentem camiões de zero emissões de portagens até dezembro de 2025; a Comissão Europeia propõe prolongar essa isenção até junho de 2031. Os países têm liberdade para conceder isenções totais ou parciais, pelo que a atratividade dos camiões elétricos varia entre fronteiras. Segundo o European Alternative Fuels Observatory, veículos pesados geram 27,5 % das emissões de CO2 do transporte rodoviário da UE, tornando a diferenciação de portagens uma poderosa alavanca de descarbonização. Atualmente, apenas alguns países oferecem isenções completas, mas o número deverá aumentar com a implementação da diretiva.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Como portagens e ZBE afetam os custos de transporte"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Análises recentes mostram que custos de portagem representam uma fatia relevante da despesa no transporte rodoviário. Estudos de fornecedores de inteligência logística e da IRU sugerem que as portagens podem corresponder a cerca de 14 % dos custos totais e até 23 % em certas rotas (dados do 2.º trimestre de 2025). A passagem de vinhetas de taxa fixa para portagens por quilómetro diferenciadas por CO2 ampliará o fosso de custos entre frotas limpas e poluentes. Em paralelo, a Clean Cities Campaign estima que a expansão das ZBE continuará a reduzir as concentrações de NO2 nas cidades em cerca de 20 % em média.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Para controlar custos, os transportadores podem:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Investir em veículos mais limpos: Atualizar para camiões Euro VI ou de zero emissões reduz as portagens e evita penalizações em ZBE.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Otimizar rotas: Ajustar rotas para evitar múltiplas ZBE ou secções com portagens elevadas pode gerar poupanças e reduzir CO2.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Acompanhar políticas nacionais: Cada Estado define a sua estrutura de portagens e regras de ZBE. É importante acompanhar isenções para camiões de zero emissões e alterações nas classes de emissões.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Considerar alternativas intermodais: Em longas distâncias, soluções ferroviárias ou combinadas podem contornar restrições de ZBE e reduzir a despesa com portagens.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Planear a transição para transporte de zero emissões"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A reforma da Eurovignette e a expansão das ZBE enviam uma mensagem clara: operar camiões antigos a combustão será cada vez mais caro. Os responsáveis de logística devem desenhar roteiros para eletrificar frotas ou adotar alternativas de baixo carbono. Embora os camiões de zero emissões continuem caros e a infraestrutura de carregamento seja desigual, quem adota cedo pode beneficiar de isenções de portagens e acesso preferencial a cidades. Programas de renovação de frota e incentivos governamentais ajudam a compensar os custos iniciais.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusão"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "As zonas de baixas emissões e as reformas de portagens estão a redefinir a estrutura de custos do transporte rodoviário europeu. Ao compreender a diretiva Eurovignette e seguir a expansão das ZBE, expedidores e transportadores podem antecipar onde os custos irão subir e planear investimentos em equipamentos mais limpos e em planeamento de rotas mais inteligente. A longo prazo, estas medidas reduzem CO2 e poluição atmosférica e criam condições de concorrência mais equitativas para operadores sustentáveis.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fontes"
+    },
+    {
+      "type": "citation",
+      "text": "Low-Emission Zones: The Essential Guide (Clean Cities Campaign, 2023) – Fornece estatísticas sobre o número de ZBE na Europa, indica um aumento de 40 % entre 2019 e 2022 e mostra que a ULEZ de Londres reduziu as emissões de CO2 em 800.000 toneladas e o NO2 até 46 %. ",
+      "author": "Clean Cities Campaign",
+      "url": "https://cleancitiescampaign.org/wp-content/uploads/2023/05/Low-Emission-Zones-The-Essential-Guide.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Road charging: Eurovignette directive (European Commission, 2023) – Resume a diretiva Eurovignette revista, explicando que as vinhetas baseadas em tempo devem ser eliminadas até 2030 e que, a partir de 2024, as portagens variam segundo as emissões de CO2 e incluem custos externos de poluição a partir de 2026.",
+      "author": "European Commission",
+      "url": "https://transport.ec.europa.eu/transport-themes/road/road-charging_en"
+    },
+    {
+      "type": "citation",
+      "text": "Zero-emission truck toll exemption until 2025 (European Alternative Fuels Observatory, 2024) – Indica que os veículos pesados representam 27,5 % das emissões de CO2 do transporte rodoviário da UE e explica que a diretiva Eurovignette permite isentar camiões de zero emissões de portagens até dezembro de 2025, com proposta de prolongamento até 2031.",
+      "author": "European Alternative Fuels Observatory",
+      "url": "https://alternative-fuels-observatory.ec.europa.eu/policies/eurovignette-zero-emission-trucks"
+    }
+  ],
+  "tags": [
+    "zonas de baixas emissões",
+    "diretiva Eurovignette",
+    "reforma de portagens",
+    "portagens baseadas em CO2",
+    "camiões de zero emissões",
+    "custos de transporte rodoviário",
+    "ZBE Europa"
+  ]
+}
+

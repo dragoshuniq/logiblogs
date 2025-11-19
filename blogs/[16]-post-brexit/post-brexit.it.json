@@ -1,0 +1,181 @@
+{
+  "id": "post-brexit-road-freight-between-the-eu-and-uk-customs-sps-checks-and-border-challenges",
+  "shortId": "post-brexit-road",
+  "language": "it",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Trasporto merci su strada post-Brexit tra l'UE e il Regno Unito: dogane, controlli SPS e sfide alla frontiera",
+  "description": "Da quando il Regno Unito ha lasciato l'unione doganale e il mercato unico dell'UE alla fine del 2020, le regole che disciplinano il trasporto merci su strada tra l'UE e il Regno Unito sono cambiate radicalmente. Le merci che attraversano il confine devono ora conformarsi alle formalità doganali, alle regole di origine...",
+  "publishedAt": "2025-12-04T00:00:00.000Z",
+  "category": "Trasporti",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Esperti di Tecnologia Logistica",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "post-brexit-hero.png",
+  "imageAlt": "Foto di camion in coda al posto di controllo di frontiera Regno Unito-UE con funzionari doganali che ispezionano la documentazione, tempo nuvoloso.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Da quando il Regno Unito ha lasciato l'unione doganale e il mercato unico dell'UE alla fine del 2020, le regole che disciplinano il trasporto merci su strada tra l'UE e il Regno Unito sono cambiate radicalmente. Le merci che attraversano il confine devono ora conformarsi alle formalità doganali, alle regole di origine e ai controlli sanitari e fitosanitari (SPS). Per le aziende che spediscono merci attraverso la Manica, la comprensione di queste procedure è essenziale per evitare ritardi e sanzioni.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "post-brexit-visual-1.png",
+      "alt": "Illustrazione di un diagramma della catena di approvvigionamento che mostra le dichiarazioni doganali, i certificati di origine e i controlli SPS tra l'UE e il Regno Unito.",
+      "caption": "Illustrazione di un diagramma della catena di approvvigionamento che mostra le dichiarazioni doganali, i certificati di origine e i controlli SPS tra l'UE e il Regno Unito"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dichiarazioni doganali e regole di origine"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In base all'Accordo di commercio e cooperazione (TCA) tra l'UE e il Regno Unito, le merci possono circolare senza dazi e senza quote se soddisfano i requisiti delle regole di origine. La Biblioteca della Camera dei Comuni rileva che la conformità può essere onerosa e che solo il 10-53% delle esportazioni tessili e di abbigliamento del Regno Unito ha richiesto tariffe preferenziali nel 2022. Le merci che non rispettano le regole di origine possono incorrere in dazi. Le aziende devono determinare l'origine dei componenti e conservare le dichiarazioni dei fornitori.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Le dichiarazioni doganali sono obbligatorie per tutte le merci che entrano in Gran Bretagna dall'UE e viceversa. L'UE ha introdotto controlli doganali completi il 1° gennaio 2021, mentre il Regno Unito ha introdotto gradualmente i propri controlli, con alcune verifiche di frontiera ancora in fase di attuazione. I sistemi doganali digitali come il Customs Declaration Service (CDS) del Regno Unito e il sistema di controllo delle importazioni 2 (ICS2) dell'UE sono centrali per l'elaborazione delle dichiarazioni.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Controlli sanitari e fitosanitari (SPS)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Le importazioni di animali vivi, prodotti animali e alcune piante sono soggette a controlli SPS. L'Institute for Government spiega che tali merci devono essere pre-notificate tramite il sistema britannico di importazione di prodotti, animali, alimenti e mangimi (IPAFFS) o il sistema TRACES dell'UE e instradate attraverso i posti di controllo frontalieri (PCF). In questi posti, le spedizioni sono sottoposte a controlli documentali, di identità e fisici per garantire la conformità alle norme sanitarie animali e di sicurezza alimentare. Le aziende dovrebbero tenere conto di tempo extra ai PCF e assicurarsi che la documentazione sia accurata.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Modello operativo target per le frontiere (BTOM)"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Il modello operativo target per le frontiere del Regno Unito propone un approccio basato sul rischio per i controlli SPS e introduce una finestra unica di commercio per le procedure di importazione digitali. Secondo la Biblioteca della Camera dei Comuni, il BTOM mira a semplificare i processi di frontiera e introdurrà gradualmente nuovi controlli nel corso di diversi anni. Il modello prevede diversi livelli di controllo a seconda della categoria di rischio delle merci (basso, medio, alto). Le aziende dovrebbero monitorare l'implementazione del BTOM per adeguare i tempi di consegna e i requisiti di documentazione.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cabotaggio e distacco nel Regno Unito"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Le regole del Pacchetto Mobilità dell'UE sul cabotaggio e sul distacco influenzano anche i vettori dell'UE che operano nel Regno Unito. Il cabotaggio (trasporto interno in un paese straniero) è limitato a due operazioni entro sette giorni da una consegna internazionale nel Regno Unito. Il periodo di raffreddamento di quattro giorni dopo il cabotaggio, descritto in precedenza, non si applica alle operazioni al di fuori dell'UE, ma il Regno Unito ha adottato restrizioni simili. Le operazioni di cross-trade (ad esempio, Irlanda-Regno Unito-Francia) possono essere limitate e i conducenti potrebbero aver bisogno di dichiarazioni di distacco nell'UE tramite il portale IMI.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Passi pratici per spedizionieri e vettori"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Comprendere le regole di origine: Compilare una banca dati delle dichiarazioni dei fornitori per dimostrare l'origine. Valutare l'utilizzo di consulenti per il libero scambio per determinare quali prodotti si qualificano per tariffe zero.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Preparare dichiarazioni doganali accurate: Assicurarsi che voi o il vostro agente doganale abbiate tutti i codici necessari (codici merceologici, valore, peso) e utilizziate sistemi IT appropriati (CDS, NCTS).",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Anticipare i controlli SPS: Se spedite alimenti o piante, pre-notificare le spedizioni e prevedere tempo per le ispezioni presso i PCF. I veicoli a temperatura controllata potrebbero dover fare la fila in strutture speciali.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Collaborare con spedizionieri esperti: Uno spedizioniere digitale può gestire le pratiche doganali, garantire i carnets TIR e gestire il cross-docking presso gli hub di frontiera.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conclusione"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Il commercio post-Brexit introduce nuovi strati amministrativi per il trasporto merci su strada UE-Regno Unito. Le dichiarazioni doganali, le regole di origine e le ispezioni SPS devono essere prese in considerazione nei tempi di transito e nei costi. Le aziende che investono nella comprensione di questi requisiti e collaborano con partner esperti navigheranno nel panorama post-Brexit in modo più fluido e manterranno catene di approvvigionamento affidabili.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fonti"
+    },
+    {
+      "type": "citation",
+      "text": "Commercio con l'UE dopo la Brexit (Biblioteca della Camera dei Comuni, 2023) - Discute l'Accordo di commercio e cooperazione UE-Regno Unito, notando che le merci devono rispettare le regole di origine per qualificarsi per tariffe zero e che solo il 10-53% delle esportazioni tessili e di abbigliamento ha richiesto tariffe preferenziali nel 2022; nota anche i controlli doganali completi e l'attuazione continua dei controlli di frontiera del Regno Unito.",
+      "author": "Biblioteca della Camera dei Comuni",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-8397/CBP-8397.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Modello operativo target per le frontiere (Biblioteca della Camera dei Comuni, 2023) - Spiega il modello operativo target per le frontiere del Regno Unito, che propone un approccio basato sul rischio per i controlli SPS e lo sviluppo di una finestra unica di commercio.",
+      "author": "Biblioteca della Camera dei Comuni",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-9710/CBP-9710.pdf"
+    },
+    {
+      "type": "citation",
+      "text": "Spiegazione: La frontiera Gran Bretagna-UE (Institute for Government, 2022) - Descrive i requisiti SPS per le merci che attraversano la frontiera GB-UE, affermando che i prodotti animali e vegetali devono essere pre-notificati tramite IPAFFS o TRACES e sottoposti a controlli documentali, di identità e fisici presso i posti di controllo frontalieri.",
+      "author": "Institute for Government",
+      "url": "https://www.instituteforgovernment.org.uk/explainer/gb-eu-border"
+    }
+  ],
+  "tags": [
+    "trasporto merci su strada post-Brexit",
+    "dogane UE-Regno Unito",
+    "controlli SPS",
+    "regole di origine",
+    "TCA Regno Unito",
+    "procedure di frontiera",
+    "trasporto merci su strada Europa"
+  ]
+}

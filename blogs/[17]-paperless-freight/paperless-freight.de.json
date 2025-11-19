@@ -1,0 +1,214 @@
+{
+  "id": "towards-paperless-freight-efti-and-e-cmr-driving-digitalisation-in-europe",
+  "shortId": "towards-paperless-freight",
+  "language": "de",
+  "isVisible": true,
+  "readTime": 240,
+  "title": "Auf dem Weg zur papierlosen Fracht: eFTI und e-CMR treiben die Digitalisierung in Europa voran",
+  "description": "Papier dominiert immer noch den Güterverkehr in Europa. Frachtbriefe, Ladescheine, Zolldokumente und Genehmigungen werden gedruckt, gestempelt und abgelegt, was zu Verwaltungsaufwand führt und das Fehlerrisiko erhöht. Um Abläufe zu optimieren und Umweltziele zu unterstützen...",
+  "publishedAt": "2025-12-05T00:00:00.000Z",
+  "category": "Technologie",
+  "author": {
+    "name": "Logifie Team",
+    "role": "Experten für Logistiktechnologie",
+    "avatar": "/logos/slogo.png"
+  },
+  "image": "paperless-freight-hero.png",
+  "imageAlt": "Illustration eines Tablets, das einen Frachtbrief (e-CMR) mit Häkchen und einem LKW-Symbol anzeigt, EU-Sterne im Hintergrund.",
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Papier dominiert immer noch den Güterverkehr in Europa. Frachtbriefe, Ladescheine, Zolldokumente und Genehmigungen werden gedruckt, gestempelt und abgelegt, was zu Verwaltungsaufwand führt und das Fehlerrisiko erhöht. Um Abläufe zu optimieren und Umweltziele zu unterstützen, bewegt sich die EU auf elektronische Frachttransportinformationen (eFTI) und digitale Frachtbriefe (e-CMR) zu. Dieser Blog erklärt die regulatorischen Treiber, Vorteile und Herausforderungen der papierlosen Fracht.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "paperless-freight-visual-1.png",
+      "alt": "Foto eines LKW-Fahrers, der an einem Grenzkontrollposten in Europa ein Handgerät verwendet, um elektronische Frachtdokumente anzuzeigen.",
+      "caption": "Foto eines LKW-Fahrers, der an einem Grenzkontrollposten in Europa ein Handgerät verwendet, um elektronische Frachtdokumente anzuzeigen"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Warum Digitalisierung wichtig ist"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Güterkraftverkehrsunternehmen führen oft Stapel von Papierdokumenten mit sich, von CMR-Frachtbriefen bis hin zu Gefahrgutdeklarationen. Das Fehlen eines einheitlichen Rechtsrahmens für digitale Dokumente war ein großes Hindernis für den elektronischen Datenaustausch. Die Verordnung (EU) 2020/1056 zielt darauf ab, dies zu überwinden, indem sie vorschreibt, dass die zuständigen Behörden elektronische Frachttransportinformationen akzeptieren müssen, wenn Wirtschaftsakteure verpflichtet sind, reguläre Informationen bereitzustellen. Bis 2027 müssen die Behörden elektronische Informationen über zertifizierte eFTI-Plattformen akzeptieren und elektronisch kommunizieren.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "eFTI-Verordnung: Schlüsselelemente"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Die eFTI-Verordnung legt technische Standards für Plattformen, Datensätze und Verfahren fest. Sie verpflichtet die Mitgliedstaaten zur Einrichtung digitaler Portale und verlangt von den Wirtschaftsakteuren, bei Bedarf Frachtinformationen elektronisch bereitzustellen. Von der Verordnung wird erwartet, dass sie die Verwaltungskosten, insbesondere für KMU, durch die Eliminierung doppelter Dateneingaben und die physische Bearbeitung von Dokumenten senkt.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Wichtige Merkmale sind:",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Akzeptanz elektronischer Daten: Zuständige Behörden müssen Daten akzeptieren, die über zertifizierte eFTI-Plattformen anstelle von Papier bereitgestellt werden.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Sicherheit und Interoperabilität: Plattformen müssen Cybersicherheitsanforderungen erfüllen und gemeinsame Datensätze verwenden, damit Informationen grenzüberschreitend ausgetauscht werden können.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Umsetzungszeitplan: Die Mitgliedstaaten müssen die erforderlichen technischen Spezifikationen bis 2026 übernehmen und eFTI-Dokumente bis Juli 2027 vollständig akzeptieren.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "e-CMR: digitale Frachtbriefe"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Das CMR-Übereinkommen regelt den internationalen Straßentransport. Seit 2008 erlaubt ein Protokoll elektronische Frachtbriefe (e-CMR). Die Akzeptanz war jedoch langsam: Nur etwa 36 europäische Länder haben das eCMR-Protokoll ratifiziert, und die Nutzung ist weiterhin ungleichmäßig. Dennoch beschleunigt eine Welle von Pilotprojekten und nationalen Systemen den Fortschritt. Ein Branchenbericht stellt fest, dass die nationalen Behörden bis Juli 2027 digitale Transportdokumente über zertifizierte Plattformen akzeptieren müssen und dass eine groß angelegte Implementierung bis 2026 mit obligatorischer Anwendung im Jahr 2029 erwartet wird.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Digitale Frachtbriefe bieten mehrere Vorteile: Sie eliminieren die Papierbearbeitung, reduzieren das Risiko von Verlust oder Beschädigung, ermöglichen Statusaktualisierungen in Echtzeit und verkürzen Wartezeiten an den Grenzen. Laut der International Road Transport Union reduziert eCMR den Papierkram, senkt die Bearbeitungskosten und ermöglicht Lastwagen, Grenzkontrollen zu vermeiden, was die Effizienz verbessert.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Herausforderungen und Chancen"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Interoperabilität: Verschiedene nationale eCMR-Systeme sind noch nicht interoperabel. Die eFTI-Verordnung zielt darauf ab, Datenformate zu harmonisieren, aber die Akteure der Branche müssen gemeinsame Standards und Schnittstellen annehmen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Rechtssicherheit: Während die eFTI-Verordnung die Akzeptanz elektronischer Daten vorschreibt, müssen Spediteure und Verlader sicherstellen, dass ihre Systeme alle Anforderungen an Authentifizierung, Integrität und Vertraulichkeit erfüllen.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Investitionen: KMU könnten mit den Kosten für die Integration von eFTI-Plattformen zu kämpfen haben, aber nationale Förderungen und EU-Programme (z.B. Connecting Europe Facility) können Unterstützung bieten.",
+            "bold": false
+          }
+        ],
+        [
+          {
+            "text": "Veränderungsmanagement: Die Einführung erfordert die Schulung des Personals und die Umstellung von papierbasierten Prozessen. Die Kombination digitaler Frachtbriefe mit Routenoptimierung, Telematik und automatischer Zollabfertigung kann größere Vorteile bringen.",
+            "bold": false
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vorbereitung auf papierlose Fracht"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Logistikmanager sollten zunächst die aktuellen Dokumentenflüsse analysieren und identifizieren, wo digitale Lösungen Papier ersetzen können. Die Zusammenarbeit mit digitalen Plattformen, die nach den eFTI-Spezifikationen zertifiziert sind, gewährleistet die Konformität. Die frühzeitige Einführung von eCMR bringt Erfahrungen mit sich und kann die Kundentransparenz verbessern. Die Zusammenarbeit mit Partnern entlang der Lieferkette ist entscheidend, um Interoperabilität und Datenqualität sicherzustellen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fazit"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Europa steht an der Schwelle zu einer papierlosen Frachttransformation. Die eFTI-Verordnung und das eCMR-Protokoll bieten einen rechtlichen Rahmen für elektronische Dokumente und versprechen geringere Kosten, schnellere Grenzabfertigung und verbesserte Nachhaltigkeit. Durch Investitionen in digitale Plattformen und kollaborative Prozesse können sich Verlader und Spediteure an die Spitze dieses Wandels stellen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Quellen"
+    },
+    {
+      "type": "citation",
+      "text": "Verordnung (EU) 2020/1056 über elektronische Frachttransportinformationen (Europäisches Parlament, Rat der Europäischen Union, 2020) - Schafft einen Rechtsrahmen für elektronische Frachttransportinformationen und verlangt von den Behörden, elektronische Daten, die über zertifizierte eFTI-Plattformen bereitgestellt werden, zu akzeptieren, wodurch Hindernisse für die Digitalisierung beseitigt und eine Frist für die Akzeptanz bis Juli 2027 festgelegt werden.",
+      "author": "Europäisches Parlament, Rat der Europäischen Union",
+      "url": "https://eur-lex.europa.eu/eli/reg/2020/1056/oj"
+    },
+    {
+      "type": "citation",
+      "text": "Papierfrachtbriefe werden abgeschafft, eCMR kommt (Trans.info, 2023) - Berichtet, dass nationale Behörden bis Juli 2027 digitale Transportdokumente über zertifizierte eFTI-Plattformen akzeptieren müssen und dass eine groß angelegte Implementierung von eCMR bis 2026 erwartet wird.",
+      "author": "Trans.info",
+      "url": "https://trans.info/en/ecmr-replacing-paper-cmr-279235"
+    },
+    {
+      "type": "citation",
+      "text": "UNECE und IRU fordern digitale Frachtbriefe (International Road Transport Union, 2023) - Erklärt, dass das eCMR-Protokoll von mehr als 30 Ländern ratifiziert wurde und dass digitale Frachtbriefe den Papierkram reduzieren, die Bearbeitungskosten senken und Lastwagen Grenzkontrollen vermeiden lassen, was die Effizienz verbessert.",
+      "author": "International Road Transport Union",
+      "url": "https://www.iru.org/news-resources/newsroom/unece-and-iru-call-digital-consignment-notes"
+    }
+  ],
+  "tags": [
+    "papierlose Fracht",
+    "eFTI",
+    "e-CMR",
+    "digitaler Frachtbrief",
+    "elektronische Frachtinformationen",
+    "EU-Logistik",
+    "Digitalisierung"
+  ]
+}
