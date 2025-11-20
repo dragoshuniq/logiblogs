@@ -107,10 +107,12 @@ async function combineParkings() {
   console.log(`   etransport.pl: ${bySource.etransport}`);
   console.log(`   snapacc.com: ${bySource.snap}\n`);
 
-  // Remove source field before saving
-  const outputData = finalLocations.map(
-    ({ source, ...rest }) => rest
-  );
+  // Remove source field and round coordinates to precision
+  const outputData = finalLocations.map(({ source, ...rest }) => ({
+    ...rest,
+    latitude: roundCoordinate(rest.latitude, DECIMAL_PRECISION),
+    longitude: roundCoordinate(rest.longitude, DECIMAL_PRECISION),
+  }));
 
   // Statistics by country
   const byCountry = {};
