@@ -279,7 +279,7 @@ async function scrapeAllParkings() {
     }
 
     await fs.writeFile(
-      "parkings.json",
+      "eparkings.json",
       JSON.stringify(allParkings, null, 2)
     );
     console.log("\n✅ Data saved to parkings.json");
