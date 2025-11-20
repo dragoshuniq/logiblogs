@@ -1,0 +1,3957 @@
+[
+  {
+    "latitude": 52.300633151052494,
+    "longitude": 15.246019483886704,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1
+  },
+  {
+    "latitude": 51.96269371083439,
+    "longitude": 19.73196041711424,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 10
+  },
+  {
+    "latitude": 50.704714657469644,
+    "longitude": 17.93196213372801,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 9
+  },
+  {
+    "latitude": 51.27545503059257,
+    "longitude": 15.808725477539047,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 8
+  },
+  {
+    "latitude": 52.34342711560369,
+    "longitude": 15.757041992031082,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 11
+  },
+  {
+    "latitude": 54.44935205499095,
+    "longitude": 17.309432150207503,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 12
+  },
+  {
+    "latitude": 54.45152749462368,
+    "longitude": 16.969598950229628,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 13
+  },
+  {
+    "latitude": 51.2736428325314,
+    "longitude": 15.790400625549301,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 16
+  },
+  {
+    "latitude": 50.427314422106555,
+    "longitude": 23.422588826499922,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 18
+  },
+  {
+    "latitude": 52.25639074064137,
+    "longitude": 15.419268728576645,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 19
+  },
+  {
+    "latitude": 51.591409844505634,
+    "longitude": 19.03733265527342,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 22
+  },
+  {
+    "latitude": 51.37418541987975,
+    "longitude": 20.322818876586897,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 36
+  },
+  {
+    "latitude": 54.07881098279732,
+    "longitude": 22.931048990570066,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 24
+  },
+  {
+    "latitude": 50.37551535226261,
+    "longitude": 22.127580763183577,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 25
+  },
+  {
+    "latitude": 51.18604199364115,
+    "longitude": 16.174965025268538,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 103
+  },
+  {
+    "latitude": 54.26832624966026,
+    "longitude": 18.28150761254881,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 39
+  },
+  {
+    "latitude": 51.308156271004506,
+    "longitude": 18.365128160797102,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 58
+  },
+  {
+    "latitude": 52.22353484856653,
+    "longitude": 20.949812055908186,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 42
+  },
+  {
+    "latitude": 54.136816498876335,
+    "longitude": 19.415087820373508,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 44
+  },
+  {
+    "latitude": 51.924784388959786,
+    "longitude": 17.635860563598523,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 45
+  },
+  {
+    "latitude": 51.58078386951074,
+    "longitude": 19.568640710197432,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 51
+  },
+  {
+    "latitude": 51.017143632634316,
+    "longitude": 16.75367844232176,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 54
+  },
+  {
+    "latitude": 50.52376205937231,
+    "longitude": 17.91722071298216,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 55
+  },
+  {
+    "latitude": 51.03825088792795,
+    "longitude": 16.753456713043064,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 56
+  },
+  {
+    "latitude": 52.944100235527245,
+    "longitude": 14.953036428771957,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 60
+  },
+  {
+    "latitude": 51.206682402707536,
+    "longitude": 15.121736646972641,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 63
+  },
+  {
+    "latitude": 51.52500011106983,
+    "longitude": 19.93550789483641,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 70
+  },
+  {
+    "latitude": 52.02396066939013,
+    "longitude": 19.22731888421629,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 87
+  },
+  {
+    "latitude": 51.42971233668325,
+    "longitude": 22.634196401916487,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 81
+  },
+  {
+    "latitude": 51.752148594567274,
+    "longitude": 22.56418001779173,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 82
+  },
+  {
+    "latitude": 49.58046680103138,
+    "longitude": 21.703677297912648,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 97
+  },
+  {
+    "latitude": 52.19009556593116,
+    "longitude": 21.52551067002867,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 98
+  },
+  {
+    "latitude": 51.49516557963474,
+    "longitude": 19.83937215932463,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 99
+  },
+  {
+    "latitude": 51.57023543206183,
+    "longitude": 21.019249082885725,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 101
+  },
+  {
+    "latitude": 51.51577405958673,
+    "longitude": 19.91078865655516,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 100
+  },
+  {
+    "latitude": 51.94615035114494,
+    "longitude": 19.323910595260603,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 104
+  },
+  {
+    "latitude": 51.56171888366905,
+    "longitude": 16.88004267343138,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 111
+  },
+  {
+    "latitude": 51.90587728497254,
+    "longitude": 14.715135217987045,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 112
+  },
+  {
+    "latitude": 52.26972719062466,
+    "longitude": 15.380430342041,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 113
+  },
+  {
+    "latitude": 54.56761524124092,
+    "longitude": 18.022245289169295,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 114
+  },
+  {
+    "latitude": 51.41595736853011,
+    "longitude": 17.93269169458006,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 115
+  },
+  {
+    "latitude": 53.221304875550736,
+    "longitude": 16.788482786499006,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 127
+  },
+  {
+    "latitude": 53.65101701097329,
+    "longitude": 17.31797230371092,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 129
+  },
+  {
+    "latitude": 51.388649257068494,
+    "longitude": 19.626538873992903,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 128
+  },
+  {
+    "latitude": 50.46870370571394,
+    "longitude": 17.95381409057234,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 133
+  },
+  {
+    "latitude": 50.26754361993248,
+    "longitude": 19.195722462020857,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 131
+  },
+  {
+    "latitude": 53.33046995752918,
+    "longitude": 15.06458413728331,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 132
+  },
+  {
+    "latitude": 53.33765187644475,
+    "longitude": 14.424989940010056,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 187
+  },
+  {
+    "latitude": 52.17758388650888,
+    "longitude": 21.581761957488997,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 145
+  },
+  {
+    "latitude": 49.57682153370498,
+    "longitude": 19.870920301757796,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 159
+  },
+  {
+    "latitude": 52.04012554295517,
+    "longitude": 23.14400923379515,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 146
+  },
+  {
+    "latitude": 54.1585963377523,
+    "longitude": 22.97657501824949,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 147
+  },
+  {
+    "latitude": 51.95113648259845,
+    "longitude": 20.575590254150374,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 148
+  },
+  {
+    "latitude": 52.31007325032035,
+    "longitude": 14.643970848403915,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 161
+  },
+  {
+    "latitude": 52.04919880873595,
+    "longitude": 23.10857188829039,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 165
+  },
+  {
+    "latitude": 52.03366095484645,
+    "longitude": 23.26836717256163,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 166
+  },
+  {
+    "latitude": 53.12215078229761,
+    "longitude": 16.774470926605208,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 170
+  },
+  {
+    "latitude": 50.49097603669162,
+    "longitude": 20.717684747062602,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 182
+  },
+  {
+    "latitude": 52.2153055708861,
+    "longitude": 19.17494070657347,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 175
+  },
+  {
+    "latitude": 53.26129256789342,
+    "longitude": 16.782292248092634,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 185
+  },
+  {
+    "latitude": 52.31051273335321,
+    "longitude": 14.647047342143997,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 188
+  },
+  {
+    "latitude": 53.341271207758716,
+    "longitude": 14.44785845407103,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 204
+  },
+  {
+    "latitude": 51.264097409813665,
+    "longitude": 20.165176512084997,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 201
+  },
+  {
+    "latitude": 51.883823282288,
+    "longitude": 17.065415502868635,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 186
+  },
+  {
+    "latitude": 53.16504191905587,
+    "longitude": 22.936813951812727,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 189
+  },
+  {
+    "latitude": 50.00975995825958,
+    "longitude": 21.064438940368635,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 191
+  },
+  {
+    "latitude": 53.46854023568433,
+    "longitude": 16.86781193391005,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 195
+  },
+  {
+    "latitude": 53.007363156032,
+    "longitude": 14.343267456954782,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 196
+  },
+  {
+    "latitude": 51.18245755382486,
+    "longitude": 22.724483133636365,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 202
+  },
+  {
+    "latitude": 51.30138176773326,
+    "longitude": 20.9726698411331,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 203
+  },
+  {
+    "latitude": 53.698072780378176,
+    "longitude": 22.43312728532408,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 209
+  },
+  {
+    "latitude": 51.440761480888305,
+    "longitude": 22.618188978515608,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 208
+  },
+  {
+    "latitude": 51.95064715205552,
+    "longitude": 20.490725160919173,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 211
+  },
+  {
+    "latitude": 52.29464266287244,
+    "longitude": 15.319082857452377,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 212
+  },
+  {
+    "latitude": 51.73398614922908,
+    "longitude": 20.231495024047835,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 213
+  },
+  {
+    "latitude": 50.432915271518375,
+    "longitude": 16.198289514862044,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 217
+  },
+  {
+    "latitude": 51.41598413318797,
+    "longitude": 19.56592095025633,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 235
+  },
+  {
+    "latitude": 50.66156170277617,
+    "longitude": 19.12977230676268,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 236
+  },
+  {
+    "latitude": 50.435389139243895,
+    "longitude": 16.224961401306135,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 230
+  },
+  {
+    "latitude": 51.90434822128487,
+    "longitude": 15.587389589630112,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 232
+  },
+  {
+    "latitude": 53.649052033512575,
+    "longitude": 19.75642752774809,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 246
+  },
+  {
+    "latitude": 51.804250326359075,
+    "longitude": 19.418380678974135,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 247
+  },
+  {
+    "latitude": 51.99955377926044,
+    "longitude": 20.495140076957686,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 253
+  },
+  {
+    "latitude": 51.61925623397608,
+    "longitude": 16.87431347497557,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 263
+  },
+  {
+    "latitude": 52.0826253117127,
+    "longitude": 16.620683790527327,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 274
+  },
+  {
+    "latitude": 53.47998615853419,
+    "longitude": 20.320394159637434,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 271
+  },
+  {
+    "latitude": 52.10405443779749,
+    "longitude": 16.667735101066572,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 273
+  },
+  {
+    "latitude": 52.278839109236934,
+    "longitude": 16.68779802449797,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 275
+  },
+  {
+    "latitude": 53.08865113631291,
+    "longitude": 21.555036426864607,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 276
+  },
+  {
+    "latitude": 52.262504598938555,
+    "longitude": 15.39519322045897,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 287
+  },
+  {
+    "latitude": 50.6073468099403,
+    "longitude": 16.82238590844725,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 282
+  },
+  {
+    "latitude": 50.581772606816266,
+    "longitude": 16.805241228424055,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 283
+  },
+  {
+    "latitude": 52.25445330571594,
+    "longitude": 15.45735609658812,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 284
+  },
+  {
+    "latitude": 50.305137550276804,
+    "longitude": 19.477740646682722,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 286
+  },
+  {
+    "latitude": 53.234496981600124,
+    "longitude": 14.786138655029282,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 302
+  },
+  {
+    "latitude": 53.09429205911812,
+    "longitude": 20.373346330009444,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 312
+  },
+  {
+    "latitude": 51.293432189464625,
+    "longitude": 17.821093918167087,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 327
+  },
+  {
+    "latitude": 50.85001898063054,
+    "longitude": 20.842394949279768,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 330
+  },
+  {
+    "latitude": 51.18836197962649,
+    "longitude": 20.21590602525328,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 331
+  },
+  {
+    "latitude": 50.85787578519626,
+    "longitude": 15.77521932252501,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 333
+  },
+  {
+    "latitude": 51.63527399265842,
+    "longitude": 14.862270475707993,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 334
+  },
+  {
+    "latitude": 51.28172334221678,
+    "longitude": 18.792843939147932,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 341
+  },
+  {
+    "latitude": 51.66597497281675,
+    "longitude": 14.766504885040268,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 335
+  },
+  {
+    "latitude": 52.59347514953511,
+    "longitude": 15.523392082534775,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 347
+  },
+  {
+    "latitude": 52.50143107723206,
+    "longitude": 16.244723917327864,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 348
+  },
+  {
+    "latitude": 54.257472917040765,
+    "longitude": 23.08077347406004,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 352
+  },
+  {
+    "latitude": 53.80144982895615,
+    "longitude": 18.00339472421263,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 350
+  },
+  {
+    "latitude": 50.75503337869643,
+    "longitude": 20.618950845085127,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 372
+  },
+  {
+    "latitude": 50.88777371841111,
+    "longitude": 18.403730512939436,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 369
+  },
+  {
+    "latitude": 51.25694039875854,
+    "longitude": 15.517888189636215,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 383
+  },
+  {
+    "latitude": 51.17829441177476,
+    "longitude": 16.15620029100035,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 385
+  },
+  {
+    "latitude": 50.02248637415015,
+    "longitude": 19.94696629174803,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 406
+  },
+  {
+    "latitude": 52.03410647712656,
+    "longitude": 23.317821742378218,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 398
+  },
+  {
+    "latitude": 52.584688804930174,
+    "longitude": 21.46479618676756,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 405
+  },
+  {
+    "latitude": 50.0877406849549,
+    "longitude": 20.066968323074324,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 401
+  },
+  {
+    "latitude": 50.33852488423012,
+    "longitude": 21.730120302520735,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 407
+  },
+  {
+    "latitude": 53.15495525387439,
+    "longitude": 17.32673776277159,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 412
+  },
+  {
+    "latitude": 53.24136759819023,
+    "longitude": 21.46011841424559,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 409
+  },
+  {
+    "latitude": 53.14390094406886,
+    "longitude": 17.556554795585615,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 414
+  },
+  {
+    "latitude": 51.227642782952294,
+    "longitude": 18.550307871185286,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 419
+  },
+  {
+    "latitude": 51.37284594448407,
+    "longitude": 18.427258850418074,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 418
+  },
+  {
+    "latitude": 51.22551962643254,
+    "longitude": 18.563064457260115,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 421
+  },
+  {
+    "latitude": 54.1435791524067,
+    "longitude": 22.96496641763304,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 425
+  },
+  {
+    "latitude": 54.17830519136423,
+    "longitude": 22.99667012818907,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 424
+  },
+  {
+    "latitude": 50.81908689123986,
+    "longitude": 19.13813007005308,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 428
+  },
+  {
+    "latitude": 51.66656722002436,
+    "longitude": 17.801016689620955,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 432
+  },
+  {
+    "latitude": 51.33689318705536,
+    "longitude": 15.627236486755356,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 434
+  },
+  {
+    "latitude": 51.68473679487841,
+    "longitude": 17.92050373681639,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 436
+  },
+  {
+    "latitude": 51.0196745811343,
+    "longitude": 16.752884508453352,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 437
+  },
+  {
+    "latitude": 50.1797501578745,
+    "longitude": 20.987105490051253,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 447
+  },
+  {
+    "latitude": 53.82944055708111,
+    "longitude": 22.372058750473006,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 451
+  },
+  {
+    "latitude": 54.10926424773448,
+    "longitude": 19.499439717613203,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 448
+  },
+  {
+    "latitude": 52.97345166698457,
+    "longitude": 18.876877547584517,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 449
+  },
+  {
+    "latitude": 53.83274576298629,
+    "longitude": 22.327652098022444,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 452
+  },
+  {
+    "latitude": 52.61625082151258,
+    "longitude": 20.333435059867842,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 450
+  },
+  {
+    "latitude": 51.236994255799964,
+    "longitude": 15.442915083251938,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 456
+  },
+  {
+    "latitude": 53.053642207009055,
+    "longitude": 21.528418184600813,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 458
+  },
+  {
+    "latitude": 52.325183714391066,
+    "longitude": 14.90715992578123,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 462
+  },
+  {
+    "latitude": 52.87176614946997,
+    "longitude": 15.009126783691391,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 464
+  },
+  {
+    "latitude": 52.66404086344302,
+    "longitude": 15.345425726257336,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 463
+  },
+  {
+    "latitude": 52.20984921879114,
+    "longitude": 21.88304913171385,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 467
+  },
+  {
+    "latitude": 53.910305124324516,
+    "longitude": 15.194821478210434,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 471
+  },
+  {
+    "latitude": 52.67079288269838,
+    "longitude": 19.039080114446623,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 475
+  },
+  {
+    "latitude": 51.693423147410634,
+    "longitude": 15.734814525924667,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 485
+  },
+  {
+    "latitude": 50.108999930168025,
+    "longitude": 22.055525900207503,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 483
+  },
+  {
+    "latitude": 49.56616243454022,
+    "longitude": 21.691668154083235,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 484
+  },
+  {
+    "latitude": 51.88686951076926,
+    "longitude": 16.076345564208967,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 497
+  },
+  {
+    "latitude": 52.89854235020123,
+    "longitude": 16.97041165956114,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 498
+  },
+  {
+    "latitude": 52.322009895662426,
+    "longitude": 15.680687548004135,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 506
+  },
+  {
+    "latitude": 51.266541012036114,
+    "longitude": 16.376205803237898,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 504
+  },
+  {
+    "latitude": 50.97895342257945,
+    "longitude": 17.070463420234663,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 509
+  },
+  {
+    "latitude": 53.708856930168,
+    "longitude": 19.97864854463194,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 517
+  },
+  {
+    "latitude": 50.165264853872785,
+    "longitude": 22.08527159818266,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 518
+  },
+  {
+    "latitude": 51.50913708978718,
+    "longitude": 19.891948820434553,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 520
+  },
+  {
+    "latitude": 53.37733402514697,
+    "longitude": 16.79404300578688,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 523
+  },
+  {
+    "latitude": 51.316398352533206,
+    "longitude": 18.94224298127745,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 527
+  },
+  {
+    "latitude": 51.752060590081356,
+    "longitude": 19.463622839532835,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 537
+  },
+  {
+    "latitude": 51.747060657402855,
+    "longitude": 21.77395832666014,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 541
+  },
+  {
+    "latitude": 53.074363504855306,
+    "longitude": 20.352634311996443,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 542
+  },
+  {
+    "latitude": 52.19573848369328,
+    "longitude": 22.046942831359846,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 549
+  },
+  {
+    "latitude": 50.961758923696884,
+    "longitude": 20.545034529052717,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 552
+  },
+  {
+    "latitude": 53.448117395614,
+    "longitude": 14.3939299596176,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 556
+  },
+  {
+    "latitude": 50.82772317394489,
+    "longitude": 16.305572511039717,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 557
+  },
+  {
+    "latitude": 53.33509573882861,
+    "longitude": 14.424233557067856,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 569
+  },
+  {
+    "latitude": 51.03949893798858,
+    "longitude": 20.42040836938475,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 566
+  },
+  {
+    "latitude": 49.80990226431351,
+    "longitude": 20.660219312988264,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 577
+  },
+  {
+    "latitude": 53.06955639423523,
+    "longitude": 23.081166417680723,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 583
+  },
+  {
+    "latitude": 53.62889460033293,
+    "longitude": 22.414190889678938,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 584
+  },
+  {
+    "latitude": 51.332563017006116,
+    "longitude": 16.300943018280012,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 611
+  },
+  {
+    "latitude": 49.870058560106294,
+    "longitude": 21.410529733978255,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 626
+  },
+  {
+    "latitude": 53.144036083778154,
+    "longitude": 22.79416871198271,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 614
+  },
+  {
+    "latitude": 52.09537460790406,
+    "longitude": 16.113081098876936,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 645
+  },
+  {
+    "latitude": 49.97328556380582,
+    "longitude": 21.30249035485838,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 625
+  },
+  {
+    "latitude": 50.46211506554086,
+    "longitude": 18.16065800317381,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 636
+  },
+  {
+    "latitude": 52.005815257539986,
+    "longitude": 18.530867220245344,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 638
+  },
+  {
+    "latitude": 53.14992181865688,
+    "longitude": 21.812796622833275,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 634
+  },
+  {
+    "latitude": 53.25781406983366,
+    "longitude": 16.506056906066878,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 653
+  },
+  {
+    "latitude": 50.706601863066844,
+    "longitude": 18.745639742694838,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 654
+  },
+  {
+    "latitude": 50.95447383362742,
+    "longitude": 21.294336439453108,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 644
+  },
+  {
+    "latitude": 50.399088229556334,
+    "longitude": 18.876982153736094,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 677
+  },
+  {
+    "latitude": 53.722457021940215,
+    "longitude": 17.69253742822264,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 652
+  },
+  {
+    "latitude": 52.21710010408319,
+    "longitude": 20.200231195770247,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 658
+  },
+  {
+    "latitude": 52.66876787442905,
+    "longitude": 15.326137067161545,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 656
+  },
+  {
+    "latitude": 54.27469154017045,
+    "longitude": 18.870628000579813,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 673
+  },
+  {
+    "latitude": 51.22909399814067,
+    "longitude": 20.17764699586485,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 664
+  },
+  {
+    "latitude": 53.31553846036227,
+    "longitude": 18.508100630126933,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 671
+  },
+  {
+    "latitude": 50.09561506959153,
+    "longitude": 19.8737312568054,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 676
+  },
+  {
+    "latitude": 51.223503880875384,
+    "longitude": 15.36160123475645,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 698
+  },
+  {
+    "latitude": 53.343026312696765,
+    "longitude": 18.29644215234373,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 674
+  },
+  {
+    "latitude": 54.16615313616534,
+    "longitude": 19.355957628570536,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 670
+  },
+  {
+    "latitude": 50.15827831706018,
+    "longitude": 18.84722840913389,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 685
+  },
+  {
+    "latitude": 53.97211783968577,
+    "longitude": 22.95390498765562,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 700
+  },
+  {
+    "latitude": 49.765515542574114,
+    "longitude": 18.651824117980937,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 680
+  },
+  {
+    "latitude": 51.595155674768186,
+    "longitude": 17.821605326019267,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 699
+  },
+  {
+    "latitude": 50.00809134830318,
+    "longitude": 21.072646499954203,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 701
+  },
+  {
+    "latitude": 49.650809463311305,
+    "longitude": 21.154396428002883,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 703
+  },
+  {
+    "latitude": 50.40358291569282,
+    "longitude": 18.809843779884318,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 726
+  },
+  {
+    "latitude": 52.33917465502149,
+    "longitude": 16.108210207305888,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 714
+  },
+  {
+    "latitude": 53.84655895343405,
+    "longitude": 18.81076109536741,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 719
+  },
+  {
+    "latitude": 50.800639004350266,
+    "longitude": 19.103121877990702,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 733
+  },
+  {
+    "latitude": 53.27891175504057,
+    "longitude": 15.329446913085917,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 720
+  },
+  {
+    "latitude": 52.258127792542425,
+    "longitude": 17.830325187526682,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 727
+  },
+  {
+    "latitude": 53.72353620596847,
+    "longitude": 16.67841565736387,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 743
+  },
+  {
+    "latitude": 54.23844701321233,
+    "longitude": 16.32697105407715,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 729
+  },
+  {
+    "latitude": 53.04453561014349,
+    "longitude": 18.003373266540507,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 769
+  },
+  {
+    "latitude": 52.43744439227065,
+    "longitude": 19.47148565366274,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 739
+  },
+  {
+    "latitude": 51.198883847491395,
+    "longitude": 15.094377994537354,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 750
+  },
+  {
+    "latitude": 53.14824450762554,
+    "longitude": 22.046706796966532,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 809
+  },
+  {
+    "latitude": 51.185515777673274,
+    "longitude": 15.050145806156138,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 746
+  },
+  {
+    "latitude": 49.9688002285779,
+    "longitude": 20.30792725213621,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 747
+  },
+  {
+    "latitude": 51.27259575218215,
+    "longitude": 15.77980053552244,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 756
+  },
+  {
+    "latitude": 51.44482732123,
+    "longitude": 17.91192066796873,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 757
+  },
+  {
+    "latitude": 51.52362500051238,
+    "longitude": 15.215860725723246,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 801
+  },
+  {
+    "latitude": 49.95988006990302,
+    "longitude": 18.72386825212095,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 830
+  },
+  {
+    "latitude": 52.869434750017355,
+    "longitude": 17.94790518411253,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 765
+  },
+  {
+    "latitude": 54.36487134697302,
+    "longitude": 16.701836706481913,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 829
+  },
+  {
+    "latitude": 51.252213206373234,
+    "longitude": 22.509784818969706,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 832
+  },
+  {
+    "latitude": 52.806673074820765,
+    "longitude": 18.10967457421873,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 766
+  },
+  {
+    "latitude": 52.981549451133496,
+    "longitude": 17.72735250123594,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 767
+  },
+  {
+    "latitude": 52.810959877750776,
+    "longitude": 18.241607071243266,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 770
+  },
+  {
+    "latitude": 52.8992736729461,
+    "longitude": 18.423686148010233,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 771
+  },
+  {
+    "latitude": 53.101632849445515,
+    "longitude": 18.009172202430705,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 773
+  },
+  {
+    "latitude": 53.079696948581834,
+    "longitude": 17.86173117288206,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 775
+  },
+  {
+    "latitude": 52.83484733099236,
+    "longitude": 18.012181640945414,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 776
+  },
+  {
+    "latitude": 50.424132680558365,
+    "longitude": 18.390491129241923,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 780
+  },
+  {
+    "latitude": 50.064399027005,
+    "longitude": 22.424898268066386,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 798
+  },
+  {
+    "latitude": 50.60998176362075,
+    "longitude": 19.15462029107664,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 785
+  },
+  {
+    "latitude": 50.621772564803244,
+    "longitude": 19.147925497375468,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 784
+  },
+  {
+    "latitude": 51.38674109586334,
+    "longitude": 22.20784318574522,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 786
+  },
+  {
+    "latitude": 53.84398910813764,
+    "longitude": 21.221659303985575,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 812
+  },
+  {
+    "latitude": 54.253104458999275,
+    "longitude": 23.075398327194193,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 796
+  },
+  {
+    "latitude": 51.857431657320525,
+    "longitude": 22.432408453308085,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 803
+  },
+  {
+    "latitude": 53.748286352370755,
+    "longitude": 20.252931238494853,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 814
+  },
+  {
+    "latitude": 50.55645034142346,
+    "longitude": 21.173991085372904,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 807
+  },
+  {
+    "latitude": 53.00013598944648,
+    "longitude": 21.92993414529417,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 810
+  },
+  {
+    "latitude": 53.25872222899747,
+    "longitude": 22.12294054158781,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 811
+  },
+  {
+    "latitude": 52.470023287437115,
+    "longitude": 21.324763418518046,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 813
+  },
+  {
+    "latitude": 51.08328082861026,
+    "longitude": 19.377833725296,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 822
+  },
+  {
+    "latitude": 49.41514106049954,
+    "longitude": 19.664111257873515,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 828
+  },
+  {
+    "latitude": 50.1898900056863,
+    "longitude": 21.894807936035136,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 834
+  },
+  {
+    "latitude": 50.38902022754585,
+    "longitude": 21.759688974700907,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 833
+  },
+  {
+    "latitude": 52.216646547594095,
+    "longitude": 19.387436033569315,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 842
+  },
+  {
+    "latitude": 51.597801564419534,
+    "longitude": 19.096714080654124,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 857
+  },
+  {
+    "latitude": 51.59552390919883,
+    "longitude": 19.131505013786295,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 856
+  },
+  {
+    "latitude": 51.17719639606939,
+    "longitude": 22.295884014450053,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 859
+  },
+  {
+    "latitude": 52.62812752223261,
+    "longitude": 18.153260470710734,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 862
+  },
+  {
+    "latitude": 50.51393887638672,
+    "longitude": 22.15264332421873,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 881
+  },
+  {
+    "latitude": 53.0917116944735,
+    "longitude": 18.775999666534403,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 916
+  },
+  {
+    "latitude": 52.25038113274161,
+    "longitude": 15.562026621185282,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 895
+  },
+  {
+    "latitude": 53.12511560595024,
+    "longitude": 17.880383254371623,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 922
+  },
+  {
+    "latitude": 53.15447755805063,
+    "longitude": 17.887839795433024,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 925
+  },
+  {
+    "latitude": 54.17489544008618,
+    "longitude": 16.128986598335246,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 933
+  },
+  {
+    "latitude": 52.82873165620766,
+    "longitude": 23.195164324127177,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 935
+  },
+  {
+    "latitude": 50.263799053770086,
+    "longitude": 20.732767702423075,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 937
+  },
+  {
+    "latitude": 54.1778530858136,
+    "longitude": 18.687830091796855,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 942
+  },
+  {
+    "latitude": 52.617016211952944,
+    "longitude": 18.939292551361063,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 947
+  },
+  {
+    "latitude": 53.18744538828931,
+    "longitude": 19.036109567962626,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 978
+  },
+  {
+    "latitude": 51.4918657546368,
+    "longitude": 22.075878502212504,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 958
+  },
+  {
+    "latitude": 52.85182863963267,
+    "longitude": 19.691856027923563,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 949
+  },
+  {
+    "latitude": 52.405607200551074,
+    "longitude": 17.09888947137449,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 952
+  },
+  {
+    "latitude": 51.58986343303551,
+    "longitude": 21.983900190673808,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 956
+  },
+  {
+    "latitude": 52.908672983670435,
+    "longitude": 22.09298563130949,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 967
+  },
+  {
+    "latitude": 50.267512759326706,
+    "longitude": 22.7054841531143,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 983
+  },
+  {
+    "latitude": 49.61263977494904,
+    "longitude": 22.11643886693571,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 981
+  },
+  {
+    "latitude": 51.201902987410236,
+    "longitude": 18.587730051361063,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1023
+  },
+  {
+    "latitude": 52.95927123791295,
+    "longitude": 15.73463213571165,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1104
+  },
+  {
+    "latitude": 52.1643974250365,
+    "longitude": 17.380457044921855,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1052
+  },
+  {
+    "latitude": 53.83266978417108,
+    "longitude": 22.392239691101054,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1027
+  },
+  {
+    "latitude": 50.44727830168186,
+    "longitude": 19.040808798156718,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1046
+  },
+  {
+    "latitude": 51.47979664807362,
+    "longitude": 16.91463780530546,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1001
+  },
+  {
+    "latitude": 50.929812291390775,
+    "longitude": 22.255125166259745,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1045
+  },
+  {
+    "latitude": 53.828125050566186,
+    "longitude": 20.82365435489271,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1014
+  },
+  {
+    "latitude": 50.96689429332222,
+    "longitude": 18.74514353402708,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1024
+  },
+  {
+    "latitude": 54.433591871592,
+    "longitude": 18.48696482308958,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1015
+  },
+  {
+    "latitude": 52.50649891014288,
+    "longitude": 21.006889463745097,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1070
+  },
+  {
+    "latitude": 50.433407321806925,
+    "longitude": 16.206851126037577,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1095
+  },
+  {
+    "latitude": 51.382891054719906,
+    "longitude": 20.982921243988017,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1058
+  },
+  {
+    "latitude": 51.38991396795179,
+    "longitude": 19.7763991355896,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1158
+  },
+  {
+    "latitude": 49.473491431517395,
+    "longitude": 22.325106681667307,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1031
+  },
+  {
+    "latitude": 50.471460793666694,
+    "longitude": 16.69758004077528,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1102
+  },
+  {
+    "latitude": 49.764406739406525,
+    "longitude": 18.700082422576884,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1122
+  },
+  {
+    "latitude": 52.81483125630868,
+    "longitude": 17.687253476463297,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1096
+  },
+  {
+    "latitude": 51.369969288623544,
+    "longitude": 20.123235703788737,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1119
+  },
+  {
+    "latitude": 50.30690888724284,
+    "longitude": 19.347119749866465,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1051
+  },
+  {
+    "latitude": 53.15965794180979,
+    "longitude": 17.828664900146464,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1063
+  },
+  {
+    "latitude": 50.882827598172334,
+    "longitude": 18.40644222625349,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1056
+  },
+  {
+    "latitude": 50.85458421610444,
+    "longitude": 21.086046816192606,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1060
+  },
+  {
+    "latitude": 51.564231664761486,
+    "longitude": 22.502395333133677,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1105
+  },
+  {
+    "latitude": 52.79447834416179,
+    "longitude": 18.837862135253886,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1072
+  },
+  {
+    "latitude": 52.96300984308009,
+    "longitude": 20.301988841377238,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1071
+  },
+  {
+    "latitude": 50.51545512259746,
+    "longitude": 19.558534146629313,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1083
+  },
+  {
+    "latitude": 50.436632858160834,
+    "longitude": 20.9371359361038,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1084
+  },
+  {
+    "latitude": 51.30250868513594,
+    "longitude": 15.725008369766215,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1111
+  },
+  {
+    "latitude": 52.22266729694834,
+    "longitude": 16.54382240899656,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1085
+  },
+  {
+    "latitude": 51.60311287251987,
+    "longitude": 18.828721166931132,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1086
+  },
+  {
+    "latitude": 50.64398801173273,
+    "longitude": 19.91840613015745,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1089
+  },
+  {
+    "latitude": 50.64734544502513,
+    "longitude": 19.952459455810526,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1090
+  },
+  {
+    "latitude": 52.405247206728426,
+    "longitude": 14.761183382354716,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1131
+  },
+  {
+    "latitude": 51.095490979964445,
+    "longitude": 22.36743450164795,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1181
+  },
+  {
+    "latitude": 54.685064990919756,
+    "longitude": 18.368904711090067,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1097
+  },
+  {
+    "latitude": 50.494964809618715,
+    "longitude": 17.34889805316925,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1223
+  },
+  {
+    "latitude": 50.06470205936453,
+    "longitude": 21.648173452697733,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1108
+  },
+  {
+    "latitude": 52.17225449993563,
+    "longitude": 18.57010257371519,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1133
+  },
+  {
+    "latitude": 51.652583473637904,
+    "longitude": 18.42782735824585,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1217
+  },
+  {
+    "latitude": 51.71394785216507,
+    "longitude": 17.438392639160156,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1243
+  },
+  {
+    "latitude": 52.150344674081644,
+    "longitude": 18.567227245651225,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1145
+  },
+  {
+    "latitude": 52.13589566499779,
+    "longitude": 18.63300573953245,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1132
+  },
+  {
+    "latitude": 52.37818035253762,
+    "longitude": 16.576459528289774,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1148
+  },
+  {
+    "latitude": 50.45773967268002,
+    "longitude": 20.779942274093628,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1156
+  },
+  {
+    "latitude": 50.8444100381575,
+    "longitude": 17.253320337615946,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1159
+  },
+  {
+    "latitude": 54.24354018252469,
+    "longitude": 18.632091106258372,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1155
+  },
+  {
+    "latitude": 52.12804798990271,
+    "longitude": 20.328869819641113,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1178
+  },
+  {
+    "latitude": 50.13367469532552,
+    "longitude": 21.966991545043925,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1209
+  },
+  {
+    "latitude": 50.678567275615094,
+    "longitude": 17.654600143432617,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1239
+  },
+  {
+    "latitude": 50.74552590644026,
+    "longitude": 22.34121322631836,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1179
+  },
+  {
+    "latitude": 53.70890075851816,
+    "longitude": 18.72344970703125,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1167
+  },
+  {
+    "latitude": 51.19663228364686,
+    "longitude": 17.28595745690916,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1172
+  },
+  {
+    "latitude": 52.06770191197908,
+    "longitude": 18.160561323165894,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1184
+  },
+  {
+    "latitude": 49.58090436650392,
+    "longitude": 21.852879524230957,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1175
+  },
+  {
+    "latitude": 51.85760826110828,
+    "longitude": 19.407214522361755,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1250
+  },
+  {
+    "latitude": 50.05299192254094,
+    "longitude": 22.000765800476074,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1218
+  },
+  {
+    "latitude": 53.96700226626976,
+    "longitude": 14.775704741477966,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1220
+  },
+  {
+    "latitude": 52.810564290342924,
+    "longitude": 18.28066539891813,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1187
+  },
+  {
+    "latitude": 53.01690737883591,
+    "longitude": 18.036149860702494,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1188
+  },
+  {
+    "latitude": 50.99847042563645,
+    "longitude": 21.519159078598022,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1194
+  },
+  {
+    "latitude": 50.67303293389849,
+    "longitude": 20.091328024864197,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1195
+  },
+  {
+    "latitude": 51.46154095432499,
+    "longitude": 18.635902404785156,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1183
+  },
+  {
+    "latitude": 50.42876613980843,
+    "longitude": 21.273672580718994,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1211
+  },
+  {
+    "latitude": 54.05571642676454,
+    "longitude": 15.923599004745483,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1301
+  },
+  {
+    "latitude": 50.430317583620486,
+    "longitude": 21.27556085586548,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1215
+  },
+  {
+    "latitude": 50.83946373135754,
+    "longitude": 17.48103439807892,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1238
+  },
+  {
+    "latitude": 51.07862950626576,
+    "longitude": 17.712551951408386,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1226
+  },
+  {
+    "latitude": 50.68754049673195,
+    "longitude": 17.81184732913971,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1224
+  },
+  {
+    "latitude": 51.063467803495435,
+    "longitude": 18.458629846572876,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1222
+  },
+  {
+    "latitude": 51.288714801089505,
+    "longitude": 17.994714975357056,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1237
+  },
+  {
+    "latitude": 50.88421961645758,
+    "longitude": 17.197723388671875,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1227
+  },
+  {
+    "latitude": 53.35375651510641,
+    "longitude": 14.748523235321045,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1229
+  },
+  {
+    "latitude": 53.36135388568962,
+    "longitude": 14.741351008415222,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1233
+  },
+  {
+    "latitude": 50.552816487240825,
+    "longitude": 17.374706268310547,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1231
+  },
+  {
+    "latitude": 50.9707802542803,
+    "longitude": 18.262817859649658,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1232
+  },
+  {
+    "latitude": 51.50661226218937,
+    "longitude": 16.062692999839783,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1241
+  },
+  {
+    "latitude": 50.25079984523071,
+    "longitude": 18.88221502304077,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1240
+  },
+  {
+    "latitude": 52.60503876093476,
+    "longitude": 21.42905843385313,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1245
+  },
+  {
+    "latitude": 52.00421629801512,
+    "longitude": 19.4522488117218,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1252
+  },
+  {
+    "latitude": 52.45805568738879,
+    "longitude": 19.58547681570053,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1248
+  },
+  {
+    "latitude": 51.946076955689,
+    "longitude": 19.323905110359192,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1249
+  },
+  {
+    "latitude": 51.02309891544785,
+    "longitude": 17.323902547359467,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1268
+  },
+  {
+    "latitude": 51.88988442357696,
+    "longitude": 18.98117351505789,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1267
+  },
+  {
+    "latitude": 51.19198564344851,
+    "longitude": 16.12767219543457,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1282
+  },
+  {
+    "latitude": 51.06632996361763,
+    "longitude": 17.189982533454895,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1272
+  },
+  {
+    "latitude": 51.18337824888178,
+    "longitude": 23.7274968624115,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1311
+  },
+  {
+    "latitude": 51.282749423668605,
+    "longitude": 16.15565299987793,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1283
+  },
+  {
+    "latitude": 50.841802814169064,
+    "longitude": 17.47329354286194,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1275
+  },
+  {
+    "latitude": 51.52630109969177,
+    "longitude": 15.209434032440186,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1276
+  },
+  {
+    "latitude": 53.74389436314219,
+    "longitude": 22.754530419151706,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1278
+  },
+  {
+    "latitude": 51.3804195044968,
+    "longitude": 21.357486248016357,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1310
+  },
+  {
+    "latitude": 51.250527024192685,
+    "longitude": 17.043850421905518,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1291
+  },
+  {
+    "latitude": 51.28676557007572,
+    "longitude": 17.046130299568176,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1292
+  },
+  {
+    "latitude": 52.170916472343535,
+    "longitude": 22.223799526691437,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1386
+  },
+  {
+    "latitude": 51.50601792624246,
+    "longitude": 19.887678623199463,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1303
+  },
+  {
+    "latitude": 51.38777152489091,
+    "longitude": 20.417039394378662,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1313
+  },
+  {
+    "latitude": 51.39534393013952,
+    "longitude": 20.50838482507322,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1314
+  },
+  {
+    "latitude": 51.89821093491295,
+    "longitude": 19.6010684967041,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1330
+  },
+  {
+    "latitude": 51.35682278136607,
+    "longitude": 19.980268598876933,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1320
+  },
+  {
+    "latitude": 52.871334861715646,
+    "longitude": 15.519722700119019,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1316
+  },
+  {
+    "latitude": 53.174078020906464,
+    "longitude": 16.778483511291483,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1321
+  },
+  {
+    "latitude": 49.945199804595724,
+    "longitude": 18.713268041610718,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1323
+  },
+  {
+    "latitude": 51.69189951017086,
+    "longitude": 17.43605375289917,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1338
+  },
+  {
+    "latitude": 52.539274858178175,
+    "longitude": 21.0638165473938,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1331
+  },
+  {
+    "latitude": 50.029164682588046,
+    "longitude": 22.615270614624023,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1337
+  },
+  {
+    "latitude": 53.24064143131801,
+    "longitude": 16.640424728393555,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1340
+  },
+  {
+    "latitude": 50.57106138083929,
+    "longitude": 22.04628825187683,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1369
+  },
+  {
+    "latitude": 49.825166380105394,
+    "longitude": 21.874895216308573,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1336
+  },
+  {
+    "latitude": 50.04996144953152,
+    "longitude": 22.52718699105833,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1350
+  },
+  {
+    "latitude": 54.2457698103363,
+    "longitude": 23.0698299407959,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1360
+  },
+  {
+    "latitude": 52.891951604838624,
+    "longitude": 19.559649337243172,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1379
+  },
+  {
+    "latitude": 52.43157236097426,
+    "longitude": 20.752032548189163,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1366
+  },
+  {
+    "latitude": 52.121283124135395,
+    "longitude": 16.127862632274628,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1377
+  },
+  {
+    "latitude": 54.178138175398665,
+    "longitude": 22.99736738204956,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1355
+  },
+  {
+    "latitude": 53.220848164548656,
+    "longitude": 23.218166828155518,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1374
+  },
+  {
+    "latitude": 49.74699830529149,
+    "longitude": 21.494910933724896,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1365
+  },
+  {
+    "latitude": 53.15021344505746,
+    "longitude": 17.9076291335449,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1358
+  },
+  {
+    "latitude": 54.35781916984572,
+    "longitude": 18.217220306396484,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1371
+  },
+  {
+    "latitude": 53.42649600297005,
+    "longitude": 14.482984663330058,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1397
+  },
+  {
+    "latitude": 50.97816917990125,
+    "longitude": 20.550012588500977,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1389
+  },
+  {
+    "latitude": 51.38405614482586,
+    "longitude": 22.273643137298563,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1518
+  },
+  {
+    "latitude": 53.09053904317412,
+    "longitude": 18.62227690347288,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1405
+  },
+  {
+    "latitude": 52.191059121831046,
+    "longitude": 20.949820102535227,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1399
+  },
+  {
+    "latitude": 51.22855137767719,
+    "longitude": 16.430423140373023,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1398
+  },
+  {
+    "latitude": 51.15745287490545,
+    "longitude": 16.79076802857969,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1400
+  },
+  {
+    "latitude": 50.30577872358659,
+    "longitude": 19.117282390288892,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1401
+  },
+  {
+    "latitude": 50.39602428136764,
+    "longitude": 18.635733546100596,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1402
+  },
+  {
+    "latitude": 52.787462725587716,
+    "longitude": 20.154381424507164,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1403
+  },
+  {
+    "latitude": 51.98200640714084,
+    "longitude": 17.488314033828715,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1404
+  },
+  {
+    "latitude": 50.31468554343822,
+    "longitude": 18.62351608403776,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1406
+  },
+  {
+    "latitude": 50.22022112231198,
+    "longitude": 18.827857495628336,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1407
+  },
+  {
+    "latitude": 51.45927384048003,
+    "longitude": 19.78012752660368,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1408
+  },
+  {
+    "latitude": 52.844759571409504,
+    "longitude": 18.790472866378764,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1409
+  },
+  {
+    "latitude": 54.55770348279664,
+    "longitude": 17.818029820919037,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1422
+  },
+  {
+    "latitude": 50.37251079380118,
+    "longitude": 18.74652609229088,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1452
+  },
+  {
+    "latitude": 52.12419768979671,
+    "longitude": 16.12443209447474,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1455
+  },
+  {
+    "latitude": 52.1463852623898,
+    "longitude": 16.283706362379462,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1457
+  },
+  {
+    "latitude": 54.17313018246203,
+    "longitude": 19.38635766506195,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1442
+  },
+  {
+    "latitude": 52.45934356215921,
+    "longitude": 16.65391355752945,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1443
+  },
+  {
+    "latitude": 52.45821258785306,
+    "longitude": 21.292812824249268,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1665
+  },
+  {
+    "latitude": 53.31341623733572,
+    "longitude": 16.361579596996307,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1453
+  },
+  {
+    "latitude": 50.185365823514026,
+    "longitude": 21.498510092496872,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1444
+  },
+  {
+    "latitude": 51.34752183112317,
+    "longitude": 17.022462487220764,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1470
+  },
+  {
+    "latitude": 51.47531895425764,
+    "longitude": 21.130751073360443,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1461
+  },
+  {
+    "latitude": 49.57590253418561,
+    "longitude": 19.84857738018036,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1477
+  },
+  {
+    "latitude": 51.3052514180925,
+    "longitude": 15.571306943893433,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1498
+  },
+  {
+    "latitude": 52.902880931460636,
+    "longitude": 19.12209302186966,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1481
+  },
+  {
+    "latitude": 50.32830636954935,
+    "longitude": 20.034096390008926,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1591
+  },
+  {
+    "latitude": 52.371080249447665,
+    "longitude": 18.296839119277934,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1530
+  },
+  {
+    "latitude": 52.80950396863438,
+    "longitude": 20.87637585528944,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1496
+  },
+  {
+    "latitude": 52.27207691750097,
+    "longitude": 20.167698562145233,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1607
+  },
+  {
+    "latitude": 52.31164204310398,
+    "longitude": 18.27502727508545,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1499
+  },
+  {
+    "latitude": 51.60269240087615,
+    "longitude": 18.71696949005127,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1500
+  },
+  {
+    "latitude": 52.524462816405205,
+    "longitude": 19.674347788095474,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1522
+  },
+  {
+    "latitude": 50.609947052683296,
+    "longitude": 22.96341061592102,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1669
+  },
+  {
+    "latitude": 51.65625104204007,
+    "longitude": 15.14715313911438,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1528
+  },
+  {
+    "latitude": 51.57011601004971,
+    "longitude": 19.95770037174225,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1525
+  },
+  {
+    "latitude": 50.861488128689714,
+    "longitude": 20.792841017246246,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1579
+  },
+  {
+    "latitude": 52.828875251921865,
+    "longitude": 15.828682333230972,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1611
+  },
+  {
+    "latitude": 52.25859077598911,
+    "longitude": 16.649823309265116,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1604
+  },
+  {
+    "latitude": 49.69169644866416,
+    "longitude": 21.73387259244919,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1595
+  },
+  {
+    "latitude": 51.176867839171315,
+    "longitude": 15.03202736377716,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1596
+  },
+  {
+    "latitude": 50.48637463224295,
+    "longitude": 20.182576775550842,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1592
+  },
+  {
+    "latitude": 53.53484307485643,
+    "longitude": 16.040666699409485,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1632
+  },
+  {
+    "latitude": 50.36423714802669,
+    "longitude": 19.87592786550522,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1627
+  },
+  {
+    "latitude": 50.37889810162324,
+    "longitude": 19.754665195941925,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1626
+  },
+  {
+    "latitude": 50.597172609931555,
+    "longitude": 20.253843069076538,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1628
+  },
+  {
+    "latitude": 50.45918771296625,
+    "longitude": 20.15225976705551,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1630
+  },
+  {
+    "latitude": 50.03333082376723,
+    "longitude": 20.048061311244965,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1631
+  },
+  {
+    "latitude": 52.50995268098111,
+    "longitude": 17.391271591186523,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1650
+  },
+  {
+    "latitude": 52.1636208548606,
+    "longitude": 18.21124446519468,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1663
+  },
+  {
+    "latitude": 50.51280114373534,
+    "longitude": 19.195664757980353,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1657
+  },
+  {
+    "latitude": 50.09586560938598,
+    "longitude": 22.49335616827011,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1678
+  },
+  {
+    "latitude": 52.63047186974503,
+    "longitude": 18.528217197738627,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1708
+  },
+  {
+    "latitude": 50.37051265912737,
+    "longitude": 18.742761611938477,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1729
+  },
+  {
+    "latitude": 52.23395664230162,
+    "longitude": 17.176941633224487,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1733
+  },
+  {
+    "latitude": 51.64058091710556,
+    "longitude": 19.275416256271342,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1759
+  },
+  {
+    "latitude": 53.40742772565873,
+    "longitude": 19.592069685459137,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1718
+  },
+  {
+    "latitude": 51.16779343096256,
+    "longitude": 21.648661494255066,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1722
+  },
+  {
+    "latitude": 52.19228837710025,
+    "longitude": 14.804436564445496,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1767
+  },
+  {
+    "latitude": 51.996396288201986,
+    "longitude": 20.495596052490214,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1742
+  },
+  {
+    "latitude": 49.76507134386812,
+    "longitude": 18.62559199333191,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1771
+  },
+  {
+    "latitude": 53.8876670533367,
+    "longitude": 18.631664514541626,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1778
+  },
+  {
+    "latitude": 52.325333886812,
+    "longitude": 14.651706218719482,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1772
+  },
+  {
+    "latitude": 50.07458332110088,
+    "longitude": 18.66273522377014,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1770
+  },
+  {
+    "latitude": 51.49436670861605,
+    "longitude": 22.572722733020782,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1805
+  },
+  {
+    "latitude": 51.38753784653332,
+    "longitude": 19.369733454071024,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1760
+  },
+  {
+    "latitude": 53.34706087005327,
+    "longitude": 18.709341287612915,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1777
+  },
+  {
+    "latitude": 51.98973973800538,
+    "longitude": 15.22305428981781,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1769
+  },
+  {
+    "latitude": 52.564684829673574,
+    "longitude": 19.126510740600565,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1808
+  },
+  {
+    "latitude": 52.01731151951238,
+    "longitude": 15.126821994781494,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1768
+  },
+  {
+    "latitude": 50.12169077158646,
+    "longitude": 21.969806402921677,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1794
+  },
+  {
+    "latitude": 53.43986065022892,
+    "longitude": 16.83829665184021,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1795
+  },
+  {
+    "latitude": 52.397699107987854,
+    "longitude": 22.872864603996277,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1792
+  },
+  {
+    "latitude": 49.719029074087906,
+    "longitude": 21.45283743739128,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1835
+  },
+  {
+    "latitude": 52.57125429785592,
+    "longitude": 15.636455118656158,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1823
+  },
+  {
+    "latitude": 53.96481516360036,
+    "longitude": 15.595950108545367,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1846
+  },
+  {
+    "latitude": 53.64242194361528,
+    "longitude": 15.053844572387675,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1837
+  },
+  {
+    "latitude": 50.55415321959585,
+    "longitude": 22.038649441085795,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1825
+  },
+  {
+    "latitude": 52.446057683745465,
+    "longitude": 20.611166954040527,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1831
+  },
+  {
+    "latitude": 52.63789851005779,
+    "longitude": 20.01050412611221,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1897
+  },
+  {
+    "latitude": 53.82797302558734,
+    "longitude": 22.94947955804446,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1914
+  },
+  {
+    "latitude": 52.274453423485745,
+    "longitude": 19.165799617767334,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1900
+  },
+  {
+    "latitude": 50.59935867468449,
+    "longitude": 16.80655002593994,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1911
+  },
+  {
+    "latitude": 52.36673709613521,
+    "longitude": 20.809350134216288,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1924
+  },
+  {
+    "latitude": 51.913468877947516,
+    "longitude": 20.69622528680418,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1922
+  },
+  {
+    "latitude": 52.218331925716164,
+    "longitude": 19.386561512947083,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2028
+  },
+  {
+    "latitude": 52.85746672005328,
+    "longitude": 20.635356456041336,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2034
+  },
+  {
+    "latitude": 50.09735566951479,
+    "longitude": 19.96119797229767,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1936
+  },
+  {
+    "latitude": 49.96087328664175,
+    "longitude": 18.52681428194046,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1933
+  },
+  {
+    "latitude": 53.753992683391736,
+    "longitude": 18.938503981910685,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1949
+  },
+  {
+    "latitude": 53.64728348699077,
+    "longitude": 20.052452087402344,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1947
+  },
+  {
+    "latitude": 52.332733089938806,
+    "longitude": 17.52503737807274,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2003
+  },
+  {
+    "latitude": 51.71284436071489,
+    "longitude": 17.438220977783203,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1956
+  },
+  {
+    "latitude": 51.86254128711198,
+    "longitude": 16.572635918855667,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2002
+  },
+  {
+    "latitude": 51.61813479110481,
+    "longitude": 22.265163213014603,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1965
+  },
+  {
+    "latitude": 52.122811478273604,
+    "longitude": 21.49924099445343,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1953
+  },
+  {
+    "latitude": 53.64946476145488,
+    "longitude": 22.46363863348961,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2005
+  },
+  {
+    "latitude": 50.67778543645497,
+    "longitude": 19.126784205436707,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1964
+  },
+  {
+    "latitude": 49.85898572187918,
+    "longitude": 19.022912979125977,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1976
+  },
+  {
+    "latitude": 53.5186245042482,
+    "longitude": 19.044349193572998,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2025
+  },
+  {
+    "latitude": 51.797703577071736,
+    "longitude": 18.165180207572917,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1997
+  },
+  {
+    "latitude": 51.9335231845374,
+    "longitude": 16.556114852428436,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2001
+  },
+  {
+    "latitude": 52.58257952769181,
+    "longitude": 15.026866793632507,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1972
+  },
+  {
+    "latitude": 51.98028829788219,
+    "longitude": 20.83975565560911,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 1982
+  },
+  {
+    "latitude": 53.464100447289255,
+    "longitude": 18.741871118545532,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2024
+  },
+  {
+    "latitude": 52.16519965917139,
+    "longitude": 20.76915442943573,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2000
+  },
+  {
+    "latitude": 51.75355678079363,
+    "longitude": 19.518842697143555,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2029
+  },
+  {
+    "latitude": 52.49740056928004,
+    "longitude": 16.755411028862,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2057
+  },
+  {
+    "latitude": 50.52370058722911,
+    "longitude": 17.917200475931168,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2071
+  },
+  {
+    "latitude": 52.14208257229499,
+    "longitude": 21.503151655197144,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2072
+  },
+  {
+    "latitude": 49.38461019484466,
+    "longitude": 20.951061844825745,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2083
+  },
+  {
+    "latitude": 52.82941814426445,
+    "longitude": 21.876332759857178,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2079
+  },
+  {
+    "latitude": 49.998176718338875,
+    "longitude": 20.62211036682129,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2085
+  },
+  {
+    "latitude": 53.1131359473147,
+    "longitude": 18.060815454803446,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2109
+  },
+  {
+    "latitude": 49.7662425004051,
+    "longitude": 18.65326166152954,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2173
+  },
+  {
+    "latitude": 53.09614098524514,
+    "longitude": 18.01117032766342,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2164
+  },
+  {
+    "latitude": 54.090252454686855,
+    "longitude": 16.368727804504374,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2191
+  },
+  {
+    "latitude": 53.91108362648537,
+    "longitude": 14.440197944641113,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2132
+  },
+  {
+    "latitude": 53.746104124350836,
+    "longitude": 20.45830249786377,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2129
+  },
+  {
+    "latitude": 51.95093539025537,
+    "longitude": 20.577456951141357,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2150
+  },
+  {
+    "latitude": 54.30606034256114,
+    "longitude": 23.11920404434204,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2169
+  },
+  {
+    "latitude": 54.201476800753824,
+    "longitude": 15.747817754745483,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2130
+  },
+  {
+    "latitude": 52.421915111603994,
+    "longitude": 20.40405762322996,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2279
+  },
+  {
+    "latitude": 50.785486200907684,
+    "longitude": 17.348506450653076,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2123
+  },
+  {
+    "latitude": 51.94464846340814,
+    "longitude": 19.326324462890625,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2168
+  },
+  {
+    "latitude": 53.34725541402937,
+    "longitude": 14.838666915893555,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2152
+  },
+  {
+    "latitude": 52.005013293522346,
+    "longitude": 20.08640617132187,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2145
+  },
+  {
+    "latitude": 52.413146117058474,
+    "longitude": 16.764278411865234,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2207
+  },
+  {
+    "latitude": 51.77916774068042,
+    "longitude": 16.311121881008148,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2227
+  },
+  {
+    "latitude": 53.90207527194796,
+    "longitude": 14.275896549224854,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2219
+  },
+  {
+    "latitude": 49.996135274172495,
+    "longitude": 20.035672187805176,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2245
+  },
+  {
+    "latitude": 50.79030173090245,
+    "longitude": 16.033703684806824,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2232
+  },
+  {
+    "latitude": 53.08035091954522,
+    "longitude": 16.112745702266693,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2243
+  },
+  {
+    "latitude": 52.039604186636836,
+    "longitude": 23.14415943749998,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2249
+  },
+  {
+    "latitude": 50.055745086598115,
+    "longitude": 21.4538311958313,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2251
+  },
+  {
+    "latitude": 50.98685768542482,
+    "longitude": 22.322652339935303,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2275
+  },
+  {
+    "latitude": 50.84747388331499,
+    "longitude": 16.38035774230957,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2270
+  },
+  {
+    "latitude": 52.3198591748395,
+    "longitude": 14.936377022741453,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2399
+  },
+  {
+    "latitude": 50.11606230367823,
+    "longitude": 22.073160231129805,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2327
+  },
+  {
+    "latitude": 51.366495640226155,
+    "longitude": 21.49022340774536,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2312
+  },
+  {
+    "latitude": 53.340268348960926,
+    "longitude": 14.437098030058486,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2496
+  },
+  {
+    "latitude": 53.148051983977396,
+    "longitude": 23.05781778820608,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2342
+  },
+  {
+    "latitude": 49.92174736514148,
+    "longitude": 22.819247245788574,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2310
+  },
+  {
+    "latitude": 52.28528459461237,
+    "longitude": 20.17907393106077,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2409
+  },
+  {
+    "latitude": 51.70094916369852,
+    "longitude": 17.426978992464456,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2332
+  },
+  {
+    "latitude": 51.06248336830093,
+    "longitude": 14.984267950057983,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2331
+  },
+  {
+    "latitude": 52.18774084999096,
+    "longitude": 18.244600416503886,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2349
+  },
+  {
+    "latitude": 50.46204351969495,
+    "longitude": 19.232499032150713,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2354
+  },
+  {
+    "latitude": 50.094215998668744,
+    "longitude": 19.921613472370154,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2374
+  },
+  {
+    "latitude": 51.223302301464244,
+    "longitude": 18.114760042510966,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2364
+  },
+  {
+    "latitude": 50.59919240550248,
+    "longitude": 16.806373894139597,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2350
+  },
+  {
+    "latitude": 50.4453702838138,
+    "longitude": 16.87437650694119,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2380
+  },
+  {
+    "latitude": 50.316438567169676,
+    "longitude": 19.136342026322723,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2388
+  },
+  {
+    "latitude": 51.249868244523825,
+    "longitude": 22.5785155258817,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2406
+  },
+  {
+    "latitude": 52.39782068595451,
+    "longitude": 22.871677534537866,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2445
+  },
+  {
+    "latitude": 53.900895004869135,
+    "longitude": 16.841971278190613,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2389
+  },
+  {
+    "latitude": 53.741274372463224,
+    "longitude": 18.63773887024547,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2403
+  },
+  {
+    "latitude": 52.88153919124502,
+    "longitude": 19.590673489123674,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2398
+  },
+  {
+    "latitude": 52.61245207029683,
+    "longitude": 18.908778072401674,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2395
+  },
+  {
+    "latitude": 49.43885302008807,
+    "longitude": 21.689543844543437,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2407
+  },
+  {
+    "latitude": 51.63076698148474,
+    "longitude": 15.131319748604028,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2402
+  },
+  {
+    "latitude": 50.305458943583965,
+    "longitude": 19.338254928588867,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2424
+  },
+  {
+    "latitude": 51.630551851344556,
+    "longitude": 21.925148963928223,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2417
+  },
+  {
+    "latitude": 49.86985770521232,
+    "longitude": 19.02977362022716,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2454
+  },
+  {
+    "latitude": 50.99164138832403,
+    "longitude": 19.415901459843067,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2499
+  },
+  {
+    "latitude": 51.7023245566293,
+    "longitude": 19.604854437376183,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2497
+  },
+  {
+    "latitude": 52.21118107360058,
+    "longitude": 20.686597166142242,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2483
+  },
+  {
+    "latitude": 40.02567556597571,
+    "longitude": 21.395487785339355,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2458
+  },
+  {
+    "latitude": 50.7726389412319,
+    "longitude": 21.434656382062634,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2465
+  },
+  {
+    "latitude": 53.58409324951065,
+    "longitude": 20.2784055186138,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2479
+  },
+  {
+    "latitude": 49.97649571999234,
+    "longitude": 18.71804045603968,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2481
+  },
+  {
+    "latitude": 49.4128273079632,
+    "longitude": 19.66376694717345,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2474
+  },
+  {
+    "latitude": 53.08276781008412,
+    "longitude": 19.413195968948347,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2495
+  },
+  {
+    "latitude": 50.273107065917145,
+    "longitude": 22.403871870354276,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2489
+  },
+  {
+    "latitude": 53.12488896528934,
+    "longitude": 23.253146618476137,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2490
+  },
+  {
+    "latitude": 51.73562666149827,
+    "longitude": 18.030431270599365,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2491
+  },
+  {
+    "latitude": 53.56588865026802,
+    "longitude": 20.979872871149027,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2494
+  },
+  {
+    "latitude": 51.441329261168164,
+    "longitude": 19.67977523803711,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2493
+  },
+  {
+    "latitude": 50.88061241890194,
+    "longitude": 16.58566486962889,
+    "country": "Poland",
+    "countryCode": "PL",
+    "id": 2500
+  }
+]
