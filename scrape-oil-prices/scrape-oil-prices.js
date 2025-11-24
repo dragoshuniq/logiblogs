@@ -405,7 +405,9 @@ async function scrapeOilPrices() {
     );
 
     // Step 4: Save results
-    const outputFile = path.join(__dirname, "oil-prices.json");
+    const dataDir = path.join(__dirname, "data");
+    await fs.mkdir(dataDir, { recursive: true });
+    const outputFile = path.join(dataDir, "oil-prices.json");
     await fs.writeFile(outputFile, JSON.stringify(prices, null, 2));
     console.log(`💾 Saved results to ${outputFile}\n`);
 
