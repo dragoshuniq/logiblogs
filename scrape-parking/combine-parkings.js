@@ -1,11 +1,8 @@
 import fs from "fs/promises";
 
-const EPARKINGS_PATH =
-  "/Users/dragostodoroscean/Desktop/Projects/blognode/scrape-parking/eparkings.json";
-const SNAPPARKINGS_PATH =
-  "/Users/dragostodoroscean/Desktop/Projects/blognode/scrape-parking/snapparkings.json";
-const OUTPUT_PATH =
-  "/Users/dragostodoroscean/Desktop/Projects/blognode/scrape-parking/combined-parkings.json";
+const EPARKINGS_PATH = "/eparkings.json";
+const SNAPPARKINGS_PATH = "/snapparkings.json";
+const OUTPUT_PATH = "/combined-parkings.json";
 
 // Precision for duplicate detection
 // 4 decimal places = ~11 meters precision
