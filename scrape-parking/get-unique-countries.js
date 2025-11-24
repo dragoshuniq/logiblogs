@@ -1,9 +1,7 @@
 import fs from "fs/promises";
 
-const EPARKINGS_PATH =
-  "/Users/dragostodoroscean/Desktop/Projects/blognode/scrape-parking/eparkings.json";
-const OUTPUT_PATH =
-  "/Users/dragostodoroscean/Desktop/Projects/blognode/scrape-parking/unique-countries.json";
+const EPARKINGS_PATH = "./data/eparkings.json";
+const OUTPUT_PATH = "./data/unique-countries.json";
 
 async function getUniqueCountries() {
   console.log("🚀 Extracting unique countries...\n");
@@ -31,8 +29,8 @@ async function getUniqueCountries() {
   });
 
   // Convert Map to sorted array
-  const uniqueCountries = Array.from(countriesMap.values()).sort((a, b) =>
-    a.country.localeCompare(b.country)
+  const uniqueCountries = Array.from(countriesMap.values()).sort(
+    (a, b) => a.country.localeCompare(b.country)
   );
 
   console.log(`📍 Found ${uniqueCountries.length} unique countries:`);
@@ -58,6 +56,3 @@ getUniqueCountries()
     console.error("❌ Failed:", error);
     process.exit(1);
   });
-
-
-
