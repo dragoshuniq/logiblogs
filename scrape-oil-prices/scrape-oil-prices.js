@@ -7,7 +7,7 @@ import { fileURLToPath } from "url";
 import XLSX from "xlsx";
 import * as cheerio from "cheerio";
 import dayjs from "dayjs";
-import { getCountryCode } from "./constants.js";
+import { getCountryCode, getCurrency } from "./constants.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -99,6 +99,66 @@ function downloadFile(url, outputPath) {
 }
 
 /**
+ * Fetches historical exchange rate from ECB (European Central Bank)
+ * @param {string} targetCurrency - The target currency code (e.g., 'RON', 'PLN')
+ * @param {string} dateString - The date in YYYY-MM-DD format
+ * @returns {Promise<number|null>} - The exchange rate or null if failed
+ */
+async function fetchExchangeRate(targetCurrency, dateString) {
+  if (targetCurrency === "EUR") {
+    return 1; // No conversion needed
+  }
+
+  try {
+    // ECB API endpoint for historical exchange rates
+    // Format: https://data-api.ecb.europa.eu/service/data/EXR/D.{CURRENCY}.EUR.SP00.A
+    // We'll use a simpler approach - the ECB daily reference rates XML/JSON endpoint
+    const url = `https://data-api.ecb.europa.eu/service/data/EXR/D.${targetCurrency}.EUR.SP00.A?startPeriod=${dateString}&endPeriod=${dateString}&format=jsondata`;
+
+    const response = await fetchHtml(url);
+    const data = JSON.parse(response);
+
+    // Parse the ECB JSON response
+    if (
+      data &&
+      data.dataSets &&
+      data.dataSets[0] &&
+      data.dataSets[0].series
+    ) {
+      const series = data.dataSets[0].series;
+      const seriesKey = Object.keys(series)[0];
+
+      if (seriesKey && series[seriesKey].observations) {
+        const observations = series[seriesKey].observations;
+        const obsKey = Object.keys(observations)[0];
+
+        if (
+          obsKey &&
+          observations[obsKey] &&
+          observations[obsKey][0]
+        ) {
+          const rate = parseFloat(observations[obsKey][0]);
+          if (!isNaN(rate) && rate > 0) {
+            return rate;
+          }
+        }
+      }
+    }
+
+    console.warn(
+      `   ⚠️  Could not fetch exchange rate for EUR-${targetCurrency} on ${dateString} from ECB`
+    );
+    return null;
+  } catch (error) {
+    console.warn(
+      `   ⚠️  Error fetching exchange rate for EUR-${targetCurrency}:`,
+      error.message
+    );
+    return null;
+  }
+}
+
+/**
  * Fetches the HTML page to find the latest XLS download link
  */
 async function getLatestXlsUrl() {
@@ -168,12 +228,12 @@ function extractDateFromExcel(filePath) {
   const workbook = XLSX.readFile(filePath);
   const sheetName = workbook.SheetNames[0];
   const worksheet = workbook.Sheets[sheetName];
-  
+
   // Get the second row, first cell (A2 in Excel notation)
   // Row index 1 (0-indexed) = second row
   const cellAddress = XLSX.utils.encode_cell({ r: 1, c: 0 });
   const cell = worksheet[cellAddress];
-  
+
   if (!cell || !cell.v) {
     // Fallback to current date
     const now = dayjs();
@@ -181,42 +241,52 @@ function extractDateFromExcel(filePath) {
       year: now.year(),
       month: now.month() + 1,
       day: now.date(),
-      dateString: now.format('YYYY-MM-DD'),
+      dateString: now.format("YYYY-MM-DD"),
     };
   }
-  
+
   let dateValue = cell.v;
-  
+
   // If the cell is a date object (Excel date serial number)
-  if (cell.t === 'n' && cell.w) {
+  if (cell.t === "n" && cell.w) {
     // Try to parse the formatted cell value
     dateValue = cell.w;
   }
-  
+
   // Parse different date formats
   let parsedDate;
-  
+
   // Try DD/MM/YYYY format (like 17/11/2025)
-  if (typeof dateValue === 'string' && dateValue.match(/\d{1,2}\/\d{1,2}\/\d{4}/)) {
-    const [day, month, year] = dateValue.split('/');
-    parsedDate = dayjs(`${year}-${month.padStart(2, '0')}-${day.padStart(2, '0')}`);
+  if (
+    typeof dateValue === "string" &&
+    dateValue.match(/\d{1,2}\/\d{1,2}\/\d{4}/)
+  ) {
+    const [day, month, year] = dateValue.split("/");
+    parsedDate = dayjs(
+      `${year}-${month.padStart(2, "0")}-${day.padStart(2, "0")}`
+    );
   }
   // Try if it's already a Date object or Excel serial number
-  else if (cell.t === 'd' || typeof dateValue === 'number') {
+  else if (cell.t === "d" || typeof dateValue === "number") {
     // XLSX can parse Excel dates
     const excelDate = XLSX.SSF.parse_date_code(cell.v);
-    parsedDate = dayjs(`${excelDate.y}-${String(excelDate.m).padStart(2, '0')}-${String(excelDate.d).padStart(2, '0')}`);
+    parsedDate = dayjs(
+      `${excelDate.y}-${String(excelDate.m).padStart(
+        2,
+        "0"
+      )}-${String(excelDate.d).padStart(2, "0")}`
+    );
   }
   // Try to parse as a string
   else {
     parsedDate = dayjs(dateValue);
   }
-  
+
   return {
     year: parsedDate.year(),
     month: parsedDate.month() + 1,
     day: parsedDate.date(),
-    dateString: parsedDate.format('YYYY-MM-DD'),
+    dateString: parsedDate.format("YYYY-MM-DD"),
   };
 }
 
@@ -248,19 +318,19 @@ function getMonthName(monthNumber) {
 function getThursdayOfSameWeek(date) {
   const d = dayjs(date);
   const currentDay = d.day(); // Sunday = 0, Monday = 1, ..., Saturday = 6
-  
+
   // Calculate the difference to Thursday (4)
   // If current day is Sunday (0), we need to go back to previous week's Thursday
   const diff = currentDay === 0 ? -3 : 4 - currentDay;
-  
+
   // Set to Thursday of the same week
-  const thursday = d.add(diff, 'day');
-  
+  const thursday = d.add(diff, "day");
+
   return {
     year: thursday.year(),
     month: thursday.month() + 1,
     day: thursday.date(),
-    dateString: thursday.format('YYYY-MM-DD'),
+    dateString: thursday.format("YYYY-MM-DD"),
   };
 }
 
@@ -427,7 +497,7 @@ function parseOilPrices(filePath) {
             results.push({
               country: country,
               countryCode: getCountryCode(country),
-              petrol95: petrol95,
+              petrol: petrol95, // Renamed from petrol95
               diesel: diesel,
             });
           }
@@ -469,7 +539,8 @@ function parseOilPrices(filePath) {
           results.push({
             country: countryName,
             countryCode: getCountryCode(countryName),
-            petrol95:
+            // Renamed from petrol95
+            petrol:
               typeof petrol95 === "number"
                 ? petrol95
                 : parseFloat(petrol95) || null,
@@ -483,20 +554,95 @@ function parseOilPrices(filePath) {
     }
   }
 
-  // Filter out averages (entries containing "Moyenne", "Weighted average", "Gewichteter")
-  // Also remove last 2 entries as they are typically averages
+  // Filter out averages (entries containing "Moyenne", "Weighted average", "Gewichteter", "CE/EC/EG", etc.)
   const filtered = results.filter((item) => {
     const countryLower = item.country.toLowerCase();
-    return (
-      !countryLower.includes("moyenne") &&
-      !countryLower.includes("weighted average") &&
-      !countryLower.includes("gewichteter") &&
-      !countryLower.includes("average")
-    );
+    const country = item.country;
+
+    // Check for average-related terms
+    const isAverage =
+      countryLower.includes("moyenne") ||
+      countryLower.includes("weighted average") ||
+      countryLower.includes("gewichteter") ||
+      countryLower.includes("average") ||
+      country.includes("CE/EC/EG") || // EU average indicators
+      country.includes("EUR27") || // EU27 average
+      country.includes("Euro Area"); // Euro area average
+
+    return !isAverage;
   });
 
-  // Remove last 2 entries (they are usually averages)
-  return filtered.slice(0, -2);
+  console.log(
+    `   📋 Countries after filtering averages: ${filtered.length}`
+  );
+  console.log(
+    `   📋 Countries: ${filtered.map((f) => f.country).join(", ")}`
+  );
+
+  return filtered;
+}
+
+/**
+ * Adds currency conversions for non-Euro countries
+ * @param {Array} prices - Array of price objects
+ * @param {string} dateString - The date in YYYY-MM-DD format for historical rates
+ * @returns {Promise<Array>} - Array with added currency conversion fields
+ */
+async function addCurrencyConversions(prices, dateString) {
+  console.log(
+    `💱 Adding currency conversions for non-Euro countries (date: ${dateString})...`
+  );
+
+  // Get unique non-Euro currencies
+  const currenciesNeeded = new Set();
+  for (const price of prices) {
+    const currency = getCurrency(price.countryCode);
+    if (currency && currency !== "EUR") {
+      currenciesNeeded.add(currency);
+    }
+  }
+
+  // Fetch exchange rates
+  const exchangeRates = {};
+  for (const currency of currenciesNeeded) {
+    console.log(
+      `   Fetching EUR-${currency} rate for ${dateString}...`
+    );
+    const rate = await fetchExchangeRate(currency, dateString);
+    if (rate) {
+      exchangeRates[currency] = rate;
+      console.log(`   ✅ EUR-${currency}: ${rate.toFixed(4)}`);
+    }
+  }
+
+  // Add currency-specific fields
+  let conversionsAdded = 0;
+  for (const price of prices) {
+    const currency = getCurrency(price.countryCode);
+    if (currency && currency !== "EUR" && exchangeRates[currency]) {
+      const rate = exchangeRates[currency];
+
+      // Add home currency fields
+      price.currencyHome = currency;
+
+      if (price.petrol !== null) {
+        price.petrolHome = parseFloat(
+          (price.petrol * rate).toFixed(2)
+        );
+      }
+      if (price.diesel !== null) {
+        price.dieselHome = parseFloat(
+          (price.diesel * rate).toFixed(2)
+        );
+      }
+      conversionsAdded++;
+    }
+  }
+
+  console.log(
+    `   ✅ Added currency conversions for ${conversionsAdded} countries\n`
+  );
+  return prices;
 }
 
 /**
@@ -522,17 +668,27 @@ async function scrapeOilPrices() {
     // Step 3: Extract date from the Excel file (second row, first cell)
     console.log("📅 Extracting date from Excel file...");
     const extractedDate = extractDateFromExcel(tempFile);
-    console.log(`   📅 Extracted date from Excel: ${extractedDate.dateString}`);
-    
+    console.log(
+      `   📅 Extracted date from Excel: ${extractedDate.dateString}`
+    );
+
     // Step 3b: Convert to Thursday of the same week (for oil prices)
     const dateInfo = getThursdayOfSameWeek(extractedDate.dateString);
-    console.log(`   📅 Adjusted to Thursday of same week: ${dateInfo.dateString}\n`);
+    console.log(
+      `   📅 Adjusted to Thursday of same week: ${dateInfo.dateString}\n`
+    );
 
     // Step 4: Parse the Excel file
     console.log("📊 Parsing Excel file...");
-    const prices = parseOilPrices(tempFile);
+    let prices = parseOilPrices(tempFile);
     console.log(
       `   ✅ Extracted prices for ${prices.length} countries\n`
+    );
+
+    // Step 4b: Add currency conversions (using the same date as oil prices)
+    prices = await addCurrencyConversions(
+      prices,
+      dateInfo.dateString
     );
 
     // Step 5: Create folder structure and save results
@@ -553,7 +709,10 @@ async function scrapeOilPrices() {
       [dateInfo.dateString]: prices,
     };
 
-    const outputFile = path.join(monthDir, `${dateInfo.dateString}.json`);
+    const outputFile = path.join(
+      monthDir,
+      `${dateInfo.dateString}.json`
+    );
     await fs.writeFile(
       outputFile,
       JSON.stringify(outputData, null, 2)
@@ -567,20 +726,27 @@ async function scrapeOilPrices() {
     // Display summary
     console.log("📊 Summary:");
     console.log(`   Total countries: ${prices.length}`);
-    const withPetrol95 = prices.filter(
-      (p) => p.petrol95 !== null
-    ).length;
+    const withPetrol = prices.filter((p) => p.petrol !== null).length;
     const withDiesel = prices.filter((p) => p.diesel !== null).length;
-    console.log(`   Countries with 95 petrol data: ${withPetrol95}`);
-    console.log(`   Countries with diesel data: ${withDiesel}\n`);
+    const withCurrencyConversion = prices.filter(
+      (p) => p.currencyHome !== undefined
+    ).length;
+    console.log(`   Countries with petrol data: ${withPetrol}`);
+    console.log(`   Countries with diesel data: ${withDiesel}`);
+    console.log(
+      `   Countries with currency conversions: ${withCurrencyConversion}\n`
+    );
 
     // Show first few results
     console.log("📋 Sample data (first 5 countries):");
     prices.slice(0, 5).forEach((p) => {
+      const homeFields = p.currencyHome
+        ? `, ${p.currencyHome}: petrolHome=${p.petrolHome}, dieselHome=${p.dieselHome}`
+        : "";
       console.log(
-        `   ${p.country}: 95 Petrol=${p.petrol95 ?? "N/A"}, Diesel=${
+        `   ${p.country}: Petrol=${p.petrol ?? "N/A"}, Diesel=${
           p.diesel ?? "N/A"
-        }`
+        }${homeFields}`
       );
     });
 

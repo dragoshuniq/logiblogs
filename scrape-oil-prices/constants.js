@@ -29,7 +29,6 @@ export const COUNTRY_CODES = {
   "Spain": "ES",
   "Sweden": "SE",
   
-  // Non-EU European Countries
   "United Kingdom": "GB",
   "Norway": "NO",
   "Switzerland": "CH",
@@ -44,24 +43,36 @@ export const COUNTRY_CODES = {
   "Kosovo": "XK",
 };
 
-/**
- * Gets the country code for a given country name
- * @param {string} countryName - The country name
- * @returns {string|null} - The 2-letter country code or null if not found
- */
+export const COUNTRY_CURRENCIES = {
+  "AT": "EUR", "BE": "EUR", "BG": "BGN", "HR": "EUR", "CY": "EUR",
+  "CZ": "CZK", "DK": "DKK", "EE": "EUR", "FI": "EUR", "FR": "EUR",
+  "DE": "EUR", "GR": "EUR", "HU": "HUF", "IE": "EUR", "IT": "EUR",
+  "LV": "EUR", "LT": "EUR", "LU": "EUR", "MT": "EUR", "NL": "EUR",
+  "PL": "PLN", "PT": "EUR", "RO": "RON", "SK": "EUR", "SI": "EUR",
+  "ES": "EUR", "SE": "SEK",
+  "GB": "GBP", "NO": "NOK", "CH": "CHF", "IS": "ISK", "UA": "UAH",
+  "TR": "TRY", "RS": "RSD", "AL": "ALL", "BA": "BAM", "MK": "MKD",
+  "ME": "EUR", "XK": "EUR"
+};
+
+
 export function getCountryCode(countryName) {
   if (!countryName) return null;
   
-  // Direct match
   if (COUNTRY_CODES[countryName]) {
     return COUNTRY_CODES[countryName];
   }
   
-  // Try case-insensitive match
   const normalized = countryName.trim();
   const entry = Object.entries(COUNTRY_CODES).find(
     ([key]) => key.toLowerCase() === normalized.toLowerCase()
   );
   
   return entry ? entry[1] : null;
+}
+
+
+export function getCurrency(countryCode) {
+  if (!countryCode) return null;
+  return COUNTRY_CURRENCIES[countryCode] || null;
 }
