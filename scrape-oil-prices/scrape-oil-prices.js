@@ -1,10 +1,13 @@
 import fs from "fs/promises";
+import fsSync from "fs";
 import https from "https";
 import http from "http";
 import path from "path";
 import { fileURLToPath } from "url";
-import * as XLSX from "xlsx";
+import XLSX from "xlsx";
 import * as cheerio from "cheerio";
+import dayjs from "dayjs";
+import { getCountryCode } from "./constants.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -58,7 +61,7 @@ function fetchHtml(url) {
 function downloadFile(url, outputPath) {
   return new Promise((resolve, reject) => {
     const protocol = url.startsWith("https") ? https : http;
-    const file = fs.createWriteStream(outputPath);
+    const file = fsSync.createWriteStream(outputPath);
 
     protocol
       .get(url, (response) => {
@@ -89,7 +92,7 @@ function downloadFile(url, outputPath) {
         });
       })
       .on("error", (err) => {
-        fs.unlink(outputPath).catch(() => {});
+        fsSync.unlink(outputPath, () => {});
         reject(err);
       });
   });
@@ -156,6 +159,109 @@ async function getLatestXlsUrl() {
   }
 
   return xlsUrl;
+}
+
+/**
+ * Extracts date from the Excel file (second row, first cell)
+ */
+function extractDateFromExcel(filePath) {
+  const workbook = XLSX.readFile(filePath);
+  const sheetName = workbook.SheetNames[0];
+  const worksheet = workbook.Sheets[sheetName];
+  
+  // Get the second row, first cell (A2 in Excel notation)
+  // Row index 1 (0-indexed) = second row
+  const cellAddress = XLSX.utils.encode_cell({ r: 1, c: 0 });
+  const cell = worksheet[cellAddress];
+  
+  if (!cell || !cell.v) {
+    // Fallback to current date
+    const now = dayjs();
+    return {
+      year: now.year(),
+      month: now.month() + 1,
+      day: now.date(),
+      dateString: now.format('YYYY-MM-DD'),
+    };
+  }
+  
+  let dateValue = cell.v;
+  
+  // If the cell is a date object (Excel date serial number)
+  if (cell.t === 'n' && cell.w) {
+    // Try to parse the formatted cell value
+    dateValue = cell.w;
+  }
+  
+  // Parse different date formats
+  let parsedDate;
+  
+  // Try DD/MM/YYYY format (like 17/11/2025)
+  if (typeof dateValue === 'string' && dateValue.match(/\d{1,2}\/\d{1,2}\/\d{4}/)) {
+    const [day, month, year] = dateValue.split('/');
+    parsedDate = dayjs(`${year}-${month.padStart(2, '0')}-${day.padStart(2, '0')}`);
+  }
+  // Try if it's already a Date object or Excel serial number
+  else if (cell.t === 'd' || typeof dateValue === 'number') {
+    // XLSX can parse Excel dates
+    const excelDate = XLSX.SSF.parse_date_code(cell.v);
+    parsedDate = dayjs(`${excelDate.y}-${String(excelDate.m).padStart(2, '0')}-${String(excelDate.d).padStart(2, '0')}`);
+  }
+  // Try to parse as a string
+  else {
+    parsedDate = dayjs(dateValue);
+  }
+  
+  return {
+    year: parsedDate.year(),
+    month: parsedDate.month() + 1,
+    day: parsedDate.date(),
+    dateString: parsedDate.format('YYYY-MM-DD'),
+  };
+}
+
+/**
+ * Gets month name in English
+ */
+function getMonthName(monthNumber) {
+  const months = [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+  ];
+  return months[monthNumber - 1];
+}
+
+/**
+ * Gets the Thursday of the same week for a given date
+ * The week is considered to start on Monday (ISO 8601 standard)
+ */
+function getThursdayOfSameWeek(date) {
+  const d = dayjs(date);
+  const currentDay = d.day(); // Sunday = 0, Monday = 1, ..., Saturday = 6
+  
+  // Calculate the difference to Thursday (4)
+  // If current day is Sunday (0), we need to go back to previous week's Thursday
+  const diff = currentDay === 0 ? -3 : 4 - currentDay;
+  
+  // Set to Thursday of the same week
+  const thursday = d.add(diff, 'day');
+  
+  return {
+    year: thursday.year(),
+    month: thursday.month() + 1,
+    day: thursday.date(),
+    dateString: thursday.format('YYYY-MM-DD'),
+  };
 }
 
 /**
@@ -320,6 +426,7 @@ function parseOilPrices(filePath) {
           if (petrol95 !== null || diesel !== null) {
             results.push({
               country: country,
+              countryCode: getCountryCode(country),
               petrol95: petrol95,
               diesel: diesel,
             });
@@ -358,8 +465,10 @@ function parseOilPrices(filePath) {
           row[dieselCol] || row["Diesel"] || row["Gasoil"] || null;
 
         if (petrol95 !== null || diesel !== null) {
+          const countryName = country.toString().trim();
           results.push({
-            country: country.toString().trim(),
+            country: countryName,
+            countryCode: getCountryCode(countryName),
             petrol95:
               typeof petrol95 === "number"
                 ? petrol95
@@ -374,7 +483,20 @@ function parseOilPrices(filePath) {
     }
   }
 
-  return results;
+  // Filter out averages (entries containing "Moyenne", "Weighted average", "Gewichteter")
+  // Also remove last 2 entries as they are typically averages
+  const filtered = results.filter((item) => {
+    const countryLower = item.country.toLowerCase();
+    return (
+      !countryLower.includes("moyenne") &&
+      !countryLower.includes("weighted average") &&
+      !countryLower.includes("gewichteter") &&
+      !countryLower.includes("average")
+    );
+  });
+
+  // Remove last 2 entries (they are usually averages)
+  return filtered.slice(0, -2);
 }
 
 /**
@@ -397,21 +519,48 @@ async function scrapeOilPrices() {
     await downloadFile(xlsUrl, tempFile);
     console.log(`   ✅ Downloaded to ${tempFile}\n`);
 
-    // Step 3: Parse the Excel file
+    // Step 3: Extract date from the Excel file (second row, first cell)
+    console.log("📅 Extracting date from Excel file...");
+    const extractedDate = extractDateFromExcel(tempFile);
+    console.log(`   📅 Extracted date from Excel: ${extractedDate.dateString}`);
+    
+    // Step 3b: Convert to Thursday of the same week (for oil prices)
+    const dateInfo = getThursdayOfSameWeek(extractedDate.dateString);
+    console.log(`   📅 Adjusted to Thursday of same week: ${dateInfo.dateString}\n`);
+
+    // Step 4: Parse the Excel file
     console.log("📊 Parsing Excel file...");
     const prices = parseOilPrices(tempFile);
     console.log(
       `   ✅ Extracted prices for ${prices.length} countries\n`
     );
 
-    // Step 4: Save results
-    const dataDir = path.join(__dirname, "data");
-    await fs.mkdir(dataDir, { recursive: true });
-    const outputFile = path.join(dataDir, "oil-prices.json");
-    await fs.writeFile(outputFile, JSON.stringify(prices, null, 2));
+    // Step 5: Create folder structure and save results
+    const yearDir = path.join(
+      __dirname,
+      "data",
+      dateInfo.year.toString()
+    );
+    const monthName = getMonthName(dateInfo.month);
+    const monthDir = path.join(
+      yearDir,
+      `${dateInfo.month}.${monthName}`
+    );
+    await fs.mkdir(monthDir, { recursive: true });
+
+    // Create object with date as parent key
+    const outputData = {
+      [dateInfo.dateString]: prices,
+    };
+
+    const outputFile = path.join(monthDir, `${dateInfo.dateString}.json`);
+    await fs.writeFile(
+      outputFile,
+      JSON.stringify(outputData, null, 2)
+    );
     console.log(`💾 Saved results to ${outputFile}\n`);
 
-    // Step 5: Clean up temp file
+    // Step 6: Clean up temp file
     await fs.unlink(tempFile);
     console.log("🧹 Cleaned up temporary file\n");
 
