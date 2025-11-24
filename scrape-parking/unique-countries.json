@@ -1,0 +1,130 @@
+[
+  {
+    "countryCode": "AT",
+    "country": "Austria"
+  },
+  {
+    "countryCode": "BY",
+    "country": "Belarus"
+  },
+  {
+    "countryCode": "BE",
+    "country": "Belgium"
+  },
+  {
+    "countryCode": "BG",
+    "country": "Bulgaria"
+  },
+  {
+    "countryCode": "HR",
+    "country": "Croatia"
+  },
+  {
+    "countryCode": "CZ",
+    "country": "Czech Republic"
+  },
+  {
+    "countryCode": "DK",
+    "country": "Denmark"
+  },
+  {
+    "countryCode": "EE",
+    "country": "Estonia"
+  },
+  {
+    "countryCode": "FI",
+    "country": "Finland"
+  },
+  {
+    "countryCode": "FR",
+    "country": "France"
+  },
+  {
+    "countryCode": "DE",
+    "country": "Germany"
+  },
+  {
+    "countryCode": "GR",
+    "country": "Greece"
+  },
+  {
+    "countryCode": "HU",
+    "country": "Hungary"
+  },
+  {
+    "countryCode": "IE",
+    "country": "Ireland"
+  },
+  {
+    "countryCode": "IT",
+    "country": "Italy"
+  },
+  {
+    "countryCode": "LV",
+    "country": "Latvia"
+  },
+  {
+    "countryCode": "LT",
+    "country": "Lithuania"
+  },
+  {
+    "countryCode": "LU",
+    "country": "Luxembourg"
+  },
+  {
+    "countryCode": "NL",
+    "country": "Netherlands"
+  },
+  {
+    "countryCode": "NO",
+    "country": "Norway"
+  },
+  {
+    "countryCode": "PL",
+    "country": "Poland"
+  },
+  {
+    "countryCode": "PT",
+    "country": "Portugal"
+  },
+  {
+    "countryCode": "RO",
+    "country": "Romania"
+  },
+  {
+    "countryCode": "RS",
+    "country": "Serbia"
+  },
+  {
+    "countryCode": "SK",
+    "country": "Slovakia"
+  },
+  {
+    "countryCode": "SI",
+    "country": "Slovenia"
+  },
+  {
+    "countryCode": "ES",
+    "country": "Spain"
+  },
+  {
+    "countryCode": "SE",
+    "country": "Sweden"
+  },
+  {
+    "countryCode": "CH",
+    "country": "Switzerland"
+  },
+  {
+    "countryCode": "TR",
+    "country": "Turkey"
+  },
+  {
+    "countryCode": "UA",
+    "country": "Ukraine"
+  },
+  {
+    "countryCode": "GB",
+    "country": "United Kingdom"
+  }
+]
