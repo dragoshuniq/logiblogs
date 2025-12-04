@@ -704,9 +704,10 @@ async function scrapeOilPrices() {
     );
     await fs.mkdir(monthDir, { recursive: true });
 
-    // Create object with date as parent key (not nested in "date" and "countries")
+    // Create object with date and countries structure
     const outputData = {
-      [dateInfo.dateString]: prices,
+      date: dateInfo.dateString,
+      countries: prices,
     };
 
     const outputFile = path.join(
