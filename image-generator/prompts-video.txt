@@ -16,4 +16,13 @@ Scene 7 (48-56s) alpine crossing: truck cresting a snowy alpine pass at golden h
 
 Scene 8 (56-60s) night yard hero: rain-kissed yard under floodlights, hero truck angled to camera with wet reflections. Text overlay: "Delivered by Logifie." End frame: logo lockup on gradient background (#E63946 to #1D3557), CTA: "logifie.com".
 
-General directions: buttery-smooth gimbal and drone moves, natural lens flares, realistic engine hum and ambient yard sounds implied (no voiceover). Maintain consistent truck model, paint, trailer banding, logos, URL, and slogan in every shot. Use tasteful, quick transitions (match-cuts, whip pans, cross-dissolves). Keep pacing energetic but premium; finish on strong brand lockup.***
+General directions: buttery-smooth gimbal and drone moves, natural lens flares, realistic engine hum and ambient yard sounds. Maintain consistent truck model, paint, trailer banding, logos, URL, and slogan in every shot. Use tasteful, quick transitions (match-cuts, whip pans, cross-dissolves). Keep pacing energetic but premium; finish on strong brand lockup.
+
+Voiceover (text-to-speech script, calm confident European English voice, warm tone, measured pace):
+1) "Logifie. Built for European logistics."
+2) "We connect warehouses, ports, and borders with precision."
+3) "Our fleet is powered by people and enabled by AI."
+4) "Every route. Every schedule. Every delivery—engineered for reliability."
+5) "Inspired by people. Powered by AI. Delivered by Logifie."
+
+Music and sound design: original cinematic score starting minimal at sunrise (soft pads, light piano), building driving rhythm with muted percussion during highway and port scenes, adding subtle analog synth pulses in control room, then tapering to a confident resolve on the night yard hero shot. Natural SFX throughout: distant seagulls at port, forklift beeps and pallet slides in warehouse, gentle wind and tire hiss on autobahn, light rain patter on night yard, low engine hum and air brakes. Duck SFX under voiceover for clarity; let final slogan land clean over a brief musical swell and resolve.***
