@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ops-room-wide-desks",
+    "prompt": "ultra realistic 4k photo, modern logistics operations office with a wide desk row, multiple large monitors showing the Logifie web dashboard with live stats, maps, and KPIs, staff in headsets collaborating. In the glass wall outside, a Volvo FH curtain-side tautliner 13.6m truck is visible in the yard; cabin painted smooth gradient #E63946 to #1D3557, no cabin logos, white trailer with dark blue #1D3557 band, big Logifie logo upper white area, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\". Branding only on trailer; no overlays. Office lit with balanced natural and LED light, clean reflections, 16:9"
+  },
+  {
+    "id": "war-room-standup",
+    "prompt": "ultra realistic 4k photo, ops war-room standup meeting, team gathered around a large wall of screens showing the Logifie site: route performance, on-time percentages, and a heatmap of Europe. Outside the glass facade, a Scania S-series truck is parked; cab gradient #E63946 to #1D3557, no cabin logos, white trailer with dark blue #1D3557 band, big Logifie logo upper white area, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\". Branding only on trailer; no overlays. Mixed warm-cool lighting, 16:9"
+  },
+  {
+    "id": "control-center-night",
+    "prompt": "ultra realistic 4k photo, night-shift control center with dim ambient light and glowing monitors, multiple screens running the Logifie web dashboard: live ETAs, exception alerts, fuel efficiency graphs. Through the window, a Volvo FH truck idles; cab gradient #E63946 to #1D3557, cabin clean of logos, white trailer with dark blue #1D3557 band, big Logifie logo upper white area, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\". Branding only on trailer; no overlays. Subtle reflections on glass, 16:9"
+  },
+  {
+    "id": "product-demo-huddle",
+    "prompt": "ultra realistic 4k photo, daytime office huddle room with a large TV showing the Logifie website homepage and analytics tabs, product manager pointing at KPI widgets. Outside a glass wall, a Scania S-series truck is parked in the lot; cab gradient #E63946 to #1D3557, no cabin logos, white trailer with #1D3557 band, big Logifie logo upper white area, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\". Branding only on trailer; no overlays. Natural daylight, clean wood table, 16:9"
+  },
+  {
+    "id": "dual-monitor-analyst",
+    "prompt": "ultra realistic 4k photo, close-up of an analyst workstation with dual monitors open to the Logifie site: one screen shows live map of trucks, another shows a dashboard of delivery SLAs. Through a large window behind the desk, a Volvo FH truck is backing into a bay; cab gradient #E63946 to #1D3557, no cabin logos, white trailer with #1D3557 band, big Logifie logo upper white area, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\". Branding only on trailer; no overlays. Soft office lighting, 16:9"
+  },
+  {
+    "id": "glass-bridge-ops",
+    "prompt": "ultra realistic 4k photo, office bridge walkway with glass railings overlooking the yard; team members looking at tablets showing the Logifie web dashboard. Outside, a Scania S-series truck maneuvers between bays; cab gradient #E63946 to #1D3557, clean cabin with no logos, white trailer with #1D3557 band, big Logifie logo upper white area, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\". Branding only on trailer; no overlays. Bright midday light, 16:9"
+  },
+  {
+    "id": "night-ops-closeup",
+    "prompt": "ultra realistic 4k photo, close-up of a night operator at a multi-monitor rig, Logifie site showing alert list, ETA deviations, and live map. Reflections of screens on glass wall; outside in the dark yard, a Volvo FH truck under floodlights; cab gradient #E63946 to #1D3557, no cabin logos, white trailer with #1D3557 band, big Logifie logo upper white area, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\". Branding only on trailer; no overlays. Cool-blue light from screens, 16:9"
+  },
+  {
+    "id": "scrum-board-dashboard",
+    "prompt": "ultra realistic 4k photo, daytime scrum area with sticky notes and a TV showing the Logifie analytics dashboard: load utilization, carrier performance, CO2 per route. Outside glass, a Scania S-series truck at the dock; cab gradient #E63946 to #1D3557, logo-free cabin, white trailer with #1D3557 band, big Logifie logo upper white area, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\". Branding only on trailer; no overlays. Natural light, 16:9"
+  },
+  {
+    "id": "ops-floor-panorama",
+    "prompt": "ultra realistic 4k photo, panoramic ops floor with rows of sit-stand desks, large wall displays looping the Logifie site dashboards, route maps, and SLA gauges. Yard visible through glass with multiple Volvo FH trucks; cabs gradient #E63946 to #1D3557, no cabin logos, white trailers with #1D3557 band, big Logifie logo upper white area, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\". Branding only on trailers; no overlays. Even daylight, 16:9"
+  },
+  {
+    "id": "cta-hero-monitor",
+    "prompt": "ultra realistic 4k photo, single hero workstation with a curved ultrawide monitor showing the Logifie homepage and a CTA section, keyboard and notebook on desk. Through a side window, a Scania S-series truck is partially visible; cab gradient #E63946 to #1D3557, no cabin logos, white trailer with #1D3557 band, big Logifie logo upper white area, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\". Branding only on trailer; no overlays. Soft ambient office light, 16:9"
+  }
+]
