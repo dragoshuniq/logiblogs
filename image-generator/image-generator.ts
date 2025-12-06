@@ -63,7 +63,7 @@ async function generateImage(
           },
         },
         {
-          text: `${prompt}\n\nPlease incorporate this Logifie logo into the top-right corner of the generated image with subtle transparency and professional placement.`,
+          text: `${prompt}`,
         },
       ],
     },
