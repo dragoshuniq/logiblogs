@@ -16,6 +16,12 @@ interface Prompt {
   prompt: string;
 }
 
+interface GenerationResult {
+  id: string;
+  success: boolean;
+  error?: string;
+}
+
 async function saveBinaryFile(fileName: string, content: Buffer) {
   try {
     await writeFile(fileName, content);
@@ -32,7 +38,7 @@ async function generateImage(
   outputDir: string,
   logoBase64: string,
   retryCount = 0
-) {
+): Promise<GenerationResult> {
   const maxRetries = 2;
   console.log(`🎨 Starting generation: ${id}...`);
 
@@ -148,7 +154,7 @@ async function main() {
     apiKey: process.env.GEMINI_API_KEY,
   });
 
-  const promptsPath = path.join(__dirname, "prompts-v5.json");
+  const promptsPath = path.join(__dirname, "prompts-v6.json");
   const logoPath = path.join(__dirname, "blogo.png");
   const outputDir = path.join(__dirname, "images");
 
@@ -172,7 +178,7 @@ async function main() {
     `\n🚀 Starting parallel image generation for ${prompts.length} prompts (${PARALLEL_LIMIT} at a time)...\n`
   );
 
-  const results = [];
+  const results: GenerationResult[] = [];
 
   for (let i = 0; i < prompts.length; i += PARALLEL_LIMIT) {
     const batch = prompts.slice(i, i + PARALLEL_LIMIT);
