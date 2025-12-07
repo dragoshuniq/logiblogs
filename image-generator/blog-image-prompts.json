@@ -1,0 +1,227 @@
+[
+  {
+    "blogFolder": "[10]-sustainability",
+    "imageTitle": "sustainability-hero",
+    "prompt": "Truck driver practices smooth eco-driving along a tree-lined European road"
+  },
+  {
+    "blogFolder": "[10]-sustainability",
+    "imageTitle": "sustainability-visual",
+    "prompt": "Close-up of a truck being refuelled with biodiesel at a rural service station"
+  },
+  {
+    "blogFolder": "[11]-ai-route-optimization",
+    "imageTitle": "ai-route-optimization-hero",
+    "prompt": "Dispatchers monitor a European map that highlights optimised truck routes and emission savings indicators"
+  },
+  {
+    "blogFolder": "[11]-ai-route-optimization",
+    "imageTitle": "ai-route-optimization-visual",
+    "prompt": "Digital map displays trucks being rerouted by AI based on live traffic, weather and emissions data"
+  },
+  {
+    "blogFolder": "[12]-digital-forwarding",
+    "imageTitle": "digital-forwarding-hero",
+    "prompt": "Split scene showing a paper-heavy traditional forwarding office beside a streamlined digital control room"
+  },
+  {
+    "blogFolder": "[12]-digital-forwarding",
+    "imageTitle": "digital-forwarding-visual",
+    "prompt": "Dashboard view of a digital forwarding platform with instant quotes, live tracking and carbon metrics"
+  },
+  {
+    "blogFolder": "[13]-cabotage-rules",
+    "imageTitle": "cabotage-rules-hero",
+    "prompt": "Illustration of an EU map showing a truck crossing borders with arrows indicating cabotage routes, with a calendar icon illustrating the four-day cooling-off period."
+  },
+  {
+    "blogFolder": "[13]-cabotage-rules",
+    "imageTitle": "cabotage-rules-visual-1",
+    "prompt": "Photo of a European lorry returning to its home base depot at sunset, warehouse in the background."
+  },
+  {
+    "blogFolder": "[14]-low-emission-zones",
+    "imageTitle": "low-emission-zones-hero",
+    "prompt": "Illustration of a European city map with highlighted low-emission zones, toll gateways and different coloured truck icons indicating Euro VI and electric vehicles."
+  },
+  {
+    "blogFolder": "[14]-low-emission-zones",
+    "imageTitle": "low-emission-zones-visual-1",
+    "prompt": "Photo of a heavy-duty electric truck passing a toll station on a European motorway with wind turbines in the background."
+  },
+  {
+    "blogFolder": "[15]-cold-chain",
+    "imageTitle": "cold-chain-hero",
+    "prompt": "Photo of a refrigerated truck loading pallets of perishable goods at a European cross-docking facility, with temperature sensors visible."
+  },
+  {
+    "blogFolder": "[15]-cold-chain",
+    "imageTitle": "cold-chain-visual-1",
+    "prompt": "illustration showing a cold chain logistics flow in Europe, including icons for ATP certificates, HACCP procedures, temperature monitoring, and low-GWP refrigerants."
+  },
+  {
+    "blogFolder": "[16]-post-brexit",
+    "imageTitle": "post-brexit-hero",
+    "prompt": "Photo of trucks queuing at the UK-EU border control post with customs officers inspecting documentation, cloudy weather."
+  },
+  {
+    "blogFolder": "[16]-post-brexit",
+    "imageTitle": "post-brexit-visual-1",
+    "prompt": "Illustration of a supply chain diagram showing customs declarations, rules of origin certificates, and SPS checks between the EU and UK."
+  },
+  {
+    "blogFolder": "[17]-paperless-freight",
+    "imageTitle": "paperless-freight-hero",
+    "prompt": "Illustration of a tablet displaying a consignment note (e-CMR) with checkmarks and a truck icon, EU stars in the background."
+  },
+  {
+    "blogFolder": "[17]-paperless-freight",
+    "imageTitle": "paperless-freight-visual-1",
+    "prompt": "Photo of a truck driver using a handheld device to show electronic freight documents at a border checkpoint in Europe."
+  },
+  {
+    "blogFolder": "[18]-intermodal-transport",
+    "imageTitle": "intermodal-transport-hero",
+    "prompt": "Illustration of a multimodal logistics network in Europe showing containers moving between trucks, trains, barges and short-sea ships with arrows."
+  },
+  {
+    "blogFolder": "[18]-intermodal-transport",
+    "imageTitle": "intermodal-transport-visual-1",
+    "prompt": "Photo of a European intermodal terminal with a freight train loading containers from road trucks and cranes in the background."
+  },
+  {
+    "blogFolder": "[19]-driver-shortages",
+    "imageTitle": "driver-shortages-hero",
+    "prompt": "Photo of a row of parked semi-trailer trucks with a hiring sign in a European truck yard, cloudy sky."
+  },
+  {
+    "blogFolder": "[19]-driver-shortages",
+    "imageTitle": "driver-shortages-visual-1",
+    "prompt": "illustration depicting demographic distribution in road freight: ageing drivers, young entrants, licence costs and gender gap."
+  },
+  {
+    "blogFolder": "[1]-cross-border",
+    "imageTitle": "truck-border-crossing",
+    "prompt": "Truck clears an EU border checkpoint while customs officers verify paperwork"
+  },
+  {
+    "blogFolder": "[1]-cross-border",
+    "imageTitle": "cmr-consignment-note",
+    "prompt": "Driver hands a CMR consignment note to customs staff at a European border gate"
+  },
+  {
+    "blogFolder": "[1]-cross-border",
+    "imageTitle": "road-freight-documents",
+    "prompt": "Infographic summarising the essential paperwork for cross-border European road freight"
+  },
+  {
+    "blogFolder": "[20]-reverse-logistics",
+    "imageTitle": "reverse-logistics-hero",
+    "prompt": "illustration showing a circular supply chain loop with forward and reverse logistics arrows, containers being reused and recycling icons, set in a European context."
+  },
+  {
+    "blogFolder": "[20]-reverse-logistics",
+    "imageTitle": "reverse-logistics-visual-1",
+    "prompt": "Photo of a warehouse sorting returned parcels for refurbishment and recycling, with workers handling items and green signage."
+  },
+  {
+    "blogFolder": "[21]-last-mile",
+    "imageTitle": "last-mile-hero",
+    "prompt": "Illustration of a European city with micro-hubs, cargo bikes and electric vans delivering parcels through low-emission zones, icons showing dynamic routing."
+  },
+  {
+    "blogFolder": "[21]-last-mile",
+    "imageTitle": "last-mile-visual-1",
+    "prompt": "Photo of a courier using an electric cargo bike in a European pedestrian zone, historic buildings in the background."
+  },
+  {
+    "blogFolder": "[22]-warehouse-automation",
+    "imageTitle": "warehouse-automation-hero",
+    "prompt": "Photo of an automated warehouse in Europe with autonomous mobile robots moving pallets along narrow aisles under bright lighting."
+  },
+  {
+    "blogFolder": "[22]-warehouse-automation",
+    "imageTitle": "warehouse-automation-visual-1",
+    "prompt": "illustration showing different automation technologies in a warehouse: AS/RS systems, conveyor belts, robotic palletizers and pick-and-place arms."
+  },
+  {
+    "blogFolder": "[2]-incoterms",
+    "imageTitle": "managers-incoterms",
+    "prompt": "Logistics manager reviews a screen that breaks down Incoterms responsibilities for buyers and sellers"
+  },
+  {
+    "blogFolder": "[2]-incoterms",
+    "imageTitle": "exw-fca",
+    "prompt": "Chart comparing EXW and FCA responsibilities for a sample European shipment"
+  },
+  {
+    "blogFolder": "[3]-ftl-groupage",
+    "imageTitle": "ftv-groupage",
+    "prompt": "Side-by-side view comparing a dedicated FTL truck with a groupage trailer carrying multiple pallets"
+  },
+  {
+    "blogFolder": "[3]-ftl-groupage",
+    "imageTitle": "warehouse",
+    "prompt": "Warehouse team wraps and straps pallets before loading them for a groupage shipment"
+  },
+  {
+    "blogFolder": "[4]-transit-times",
+    "imageTitle": "transit-times-hero",
+    "prompt": "Map of Europe showing key road corridors with typical transit times, clocks and rest-stop markers"
+  },
+  {
+    "blogFolder": "[4]-transit-times",
+    "imageTitle": "transit-times-visual",
+    "prompt": "Truck navigates a snowy mountain pass, illustrating how weather and terrain stretch transit time"
+  },
+  {
+    "blogFolder": "[5]-fuel-surcharges",
+    "imageTitle": "fuel-surcharges-hero",
+    "prompt": "Diagram explaining how the base fuel price, index values and surcharge percentages combine on a freight invoice"
+  },
+  {
+    "blogFolder": "[5]-fuel-surcharges",
+    "imageTitle": "fuel-surcharges-visual",
+    "prompt": "Truck approaches a European toll gate where digital signs show toll rates and CO2 charges"
+  },
+  {
+    "blogFolder": "[6]-seasonality",
+    "imageTitle": "seasonality-hero",
+    "prompt": "Calendar highlighting major European logistics peaks such as Chinese New Year, summer holidays and holiday sales"
+  },
+  {
+    "blogFolder": "[6]-seasonality",
+    "imageTitle": "seasonality-visual",
+    "prompt": "Busy European warehouse packed with pallets and staff preparing shipments during peak season"
+  },
+  {
+    "blogFolder": "[7]-packaging-palletization",
+    "imageTitle": "packaging-palletization-hero",
+    "prompt": "Cutaway diagram of a Euro pallet showing recommended stacking patterns and weight distribution"
+  },
+  {
+    "blogFolder": "[7]-packaging-palletization",
+    "imageTitle": "packaging-palletization-visual",
+    "prompt": "Warehouse workers wrap and strap a pallet to secure mixed cargo before transport"
+  },
+  {
+    "blogFolder": "[8]-freight-forwarder",
+    "imageTitle": "freight-forwarder-hero",
+    "prompt": "Freight forwarder's control tower with live dashboards, maps and paperwork being processed"
+  },
+  {
+    "blogFolder": "[8]-freight-forwarder",
+    "imageTitle": "freight-forwarder-visual",
+    "prompt": "Logistics manager and freight forwarder review shipment paperwork together in an office"
+  },
+  {
+    "blogFolder": "[9]-damage-claims",
+    "imageTitle": "damage-claims-hero",
+    "prompt": "Checklist graphic reminding drivers to inspect equipment, load correctly and seal the trailer to prevent cargo damage"
+  },
+  {
+    "blogFolder": "[9]-damage-claims",
+    "imageTitle": "damage-claims-visual",
+    "prompt": "Driver inspects cargo straps inside a trailer before departure to confirm everything is secure"
+  }
+]
