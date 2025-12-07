@@ -98,7 +98,6 @@ async function generateImage(
   ai: GoogleGenAI,
   imagePrompt: ImagePrompt,
   blogsDir: string,
-  logoBase64: string,
   retryCount = 0
 ) {
   const maxRetries = 2;
@@ -126,13 +125,7 @@ async function generateImage(
       role: "user",
       parts: [
         {
-          inlineData: {
-            mimeType: "image/png",
-            data: logoBase64,
-          },
-        },
-        {
-          text: `${prompt}`,
+          text: `Generate a professional, realistic image for a logistics blog article. ${prompt}`,
         },
       ],
     },
@@ -192,13 +185,7 @@ async function generateImage(
         }/${maxRetries})...`
       );
       await new Promise((resolve) => setTimeout(resolve, 2000));
-      return generateImage(
-        ai,
-        imagePrompt,
-        blogsDir,
-        logoBase64,
-        retryCount + 1
-      );
+      return generateImage(ai, imagePrompt, blogsDir, retryCount + 1);
     }
     console.error(
       `✗ Error generating ${imageTitle}:`,
@@ -211,7 +198,6 @@ async function generateImagesInParallel(
   ai: GoogleGenAI,
   prompts: ImagePrompt[],
   blogsDir: string,
-  logoBase64: string,
   concurrency: number = 3
 ) {
   const results = [];
@@ -226,7 +212,7 @@ async function generateImagesInParallel(
     );
 
     const batchPromises = batch.map((imagePrompt) =>
-      generateImage(ai, imagePrompt, blogsDir, logoBase64)
+      generateImage(ai, imagePrompt, blogsDir)
     );
 
     await Promise.all(batchPromises);
@@ -240,16 +226,10 @@ async function main() {
   });
 
   const blogsDir = path.join(__dirname, "..", "blogs");
-  const logoPath = path.join(__dirname, "blogo.png");
   const promptsOutputPath = path.join(
     __dirname,
     "blog-image-prompts.json"
   );
-
-  if (!existsSync(logoPath)) {
-    console.error(`✗ Logo not found: ${logoPath}`);
-    process.exit(1);
-  }
 
   console.log(
     "\n📋 Step 1: Extracting image prompts from blog folders...\n"
@@ -269,16 +249,7 @@ async function main() {
     "\n🚀 Step 2: Generating images in parallel (3 at a time)...\n"
   );
 
-  const logoBuffer = await readFile(logoPath);
-  const logoBase64 = logoBuffer.toString("base64");
-
-  await generateImagesInParallel(
-    ai,
-    prompts,
-    blogsDir,
-    logoBase64,
-    3
-  );
+  await generateImagesInParallel(ai, prompts, blogsDir, 3);
 
   console.log(`\n✅ Completed! All images saved with -orig suffix`);
 }
