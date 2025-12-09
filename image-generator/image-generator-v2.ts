@@ -154,7 +154,7 @@ async function main() {
     apiKey: process.env.GEMINI_API_KEY,
   });
 
-  const promptsPath = path.join(__dirname, "prompts-v8.json");
+  const promptsPath = path.join(__dirname, "prompts-v9.json");
   const logoPath = path.join(__dirname, "blogo.png");
   const outputDir = path.join(__dirname, "images");
 
