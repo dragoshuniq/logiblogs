@@ -1,0 +1,167 @@
+{
+  "date": "2025-12-11",
+  "countries": [
+    {
+      "country": "Austria",
+      "countryCode": "AT",
+      "petrol": 1487,
+      "diesel": 1526
+    },
+    {
+      "country": "Belgium",
+      "countryCode": "BE",
+      "petrol": 1558.25,
+      "diesel": 1671.76
+    },
+    {
+      "country": "Bulgaria",
+      "countryCode": "BG",
+      "petrol": 1220.472440944882,
+      "diesel": 1253.4001431639228
+    },
+    {
+      "country": "Croatia",
+      "countryCode": "HR",
+      "petrol": 1471,
+      "diesel": 1450
+    },
+    {
+      "country": "Cyprus",
+      "countryCode": "CY",
+      "petrol": 1342.96,
+      "diesel": 1473.29
+    },
+    {
+      "country": "Czechia",
+      "countryCode": "CZ",
+      "petrol": 1414.3728366573264,
+      "diesel": 1401.598813252019
+    },
+    {
+      "country": "Denmark",
+      "countryCode": "DK",
+      "petrol": 1911.9537275064267,
+      "diesel": 1740.5741216795202
+    },
+    {
+      "country": "Estonia",
+      "countryCode": "EE",
+      "petrol": 1491,
+      "diesel": 1407
+    },
+    {
+      "country": "Finland",
+      "countryCode": "FI",
+      "petrol": 1668,
+      "diesel": 1664
+    },
+    {
+      "country": "France",
+      "countryCode": "FR",
+      "petrol": 1722.34,
+      "diesel": 1632.32
+    },
+    {
+      "country": "Germany",
+      "countryCode": "DE",
+      "petrol": 1714,
+      "diesel": 1612
+    },
+    {
+      "country": "Greece",
+      "countryCode": "GR",
+      "petrol": 1762,
+      "diesel": 1577
+    },
+    {
+      "country": "Hungary",
+      "countryCode": "HU",
+      "petrol": 1470.3118008316173,
+      "diesel": 1505.6995565938087
+    },
+    {
+      "country": "Ireland",
+      "countryCode": "IE",
+      "petrol": 1755,
+      "diesel": 1755.3
+    },
+    {
+      "country": "Italy",
+      "countryCode": "IT",
+      "petrol": 1718.24,
+      "diesel": 1684.25
+    },
+    {
+      "country": "Latvia",
+      "countryCode": "LV",
+      "petrol": 1542.5,
+      "diesel": 1524.17
+    },
+    {
+      "country": "Lithuania",
+      "countryCode": "LT",
+      "petrol": 1416.75,
+      "diesel": 1554.42
+    },
+    {
+      "country": "Luxembourg",
+      "countryCode": "LU",
+      "petrol": 1449,
+      "diesel": 1412
+    },
+    {
+      "country": "Malta",
+      "countryCode": "MT",
+      "petrol": 1340,
+      "diesel": 1210
+    },
+    {
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "petrol": 1941.61,
+      "diesel": 1744.88
+    },
+    {
+      "country": "Poland",
+      "countryCode": "PL",
+      "petrol": 1394.345255106943,
+      "diesel": 1466.326004857839
+    },
+    {
+      "country": "Portugal",
+      "countryCode": "PT",
+      "petrol": 1700,
+      "diesel": 1579
+    },
+    {
+      "country": "Romania",
+      "countryCode": "RO",
+      "petrol": 1481.6222270253277,
+      "diesel": 1528.9037785157095
+    },
+    {
+      "country": "Slovakia",
+      "countryCode": "SK",
+      "petrol": 1499,
+      "diesel": 1454
+    },
+    {
+      "country": "Slovenia",
+      "countryCode": "SI",
+      "petrol": 1452.09,
+      "diesel": 1489.28
+    },
+    {
+      "country": "Spain",
+      "countryCode": "ES",
+      "petrol": 1478.969365,
+      "diesel": 1437.297681
+    },
+    {
+      "country": "Sweden",
+      "countryCode": "SE",
+      "petrol": 1403.4430795926753,
+      "diesel": 1498.5159139686743
+    }
+  ]
+}
