@@ -8,6 +8,8 @@ import XLSX from "xlsx";
 import * as cheerio from "cheerio";
 import dayjs from "dayjs";
 import { getCountryCode, getCurrency } from "./constants.js";
+import connectToDatabase from "./mongodb.ts";
+import Fuel from "./fuel-model.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -720,7 +722,31 @@ async function scrapeOilPrices() {
     );
     console.log(`💾 Saved results to ${outputFile}\n`);
 
-    // Step 6: Clean up temp file
+    // Step 6: Upload to MongoDB
+    try {
+      console.log("📤 Uploading to MongoDB...");
+      await connectToDatabase();
+      
+      // Use updateOne with upsert to avoid duplicates
+      const result = await Fuel.updateOne(
+        { date: outputData.date },
+        { $set: outputData },
+        { upsert: true }
+      );
+      
+      if (result.upsertedCount > 0) {
+        console.log(`   ✅ Created new entry in MongoDB for ${outputData.date}\n`);
+      } else if (result.modifiedCount > 0) {
+        console.log(`   ✅ Updated existing entry in MongoDB for ${outputData.date}\n`);
+      } else {
+        console.log(`   ℹ️  No changes needed in MongoDB for ${outputData.date}\n`);
+      }
+    } catch (error) {
+      console.error(`   ❌ MongoDB upload failed: ${error.message}`);
+      console.error(`   ⚠️  Data was still saved to JSON file: ${outputFile}\n`);
+    }
+
+    // Step 7: Clean up temp file
     await fs.unlink(tempFile);
     console.log("🧹 Cleaned up temporary file\n");
 
