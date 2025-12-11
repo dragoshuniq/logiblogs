@@ -78,5 +78,129 @@
   {
     "id": "multi-bay-warehouse-v11",
     "prompt": "ultra realistic 4k photo, large warehouse with multiple loading bays and yellow safety lines, three trucks at different bays including one Scania S-series and one Volvo FH curtain-side tautliner 13.6m, cabins gradient #E63946 to #1D3557 professional and clean, OEM badging only, no Logifie logos on cabins, white curtain trailers with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailers, branding only on trailers, busy operations environment, 16:9"
+  },
+  {
+    "id": "container-terminal-daytime-v11",
+    "prompt": "ultra realistic 4k photo, european container terminal with stacked containers and gantry cranes in background, one Volvo FH curtain-side tautliner 13.6m truck driving through terminal, cabin gradient #E63946 to #1D3557 clean, OEM Volvo badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, port operations atmosphere, 16:9"
+  },
+  {
+    "id": "fuel-station-stop-v11",
+    "prompt": "ultra realistic 4k photo, commercial truck fuel station with high canopy and diesel pumps, one Scania S-series curtain-side tautliner 13.6m truck refueling, cabin gradient #E63946 to #1D3557 road-worn but maintained, OEM Scania badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, practical logistics scene, 16:9"
+  },
+  {
+    "id": "electronics-warehouse-v11",
+    "prompt": "ultra realistic 4k photo, specialized electronics distribution center with ESD protection zones, one Volvo FH curtain-side tautliner 13.6m truck at secure loading bay, cabin gradient #E63946 to #1D3557 pristine, OEM Volvo badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, high-tech facility environment, 16:9"
+  },
+  {
+    "id": "morning-fog-parking-v11",
+    "prompt": "ultra realistic 4k photo, truck parking area at dawn with light fog rolling across ground, one Scania S-series curtain-side tautliner 13.6m truck parked with slight dew on surfaces, cabin gradient #E63946 to #1D3557 with moisture beading, OEM Scania badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, atmospheric morning conditions, 16:9"
+  },
+  {
+    "id": "customs-clearance-zone-v11",
+    "prompt": "ultra realistic 4k photo, european customs clearance facility with inspection lanes and official signage, one Volvo FH curtain-side tautliner 13.6m truck in clearance queue, cabin gradient #E63946 to #1D3557 clean, OEM Volvo badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, border crossing operations, 16:9"
+  },
+  {
+    "id": "supermarket-distribution-v11",
+    "prompt": "ultra realistic 4k photo, supermarket distribution center with refrigerated bays and temperature controls, one Scania S-series curtain-side tautliner 13.6m truck at loading dock, cabin gradient #E63946 to #1D3557 professional, OEM Scania badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, retail logistics setting, 16:9"
+  },
+  {
+    "id": "riverside-industrial-road-v11",
+    "prompt": "ultra realistic 4k photo, industrial road along european river with waterfront facilities, one Volvo FH curtain-side tautliner 13.6m truck driving along quay, cabin gradient #E63946 to #1D3557 reflecting water, OEM Volvo badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, waterside logistics route, 16:9"
+  },
+  {
+    "id": "tech-campus-delivery-v11",
+    "prompt": "ultra realistic 4k photo, modern tech company campus with glass buildings and landscaping, one Scania S-series curtain-side tautliner 13.6m truck at delivery entrance, cabin gradient #E63946 to #1D3557 immaculate, OEM Scania badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, corporate campus setting, 16:9"
+  },
+  {
+    "id": "winter-operations-v11",
+    "prompt": "ultra realistic 4k photo, logistics yard in light winter conditions with salted roads and snow banks, one Volvo FH curtain-side tautliner 13.6m truck maneuvering, cabin gradient #E63946 to #1D3557 with frost on mirrors, OEM Volvo badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, winter logistics operations, 16:9"
+  },
+  {
+    "id": "pharmaceutical-hub-v11",
+    "prompt": "ultra realistic 4k photo, pharmaceutical distribution hub with strict access controls and clean zones, one Scania S-series curtain-side tautliner 13.6m truck at specialized dock, cabin gradient #E63946 to #1D3557 spotless, OEM Scania badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, medical logistics environment, 16:9"
+  },
+  {
+    "id": "roundabout-navigation-v11",
+    "prompt": "ultra realistic 4k photo, modern european roundabout with directional signs and landscaped center, one Volvo FH curtain-side tautliner 13.6m truck navigating through, cabin gradient #E63946 to #1D3557 clean, OEM Volvo badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, everyday driving scenario, 16:9"
+  },
+  {
+    "id": "construction-site-delivery-v11",
+    "prompt": "ultra realistic 4k photo, active construction site delivery area with safety barriers and site office, one Scania S-series curtain-side tautliner 13.6m truck delivering materials, cabin gradient #E63946 to #1D3557 slightly dusty, OEM Scania badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, construction logistics scene, 16:9"
+  },
+  {
+    "id": "food-processing-plant-v11",
+    "prompt": "ultra realistic 4k photo, food processing plant with hygiene standards and loading protocols, one Volvo FH curtain-side tautliner 13.6m truck at sanitary loading bay, cabin gradient #E63946 to #1D3557 clean, OEM Volvo badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, food industry logistics, 16:9"
+  },
+  {
+    "id": "evening-yard-operations-v11",
+    "prompt": "ultra realistic 4k photo, distribution yard at early evening with yard lights starting to glow, one Scania S-series curtain-side tautliner 13.6m truck being positioned, cabin gradient #E63946 to #1D3557 in transition lighting, OEM Scania badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, shift change atmosphere, 16:9"
+  },
+  {
+    "id": "textile-warehouse-v11",
+    "prompt": "ultra realistic 4k photo, textile distribution warehouse with fabric rolls and garment racks, one Volvo FH curtain-side tautliner 13.6m truck at loading dock, cabin gradient #E63946 to #1D3557 professional, OEM Volvo badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, fashion logistics setting, 16:9"
+  },
+  {
+    "id": "bridge-crossing-v11",
+    "prompt": "ultra realistic 4k photo, modern european road bridge crossing river with steel structure, one Scania S-series curtain-side tautliner 13.6m truck crossing, cabin gradient #E63946 to #1D3557 clean, OEM Scania badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, infrastructure and logistics, 16:9"
+  },
+  {
+    "id": "automotive-parts-center-v11",
+    "prompt": "ultra realistic 4k photo, automotive parts distribution center with organized storage systems, one Volvo FH curtain-side tautliner 13.6m truck at specialized bay, cabin gradient #E63946 to #1D3557 maintained, OEM Volvo badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, automotive supply chain, 16:9"
+  },
+  {
+    "id": "morning-rush-depot-v11",
+    "prompt": "ultra realistic 4k photo, busy distribution depot during morning rush with multiple trucks and staff, one Scania S-series curtain-side tautliner 13.6m truck among the activity, cabin gradient #E63946 to #1D3557 professional, OEM Scania badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, peak operations time, 16:9"
+  },
+  {
+    "id": "paper-mill-delivery-v11",
+    "prompt": "ultra realistic 4k photo, paper mill industrial complex with stacks and processing equipment, one Volvo FH curtain-side tautliner 13.6m truck at loading area, cabin gradient #E63946 to #1D3557 clean, OEM Volvo badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, industrial manufacturing logistics, 16:9"
+  },
+  {
+    "id": "residential-area-delivery-v11",
+    "prompt": "ultra realistic 4k photo, quiet residential area delivery with apartment buildings and tree-lined street, one Scania S-series curtain-side tautliner 13.6m truck making delivery, cabin gradient #E63946 to #1D3557 spotless, OEM Scania badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, last-mile delivery scene, 16:9"
+  },
+  {
+    "id": "inspection-maintenance-bay-v11",
+    "prompt": "ultra realistic 4k photo, professional truck maintenance facility with inspection pits and tools, one Volvo FH curtain-side tautliner 13.6m truck over pit for check, cabin gradient #E63946 to #1D3557 clean, OEM Volvo badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, fleet maintenance operations, 16:9"
+  },
+  {
+    "id": "chemical-plant-logistics-v11",
+    "prompt": "ultra realistic 4k photo, chemical plant logistics area with safety signage and containment systems, one Scania S-series curtain-side tautliner 13.6m truck at secure gate, cabin gradient #E63946 to #1D3557 immaculate, OEM Scania badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, industrial chemical handling, 16:9"
+  },
+  {
+    "id": "scenic-valley-route-v11",
+    "prompt": "ultra realistic 4k photo, scenic european valley road with gentle hills and agricultural fields, one Volvo FH curtain-side tautliner 13.6m truck driving through countryside, cabin gradient #E63946 to #1D3557 clean, OEM Volvo badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, pleasant rural logistics route, 16:9"
+  },
+  {
+    "id": "urban-warehouse-district-v11",
+    "prompt": "ultra realistic 4k photo, urban warehouse district with converted industrial buildings, one Scania S-series curtain-side tautliner 13.6m truck navigating narrow street, cabin gradient #E63946 to #1D3557 professional, OEM Scania badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, city logistics challenges, 16:9"
+  },
+  {
+    "id": "beverage-distribution-v11",
+    "prompt": "ultra realistic 4k photo, beverage distribution center with palletized goods and storage, one Volvo FH curtain-side tautliner 13.6m truck loading beverages, cabin gradient #E63946 to #1D3557 well-maintained, OEM Volvo badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, FMCG logistics operations, 16:9"
+  },
+  {
+    "id": "weekend-quiet-yard-v11",
+    "prompt": "ultra realistic 4k photo, quiet logistics yard on weekend with minimal activity and parked trucks, one Scania S-series curtain-side tautliner 13.6m truck parked independently, cabin gradient #E63946 to #1D3557 clean, OEM Scania badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, peaceful off-peak atmosphere, 16:9"
+  },
+  {
+    "id": "home-improvement-store-v11",
+    "prompt": "ultra realistic 4k photo, home improvement retail store loading area with building materials, one Volvo FH curtain-side tautliner 13.6m truck at delivery bay, cabin gradient #E63946 to #1D3557 professional, OEM Volvo badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, retail logistics setting, 16:9"
+  },
+  {
+    "id": "twilight-highway-traffic-v11",
+    "prompt": "ultra realistic 4k photo, european highway at twilight with light traffic and illuminated signs, one Scania S-series curtain-side tautliner 13.6m truck in convoy formation, cabin gradient #E63946 to #1D3557 with lights on, OEM Scania badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, evening highway operations, 16:9"
+  },
+  {
+    "id": "furniture-warehouse-v11",
+    "prompt": "ultra realistic 4k photo, furniture distribution warehouse with large items and protective wrapping, one Volvo FH curtain-side tautliner 13.6m truck being loaded carefully, cabin gradient #E63946 to #1D3557 spotless, OEM Volvo badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, furniture logistics operations, 16:9"
+  },
+  {
+    "id": "industrial-zone-morning-v11",
+    "prompt": "ultra realistic 4k photo, industrial zone coming to life at morning with factories starting operations, one Scania S-series curtain-side tautliner 13.6m truck arriving early, cabin gradient #E63946 to #1D3557 fresh and clean, OEM Scania badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, industrial morning operations, 16:9"
+  },
+  {
+    "id": "loading-dock-coordination-v11",
+    "prompt": "ultra realistic 4k photo, well-coordinated loading dock with dock manager directing operations, one Volvo FH curtain-side tautliner 13.6m truck being positioned by staff with high-vis, cabin gradient #E63946 to #1D3557 professional, OEM Volvo badging only, no Logifie logos on cabin, white curtain trailer with dark blue #1D3557 band across lower middle, big Logifie logo on upper white area toward front, band text left bold white \"logifie.com\", right white slogan \"Inspired by People. Powered by AI. Delivered by Logifie\", tri-axle trailer, branding only on trailer, organized logistics teamwork, 16:9"
   }
 ]
